@@ -1,10 +1,10 @@
 {
   "statistical_data": {
-    "friends_num": 41,
-    "active_num": 41,
+    "friends_num": 45,
+    "active_num": 45,
     "error_num": 0,
-    "article_num": 354,
-    "last_updated_time": "2024-08-22 02:21:40"
+    "article_num": 389,
+    "last_updated_time": "2024-08-22 09:09:28"
   },
   "article_data": [
     {
@@ -13,6 +13,13 @@
       "link": "https://www.imsun.org/archives/1661.html",
       "author": "老孙博客",
       "avatar": "https://img.imsun.org/avatar.jpg"
+    },
+    {
+      "title": "mediaX - 轻量书影音记录管理工具",
+      "created": "2024-08-22 01:29",
+      "link": "https://atpx.com/blog/go-mediax/",
+      "author": "atpX",
+      "avatar": "https://atpx.com/favicon-32x32.png"
     },
     {
       "title": "再忍一下下就好",
@@ -48,6 +55,13 @@
       "link": "https://h4ck.org.cn/2024/08/17870",
       "author": "obaby",
       "avatar": "https://cdn.qyliu.top/i/2024/04/15/661d443b5359c.png"
+    },
+    {
+      "title": "最难的事情是做选择",
+      "created": "2024-08-21 08:38",
+      "link": "https://demochen.com/posts/20240821/",
+      "author": "特立独行的异类",
+      "avatar": "https://demochen.com/images/avatar.png"
     },
     {
       "title": "都什么年代还剁手小米音响Pro？",
@@ -167,6 +181,13 @@
       "link": "https://ihaihe.cn/aug-16.html",
       "author": "三十里海河",
       "avatar": "https://gravatar.memobbs.app/avatar/40c46b2a6ef05464946a7e3f5230bdfa16b5d4e861c7b69977ef77efde66638a"
+    },
+    {
+      "title": "时乎时乎，会有变时",
+      "created": "2024-08-16 11:28",
+      "link": "https://justgoidea.com/posts/2024-023/",
+      "author": "槿呈Goidea",
+      "avatar": "https://justgoidea.com/favicon.svg"
     },
     {
       "title": "叁拾一周(001)",
@@ -435,6 +456,13 @@
       "avatar": "https://youpai.roccoshi.top/img/avatar.jpg"
     },
     {
+      "title": "Cloudflare R2 的完美搭档：R2 Uploader 使用指南",
+      "created": "2024-08-08 20:29",
+      "link": "https://justgoidea.com/posts/2024-022/",
+      "author": "槿呈Goidea",
+      "avatar": "https://justgoidea.com/favicon.svg"
+    },
+    {
       "title": "Obsidian笔记同步到jekyll博客",
       "created": "2024-08-08 16:18",
       "link": "https://wangyunzi.com/posts/132/",
@@ -568,6 +596,20 @@
       "avatar": "https://gravatar.loli.net/avatar/c3fb4bb4d5101284ddd672fb722cdd7d"
     },
     {
+      "title": "使用 Zeabur 部署 TiddlyWiki",
+      "created": "2024-08-03 16:51",
+      "link": "https://justgoidea.com/posts/2024-021/",
+      "author": "槿呈Goidea",
+      "avatar": "https://justgoidea.com/favicon.svg"
+    },
+    {
+      "title": "我的博客写作流程",
+      "created": "2024-08-02 22:30",
+      "link": "https://atpx.com/blog/my-blog-writing-process/",
+      "author": "atpX",
+      "avatar": "https://atpx.com/favicon-32x32.png"
+    },
+    {
       "title": "念佛的 4 种人",
       "created": "2024-08-02 21:32",
       "link": "https://lms.pub/talk/4-types-of-buddha-people.html",
@@ -629,6 +671,13 @@
       "link": "https://synyan.cn/87376",
       "author": "旅行漫记",
       "avatar": "https://synyan.cn/wp-content/themes/Farallon-develop/build/images/favicon-s.png"
+    },
+    {
+      "title": "网站新增 Misc 页面",
+      "created": "2024-08-01 01:08",
+      "link": "https://atpx.com/blog/new-misc-page/",
+      "author": "atpX",
+      "avatar": "https://atpx.com/favicon-32x32.png"
     },
     {
       "title": "周三杂记",
@@ -764,6 +813,13 @@
       "avatar": "https://synyan.cn/wp-content/themes/Farallon-develop/build/images/favicon-s.png"
     },
     {
+      "title": "擅长对线的鲍勃",
+      "created": "2024-07-26 17:05",
+      "link": "https://atpx.com/blog/laning-master-bob/",
+      "author": "atpX",
+      "avatar": "https://atpx.com/favicon-32x32.png"
+    },
+    {
       "title": "折腾瑞芯微RV1126嵌入式开发板",
       "created": "2024-07-25 10:24",
       "link": "https://www.jiangyu.org/rv1126-board/",
@@ -818,6 +874,13 @@
       "link": "https://itlu.net/articles/2805.html",
       "author": "挨踢路",
       "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
+    },
+    {
+      "title": "线上问诊的经验",
+      "created": "2024-07-23 01:19",
+      "link": "https://demochen.com/posts/20240722/",
+      "author": "特立独行的异类",
+      "avatar": "https://demochen.com/images/avatar.png"
     },
     {
       "title": "重温老片《天下无双》",
@@ -916,6 +979,13 @@
       "link": "https://www.jingfengshuo.com/archives/2838.html",
       "author": "靜風說",
       "avatar": "https://www.gexiao.me/images/apple-touch-icon-next.png"
+    },
+    {
+      "title": "",
+      "created": "2024-07-20 05:02",
+      "link": "https://www.ashsilent.com/shuoshuo/8411",
+      "author": "Ashsilent Planet",
+      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
     },
     {
       "title": "徕卡 D-LUX8 试机样片",
@@ -1070,6 +1140,13 @@
       "link": "https://moreality.net/posts/25857/",
       "author": "Moreality's Blog",
       "avatar": "https://youpai.roccoshi.top/img/avatar.jpg"
+    },
+    {
+      "title": "让 Tana 和 Heptabase 协同作战",
+      "created": "2024-07-12 12:09",
+      "link": "https://justgoidea.com/posts/2024-020/",
+      "author": "槿呈Goidea",
+      "avatar": "https://justgoidea.com/favicon.svg"
     },
     {
       "title": "夏天",
@@ -1261,6 +1338,13 @@
       "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
     },
     {
+      "title": "2024 上半年电子报内容精选",
+      "created": "2024-07-02 16:43",
+      "link": "https://justgoidea.com/posts/2024-019/",
+      "author": "槿呈Goidea",
+      "avatar": "https://justgoidea.com/favicon.svg"
+    },
+    {
       "title": "溥仪《我的前半生》",
       "created": "2024-07-02 14:28",
       "link": "https://www.jiangyu.org/wo-de-qian-ban-shen/",
@@ -1343,6 +1427,13 @@
       "link": "https://blog.hahaha.cc/posts/life/28/",
       "author": "好事发生",
       "avatar": "https://storage.hahaha.cc/resource/img/icon/favicon.ico"
+    },
+    {
+      "title": "",
+      "created": "2024-06-24 12:07",
+      "link": "https://www.ashsilent.com/shuoshuo/8408",
+      "author": "Ashsilent Planet",
+      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
     },
     {
       "title": "不会再见，点心云！",
@@ -1569,6 +1660,13 @@
       "avatar": "https://bluehe.cn/usr/uploads/2024/03/1678458078.png"
     },
     {
+      "title": "",
+      "created": "2024-06-11 01:07",
+      "link": "https://www.ashsilent.com/shuoshuo/8403",
+      "author": "Ashsilent Planet",
+      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
+    },
+    {
       "title": "四五月读什么：绿植养护手册、戴洛奇小镇、扫垃圾",
       "created": "2024-06-11 00:00",
       "link": "https://www.javis.me/1431/",
@@ -1590,11 +1688,32 @@
       "avatar": "https://youpai.roccoshi.top/img/avatar.jpg"
     },
     {
+      "title": "",
+      "created": "2024-06-10 08:45",
+      "link": "https://www.ashsilent.com/shuoshuo/8401",
+      "author": "Ashsilent Planet",
+      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
+    },
+    {
       "title": "国宝沉浮：圆明园兽首暨回流文物特展",
       "created": "2024-06-09 23:30",
       "link": "https://bluehe.cn/archives/guangxi-museum-animal-head",
       "author": "云心怀鹤",
       "avatar": "https://bluehe.cn/usr/uploads/2024/03/1678458078.png"
+    },
+    {
+      "title": "",
+      "created": "2024-06-09 00:35",
+      "link": "https://www.ashsilent.com/shuoshuo/8398",
+      "author": "Ashsilent Planet",
+      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
+    },
+    {
+      "title": "",
+      "created": "2024-06-07 16:25",
+      "link": "https://www.ashsilent.com/shuoshuo/8396",
+      "author": "Ashsilent Planet",
+      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
     },
     {
       "title": "深夜发媸（39）",
@@ -1758,6 +1877,13 @@
       "avatar": "https://gravatar.memobbs.app/avatar/679666f7bd1af3e55f0e51dd70ed161c"
     },
     {
+      "title": "",
+      "created": "2024-05-27 00:48",
+      "link": "https://www.ashsilent.com/shuoshuo/8393",
+      "author": "Ashsilent Planet",
+      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
+    },
+    {
       "title": "《富兰克林自传》书摘",
       "created": "2024-05-26 02:12",
       "link": "https://imzm.im/the-autobiography-of-benjamin-franklin/",
@@ -1856,6 +1982,20 @@
       "avatar": "https://www.jiangyu.org/images/icon.svg"
     },
     {
+      "title": "",
+      "created": "2024-05-07 00:17",
+      "link": "https://www.ashsilent.com/shuoshuo/8384",
+      "author": "Ashsilent Planet",
+      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
+    },
+    {
+      "title": "在 Chroot 环境下使用 Rsync 同步",
+      "created": "2024-05-06 20:11",
+      "link": "https://atpx.com/blog/rsync-in-chroot/",
+      "author": "atpX",
+      "avatar": "https://atpx.com/favicon-32x32.png"
+    },
+    {
       "title": "家书（2024）",
       "created": "2024-05-06 08:00",
       "link": "https://elizen.me/posts/2024/05/letter-for-family-2024/",
@@ -1868,6 +2008,20 @@
       "link": "https://lms.pub/talk/pan-mao.html",
       "author": "不亦乐乎",
       "avatar": "https://gravatar.memobbs.app/avatar/d9cc49ea0301640d7a19b6a1e77012dd"
+    },
+    {
+      "title": "",
+      "created": "2024-05-02 20:00",
+      "link": "https://www.ashsilent.com/shuoshuo/8380",
+      "author": "Ashsilent Planet",
+      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
+    },
+    {
+      "title": "",
+      "created": "2024-05-02 18:33",
+      "link": "https://www.ashsilent.com/shuoshuo/8377",
+      "author": "Ashsilent Planet",
+      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
     },
     {
       "title": "劳动节前&quot;礼包&quot;",
@@ -2045,6 +2199,13 @@
       "avatar": "https://gravatar.memobbs.app/avatar/42542189ddb33064599dc88a5149bea7"
     },
     {
+      "title": "再见 JavaScript",
+      "created": "2024-03-30 04:30",
+      "link": "https://atpx.com/blog/goodbye-javascript/",
+      "author": "atpX",
+      "avatar": "https://atpx.com/favicon-32x32.png"
+    },
+    {
       "title": "提了台&quot;车&quot;",
       "created": "2024-03-29 04:00",
       "link": "https://zhou.ge/2024-03-28.html",
@@ -2101,6 +2262,20 @@
       "avatar": "https://zhou.ge/favicon.ico"
     },
     {
+      "title": "当我玩博客时我在玩什么",
+      "created": "2024-03-13 04:35",
+      "link": "https://atpx.com/blog/what-i-talk-about-when-i-talk-about-blog/",
+      "author": "atpX",
+      "avatar": "https://atpx.com/favicon-32x32.png"
+    },
+    {
+      "title": "为什么我的博客没有友链页面",
+      "created": "2024-03-10 19:07",
+      "link": "https://atpx.com/blog/why-no-link-exchange-page-on-my-blog/",
+      "author": "atpX",
+      "avatar": "https://atpx.com/favicon-32x32.png"
+    },
+    {
       "title": "Mastodon 同步到 Memos",
       "created": "2024-03-10 00:57",
       "link": "https://www.eallion.com/mastodon-sync-to-memos/",
@@ -2120,6 +2295,13 @@
       "link": "https://dongjunke.cn/posts/2024/03/02/44566.html",
       "author": "东评西就",
       "avatar": "https://gravatar.memobbs.app/avatar/42542189ddb33064599dc88a5149bea7"
+    },
+    {
+      "title": "小熊猫与大熊猫 (HDR 照片测试)",
+      "created": "2024-02-18 23:06",
+      "link": "https://atpx.com/blog/red-panda-hdr-photo/",
+      "author": "atpX",
+      "avatar": "https://atpx.com/favicon-32x32.png"
     },
     {
       "title": "2024春节观影",
@@ -2171,6 +2353,13 @@
       "avatar": "https://digu.plus/usr/themes/ghost/images/favicon/64x64.png"
     },
     {
+      "title": "是时候为网站开启 HTTP/3 支持了吗",
+      "created": "2024-02-01 01:16",
+      "link": "https://atpx.com/blog/is-it-time-to-enable-http3-for-your-website/",
+      "author": "atpX",
+      "avatar": "https://atpx.com/favicon-32x32.png"
+    },
+    {
       "title": "用一台被淘汰的 Mac mini 来做软路由",
       "created": "2024-01-25 01:35",
       "link": "https://joyqi.com/tech/use-an-outdated-mac-mini-as-soft-router.html",
@@ -2199,6 +2388,13 @@
       "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
     },
     {
+      "title": "平城古都，大同新府",
+      "created": "2024-01-02 05:34",
+      "link": "https://demochen.com/posts/20240101/",
+      "author": "特立独行的异类",
+      "avatar": "https://demochen.com/images/avatar.png"
+    },
+    {
       "title": "2023，就这样过去了…",
       "created": "2024-01-01 23:55",
       "link": "https://veryjack.com/life/that_is_2023/",
@@ -2213,6 +2409,20 @@
       "avatar": "https://gravatar.memobbs.app/avatar/42542189ddb33064599dc88a5149bea7"
     },
     {
+      "title": "2023,在朋友圈的一年",
+      "created": "2023-12-30 06:09",
+      "link": "https://demochen.com/posts/20231229/",
+      "author": "特立独行的异类",
+      "avatar": "https://demochen.com/images/avatar.png"
+    },
+    {
+      "title": "我的稍后读流程",
+      "created": "2023-12-27 04:24",
+      "link": "https://demochen.com/posts/20231226/",
+      "author": "特立独行的异类",
+      "avatar": "https://demochen.com/images/avatar.png"
+    },
+    {
       "title": "一次惊心动魄的数据拯救之旅",
       "created": "2023-12-24 08:20",
       "link": "https://joyqi.com/tech/save-my-kvm-qcow2-image-from-zfs.html",
@@ -2225,6 +2435,20 @@
       "link": "https://joyqi.com/typecho/plugin-template.html",
       "author": "JoyQi",
       "avatar": "https://joyqi.com/apple-touch-icon.png"
+    },
+    {
+      "title": "通过用户分层找细分市场",
+      "created": "2023-12-17 23:21",
+      "link": "https://demochen.com/posts/20231217/",
+      "author": "特立独行的异类",
+      "avatar": "https://demochen.com/images/avatar.png"
+    },
+    {
+      "title": "My App Defaults 2023",
+      "created": "2023-12-17 06:53",
+      "link": "https://demochen.com/posts/20231216/",
+      "author": "特立独行的异类",
+      "avatar": "https://demochen.com/images/avatar.png"
     },
     {
       "title": "付费的 SSL 证书是不是智商税",
@@ -2318,6 +2542,13 @@
       "avatar": "https://joyqi.com/apple-touch-icon.png"
     },
     {
+      "title": "故地重游南岳衡山",
+      "created": "2023-09-21 17:28",
+      "link": "https://demochen.com/posts/20230921/",
+      "author": "特立独行的异类",
+      "avatar": "https://demochen.com/images/avatar.png"
+    },
+    {
       "title": "手机的选择",
       "created": "2023-09-20 01:56",
       "link": "https://joyqi.com/funny/choice-of-mobile-phone.html",
@@ -2330,6 +2561,13 @@
       "link": "https://blog.hahaha.cc/posts/life/20/",
       "author": "好事发生",
       "avatar": "https://storage.hahaha.cc/resource/img/icon/favicon.ico"
+    },
+    {
+      "title": "尝试健身",
+      "created": "2023-09-09 20:06",
+      "link": "https://demochen.com/posts/20230909/",
+      "author": "特立独行的异类",
+      "avatar": "https://demochen.com/images/avatar.png"
     },
     {
       "title": "在多邻国无压学习法语100天",
@@ -2351,6 +2589,13 @@
       "link": "https://digu.plus/post/2f1a3c754fda4e81a5703f5cd36a7cce/",
       "author": "嘀咕",
       "avatar": "https://digu.plus/usr/themes/ghost/images/favicon/64x64.png"
+    },
+    {
+      "title": "真伪研学游",
+      "created": "2023-08-12 21:00",
+      "link": "https://demochen.com/posts/20230812/",
+      "author": "特立独行的异类",
+      "avatar": "https://demochen.com/images/avatar.png"
     },
     {
       "title": "久违的出差2",
