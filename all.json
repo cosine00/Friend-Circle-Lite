@@ -1,12 +1,26 @@
 {
   "statistical_data": {
     "friends_num": 46,
-    "active_num": 43,
-    "error_num": 3,
-    "article_num": 372,
-    "last_updated_time": "2024-09-16 14:26:02"
+    "active_num": 44,
+    "error_num": 2,
+    "article_num": 382,
+    "last_updated_time": "2024-09-16 20:35:41"
   },
   "article_data": [
+    {
+      "title": "在颠簸中前行的家人情谊",
+      "created": "2024-09-17 00:39",
+      "link": "https://qq.md/post/52",
+      "author": "叶开",
+      "avatar": "https://qq.md/tx.png"
+    },
+    {
+      "title": "1Panel 反向代理网站并解决 502 错误",
+      "created": "2024-09-16 18:55",
+      "link": "https://veryjack.com/technique/1panel_reverse_proxy_502_error/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
+    },
     {
       "title": "强心针",
       "created": "2024-09-16 10:14",
@@ -379,6 +393,13 @@
       "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
     },
     {
+      "title": "自定义 Mac 文件夹图标",
+      "created": "2024-09-05 22:55",
+      "link": "https://veryjack.com/technique/custom_folder/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
+    },
+    {
       "title": "赏珠海石溪公园摩崖石刻群",
       "created": "2024-09-05 21:49",
       "link": "https://yayu.net/4522.html",
@@ -517,13 +538,6 @@
       "link": "https://wangyunzi.com/posts/143/",
       "author": "长街短梦",
       "avatar": "https://gravatar.memobbs.app/avatar/c1b204bab687a23c8b6d7c8de11c7c59"
-    },
-    {
-      "title": "镇上药店的一次意外邂逅",
-      "created": "2024-09-02 02:27",
-      "link": "https://qq.md/post/44",
-      "author": "叶开",
-      "avatar": "https://qq.md/tx.png"
     },
     {
       "title": "梧桐深处武康路",
@@ -1170,6 +1184,13 @@
       "avatar": "https://b.storyo.cn/upload/logo.png"
     },
     {
+      "title": "再启航，关东 8 日行（游记篇）",
+      "created": "2024-08-08 23:47",
+      "link": "https://veryjack.com/life/tokyo-8-day-trip/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
+    },
+    {
       "title": "第一台 mini主机: 零刻 EQ13",
       "created": "2024-08-08 23:28",
       "link": "https://moreality.net/posts/11296/",
@@ -1567,6 +1588,13 @@
       "link": "https://elizen.me/posts/2024/07/summer/",
       "author": "Elizen",
       "avatar": "https://gravatar.memobbs.app/avatar/f65df4d87240feb1cb247857a621a48f"
+    },
+    {
+      "title": "一键脚本自建 Frp 内网穿透访问家里 NAS 和软路由",
+      "created": "2024-07-12 00:03",
+      "link": "https://veryjack.com/technique/frp_nas_openwrt/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
     },
     {
       "title": "那些我喜欢的博客",
@@ -1968,6 +1996,13 @@
       "avatar": "https://bluehe.cn/usr/uploads/2024/03/1678458078.png"
     },
     {
+      "title": "再启航，关东 8 日行（计划篇）",
+      "created": "2024-06-03 02:19",
+      "link": "https://veryjack.com/life/travel-plan-for-tokyo/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
+    },
+    {
       "title": "南宁博物馆游记",
       "created": "2024-06-01 18:40",
       "link": "https://bluehe.cn/archives/nanning-museum",
@@ -2029,6 +2064,13 @@
       "link": "https://zhou.ge/2024-05-22.html",
       "author": "忆往事",
       "avatar": "https://zhou.ge/favicon.ico"
+    },
+    {
+      "title": "我的 EDC 分享",
+      "created": "2024-05-20 01:37",
+      "link": "https://veryjack.com/life/edc_sharing/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
     },
     {
       "title": "再论“天一生水”及河图洛书",
@@ -2108,6 +2150,13 @@
       "avatar": "https://gravatar.memobbs.app/avatar/171e4c30959e8c077a6c58b958624b31"
     },
     {
+      "title": "Instapaper 还是 Pocket？不妨试试这款新应用 — MarkMark",
+      "created": "2024-04-27 02:15",
+      "link": "https://veryjack.com/technique/markmark/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
+    },
+    {
       "title": "粗心大意",
       "created": "2024-04-24 06:25",
       "link": "https://zhou.ge/2024-04-23.html",
@@ -2127,6 +2176,13 @@
       "link": "https://joyqi.com/life/2024-usa-trip.html",
       "author": "JoyQi",
       "avatar": "https://joyqi.com/apple-touch-icon.png"
+    },
+    {
+      "title": "逃离喧嚣，再游巴谷宿集",
+      "created": "2024-04-18 15:32",
+      "link": "https://veryjack.com/photograph/bagusuji_2/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
     },
     {
       "title": "我还是个孩子啊",
@@ -2360,6 +2416,13 @@
       "avatar": "https://demochen.com/images/avatar.png"
     },
     {
+      "title": "2023，就这样过去了…",
+      "created": "2024-01-01 23:55",
+      "link": "https://veryjack.com/life/that_is_2023/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
+    },
+    {
       "title": "2023,在朋友圈的一年",
       "created": "2023-12-30 06:09",
       "link": "https://demochen.com/posts/20231229/",
@@ -2421,6 +2484,13 @@
       "link": "https://imzm.im/notes-on-how-to-take-effective-notes/",
       "author": "陈仓颉",
       "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
+    },
+    {
+      "title": "再见，小猫咪",
+      "created": "2023-11-20 20:54",
+      "link": "https://veryjack.com/life/goodbye_mimi/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
     },
     {
       "title": "一加 Ace 2 Pro 使用体验",
