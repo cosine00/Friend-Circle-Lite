@@ -1,12 +1,33 @@
 {
   "statistical_data": {
     "friends_num": 46,
-    "active_num": 43,
-    "error_num": 3,
-    "article_num": 372,
-    "last_updated_time": "2024-09-25 14:26:25"
+    "active_num": 44,
+    "error_num": 2,
+    "article_num": 382,
+    "last_updated_time": "2024-09-25 20:35:41"
   },
   "article_data": [
+    {
+      "title": "川西高反",
+      "created": "2024-09-25 23:35",
+      "link": "https://hux.ink/posts/altitude-sickness/",
+      "author": "落落vici",
+      "avatar": "https://cravatar.cn/avatar/bb78cd69edd84cdbdb99a491ea2dc6c8"
+    },
+    {
+      "title": "《美丽新世界》读后感",
+      "created": "2024-09-25 19:14",
+      "link": "https://www.jingfengshuo.com/archives/3051.html",
+      "author": "靜風說",
+      "avatar": "https://www.gexiao.me/images/apple-touch-icon-next.png"
+    },
+    {
+      "title": "阿克苏初体验",
+      "created": "2024-09-25 18:17",
+      "link": "https://ihaihe.cn/2543.htm",
+      "author": "三十里海河",
+      "avatar": "https://gravatar.memobbs.app/avatar/40c46b2a6ef05464946a7e3f5230bdfa16b5d4e861c7b69977ef77efde66638a"
+    },
     {
       "title": "房贷降利率 股市无限子弹",
       "created": "2024-09-25 11:25",
@@ -197,7 +218,7 @@
       "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
     },
     {
-      "title": "两次入川",
+      "title": "中断的渝贵川9日行",
       "created": "2024-09-20 19:55",
       "link": "https://hux.ink/posts/travel-to-sichuan/",
       "author": "落落vici",
@@ -960,13 +981,6 @@
       "avatar": "https://gravatar.memobbs.app/avatar/c1b204bab687a23c8b6d7c8de11c7c59"
     },
     {
-      "title": "王小波《白银时代》读后感",
-      "created": "2024-08-29 20:04",
-      "link": "https://www.jingfengshuo.com/archives/2920.html",
-      "author": "靜風說",
-      "avatar": "https://www.gexiao.me/images/apple-touch-icon-next.png"
-    },
-    {
       "title": "通过插件JefRssFriends实现订阅朋友圈功能",
       "created": "2024-08-29 16:46",
       "link": "https://www.jeffer.xyz/cid/2065.html",
@@ -979,13 +993,6 @@
       "link": "https://yinji.org/5304.html",
       "author": "印记",
       "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
-    },
-    {
-      "title": "我知道",
-      "created": "2024-08-28 22:39",
-      "link": "https://ihaihe.cn/2269.htm",
-      "author": "三十里海河",
-      "avatar": "https://gravatar.memobbs.app/avatar/40c46b2a6ef05464946a7e3f5230bdfa16b5d4e861c7b69977ef77efde66638a"
     },
     {
       "title": "苹果一扔，烦恼全无",
@@ -1303,6 +1310,13 @@
       "avatar": "https://img.imsun.org/avatar.jpg"
     },
     {
+      "title": "七月观影",
+      "created": "2024-08-12 14:50",
+      "link": "https://imzm.im/july-2024-watched/",
+      "author": "陈仓颉",
+      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
+    },
+    {
       "title": "千万别自作主张的做决定",
       "created": "2024-08-12 04:18",
       "link": "https://itlu.net/articles/2806.html",
@@ -1350,13 +1364,6 @@
       "link": "https://www.jeffer.xyz/cid/1934.html",
       "author": "Jeffer.Z的博客",
       "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
-    },
-    {
-      "title": "《天行健》观后",
-      "created": "2024-08-09 01:50",
-      "link": "https://hux.ink/posts/recommend-tian-xing-jian/",
-      "author": "落落vici",
-      "avatar": "https://cravatar.cn/avatar/bb78cd69edd84cdbdb99a491ea2dc6c8"
     },
     {
       "title": "端午假期去了趟景德镇",
@@ -2073,6 +2080,13 @@
       "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
     },
     {
+      "title": "《富兰克林自传》书摘",
+      "created": "2024-05-26 02:12",
+      "link": "https://imzm.im/the-autobiography-of-benjamin-franklin/",
+      "author": "陈仓颉",
+      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
+    },
+    {
       "title": "读《中文互联网正在加速崩塌》",
       "created": "2024-05-24 15:28",
       "link": "https://www.eallion.com/chinese-internet-is-accelerating/",
@@ -2227,6 +2241,13 @@
       "avatar": "https://zhou.ge/favicon.ico"
     },
     {
+      "title": "绿箭侠",
+      "created": "2024-04-09 13:52",
+      "link": "https://imzm.im/arrow/",
+      "author": "陈仓颉",
+      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
+    },
+    {
       "title": "长安公园植物园碎片兼求助",
       "created": "2024-04-07 16:42",
       "link": "https://dongjunke.cn/posts/2024/04/07/27334.html",
@@ -2276,6 +2297,13 @@
       "avatar": "https://gravatar.memobbs.app/avatar/171e4c30959e8c077a6c58b958624b31"
     },
     {
+      "title": "三体问题",
+      "created": "2024-03-25 23:02",
+      "link": "https://imzm.im/three-body-problem/",
+      "author": "陈仓颉",
+      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
+    },
+    {
       "title": "玩文字游戏？维权",
       "created": "2024-03-23 10:57",
       "link": "https://digu.plus/post/f9d88e0a46654b7cbca6a3e6b9ce6bea/",
@@ -2316,6 +2344,13 @@
       "link": "https://atpx.com/blog/red-panda-hdr-photo/",
       "author": "atpX",
       "avatar": "https://atpx.com/favicon-32x32.png"
+    },
+    {
+      "title": "2024春节观影",
+      "created": "2024-02-17 23:15",
+      "link": "https://imzm.im/spring-festival-movies-2024/",
+      "author": "陈仓颉",
+      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
     },
     {
       "title": "摄影玩家不完全指北",
@@ -2372,6 +2407,13 @@
       "link": "https://digu.plus/post/1a11c7441f574e35a2ca1af84db4bdad/",
       "author": "嘀咕",
       "avatar": "https://digu.plus/usr/themes/ghost/images/favicon/64x64.png"
+    },
+    {
+      "title": "《海王2》与 DCEU 的终结",
+      "created": "2024-01-10 00:30",
+      "link": "https://imzm.im/the-end-of-dceu/",
+      "author": "陈仓颉",
+      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
     },
     {
       "title": "平城古都，大同新府",
@@ -2444,11 +2486,32 @@
       "avatar": "https://joyqi.com/apple-touch-icon.png"
     },
     {
+      "title": "从《笔记的方法》中学到的笔记的方法",
+      "created": "2023-11-28 00:29",
+      "link": "https://imzm.im/notes-on-how-to-take-effective-notes/",
+      "author": "陈仓颉",
+      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
+    },
+    {
+      "title": "一加 Ace 2 Pro 使用体验",
+      "created": "2023-11-14 01:46",
+      "link": "https://imzm.im/oneplus-ace-2-pro/",
+      "author": "陈仓颉",
+      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
+    },
+    {
       "title": "将 Typecho 迁移至 Docker",
       "created": "2023-10-31 12:06",
       "link": "https://digu.plus/post/ed4488a5aec54c8d83054cce311d6a4c/",
       "author": "嘀咕",
       "avatar": "https://digu.plus/usr/themes/ghost/images/favicon/64x64.png"
+    },
+    {
+      "title": "2023 国庆观影记录",
+      "created": "2023-10-07 15:39",
+      "link": "https://imzm.im/oct-2023-watched-movies/",
+      "author": "陈仓颉",
+      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
     },
     {
       "title": "滨州游记",
@@ -2484,6 +2547,13 @@
       "link": "https://demochen.com/posts/20230909/",
       "author": "特立独行的异类",
       "avatar": "https://demochen.com/images/avatar.png"
+    },
+    {
+      "title": "在多邻国无压学习法语100天",
+      "created": "2023-09-09 14:32",
+      "link": "https://imzm.im/learning-french-with-duolingo/",
+      "author": "陈仓颉",
+      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
     },
     {
       "title": "熊孩子？熊家长？",
