@@ -4,7 +4,7 @@
     "active_num": 44,
     "error_num": 2,
     "article_num": 382,
-    "last_updated_time": "2024-09-30 14:27:33"
+    "last_updated_time": "2024-09-30 20:37:02"
   },
   "article_data": [
     {
@@ -13,6 +13,13 @@
       "link": "https://itlu.net/articles/2813.html",
       "author": "挨踢路",
       "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
+    },
+    {
+      "title": "用WinMerge进行文件夹比较时忽略git目录的方法",
+      "created": "2024-09-30 16:35",
+      "link": "https://pewae.com/2024/09/how-to-ignore-git-folders-in-winmerge.html",
+      "author": "破袜子",
+      "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
     },
     {
       "title": "里斯本日记（一）",
@@ -1665,13 +1672,6 @@
       "link": "https://demochen.com/posts/20240722/",
       "author": "特立独行的异类",
       "avatar": "https://demochen.com/images/avatar.png"
-    },
-    {
-      "title": "重温老片《天下无双》",
-      "created": "2024-07-22 22:18",
-      "link": "https://pewae.com/2024/07/review-chinese-odyssey-2002.html",
-      "author": "破袜子",
-      "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
     },
     {
       "title": "笔记非自己写的不值得记录",
