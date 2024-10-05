@@ -1,59 +1,34 @@
 import requests
 import json
-import os
-import re
 
-MEMOS_API_URL = os.environ['MEMOS_API_URL']
+api_url = 'https://i.hux.ink:5233/api/memo?creatorId=1&rowStatus=NORMAL&limit=100'  # 修改为你的API URL
 
 def fetch_memos():
-    response = requests.get(MEMOS_API_URL)
-    if response.status_code == 200:
-        return response.json()
-    else:
-        print(f"Failed to fetch memos. Status code: {response.status_code}")
-        return None
+    try:
+        response = requests.get(api_url)
+        response.raise_for_status()  # 检查请求是否成功
+        data = response.json()
 
-def extract_images(content):
-    image_pattern = r'!\[.*?\]\((.*?)\)'
-    return re.findall(image_pattern, content)
+        # 提取所需字段
+        memos = [{
+            'id': memo.get('id'),
+            'content': memo.get('content'),
+            'createdTs': memo.get('createdTs'),
+            'updatedTs': memo.get('updatedTs'),
+            'rowStatus': memo.get('rowStatus'),
+            'images': memo.get('images', []),  # 假设images字段存在
+            'creatorId': memo.get('creatorId', None),  # 可选字段
+            'title': memo.get('title', ''),  # 可选字段
+            'tags': memo.get('tags', []),  # 添加tags字段
+            'url': memo.get('url', '')  # 添加原链接字段
+        } for memo in data]
 
-def process_memos(memos):
-    processed_memos = []
-    for memo in memos:
-        content = memo.get("content", "")
-        images = extract_images(content)
-        
-        processed_memo = {
-            "content": content,
-            "created": memo.get("createdTs"),
-            "updated": memo.get("updatedTs"),
-            "id": memo.get("id"),
-            "creator": {
-                "id": memo.get("creatorId"),
-                "name": memo.get("creatorName", ""),
-                "username": memo.get("creatorUsername", ""),
-            },
-            "resourceList": memo.get("resourceList", []),
-            "images": images,
-            "visibility": memo.get("visibility", "PRIVATE"),
-            "pinned": memo.get("pinned", False),
-            "tags": memo.get("tags", []),
-            "from": "Memos"
-        }
-        processed_memos.append(processed_memo)
-    return processed_memos
+        # 保存为JSON文件
+        with open('memos.json', 'w', encoding='utf-8') as f:
+            json.dump(memos, f, ensure_ascii=False, indent=2)
+        print('Memos saved to memos.json')
+    except Exception as e:
+        print(f'Error fetching memos: {e}')
 
-def save_to_json(data, filename):
-    with open(filename, 'w', encoding='utf-8') as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
-
-def main():
-    memos = fetch_memos()
-    if memos:
-        processed_memos = process_memos(memos)
-        filename = "memos.json"
-        save_to_json(processed_memos, filename)
-        print(f"Saved {len(processed_memos)} memos to {filename}")
-
-if __name__ == "__main__":
-    main()
+if __name__ == '__main__':
+    fetch_memos()
