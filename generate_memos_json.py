@@ -1,6 +1,7 @@
 import requests
 import json
 import os
+import re
 
 MEMOS_API_URL = os.environ['MEMOS_API_URL']
 
@@ -12,14 +13,31 @@ def fetch_memos():
         print(f"Failed to fetch memos. Status code: {response.status_code}")
         return None
 
+def extract_images(content):
+    image_pattern = r'!\[.*?\]\((.*?)\)'
+    return re.findall(image_pattern, content)
+
 def process_memos(memos):
     processed_memos = []
     for memo in memos:
+        content = memo.get("content", "")
+        images = extract_images(content)
+        
         processed_memo = {
-            "content": memo["content"],
-            "created": memo["createdTs"],
-            "updated": memo["updatedTs"],
-            "id": memo["id"],
+            "content": content,
+            "created": memo.get("createdTs"),
+            "updated": memo.get("updatedTs"),
+            "id": memo.get("id"),
+            "creator": {
+                "id": memo.get("creatorId"),
+                "name": memo.get("creatorName", ""),
+                "username": memo.get("creatorUsername", ""),
+            },
+            "resourceList": memo.get("resourceList", []),
+            "images": images,
+            "visibility": memo.get("visibility", "PRIVATE"),
+            "pinned": memo.get("pinned", False),
+            "tags": memo.get("tags", []),
             "from": "Memos"
         }
         processed_memos.append(processed_memo)
