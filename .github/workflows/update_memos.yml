@@ -3,33 +3,32 @@ name: Update Memos JSON
 on:
   schedule:
     - cron: '0 */6 * * *'  # 每6小时运行一次
-  workflow_dispatch: # 允许手动触发
+  workflow_dispatch:  # 允许手动触发
 
 jobs:
-  fetch-memos:
+  update-memos:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
+    - uses: actions/checkout@v2
 
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.9' # 使用合适的Python版本
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
 
-      - name: Install requests library
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
 
-      - name: Fetch Memos and save as JSON
-        run: |
-          python generate_memos_json.py
+    - name: Run script to generate JSON
+      env:
+        MEMOS_API_URL: ${{ secrets.MEMOS_API_URL }}
+      run: python generate_memos_json.py
 
-      - name: Commit and push if changed
-        run: |
-         git config --global user.email "action@github.com"
-         git config --global user.name "GitHub Action"
-         git add memos.json
-         git diff --quiet && git diff --staged --quiet || (git commit -m "Update memos.json" && git push)
+    - name: Commit and push if changed
+      run: |
+        git config --global user.email "action@github.com"
+        git config --global user.name "GitHub Action"
+        git add memos.json
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update memos.json" && git push)
