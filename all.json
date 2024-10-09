@@ -1,12 +1,19 @@
 {
   "statistical_data": {
     "friends_num": 46,
-    "active_num": 44,
-    "error_num": 2,
+    "active_num": 43,
+    "error_num": 3,
     "article_num": 382,
-    "last_updated_time": "2024-10-09 20:35:06"
+    "last_updated_time": "2024-10-10 02:25:50"
   },
   "article_data": [
+    {
+      "title": "独立博客自省问卷15题",
+      "created": "2024-10-09 23:50",
+      "link": "https://yayu.net/4626.html",
+      "author": "雅余",
+      "avatar": "https://yayu.net/favicon.ico"
+    },
     {
       "title": "提存养老基金回本了",
       "created": "2024-10-09 23:27",
@@ -1266,13 +1273,6 @@
       "link": "https://xyzbz.cn/archives/1210/",
       "author": "网友小宋",
       "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
-    },
-    {
-      "title": "利用 Mac 快速操作实现图片批量转换为 AVIF 格式",
-      "created": "2024-08-26 23:43",
-      "link": "https://yayu.net/4500.html",
-      "author": "雅余",
-      "avatar": "https://yayu.net/favicon.ico"
     },
     {
       "title": "推荐一个视频博主",
