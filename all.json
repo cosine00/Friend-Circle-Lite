@@ -1,12 +1,19 @@
 {
   "statistical_data": {
     "friends_num": 46,
-    "active_num": 42,
-    "error_num": 4,
-    "article_num": 358,
-    "last_updated_time": "2024-10-20 14:24:18"
+    "active_num": 43,
+    "error_num": 3,
+    "article_num": 368,
+    "last_updated_time": "2024-10-20 20:33:28"
   },
   "article_data": [
+    {
+      "title": "Hugo 博客集成 Mastodon",
+      "created": "2024-10-21 00:05",
+      "link": "https://www.eallion.com/hugo-blog-embed-mastodon/",
+      "author": "大大的小蜗牛",
+      "avatar": "https://gravatar.memobbs.app/avatar/171e4c30959e8c077a6c58b958624b31"
+    },
     {
       "title": "sh 脚本给 screen 传递命令【非交互模式】",
       "created": "2024-10-19 10:56",
@@ -41,6 +48,13 @@
       "link": "https://moreality.net/posts/54261/",
       "author": "Moreality's Blog",
       "avatar": "https://youpai.roccoshi.top/img/avatar.jpg"
+    },
+    {
+      "title": "我不想带脑子啦",
+      "created": "2024-10-18 15:19",
+      "link": "https://anotherdayu.com/2024/5968/",
+      "author": "Dayu",
+      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
     },
     {
       "title": "熬夜游戏 2 — 《触动精灵》之战",
@@ -97,6 +111,13 @@
       "link": "https://www.jiangyu.org/aliyun-cdt/",
       "author": "天一生水",
       "avatar": "https://www.jiangyu.org/images/icon.svg"
+    },
+    {
+      "title": "博客作者呀，我想采访你这 9 个问题！",
+      "created": "2024-10-17 12:53",
+      "link": "https://anotherdayu.com/2024/5962/",
+      "author": "Dayu",
+      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
     },
     {
       "title": "完美实现手机照片自动上传至NAS并同步到网盘！",
@@ -169,11 +190,25 @@
       "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
     },
     {
+      "title": "PIVOT Vol.8",
+      "created": "2024-10-15 10:27",
+      "link": "https://anotherdayu.com/2024/5958/",
+      "author": "Dayu",
+      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
+    },
+    {
       "title": "都是浮云",
       "created": "2024-10-14 23:17",
       "link": "https://yayu.net/4631.html",
       "author": "雅余",
       "avatar": "https://yayu.net/favicon.ico"
+    },
+    {
+      "title": "学术、酒吧、醉了",
+      "created": "2024-10-14 19:52",
+      "link": "https://anotherdayu.com/2024/5955/",
+      "author": "Dayu",
+      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
     },
     {
       "title": "独立博客自省问卷15题",
@@ -638,6 +673,13 @@
       "avatar": "https://www.jiangyu.org/images/icon.svg"
     },
     {
+      "title": "Too good to go、Olio 和惜食魔法袋",
+      "created": "2024-09-26 12:32",
+      "link": "https://anotherdayu.com/2024/5928/",
+      "author": "Dayu",
+      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
+    },
+    {
       "title": "川西高反",
       "created": "2024-09-25 23:35",
       "link": "https://hux.ink/posts/altitude-sickness/",
@@ -736,6 +778,13 @@
       "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
     },
     {
+      "title": "做中国的 M&S：奥乐齐",
+      "created": "2024-09-23 19:51",
+      "link": "https://anotherdayu.com/2024/5916/",
+      "author": "Dayu",
+      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
+    },
+    {
       "title": "乡韵留影",
       "created": "2024-09-23 19:19",
       "link": "https://bluehe.cn/archives/village-memories",
@@ -804,6 +853,13 @@
       "link": "https://ihaihe.cn/2527.htm",
       "author": "三十里海河",
       "avatar": "https://gravatar.memobbs.app/avatar/40c46b2a6ef05464946a7e3f5230bdfa16b5d4e861c7b69977ef77efde66638a"
+    },
+    {
+      "title": "鱼生",
+      "created": "2024-09-22 14:26",
+      "link": "https://anotherdayu.com/2024/5908/",
+      "author": "Dayu",
+      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
     },
     {
       "title": "烈日下，油茶林里的山间除草",
@@ -1086,11 +1142,25 @@
       "avatar": "https://cravatar.cn/avatar/bb78cd69edd84cdbdb99a491ea2dc6c8"
     },
     {
+      "title": "购物随想",
+      "created": "2024-09-11 17:36",
+      "link": "https://anotherdayu.com/2024/5900/",
+      "author": "Dayu",
+      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
+    },
+    {
       "title": "心态调整与自我认知的局限性",
       "created": "2024-09-11 04:12",
       "link": "https://qq.md/post/50",
       "author": "叶开",
       "avatar": "https://qq.md/tx.png"
+    },
+    {
+      "title": "蔬菜汤和隔夜燕麦",
+      "created": "2024-09-10 23:52",
+      "link": "https://anotherdayu.com/2024/5897/",
+      "author": "Dayu",
+      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
     },
     {
       "title": "教师节快乐，网易福利依旧！",
@@ -1105,6 +1175,13 @@
       "link": "https://yayu.net/4552.html",
       "author": "雅余",
       "avatar": "https://yayu.net/favicon.ico"
+    },
+    {
+      "title": "户外日常兼容的好物推荐",
+      "created": "2024-09-09 20:34",
+      "link": "https://anotherdayu.com/2024/5894/",
+      "author": "Dayu",
+      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
     },
     {
       "title": "岁月静默，情感流转",
@@ -2225,13 +2302,6 @@
       "link": "https://atpx.com/blog/why-no-link-exchange-page-on-my-blog/",
       "author": "atpX",
       "avatar": "https://atpx.com/favicon-32x32.png"
-    },
-    {
-      "title": "Mastodon 同步到 Memos",
-      "created": "2024-03-10 00:57",
-      "link": "https://www.eallion.com/mastodon-sync-to-memos/",
-      "author": "大大的小蜗牛",
-      "avatar": "https://gravatar.memobbs.app/avatar/171e4c30959e8c077a6c58b958624b31"
     },
     {
       "title": "2024春节观影",
