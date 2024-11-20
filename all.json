@@ -1,12 +1,26 @@
 {
   "statistical_data": {
     "friends_num": 46,
-    "active_num": 42,
-    "error_num": 4,
-    "article_num": 360,
-    "last_updated_time": "2024-11-20 09:25:27"
+    "active_num": 44,
+    "error_num": 2,
+    "article_num": 378,
+    "last_updated_time": "2024-11-20 14:27:05"
   },
   "article_data": [
+    {
+      "title": "四楼掉下来个女孩",
+      "created": "2024-11-20 14:02",
+      "link": "https://ihaihe.cn/2748.htm",
+      "author": "三十里海河",
+      "avatar": "https://gravatar.memobbs.app/avatar/40c46b2a6ef05464946a7e3f5230bdfa16b5d4e861c7b69977ef77efde66638a"
+    },
+    {
+      "title": "修理工，修理工……",
+      "created": "2024-11-20 09:48",
+      "link": "https://h4ck.org.cn/2024/11/18592",
+      "author": "obaby",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/15/661d443b5359c.png"
+    },
     {
       "title": "青秀山花园记",
       "created": "2024-11-19 02:32",
@@ -64,6 +78,13 @@
       "avatar": "https://synyan.cn/wp-content/themes/Farallon-develop/build/images/favicon-s.png"
     },
     {
+      "title": "多语言博客WordPress 插件 Polylang",
+      "created": "2024-11-17 22:48",
+      "link": "https://anotherdayu.com/2024/6129/",
+      "author": "Dayu",
+      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
+    },
+    {
       "title": "盘点一下和上学有关的群与 APP",
       "created": "2024-11-17 21:58",
       "link": "https://lms.pub/talk/something-else-not-about-study-in-school.html",
@@ -92,11 +113,25 @@
       "avatar": "https://gravatar.memobbs.app/avatar/679666f7bd1af3e55f0e51dd70ed161c"
     },
     {
+      "title": "聊聊最近 Lancet 上刊登的中药复方研究",
+      "created": "2024-11-17 13:42",
+      "link": "https://anotherdayu.com/2024/6096/",
+      "author": "Dayu",
+      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
+    },
+    {
       "title": "告别中国男足20年",
       "created": "2024-11-17 12:33",
       "link": "https://pewae.com/2024/11/the-day-that-i-leave-china-mans-soccer-team.html",
       "author": "破袜子",
       "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
+    },
+    {
+      "title": "Kagi 使用体验和近期更新：翻译、助手和与Perplexity的对比",
+      "created": "2024-11-17 10:50",
+      "link": "https://anotherdayu.com/2024/6093/",
+      "author": "Dayu",
+      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
     },
     {
       "title": "电瓶车的后座",
@@ -127,6 +162,20 @@
       "avatar": "https://cdn.qyliu.top/i/2024/04/15/661d443b5359c.png"
     },
     {
+      "title": "戴尔显示屏（U2720QM）屏闪问题",
+      "created": "2024-11-16 16:21",
+      "link": "https://anotherdayu.com/2024/6090/",
+      "author": "Dayu",
+      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
+    },
+    {
+      "title": "向国内用户展示Twitter X和Instagram-WordPress插件",
+      "created": "2024-11-16 15:07",
+      "link": "https://anotherdayu.com/2024/6075/",
+      "author": "Dayu",
+      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
+    },
+    {
       "title": "11月周记一",
       "created": "2024-11-16 13:59",
       "link": "https://ihaihe.cn/2739.htm",
@@ -155,6 +204,13 @@
       "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
     },
     {
+      "title": "PIVOT Vol.10 写作、思考、辩论",
+      "created": "2024-11-15 14:58",
+      "link": "https://anotherdayu.com/2024/6059/",
+      "author": "Dayu",
+      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
+    },
+    {
       "title": "岭南园林及中国古代园林",
       "created": "2024-11-15 10:42",
       "link": "https://www.jiangyu.org/yuan-lin/",
@@ -167,6 +223,13 @@
       "link": "https://itlu.net/articles/2817.html",
       "author": "挨踢路",
       "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
+    },
+    {
+      "title": "上班摸鱼玩什么？",
+      "created": "2024-11-14 16:50",
+      "link": "https://anotherdayu.com/2024/6045/",
+      "author": "Dayu",
+      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
     },
     {
       "title": "哪吒监控-多服务器监控与运维工具",
@@ -330,6 +393,13 @@
       "avatar": "https://www.gexiao.me/images/apple-touch-icon-next.png"
     },
     {
+      "title": "中国留学生的三个阶段",
+      "created": "2024-11-09 18:46",
+      "link": "https://anotherdayu.com/2024/6027/",
+      "author": "Dayu",
+      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
+    },
+    {
       "title": "多伦多一日游",
       "created": "2024-11-09 11:16",
       "link": "https://hisherry.com/%e5%8a%a0%e5%9b%bd%e7%94%9f%e6%b4%bb/4778/",
@@ -356,6 +426,13 @@
       "link": "https://hjyl.org/linux-weixin/",
       "author": "皇家园林",
       "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
+    },
+    {
+      "title": "网络小说",
+      "created": "2024-11-08 13:49",
+      "link": "https://anotherdayu.com/2024/6017/",
+      "author": "Dayu",
+      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
     },
     {
       "title": "WP-UserAgent [纯真增强版] 15.01.01",
@@ -414,13 +491,6 @@
       "avatar": "https://gravatar.loli.net/avatar/c3fb4bb4d5101284ddd672fb722cdd7d"
     },
     {
-      "title": "半夜“机”叫",
-      "created": "2024-11-06 10:22",
-      "link": "https://h4ck.org.cn/2024/11/18453",
-      "author": "obaby",
-      "avatar": "https://cdn.qyliu.top/i/2024/04/15/661d443b5359c.png"
-    },
-    {
       "title": "阿乐惠鱼儿沟，儿时的回忆",
       "created": "2024-11-06 09:27",
       "link": "https://ihaihe.cn/2680.htm",
@@ -440,6 +510,13 @@
       "link": "https://www.imsun.org/archives/1681.html",
       "author": "老孙博客",
       "avatar": "https://img.imsun.org/avatar.jpg"
+    },
+    {
+      "title": "公告：网站被攻击了",
+      "created": "2024-11-05 13:42",
+      "link": "https://anotherdayu.com/2024/6014/",
+      "author": "Dayu",
+      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
     },
     {
       "title": "耳石症",
@@ -995,13 +1072,6 @@
       "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
     },
     {
-      "title": "天山托木尔大峡谷",
-      "created": "2024-10-10 17:29",
-      "link": "https://ihaihe.cn/2588.htm",
-      "author": "三十里海河",
-      "avatar": "https://gravatar.memobbs.app/avatar/40c46b2a6ef05464946a7e3f5230bdfa16b5d4e861c7b69977ef77efde66638a"
-    },
-    {
       "title": "独立博客自省问卷15题",
       "created": "2024-10-10 15:17",
       "link": "https://1900.live/du-li-bo-ke-zi-sheng-wen-juan-15ti/",
@@ -1345,6 +1415,13 @@
       "avatar": "https://www.gexiao.me/images/apple-touch-icon-next.png"
     },
     {
+      "title": "烈日下，油茶林里的山间除草",
+      "created": "2024-09-22 03:56",
+      "link": "https://qq.md/post/54",
+      "author": "叶开",
+      "avatar": "https://qq.md/tx.png"
+    },
+    {
       "title": "42 天了",
       "created": "2024-09-21 11:52",
       "link": "https://lms.pub/talk/42-days.html",
@@ -1378,6 +1455,13 @@
       "link": "https://www.jeffer.xyz/cid/2095.html",
       "author": "Jeffer.Z的博客",
       "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
+    },
+    {
+      "title": "银行流水谜团",
+      "created": "2024-09-19 02:21",
+      "link": "https://qq.md/post/53",
+      "author": "叶开",
+      "avatar": "https://qq.md/tx.png"
     },
     {
       "title": "如何在Bing和Baidu屏蔽CSDN和知乎的搜索结果",
@@ -1420,6 +1504,13 @@
       "link": "https://wangyunzi.com/posts/145/",
       "author": "长街短梦",
       "avatar": "https://gravatar.memobbs.app/avatar/c1b204bab687a23c8b6d7c8de11c7c59"
+    },
+    {
+      "title": "在颠簸中前行的家人情谊",
+      "created": "2024-09-17 00:39",
+      "link": "https://qq.md/post/52",
+      "author": "叶开",
+      "avatar": "https://qq.md/tx.png"
     },
     {
       "title": "1Panel 反向代理网站并解决 502 错误",
@@ -1492,6 +1583,13 @@
       "avatar": "https://www.jiangyu.org/images/icon.svg"
     },
     {
+      "title": "板栗树下的早晨",
+      "created": "2024-09-13 01:50",
+      "link": "https://qq.md/post/51",
+      "author": "叶开",
+      "avatar": "https://qq.md/tx.png"
+    },
+    {
       "title": "使用Docker快速部署一个QQ机器人",
       "created": "2024-09-12 16:50",
       "link": "https://www.imsun.org/archives/1668.html",
@@ -1499,11 +1597,32 @@
       "avatar": "https://img.imsun.org/avatar.jpg"
     },
     {
+      "title": "心态调整与自我认知的局限性",
+      "created": "2024-09-11 04:12",
+      "link": "https://qq.md/post/50",
+      "author": "叶开",
+      "avatar": "https://qq.md/tx.png"
+    },
+    {
       "title": "逛珠海市普济艺术博物馆",
       "created": "2024-09-09 23:35",
       "link": "https://yayu.net/4552.html",
       "author": "雅余",
       "avatar": "https://yayu.net/favicon.ico"
+    },
+    {
+      "title": "岁月静默，情感流转",
+      "created": "2024-09-08 20:20",
+      "link": "https://qq.md/post/49",
+      "author": "叶开",
+      "avatar": "https://qq.md/tx.png"
+    },
+    {
+      "title": "繁忙生活中的片段",
+      "created": "2024-09-08 19:18",
+      "link": "https://qq.md/post/48",
+      "author": "叶开",
+      "avatar": "https://qq.md/tx.png"
     },
     {
       "title": "闲白",
@@ -1574,6 +1693,13 @@
       "link": "https://veryjack.com/technique/custom_folder/",
       "author": "Jack's Space",
       "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
+    },
+    {
+      "title": "挑鸭子、扫墓与亲友聚餐",
+      "created": "2024-09-05 04:22",
+      "link": "https://qq.md/post/47",
+      "author": "叶开",
+      "avatar": "https://qq.md/tx.png"
     },
     {
       "title": "工作守则指南",
