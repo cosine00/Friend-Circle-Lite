@@ -4,9 +4,16 @@
     "active_num": 44,
     "error_num": 2,
     "article_num": 368,
-    "last_updated_time": "2024-11-29 20:37:31"
+    "last_updated_time": "2024-11-30 02:25:26"
   },
   "article_data": [
+    {
+      "title": "特鲁尼克大冒险2",
+      "created": "2024-11-29 21:18",
+      "link": "https://pewae.com/2024/11/dragon-quest-tornekos-adventure-2-advance.html",
+      "author": "破袜子",
+      "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
+    },
     {
       "title": "二四年十一月小结",
       "created": "2024-11-29 07:07",
@@ -1287,13 +1294,6 @@
       "link": "https://itlu.net/articles/2813.html",
       "author": "挨踢路",
       "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
-    },
-    {
-      "title": "用WinMerge进行文件夹比较时忽略git目录的方法",
-      "created": "2024-09-30 16:35",
-      "link": "https://pewae.com/2024/09/how-to-ignore-git-folders-in-winmerge.html",
-      "author": "破袜子",
-      "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
     },
     {
       "title": "里斯本日记（一）",
