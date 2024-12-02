@@ -4,9 +4,16 @@
     "active_num": 44,
     "error_num": 2,
     "article_num": 368,
-    "last_updated_time": "2024-12-02 20:39:15"
+    "last_updated_time": "2024-12-03 02:26:27"
   },
   "article_data": [
+    {
+      "title": "苹果快捷指令一键同步更新 Memos 和 X",
+      "created": "2024-12-02 22:41",
+      "link": "https://veryjack.com/technique/shortcut_for_x_and_memos/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
+    },
     {
       "title": "双城记",
       "created": "2024-12-02 11:11",
@@ -2008,13 +2015,6 @@
       "link": "https://elizen.me/posts/2024/07/summer/",
       "author": "Elizen",
       "avatar": "https://gravatar.memobbs.app/avatar/f65df4d87240feb1cb247857a621a48f"
-    },
-    {
-      "title": "一键脚本自建 Frp 内网穿透访问家里 NAS 和软路由",
-      "created": "2024-07-12 00:03",
-      "link": "https://veryjack.com/technique/frp_nas_openwrt/",
-      "author": "Jack's Space",
-      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
     },
     {
       "title": "加西亚·马尔克斯 - 我们八月见 | 读后",
