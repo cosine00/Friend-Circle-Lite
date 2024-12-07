@@ -4,9 +4,16 @@
     "active_num": 44,
     "error_num": 2,
     "article_num": 368,
-    "last_updated_time": "2024-12-07 20:34:44"
+    "last_updated_time": "2024-12-08 02:24:18"
   },
   "article_data": [
+    {
+      "title": "被烹饪的数据 Cooking Data",
+      "created": "2024-12-07 20:47",
+      "link": "https://anotherdayu.com/2024/6247/",
+      "author": "Dayu",
+      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
+    },
     {
       "title": "剑玉 Kendama",
       "created": "2024-12-07 17:21",
@@ -440,13 +447,6 @@
       "link": "https://synyan.cn/92274",
       "author": "旅行漫记",
       "avatar": "https://synyan.cn/wp-content/themes/Farallon-develop/build/images/favicon-s.png"
-    },
-    {
-      "title": "多语言博客WordPress 插件 Polylang",
-      "created": "2024-11-17 22:48",
-      "link": "https://anotherdayu.com/2024/6129/",
-      "author": "Dayu",
-      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
     },
     {
       "title": "盘点一下和上学有关的群与 APP",
