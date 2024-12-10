@@ -3,16 +3,23 @@
     "friends_num": 46,
     "active_num": 44,
     "error_num": 2,
-    "article_num": 368,
-    "last_updated_time": "2024-12-10 20:39:03"
+    "article_num": 358,
+    "last_updated_time": "2024-12-11 02:27:24"
   },
   "article_data": [
     {
-      "title": "更换域名及网址301重定向",
-      "created": "2024-12-10 15:53",
-      "link": "https://www.jfsay.com/archives/3100.html",
-      "author": "靜風說",
-      "avatar": "https://www.gexiao.me/images/apple-touch-icon-next.png"
+      "title": "家庭组网",
+      "created": "2024-12-11 00:54",
+      "link": "https://hjyl.org/my-family-network/",
+      "author": "皇家园林",
+      "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
+    },
+    {
+      "title": "流氓",
+      "created": "2024-12-10 22:31",
+      "link": "https://hjyl.org/fucking-huanancheng/",
+      "author": "皇家园林",
+      "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
     },
     {
       "title": "我发现",
@@ -202,13 +209,6 @@
       "link": "https://h4ck.org.cn/2024/12/18710",
       "author": "obaby",
       "avatar": "https://cdn.qyliu.top/i/2024/04/15/661d443b5359c.png"
-    },
-    {
-      "title": "《窗边的小豆豆》读后感",
-      "created": "2024-12-04 10:23",
-      "link": "https://www.jfsay.com/archives/3093.html",
-      "author": "靜風說",
-      "avatar": "https://www.gexiao.me/images/apple-touch-icon-next.png"
     },
     {
       "title": "车检这件事",
@@ -449,13 +449,6 @@
       "avatar": "https://cravatar.cn/avatar/bb78cd69edd84cdbdb99a491ea2dc6c8"
     },
     {
-      "title": "东野圭吾《秘密》读后感",
-      "created": "2024-11-20 23:09",
-      "link": "https://www.jfsay.com/archives/3090.html",
-      "author": "靜風說",
-      "avatar": "https://www.gexiao.me/images/apple-touch-icon-next.png"
-    },
-    {
       "title": "修理工，修理工……",
       "created": "2024-11-20 09:48",
       "link": "https://h4ck.org.cn/2024/11/18592",
@@ -610,25 +603,11 @@
       "avatar": "https://digu.plus/usr/themes/ghost/images/favicon/64x64.png"
     },
     {
-      "title": "WordPress6.7主题语言包失效(已解决)",
-      "created": "2024-11-13 13:22",
-      "link": "https://hjyl.org/wordpress67-languages-lost/",
-      "author": "皇家园林",
-      "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
-    },
-    {
       "title": "谷歌的珍珠港时刻",
       "created": "2024-11-13 00:08",
       "link": "https://dongjunke.cn/posts/2024/11/13/23745.html",
       "author": "东评西就",
       "avatar": "https://gravatar.memobbs.app/avatar/42542189ddb33064599dc88a5149bea7"
-    },
-    {
-      "title": "尘埃落定",
-      "created": "2024-11-12 23:02",
-      "link": "https://hjyl.org/pass-n1-cert-test/",
-      "author": "皇家园林",
-      "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
     },
     {
       "title": "趁青春，去开封",
@@ -692,13 +671,6 @@
       "link": "https://justgoidea.com/posts/2024-027/",
       "author": "槿呈Goidea",
       "avatar": "https://justgoidea.com/favicon.svg"
-    },
-    {
-      "title": "东野圭吾《彷徨之刃》读后感",
-      "created": "2024-11-09 18:59",
-      "link": "https://www.jfsay.com/archives/3086.html",
-      "author": "靜風說",
-      "avatar": "https://www.gexiao.me/images/apple-touch-icon-next.png"
     },
     {
       "title": "多伦多一日游",
@@ -813,13 +785,6 @@
       "avatar": "https://b.storyo.cn/upload/logo.png"
     },
     {
-      "title": "《阳光下的罪恶》《谋杀启事》读后感",
-      "created": "2024-11-02 19:07",
-      "link": "https://www.jfsay.com/archives/3080.html",
-      "author": "靜風說",
-      "avatar": "https://www.gexiao.me/images/apple-touch-icon-next.png"
-    },
-    {
       "title": "Now in Oct.",
       "created": "2024-11-01 23:21",
       "link": "https://hux.ink/posts/now-in-october/",
@@ -860,13 +825,6 @@
       "link": "https://hux.ink/posts/fine-tune/",
       "author": "落落vici",
       "avatar": "https://cravatar.cn/avatar/bb78cd69edd84cdbdb99a491ea2dc6c8"
-    },
-    {
-      "title": "《西游记》读后感",
-      "created": "2024-10-30 08:46",
-      "link": "https://www.jfsay.com/archives/3074.html",
-      "author": "靜風說",
-      "avatar": "https://www.gexiao.me/images/apple-touch-icon-next.png"
     },
     {
       "title": "日本关西旅行",
@@ -918,13 +876,6 @@
       "avatar": "https://img.imsun.org/avatar.jpg"
     },
     {
-      "title": "二手CCD卡片相机出售记",
-      "created": "2024-10-28 15:35",
-      "link": "https://www.jfsay.com/archives/3066.html",
-      "author": "靜風說",
-      "avatar": "https://www.gexiao.me/images/apple-touch-icon-next.png"
-    },
-    {
       "title": "WordPress首页调用typecho方法！",
       "created": "2024-10-28 14:10",
       "link": "https://laozhang.org/archives/3895.html",
@@ -972,13 +923,6 @@
       "link": "https://moreality.net/posts/56316/",
       "author": "Moreality's Blog",
       "avatar": "https://youpai.roccoshi.top/img/avatar.jpg"
-    },
-    {
-      "title": "毛姆《刀锋》读后感",
-      "created": "2024-10-24 23:12",
-      "link": "https://www.jfsay.com/archives/3063.html",
-      "author": "靜風說",
-      "avatar": "https://www.gexiao.me/images/apple-touch-icon-next.png"
     },
     {
       "title": "20、霜降",
@@ -1177,13 +1121,6 @@
       "avatar": "https://gravatar.memobbs.app/avatar/d9cc49ea0301640d7a19b6a1e77012dd"
     },
     {
-      "title": "《悲情城市》观后感",
-      "created": "2024-10-13 11:50",
-      "link": "https://www.jfsay.com/archives/3061.html",
-      "author": "靜風說",
-      "avatar": "https://www.gexiao.me/images/apple-touch-icon-next.png"
-    },
-    {
       "title": "遇见傣族：西双版纳自驾之旅",
       "created": "2024-10-13 07:03",
       "link": "https://bluehe.cn/archives/xishuangbanna-trip",
@@ -1294,13 +1231,6 @@
       "link": "https://xyzbz.cn/archives/1226/",
       "author": "网友小宋",
       "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
-    },
-    {
-      "title": "《姥姥的外孙》观后感",
-      "created": "2024-10-08 19:21",
-      "link": "https://www.jfsay.com/archives/3056.html",
-      "author": "靜風說",
-      "avatar": "https://www.gexiao.me/images/apple-touch-icon-next.png"
     },
     {
       "title": "国庆三日游",
