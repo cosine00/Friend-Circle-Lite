@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 46,
-    "active_num": 43,
-    "error_num": 3,
-    "article_num": 358,
-    "last_updated_time": "2024-12-10 02:28:16"
+    "active_num": 44,
+    "error_num": 2,
+    "article_num": 368,
+    "last_updated_time": "2024-12-10 09:36:47"
   },
   "article_data": [
     {
@@ -169,6 +169,13 @@
       "avatar": "https://cravatar.cn/avatar/bb78cd69edd84cdbdb99a491ea2dc6c8"
     },
     {
+      "title": "Kagi 搜索引擎美化分享",
+      "created": "2024-12-04 23:05",
+      "link": "https://veryjack.com/technique/kagi_css/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
+    },
+    {
       "title": "又添两小件——2.5G网卡和小米插排",
       "created": "2024-12-04 21:34",
       "link": "https://hjyl.org/rtl8125-and-xiaomi-plug-in/",
@@ -209,6 +216,13 @@
       "link": "https://www.jeffer.xyz/cid/2219.html",
       "author": "Jeffer.Z的博客",
       "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
+    },
+    {
+      "title": "苹果快捷指令一键同步更新 Memos 和 X",
+      "created": "2024-12-02 22:41",
+      "link": "https://veryjack.com/technique/shortcut_for_x_and_memos/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
     },
     {
       "title": "双城记",
@@ -265,6 +279,13 @@
       "link": "https://hisherry.com/iramblings/4783/",
       "author": "燕渡寒潭",
       "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
+    },
+    {
+      "title": "黑五了，不看看这些活动么",
+      "created": "2024-11-28 23:42",
+      "link": "https://veryjack.com/life/2024_blackfriday/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
     },
     {
       "title": "Less is more",
@@ -552,6 +573,13 @@
       "link": "https://hjyl.org/gun-to-cannon/",
       "author": "皇家园林",
       "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
+    },
+    {
+      "title": "改头换面 —— iOS 黑色极简风桌面分享",
+      "created": "2024-11-15 22:45",
+      "link": "https://veryjack.com/technique/ios_black_home/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
     },
     {
       "title": "岭南园林及中国古代园林",
@@ -995,6 +1023,13 @@
       "avatar": "https://justgoidea.com/favicon.svg"
     },
     {
+      "title": "作为 blogger，我接受你的采访！",
+      "created": "2024-10-19 02:05",
+      "link": "https://veryjack.com/life/questionnaire-for-blogger/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
+    },
+    {
       "title": "莫名的限我额度？硬杠到底",
       "created": "2024-10-18 22:20",
       "link": "https://digu.plus/post/2abdb68840a54b8abbc7b5671de22db6/",
@@ -1028,6 +1063,13 @@
       "link": "https://bluehe.cn/archives/forest-park-xishuangbanna",
       "author": "云心怀鹤",
       "avatar": "https://bluehe.cn/usr/uploads/2024/03/1678458078.png"
+    },
+    {
+      "title": "一个小技巧，将 AI 设置为你的搜索引擎",
+      "created": "2024-10-17 18:55",
+      "link": "https://veryjack.com/technique/ai-as-search-engine/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
     },
     {
       "title": "给99元每年的阿里云经济型e实例开启IPv6访问享受大带宽免费流量",
@@ -1296,6 +1338,13 @@
       "avatar": "https://gravatar.memobbs.app/avatar/679666f7bd1af3e55f0e51dd70ed161c"
     },
     {
+      "title": "搞机！给红米 K40 刷一个 PixelExperience",
+      "created": "2024-10-05 22:30",
+      "link": "https://veryjack.com/technique/k40-pixelexperience/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
+    },
+    {
       "title": "Navidrome音流搭建属于自己私人音乐播放器",
       "created": "2024-10-05 13:34",
       "link": "https://xyzbz.cn/archives/1224/",
@@ -1534,6 +1583,13 @@
       "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
     },
     {
+      "title": "MacOS Sequoia 网络问题",
+      "created": "2024-09-17 17:42",
+      "link": "https://veryjack.com/technique/macos_sequoia_network_issue/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
+    },
+    {
       "title": "好时节，愿得年年，常见中秋月。",
       "created": "2024-09-17 10:39",
       "link": "https://wangyunzi.com/posts/145/",
@@ -1546,6 +1602,13 @@
       "link": "https://qq.md/post/52",
       "author": "叶开",
       "avatar": "https://qq.md/tx.png"
+    },
+    {
+      "title": "1Panel 反向代理网站并解决 502 错误",
+      "created": "2024-09-16 18:55",
+      "link": "https://veryjack.com/technique/1panel_reverse_proxy_502_error/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
     },
     {
       "title": "飞傲KB1K小键盘 Mac系统使用教程",
@@ -1658,6 +1721,13 @@
       "link": "https://itlu.net/articles/2809.html",
       "author": "挨踢路",
       "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
+    },
+    {
+      "title": "自定义 Mac 文件夹图标",
+      "created": "2024-09-05 22:55",
+      "link": "https://veryjack.com/technique/custom_folder/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
     },
     {
       "title": "挑鸭子、扫墓与亲友聚餐",
