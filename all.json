@@ -1,12 +1,19 @@
 {
   "statistical_data": {
     "friends_num": 46,
-    "active_num": 43,
-    "error_num": 3,
-    "article_num": 348,
-    "last_updated_time": "2024-12-11 14:28:42"
+    "active_num": 44,
+    "error_num": 2,
+    "article_num": 368,
+    "last_updated_time": "2024-12-11 20:38:30"
   },
   "article_data": [
+    {
+      "title": "商铺销售这职业很牛逼么？",
+      "created": "2024-12-11 18:34",
+      "link": "https://hjyl.org/fucking-1688-and-huanancheng/",
+      "author": "皇家园林",
+      "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
+    },
     {
       "title": "腾讯企业邮箱容量不足",
       "created": "2024-12-11 11:19",
@@ -27,6 +34,13 @@
       "link": "https://hjyl.org/fucking-huanancheng/",
       "author": "皇家园林",
       "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
+    },
+    {
+      "title": "更换域名及网址301重定向",
+      "created": "2024-12-10 15:53",
+      "link": "https://www.jfsay.com/archives/3100.html",
+      "author": "靜風說",
+      "avatar": "https://www.gexiao.me/images/apple-touch-icon-next.png"
     },
     {
       "title": "我发现",
@@ -218,6 +232,13 @@
       "avatar": "https://cdn.qyliu.top/i/2024/04/15/661d443b5359c.png"
     },
     {
+      "title": "《窗边的小豆豆》读后感",
+      "created": "2024-12-04 10:23",
+      "link": "https://www.jfsay.com/archives/3093.html",
+      "author": "靜風說",
+      "avatar": "https://www.gexiao.me/images/apple-touch-icon-next.png"
+    },
+    {
       "title": "车检这件事",
       "created": "2024-12-04 01:51",
       "link": "https://xyzbz.cn/archives/1247/",
@@ -272,6 +293,13 @@
       "link": "https://yayu.net/4674.html",
       "author": "雅余",
       "avatar": "https://yayu.net/favicon.ico"
+    },
+    {
+      "title": "特鲁尼克大冒险2",
+      "created": "2024-11-29 21:18",
+      "link": "https://pewae.com/2024/11/dragon-quest-tornekos-adventure-2-advance.html",
+      "author": "破袜子",
+      "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
     },
     {
       "title": "二四年十一月小结",
@@ -342,6 +370,13 @@
       "link": "https://h4ck.org.cn/2024/11/18666",
       "author": "obaby",
       "avatar": "https://cdn.qyliu.top/i/2024/04/15/661d443b5359c.png"
+    },
+    {
+      "title": "19th anniverasry",
+      "created": "2024-11-26 08:51",
+      "link": "https://pewae.com/2024/11/19th-anniverasry.html",
+      "author": "破袜子",
+      "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
     },
     {
       "title": "自制 iOS 小组件，随机显示一条 Memos",
@@ -442,6 +477,13 @@
       "avatar": "https://cravatar.cn/avatar/bb78cd69edd84cdbdb99a491ea2dc6c8"
     },
     {
+      "title": "东野圭吾《秘密》读后感",
+      "created": "2024-11-20 23:09",
+      "link": "https://www.jfsay.com/archives/3090.html",
+      "author": "靜風說",
+      "avatar": "https://www.gexiao.me/images/apple-touch-icon-next.png"
+    },
+    {
       "title": "修理工，修理工……",
       "created": "2024-11-20 09:48",
       "link": "https://h4ck.org.cn/2024/11/18592",
@@ -519,6 +561,13 @@
       "avatar": "https://gravatar.memobbs.app/avatar/679666f7bd1af3e55f0e51dd70ed161c"
     },
     {
+      "title": "告别中国男足20年",
+      "created": "2024-11-17 12:33",
+      "link": "https://pewae.com/2024/11/the-day-that-i-leave-china-mans-soccer-team.html",
+      "author": "破袜子",
+      "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
+    },
+    {
       "title": "电瓶车的后座",
       "created": "2024-11-17 07:32",
       "link": "https://lms.pub/talk/the-rear-seat-of-an-electric-bicycle.html",
@@ -545,13 +594,6 @@
       "link": "https://yayu.net/4664.html",
       "author": "雅余",
       "avatar": "https://yayu.net/favicon.ico"
-    },
-    {
-      "title": "鸟枪换炮",
-      "created": "2024-11-15 23:43",
-      "link": "https://hjyl.org/gun-to-cannon/",
-      "author": "皇家园林",
-      "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
     },
     {
       "title": "改头换面 —— iOS 黑色极简风桌面分享",
@@ -594,6 +636,13 @@
       "link": "https://xyzbz.cn/archives/1241/",
       "author": "网友小宋",
       "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
+    },
+    {
+      "title": "西亚非亚",
+      "created": "2024-11-12 11:43",
+      "link": "https://pewae.com/2024/11/west_asia_is_not_asia.html",
+      "author": "破袜子",
+      "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
     },
     {
       "title": "职场上的那些破事",
@@ -645,6 +694,13 @@
       "avatar": "https://justgoidea.com/favicon.svg"
     },
     {
+      "title": "东野圭吾《彷徨之刃》读后感",
+      "created": "2024-11-09 18:59",
+      "link": "https://www.jfsay.com/archives/3086.html",
+      "author": "靜風說",
+      "avatar": "https://www.gexiao.me/images/apple-touch-icon-next.png"
+    },
+    {
       "title": "多伦多一日游",
       "created": "2024-11-09 11:16",
       "link": "https://hisherry.com/%e5%8a%a0%e5%9b%bd%e7%94%9f%e6%b4%bb/4778/",
@@ -671,6 +727,13 @@
       "link": "https://hux.ink/posts/xiehaozhuanwang/",
       "author": "落落vici",
       "avatar": "https://cravatar.cn/avatar/bb78cd69edd84cdbdb99a491ea2dc6c8"
+    },
+    {
+      "title": "梦四十三",
+      "created": "2024-11-07 14:50",
+      "link": "https://pewae.com/2024/11/dream_43.html",
+      "author": "破袜子",
+      "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
     },
     {
       "title": "21、立冬",
@@ -750,11 +813,25 @@
       "avatar": "https://b.storyo.cn/upload/logo.png"
     },
     {
+      "title": "《阳光下的罪恶》《谋杀启事》读后感",
+      "created": "2024-11-02 19:07",
+      "link": "https://www.jfsay.com/archives/3080.html",
+      "author": "靜風說",
+      "avatar": "https://www.gexiao.me/images/apple-touch-icon-next.png"
+    },
+    {
       "title": "Now in Oct.",
       "created": "2024-11-01 23:21",
       "link": "https://hux.ink/posts/now-in-october/",
       "author": "落落vici",
       "avatar": "https://cravatar.cn/avatar/bb78cd69edd84cdbdb99a491ea2dc6c8"
+    },
+    {
+      "title": "每夫吐槽（100）",
+      "created": "2024-11-01 19:00",
+      "link": "https://pewae.com/2024/11/e6af8f-e5a4ab-e59090-e6a7bd-efbc88-100efbc89.html",
+      "author": "破袜子",
+      "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
     },
     {
       "title": "久违的珠海长隆",
@@ -783,6 +860,13 @@
       "link": "https://hux.ink/posts/fine-tune/",
       "author": "落落vici",
       "avatar": "https://cravatar.cn/avatar/bb78cd69edd84cdbdb99a491ea2dc6c8"
+    },
+    {
+      "title": "《西游记》读后感",
+      "created": "2024-10-30 08:46",
+      "link": "https://www.jfsay.com/archives/3074.html",
+      "author": "靜風說",
+      "avatar": "https://www.gexiao.me/images/apple-touch-icon-next.png"
     },
     {
       "title": "日本关西旅行",
@@ -834,11 +918,25 @@
       "avatar": "https://img.imsun.org/avatar.jpg"
     },
     {
+      "title": "二手CCD卡片相机出售记",
+      "created": "2024-10-28 15:35",
+      "link": "https://www.jfsay.com/archives/3066.html",
+      "author": "靜風說",
+      "avatar": "https://www.gexiao.me/images/apple-touch-icon-next.png"
+    },
+    {
       "title": "WordPress首页调用typecho方法！",
       "created": "2024-10-28 14:10",
       "link": "https://laozhang.org/archives/3895.html",
       "author": "老张博客",
       "avatar": "https://gravatar.memobbs.app/avatar/679666f7bd1af3e55f0e51dd70ed161c"
+    },
+    {
+      "title": "重温老片《痴情快婿》",
+      "created": "2024-10-27 22:11",
+      "link": "https://pewae.com/2024/10/review-fun-and-fury.html",
+      "author": "破袜子",
+      "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
     },
     {
       "title": "穷人还是得早生娃",
@@ -874,6 +972,13 @@
       "link": "https://moreality.net/posts/56316/",
       "author": "Moreality's Blog",
       "avatar": "https://youpai.roccoshi.top/img/avatar.jpg"
+    },
+    {
+      "title": "毛姆《刀锋》读后感",
+      "created": "2024-10-24 23:12",
+      "link": "https://www.jfsay.com/archives/3063.html",
+      "author": "靜風說",
+      "avatar": "https://www.gexiao.me/images/apple-touch-icon-next.png"
     },
     {
       "title": "20、霜降",
@@ -1072,6 +1177,13 @@
       "avatar": "https://gravatar.memobbs.app/avatar/d9cc49ea0301640d7a19b6a1e77012dd"
     },
     {
+      "title": "《悲情城市》观后感",
+      "created": "2024-10-13 11:50",
+      "link": "https://www.jfsay.com/archives/3061.html",
+      "author": "靜風說",
+      "avatar": "https://www.gexiao.me/images/apple-touch-icon-next.png"
+    },
+    {
       "title": "遇见傣族：西双版纳自驾之旅",
       "created": "2024-10-13 07:03",
       "link": "https://bluehe.cn/archives/xishuangbanna-trip",
@@ -1084,6 +1196,13 @@
       "link": "https://www.imsun.org/archives/1676.html",
       "author": "老孙博客",
       "avatar": "https://img.imsun.org/avatar.jpg"
+    },
+    {
+      "title": "独立博客自省问卷15题",
+      "created": "2024-10-12 15:21",
+      "link": "https://pewae.com/2024/10/15-qas-about-my-blog-setting-up.html",
+      "author": "破袜子",
+      "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
     },
     {
       "title": "《独立博客自省问卷15题》答卷收集",
@@ -1112,6 +1231,13 @@
       "link": "https://www.imsun.org/archives/1671.html",
       "author": "老孙博客",
       "avatar": "https://img.imsun.org/avatar.jpg"
+    },
+    {
+      "title": "每夫吐槽（099）",
+      "created": "2024-10-11 15:54",
+      "link": "https://pewae.com/2024/10/random_kuso_99.html",
+      "author": "破袜子",
+      "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
     },
     {
       "title": "肇庆鼎湖山及庆云寺",
@@ -1168,6 +1294,13 @@
       "link": "https://xyzbz.cn/archives/1226/",
       "author": "网友小宋",
       "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
+    },
+    {
+      "title": "《姥姥的外孙》观后感",
+      "created": "2024-10-08 19:21",
+      "link": "https://www.jfsay.com/archives/3056.html",
+      "author": "靜風說",
+      "avatar": "https://www.gexiao.me/images/apple-touch-icon-next.png"
     },
     {
       "title": "国庆三日游",
@@ -1280,6 +1413,13 @@
       "link": "https://synyan.cn/90823",
       "author": "旅行漫记",
       "avatar": "https://synyan.cn/wp-content/themes/Farallon-develop/build/images/favicon-s.png"
+    },
+    {
+      "title": "风云默示录：格斗创世",
+      "created": "2024-10-02 12:57",
+      "link": "https://pewae.com/2024/10/savage-reign.html",
+      "author": "破袜子",
+      "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
     },
     {
       "title": "你也只配召之即来挥之即去",
