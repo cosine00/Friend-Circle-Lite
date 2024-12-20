@@ -4,9 +4,16 @@
     "active_num": 43,
     "error_num": 3,
     "article_num": 358,
-    "last_updated_time": "2024-12-20 20:35:36"
+    "last_updated_time": "2024-12-21 02:24:56"
   },
   "article_data": [
+    {
+      "title": "我的数字生活降级",
+      "created": "2024-12-20 22:40",
+      "link": "https://atpx.com/blog/my-digital-life-downgrade/",
+      "author": "atpX",
+      "avatar": "https://atpx.com/favicon-32x32.png"
+    },
     {
       "title": "WordPress 插件-NeoDB Integration 书影音展示页面",
       "created": "2024-12-20 10:59",
@@ -2246,13 +2253,6 @@
       "link": "https://dongjunke.cn/posts/2024/04/02/10964.html",
       "author": "东评西就",
       "avatar": "https://gravatar.memobbs.app/avatar/42542189ddb33064599dc88a5149bea7"
-    },
-    {
-      "title": "再见 JavaScript",
-      "created": "2024-03-30 04:30",
-      "link": "https://atpx.com/blog/goodbye-javascript/",
-      "author": "atpX",
-      "avatar": "https://atpx.com/favicon-32x32.png"
     },
     {
       "title": "三体问题",
