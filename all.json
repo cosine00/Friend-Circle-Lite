@@ -4,9 +4,16 @@
     "active_num": 43,
     "error_num": 3,
     "article_num": 358,
-    "last_updated_time": "2024-12-21 14:24:02"
+    "last_updated_time": "2024-12-21 20:32:58"
   },
   "article_data": [
+    {
+      "title": "使用 Cursor 做了几个单页小工具",
+      "created": "2024-12-21 19:13",
+      "link": "https://immmmm.com/build-html-by-cursor/",
+      "author": "木木木木木",
+      "avatar": "https://immmmm.com/favicon.ico"
+    },
     {
       "title": "我的数字生活降级",
       "created": "2024-12-20 22:40",
@@ -846,13 +853,6 @@
       "link": "https://yayu.net/4644.html",
       "author": "雅余",
       "avatar": "https://yayu.net/favicon.ico"
-    },
-    {
-      "title": "Ryujinx 模拟器上手记录",
-      "created": "2024-11-10 21:38",
-      "link": "https://immmmm.com/ryujinx-switch/",
-      "author": "木木木木木",
-      "avatar": "https://immmmm.com/favicon.ico"
     },
     {
       "title": "关于自我成长的实践：结合斯多葛主义、佛教与批判理论的每日修习",
