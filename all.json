@@ -4,9 +4,23 @@
     "active_num": 41,
     "error_num": 5,
     "article_num": 338,
-    "last_updated_time": "2024-12-31 14:26:07"
+    "last_updated_time": "2024-12-31 20:34:56"
   },
   "article_data": [
+    {
+      "title": "2024年的已读书单+观影记录",
+      "created": "2024-12-31 20:00",
+      "link": "https://yayu.net/4764.html",
+      "author": "雅余",
+      "avatar": "https://yayu.net/favicon.ico"
+    },
+    {
+      "title": "2024年微信读书报告",
+      "created": "2024-12-31 13:57",
+      "link": "https://www.jiangyu.org/weread-2024/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
+    },
     {
       "title": "2024读书记录",
       "created": "2024-12-31 09:21",
@@ -1352,13 +1366,6 @@
       "avatar": "https://img.imsun.org/avatar.jpg"
     },
     {
-      "title": "《独立博客自省问卷15题》答卷收集",
-      "created": "2024-10-12 13:05",
-      "link": "https://yayu.net/4628.html",
-      "author": "雅余",
-      "avatar": "https://yayu.net/favicon.ico"
-    },
-    {
       "title": "独立博客自省问卷 15 题",
       "created": "2024-10-12 02:45",
       "link": "https://www.eallion.com/15-questions-about-blog/",
@@ -1861,13 +1868,6 @@
       "link": "https://www.javis.me/what-did-i-do-in-the-first-half-of-2024/",
       "author": "查令十字街84号",
       "avatar": "https://b.storyo.cn/upload/logo.png"
-    },
-    {
-      "title": "溥仪《我的前半生》",
-      "created": "2024-07-02 14:28",
-      "link": "https://www.jiangyu.org/wo-de-qian-ban-shen/",
-      "author": "天一生水",
-      "avatar": "https://www.jiangyu.org/images/icon.svg"
     },
     {
       "title": "7 月读书",
