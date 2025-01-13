@@ -1,12 +1,19 @@
 {
   "statistical_data": {
     "friends_num": 49,
-    "active_num": 44,
-    "error_num": 5,
-    "article_num": 367,
-    "last_updated_time": "2025-01-13 14:27:12"
+    "active_num": 45,
+    "error_num": 4,
+    "article_num": 377,
+    "last_updated_time": "2025-01-13 20:37:28"
   },
   "article_data": [
+    {
+      "title": "便利店",
+      "created": "2025-01-13 17:58",
+      "link": "https://imzm.im/711-store/",
+      "author": "陈仓颉",
+      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
+    },
     {
       "title": "std::thread()使用lambda表达式调用函数导致的离奇bug",
       "created": "2025-01-13 10:44",
@@ -132,6 +139,13 @@
       "link": "https://zhou.ge/2025-01-09.html",
       "author": "忆往事",
       "avatar": "https://zhou.ge/favicon.ico"
+    },
+    {
+      "title": "新公司聚餐",
+      "created": "2025-01-09 14:16",
+      "link": "https://hjyl.org/dinner-with-the-whole-company/",
+      "author": "皇家园林",
+      "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
     },
     {
       "title": "铁处女",
@@ -260,6 +274,13 @@
       "avatar": "https://cravatar.cn/avatar/9bb287fc3455d90580b3a098b31b1b6a?s=96&d=mm&r=g"
     },
     {
+      "title": "B621",
+      "created": "2025-01-03 20:06",
+      "link": "https://hjyl.org/b621/",
+      "author": "皇家园林",
+      "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
+    },
+    {
       "title": "悲观者正确 乐观者前行",
       "created": "2025-01-03 13:29",
       "link": "https://www.jeffer.xyz/cid/2310.html",
@@ -272,6 +293,13 @@
       "link": "https://pewae.com/2025/01/dream_44.html",
       "author": "破袜子",
       "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
+    },
+    {
+      "title": "车衣半罩",
+      "created": "2025-01-02 19:19",
+      "link": "https://hjyl.org/%e8%bd%a6%e8%a1%a3%e5%8d%8a%e7%bd%a9/",
+      "author": "皇家园林",
+      "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
     },
     {
       "title": "速度与激情 — 卡丁车初体验",
@@ -505,6 +533,13 @@
       "avatar": "https://gravatar.memobbs.app/avatar/f65df4d87240feb1cb247857a621a48f"
     },
     {
+      "title": "推荐一款LNMP 环境的开源面板——耗子面板",
+      "created": "2024-12-25 23:45",
+      "link": "https://hjyl.org/lnmp-haozi-panel/",
+      "author": "皇家园林",
+      "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
+    },
+    {
       "title": "急救培训",
       "created": "2024-12-25 20:34",
       "link": "https://anotherdayu.com/2024/6374/",
@@ -547,6 +582,13 @@
       "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
     },
     {
+      "title": "贷款利率从3.9降到3.3了",
+      "created": "2024-12-24 20:16",
+      "link": "https://hjyl.org/home-loan-rates-lower/",
+      "author": "皇家园林",
+      "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
+    },
+    {
       "title": "2024 年度书影音总结",
       "created": "2024-12-24 15:05",
       "link": "https://moreality.net/posts/20893/",
@@ -582,11 +624,25 @@
       "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
     },
     {
+      "title": "docker还能这么用",
+      "created": "2024-12-24 00:08",
+      "link": "https://hjyl.org/docker-php-music-json/",
+      "author": "皇家园林",
+      "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
+    },
+    {
       "title": "Say Goodbye to 2024",
       "created": "2024-12-23 22:13",
       "link": "https://justgoidea.com/posts/2024-029/",
       "author": "槿呈Goidea",
       "avatar": "https://justgoidea.com/favicon.svg"
+    },
+    {
+      "title": "网赚第一桶小小金",
+      "created": "2024-12-23 19:30",
+      "link": "https://hjyl.org/make-money-with-google-adsense/",
+      "author": "皇家园林",
+      "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
     },
     {
       "title": "入手京造JZ990，体验机械键盘的快感！",
@@ -643,6 +699,20 @@
       "link": "https://anotherdayu.com/2024/6304/",
       "author": "Dayu",
       "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
+    },
+    {
+      "title": "PVE及其虚拟机的问题",
+      "created": "2024-12-19 22:00",
+      "link": "https://hjyl.org/pve-debian-fnos-openwrt-win2025-ups/",
+      "author": "皇家园林",
+      "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
+    },
+    {
+      "title": "灌香肠",
+      "created": "2024-12-19 19:22",
+      "link": "https://hjyl.org/fill-the-sausage/",
+      "author": "皇家园林",
+      "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
     },
     {
       "title": "近日观影",
@@ -762,6 +832,13 @@
       "link": "https://xyzbz.cn/archives/1282/",
       "author": "网友小宋",
       "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
+    },
+    {
+      "title": "PVE系统r8125/2.5G驱动安装",
+      "created": "2024-12-15 00:56",
+      "link": "https://hjyl.org/pve-r8125-2-5g-driver/",
+      "author": "皇家园林",
+      "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
     },
     {
       "title": "再见百度SEO",
@@ -2435,13 +2512,6 @@
       "link": "https://joyqi.com/typecho/thoughts-on-commercializing-typecho.html",
       "author": "JoyQi",
       "avatar": "https://joyqi.com/apple-touch-icon.png"
-    },
-    {
-      "title": "从《笔记的方法》中学到的笔记的方法",
-      "created": "2023-11-28 00:29",
-      "link": "https://imzm.im/notes-on-how-to-take-effective-notes/",
-      "author": "陈仓颉",
-      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
     },
     {
       "title": "滨州游记",
