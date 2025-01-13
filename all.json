@@ -3,23 +3,23 @@
     "friends_num": 49,
     "active_num": 45,
     "error_num": 4,
-    "article_num": 377,
-    "last_updated_time": "2025-01-13 20:37:28"
+    "article_num": 367,
+    "last_updated_time": "2025-01-14 02:26:26"
   },
   "article_data": [
-    {
-      "title": "便利店",
-      "created": "2025-01-13 17:58",
-      "link": "https://imzm.im/711-store/",
-      "author": "陈仓颉",
-      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
-    },
     {
       "title": "std::thread()使用lambda表达式调用函数导致的离奇bug",
       "created": "2025-01-13 10:44",
       "link": "https://pewae.com/2025/01/strange-bug-caused-by-calling-functions-with-lambda-expressions-in-stdthread.html",
       "author": "破袜子",
       "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
+    },
+    {
+      "title": "2025 年双周记（〇）",
+      "created": "2025-01-13 08:00",
+      "link": "https://elizen.me/posts/2025/01/2025-week1-and-week2/",
+      "author": "Elizen",
+      "avatar": "https://gravatar.memobbs.app/avatar/f65df4d87240feb1cb247857a621a48f"
     },
     {
       "title": "挖？五指毛桃？好像是！",
@@ -160,13 +160,6 @@
       "link": "https://qq.md/post/55",
       "author": "叶开",
       "avatar": "https://qq.md/tx.png"
-    },
-    {
-      "title": "vivo X200 Pro 使用体验",
-      "created": "2025-01-08 23:59",
-      "link": "https://imzm.im/vivo-x200-pro/",
-      "author": "陈仓颉",
-      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
     },
     {
       "title": "话题：吐槽-灯会",
@@ -713,13 +706,6 @@
       "link": "https://hjyl.org/fill-the-sausage/",
       "author": "皇家园林",
       "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
-    },
-    {
-      "title": "近日观影",
-      "created": "2024-12-19 18:51",
-      "link": "https://imzm.im/two-movies-and-three-shows/",
-      "author": "陈仓颉",
-      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
     },
     {
       "title": "DIY明信片互换计划",
@@ -1702,13 +1688,6 @@
       "avatar": "https://youpai.roccoshi.top/img/avatar.jpg"
     },
     {
-      "title": "独立博客自省问卷15题",
-      "created": "2024-10-14 14:45",
-      "link": "https://imzm.im/15-questions-on-blogging/",
-      "author": "陈仓颉",
-      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
-    },
-    {
       "title": "第一次自行安装油烟机",
       "created": "2024-10-14 02:41",
       "link": "https://itlu.net/articles/2814.html",
@@ -2045,13 +2024,6 @@
       "avatar": "https://bluehe.cn/usr/uploads/2024/03/1678458078.png"
     },
     {
-      "title": "七月观影",
-      "created": "2024-08-12 14:50",
-      "link": "https://imzm.im/july-2024-watched/",
-      "author": "陈仓颉",
-      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
-    },
-    {
       "title": "狗咬我一口，我也要咬回去",
       "created": "2024-08-12 00:00",
       "link": "https://www.javis.me/dogfight/",
@@ -2283,13 +2255,6 @@
       "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
     },
     {
-      "title": "深夜发媸（39）",
-      "created": "2024-06-06 08:00",
-      "link": "https://elizen.me/posts/2024/06/talk-with-myself-39/",
-      "author": "Elizen",
-      "avatar": "https://gravatar.memobbs.app/avatar/f65df4d87240feb1cb247857a621a48f"
-    },
-    {
       "title": "她对此感到厌烦 | 读后",
       "created": "2024-06-04 08:00",
       "link": "https://www.javis.me/shes-tired/",
@@ -2302,13 +2267,6 @@
       "link": "https://www.ashsilent.com/shuoshuo/8393",
       "author": "Ashsilent Planet",
       "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
-    },
-    {
-      "title": "《富兰克林自传》书摘",
-      "created": "2024-05-26 02:12",
-      "link": "https://imzm.im/the-autobiography-of-benjamin-franklin/",
-      "author": "陈仓颉",
-      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
     },
     {
       "title": "读《中文互联网正在加速崩塌》",
@@ -2381,13 +2339,6 @@
       "avatar": "https://gravatar.memobbs.app/avatar/42542189ddb33064599dc88a5149bea7"
     },
     {
-      "title": "绿箭侠",
-      "created": "2024-04-09 13:52",
-      "link": "https://imzm.im/arrow/",
-      "author": "陈仓颉",
-      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
-    },
-    {
       "title": "长安公园植物园碎片兼求助",
       "created": "2024-04-07 16:42",
       "link": "https://dongjunke.cn/posts/2024/04/07/27334.html",
@@ -2409,25 +2360,11 @@
       "avatar": "https://gravatar.memobbs.app/avatar/42542189ddb33064599dc88a5149bea7"
     },
     {
-      "title": "三体问题",
-      "created": "2024-03-25 23:02",
-      "link": "https://imzm.im/three-body-problem/",
-      "author": "陈仓颉",
-      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
-    },
-    {
       "title": "玩文字游戏？维权",
       "created": "2024-03-23 10:57",
       "link": "https://digu.plus/post/f9d88e0a46654b7cbca6a3e6b9ce6bea/",
       "author": "嘀咕",
       "avatar": "https://digu.plus/usr/themes/ghost/images/favicon/64x64.png"
-    },
-    {
-      "title": "2024春节观影",
-      "created": "2024-02-17 23:15",
-      "link": "https://imzm.im/spring-festival-movies-2024/",
-      "author": "陈仓颉",
-      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
     },
     {
       "title": "十七年",
@@ -2442,13 +2379,6 @@
       "link": "https://joyqi.com/tech/use-an-outdated-mac-mini-as-soft-router.html",
       "author": "JoyQi",
       "avatar": "https://joyqi.com/apple-touch-icon.png"
-    },
-    {
-      "title": "《海王2》与 DCEU 的终结",
-      "created": "2024-01-10 00:30",
-      "link": "https://imzm.im/the-end-of-dceu/",
-      "author": "陈仓颉",
-      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
     },
     {
       "title": "平城古都，大同新府",
