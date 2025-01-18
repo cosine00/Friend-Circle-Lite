@@ -3,8 +3,8 @@
     "friends_num": 49,
     "active_num": 45,
     "error_num": 4,
-    "article_num": 367,
-    "last_updated_time": "2025-01-18 20:31:02"
+    "article_num": 368,
+    "last_updated_time": "2025-01-19 02:21:32"
   },
   "article_data": [
     {
@@ -13,6 +13,13 @@
       "link": "https://qq.md/post/58",
       "author": "叶开",
       "avatar": "https://qq.md/tx.png"
+    },
+    {
+      "title": "笔记：博记-从头来过",
+      "created": "2025-01-18 20:55",
+      "link": "https://kkn.me/note/%e7%ac%94%e8%ae%b0%ef%bc%9a%e5%8d%9a%e8%ae%b0-%e4%bb%8e%e5%a4%b4%e6%9d%a5%e8%bf%87",
+      "author": "沉沦博客",
+      "avatar": "https://cravatar.cn/avatar/9bb287fc3455d90580b3a098b31b1b6a?s=96&d=mm&r=g"
     },
     {
       "title": "Typecho后台登录钉钉提醒插件-DingTalkLoginNotify",
