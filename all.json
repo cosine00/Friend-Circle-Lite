@@ -4,9 +4,16 @@
     "active_num": 45,
     "error_num": 4,
     "article_num": 376,
-    "last_updated_time": "2025-01-23 09:18:55"
+    "last_updated_time": "2025-01-23 14:24:22"
   },
   "article_data": [
+    {
+      "title": "我差一点就发布了一款 Chrome 插件",
+      "created": "2025-01-23 08:00",
+      "link": "https://elizen.me/posts/2025/01/development-chrome-extension/",
+      "author": "Elizen",
+      "avatar": "https://gravatar.memobbs.app/avatar/f65df4d87240feb1cb247857a621a48f"
+    },
     {
       "title": "解决使用 Web 字体的过渡问题",
       "created": "2025-01-22 21:00",
@@ -2169,13 +2176,6 @@
       "link": "https://www.javis.me/what-did-i-do-in-the-first-half-of-2024/",
       "author": "查令十字街84号",
       "avatar": "https://b.storyo.cn/upload/logo.png"
-    },
-    {
-      "title": "7 月读书",
-      "created": "2024-06-27 08:00",
-      "link": "https://elizen.me/posts/2024/06/july-reading-plan/",
-      "author": "Elizen",
-      "avatar": "https://gravatar.memobbs.app/avatar/f65df4d87240feb1cb247857a621a48f"
     },
     {
       "title": "为什么心肺复苏技能值得学习",
