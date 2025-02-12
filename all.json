@@ -3,10 +3,24 @@
     "friends_num": 49,
     "active_num": 46,
     "error_num": 3,
-    "article_num": 387,
-    "last_updated_time": "2025-02-12 14:25:41"
+    "article_num": 397,
+    "last_updated_time": "2025-02-12 20:35:23"
   },
   "article_data": [
+    {
+      "title": "想你时你在闹海",
+      "created": "2025-02-13 01:30",
+      "link": "https://hux.ink/posts/nezha/",
+      "author": "落落vici",
+      "avatar": "https://cravatar.cn/avatar/bb78cd69edd84cdbdb99a491ea2dc6c8"
+    },
+    {
+      "title": "年总算，过完了",
+      "created": "2025-02-12 18:48",
+      "link": "https://ihaihe.cn/3043.htm",
+      "author": "三十里海河",
+      "avatar": "https://gravatar.memobbs.app/avatar/40c46b2a6ef05464946a7e3f5230bdfa16b5d4e861c7b69977ef77efde66638a"
+    },
     {
       "title": "定制博客开发者工具控制台个性化输出",
       "created": "2025-02-12 13:25",
@@ -204,13 +218,6 @@
       "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
     },
     {
-      "title": "2025蛇年春节",
-      "created": "2025-02-05 22:08",
-      "link": "https://hux.ink/posts/snake-year/",
-      "author": "落落vici",
-      "avatar": "https://cravatar.cn/avatar/bb78cd69edd84cdbdb99a491ea2dc6c8"
-    },
-    {
       "title": "乙巳蛇年-正月松声",
       "created": "2025-02-05 20:43",
       "link": "https://xyzbz.cn/archives/1322/",
@@ -293,6 +300,13 @@
       "link": "https://h4ck.org.cn/2025/02/19063",
       "author": "obaby",
       "avatar": "https://cdn.qyliu.top/i/2024/04/15/661d443b5359c.png"
+    },
+    {
+      "title": "2025 年双周记（一）",
+      "created": "2025-02-02 08:00",
+      "link": "https://elizen.me/posts/2025/02/2025-week3-and-week4/",
+      "author": "Elizen",
+      "avatar": "https://gravatar.memobbs.app/avatar/f65df4d87240feb1cb247857a621a48f"
     },
     {
       "title": "阿贝贝",
@@ -468,6 +482,13 @@
       "link": "https://pewae.com/2025/01/american-gladiators.html",
       "author": "破袜子",
       "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
+    },
+    {
+      "title": "我差一点就发布了一款 Chrome 插件",
+      "created": "2025-01-23 08:00",
+      "link": "https://elizen.me/posts/2025/01/development-chrome-extension/",
+      "author": "Elizen",
+      "avatar": "https://gravatar.memobbs.app/avatar/f65df4d87240feb1cb247857a621a48f"
     },
     {
       "title": "新年大礼包",
@@ -664,6 +685,13 @@
       "link": "https://pewae.com/2025/01/strange-bug-caused-by-calling-functions-with-lambda-expressions-in-stdthread.html",
       "author": "破袜子",
       "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
+    },
+    {
+      "title": "2025 年双周记（〇）",
+      "created": "2025-01-13 08:00",
+      "link": "https://elizen.me/posts/2025/01/2025-week1-and-week2.zh.md/",
+      "author": "Elizen",
+      "avatar": "https://gravatar.memobbs.app/avatar/f65df4d87240feb1cb247857a621a48f"
     },
     {
       "title": "挖？五指毛桃？好像是！",
@@ -876,13 +904,6 @@
       "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
     },
     {
-      "title": "折腾",
-      "created": "2025-01-02 20:07",
-      "link": "https://ihaihe.cn/2945.htm",
-      "author": "三十里海河",
-      "avatar": "https://gravatar.memobbs.app/avatar/40c46b2a6ef05464946a7e3f5230bdfa16b5d4e861c7b69977ef77efde66638a"
-    },
-    {
       "title": "车衣半罩",
       "created": "2025-01-02 19:19",
       "link": "https://hjyl.org/%e8%bd%a6%e8%a1%a3%e5%8d%8a%e7%bd%a9/",
@@ -1070,6 +1091,13 @@
       "link": "https://www.imsun.org/archives/1688.html",
       "author": "老孙博客",
       "avatar": "https://img.imsun.org/avatar.jpg"
+    },
+    {
+      "title": "2024 年概览",
+      "created": "2024-12-26 08:00",
+      "link": "https://elizen.me/posts/2024/12/2024-end/",
+      "author": "Elizen",
+      "avatar": "https://gravatar.memobbs.app/avatar/f65df4d87240feb1cb247857a621a48f"
     },
     {
       "title": "推荐一款LNMP 环境的开源面板——耗子面板",
@@ -1413,6 +1441,13 @@
       "link": "https://yayu.net/4705.html",
       "author": "雅余",
       "avatar": "https://yayu.net/favicon.ico"
+    },
+    {
+      "title": "突然就起风了",
+      "created": "2024-12-08 08:00",
+      "link": "https://elizen.me/posts/2024/12/cloudy/",
+      "author": "Elizen",
+      "avatar": "https://gravatar.memobbs.app/avatar/f65df4d87240feb1cb247857a621a48f"
     },
     {
       "title": "Syncthing多端同步神器win版SyncTrayzor安装及升级内核方法",
@@ -2185,6 +2220,13 @@
       "avatar": "https://b.storyo.cn/upload/logo.png"
     },
     {
+      "title": "叁拾周刊#002",
+      "created": "2024-08-23 08:00",
+      "link": "https://elizen.me/posts/2024/08/weekly-review-002/",
+      "author": "Elizen",
+      "avatar": "https://gravatar.memobbs.app/avatar/f65df4d87240feb1cb247857a621a48f"
+    },
+    {
       "title": "群晖Nas折腾失败手记[已成功解决]",
       "created": "2024-08-22 21:40",
       "link": "https://dongjunke.cn/posts/2024/08/22/63066.html",
@@ -2211,6 +2253,20 @@
       "link": "https://demochen.com/posts/20240821/",
       "author": "特立独行的异类",
       "avatar": "https://demochen.com/images/avatar.png"
+    },
+    {
+      "title": "周末养老 - 天津",
+      "created": "2024-08-19 08:00",
+      "link": "https://elizen.me/posts/2024/08/weekends-travel-tian-jin/",
+      "author": "Elizen",
+      "avatar": "https://gravatar.memobbs.app/avatar/f65df4d87240feb1cb247857a621a48f"
+    },
+    {
+      "title": "叁拾周刊#001",
+      "created": "2024-08-16 08:00",
+      "link": "https://elizen.me/posts/2024/08/weekly-review-001/",
+      "author": "Elizen",
+      "avatar": "https://gravatar.memobbs.app/avatar/f65df4d87240feb1cb247857a621a48f"
     },
     {
       "title": "在 Hugo 中使用 Shiki",
@@ -2283,6 +2339,13 @@
       "avatar": "https://atpx.com/favicon-32x32.png"
     },
     {
+      "title": "如何才能不变成晒娃狂魔",
+      "created": "2024-07-24 08:00",
+      "link": "https://elizen.me/posts/2024/07/how-to-avoid-becoming-a-baby-posting-enthusiast/",
+      "author": "Elizen",
+      "avatar": "https://gravatar.memobbs.app/avatar/f65df4d87240feb1cb247857a621a48f"
+    },
+    {
       "title": "线上问诊的经验",
       "created": "2024-07-23 01:19",
       "link": "https://demochen.com/posts/20240722/",
@@ -2295,6 +2358,13 @@
       "link": "https://www.ashsilent.com/shuoshuo/8411",
       "author": "Ashsilent Planet",
       "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
+    },
+    {
+      "title": "读书边角料之 Other Rivers",
+      "created": "2024-07-16 08:00",
+      "link": "https://elizen.me/posts/2024/07/reading-marginalia-of-other-rivers/",
+      "author": "Elizen",
+      "avatar": "https://gravatar.memobbs.app/avatar/f65df4d87240feb1cb247857a621a48f"
     },
     {
       "title": "加西亚·马尔克斯 - 我们八月见 | 读后",
