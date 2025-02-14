@@ -4,7 +4,7 @@
     "active_num": 46,
     "error_num": 3,
     "article_num": 397,
-    "last_updated_time": "2025-02-14 14:24:55"
+    "last_updated_time": "2025-02-14 20:34:52"
   },
   "article_data": [
     {
@@ -346,7 +346,7 @@
     {
       "title": "开工红包",
       "created": "2025-02-04 18:37",
-      "link": "https://hjyl.org/kick-off-bonus/",
+      "link": "/kick-off-bonus/",
       "author": "皇家园林",
       "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
     },
@@ -528,7 +528,7 @@
     {
       "title": "老家的医院和银行",
       "created": "2025-01-24 23:05",
-      "link": "https://hjyl.org/hospital-and-bank-in-shuanghe-town/",
+      "link": "/hospital-and-bank-in-shuanghe-town/",
       "author": "皇家园林",
       "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
     },
@@ -570,7 +570,7 @@
     {
       "title": "新年大礼包",
       "created": "2025-01-22 20:28",
-      "link": "https://hjyl.org/happy-new-year-2025/",
+      "link": "/happy-new-year-2025/",
       "author": "皇家园林",
       "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
     },
@@ -612,7 +612,7 @@
     {
       "title": "尬事二则",
       "created": "2025-01-21 01:03",
-      "link": "https://hjyl.org/two-embarrassing-things/",
+      "link": "/two-embarrassing-things/",
       "author": "皇家园林",
       "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
     },
@@ -864,7 +864,7 @@
     {
       "title": "新公司聚餐",
       "created": "2025-01-09 14:16",
-      "link": "https://hjyl.org/dinner-with-the-whole-company/",
+      "link": "/dinner-with-the-whole-company/",
       "author": "皇家园林",
       "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
     },
@@ -941,7 +941,7 @@
     {
       "title": "B621",
       "created": "2025-01-03 20:06",
-      "link": "https://hjyl.org/b621/",
+      "link": "/b621/",
       "author": "皇家园林",
       "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
     },
@@ -962,7 +962,7 @@
     {
       "title": "车衣半罩",
       "created": "2025-01-02 19:19",
-      "link": "https://hjyl.org/%e8%bd%a6%e8%a1%a3%e5%8d%8a%e7%bd%a9/",
+      "link": "/%e8%bd%a6%e8%a1%a3%e5%8d%8a%e7%bd%a9/",
       "author": "皇家园林",
       "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
     },
@@ -1158,7 +1158,7 @@
     {
       "title": "推荐一款LNMP 环境的开源面板——耗子面板",
       "created": "2024-12-25 23:45",
-      "link": "https://hjyl.org/lnmp-haozi-panel/",
+      "link": "/lnmp-haozi-panel/",
       "author": "皇家园林",
       "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
     },
@@ -1200,7 +1200,7 @@
     {
       "title": "贷款利率从3.9降到3.3了",
       "created": "2024-12-24 20:16",
-      "link": "https://hjyl.org/home-loan-rates-lower/",
+      "link": "/home-loan-rates-lower/",
       "author": "皇家园林",
       "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
     },
@@ -1235,7 +1235,7 @@
     {
       "title": "docker还能这么用",
       "created": "2024-12-24 00:08",
-      "link": "https://hjyl.org/docker-php-music-json/",
+      "link": "/docker-php-music-json/",
       "author": "皇家园林",
       "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
     },
