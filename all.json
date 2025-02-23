@@ -3,8 +3,8 @@
     "friends_num": 49,
     "active_num": 44,
     "error_num": 5,
-    "article_num": 364,
-    "last_updated_time": "2025-02-23 02:22:26"
+    "article_num": 369,
+    "last_updated_time": "2025-02-23 09:26:38"
   },
   "article_data": [
     {
@@ -1387,6 +1387,13 @@
       "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
     },
     {
+      "title": "2024 年数字工具箱",
+      "created": "2024-12-13 22:56",
+      "link": "https://justgoidea.com/posts/2024-028/",
+      "author": "槿呈Goidea",
+      "avatar": "https://justgoidea.com/favicon.svg"
+    },
+    {
       "title": "Claude MCP 体验: 实现一个 Arxiv 论文搜索工具",
       "created": "2024-12-13 15:20",
       "link": "https://moreality.net/posts/5672/",
@@ -1618,6 +1625,13 @@
       "avatar": "https://synyan.cn/wp-content/themes/Farallon-develop/build/images/favicon-s.png"
     },
     {
+      "title": "关于自我成长的实践：结合斯多葛主义、佛教与批判理论的每日修习",
+      "created": "2024-11-10 04:16",
+      "link": "https://justgoidea.com/posts/2024-027/",
+      "author": "槿呈Goidea",
+      "avatar": "https://justgoidea.com/favicon.svg"
+    },
+    {
       "title": "耳石症",
       "created": "2024-11-05 05:51",
       "link": "https://zhou.ge/2024-11-04.html",
@@ -1807,6 +1821,13 @@
       "avatar": "https://synyan.cn/wp-content/themes/Farallon-develop/build/images/favicon-s.png"
     },
     {
+      "title": "答复 dayu 的问卷",
+      "created": "2024-10-19 04:32",
+      "link": "https://justgoidea.com/posts/2024-026/",
+      "author": "槿呈Goidea",
+      "avatar": "https://justgoidea.com/favicon.svg"
+    },
+    {
       "title": "莫名的限我额度？硬杠到底",
       "created": "2024-10-18 22:20",
       "link": "https://digu.plus/post/2abdb68840a54b8abbc7b5671de22db6/",
@@ -1905,6 +1926,13 @@
       "avatar": "https://atpx.com/favicon-32x32.png"
     },
     {
+      "title": "里斯本日记（一）",
+      "created": "2024-09-30 04:07",
+      "link": "https://justgoidea.com/posts/2024-025/",
+      "author": "槿呈Goidea",
+      "avatar": "https://justgoidea.com/favicon.svg"
+    },
+    {
       "title": "更换博客logo",
       "created": "2024-09-27 16:12",
       "link": "https://www.jiangyu.org/logo-change/",
@@ -1973,6 +2001,13 @@
       "link": "https://dongjunke.cn/posts/2024/09/14/48283.html",
       "author": "东评西就",
       "avatar": "https://gravatar.memobbs.app/avatar/42542189ddb33064599dc88a5149bea7"
+    },
+    {
+      "title": "闲白",
+      "created": "2024-09-08 12:33",
+      "link": "https://justgoidea.com/posts/2024-024/",
+      "author": "槿呈Goidea",
+      "avatar": "https://justgoidea.com/favicon.svg"
     },
     {
       "title": "又被怼",
