@@ -1,18 +1,39 @@
 {
   "statistical_data": {
     "friends_num": 52,
-    "active_num": 45,
-    "error_num": 7,
-    "article_num": 385,
-    "last_updated_time": "2025-04-06 14:27:00"
+    "active_num": 46,
+    "error_num": 6,
+    "article_num": 394,
+    "last_updated_time": "2025-04-06 20:34:47"
   },
   "article_data": [
+    {
+      "title": "这酒什么档次？",
+      "created": "2025-04-06 19:40",
+      "link": "https://hjyl.org/what-level-of-the-liquor/",
+      "author": "皇家园林",
+      "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
+    },
     {
       "title": "维修冰箱翻车了",
       "created": "2025-04-06 19:10",
       "link": "https://zhou.ge/2025-04-06.html",
       "author": "忆往事",
       "avatar": "https://zhou.ge/favicon.ico"
+    },
+    {
+      "title": "长沙天心阁",
+      "created": "2025-04-06 16:44",
+      "link": "https://www.jiangyu.org/tian-xin-ge/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
+    },
+    {
+      "title": "阳山桃林灼其华",
+      "created": "2025-04-06 16:34",
+      "link": "https://synyan.cn/97253",
+      "author": "旅行漫记",
+      "avatar": "https://synyan.cn/wp-content/themes/Farallon-develop/build/images/favicon-s.png"
     },
     {
       "title": "二零二五南湖花镜",
@@ -190,6 +211,13 @@
       "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
     },
     {
+      "title": "像闪电一样加载WordPress页面：插件组和优化教程",
+      "created": "2025-03-27 14:16",
+      "link": "https://www.jeffer.xyz/cid/2695.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
+    },
+    {
       "title": "铲子与锅",
       "created": "2025-03-27 14:14",
       "link": "https://h4ck.org.cn/2025/03/19961",
@@ -251,6 +279,13 @@
       "link": "https://ihaihe.cn/3136.htm",
       "author": "三十里海河",
       "avatar": "https://gravatar.memobbs.app/avatar/40c46b2a6ef05464946a7e3f5230bdfa16b5d4e861c7b69977ef77efde66638a"
+    },
+    {
+      "title": "20250324 杂记  买菜 节省 扬沙子",
+      "created": "2025-03-24 12:40",
+      "link": "https://www.jeffer.xyz/cid/2665.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
     },
     {
       "title": "要是能重来 我要选李白",
@@ -363,6 +398,13 @@
       "link": "https://suus.me/202503192307/",
       "author": "蘇SU",
       "avatar": "https://cravatar.cn/avatar/4924b5f45b6b65e4925c35f9056fe3e7?d=identicon"
+    },
+    {
+      "title": "AI编程  20分钟Cusor创建一个WordPress网站插件",
+      "created": "2025-03-19 17:55",
+      "link": "https://www.jeffer.xyz/cid/2658.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
     },
     {
       "title": "出“险”了",
@@ -512,6 +554,13 @@
       "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
     },
     {
+      "title": "懒癌十级和大姨夫",
+      "created": "2025-03-11 11:28",
+      "link": "https://www.jeffer.xyz/cid/2591.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
+    },
+    {
       "title": "爬楼减脂 记录",
       "created": "2025-03-11 10:55",
       "link": "https://ihaihe.cn/3106.htm",
@@ -591,7 +640,7 @@
     {
       "title": "一键发布 Newsletter：AppleScript 与 Quaily CLI 的完美配合",
       "created": "2025-03-06 16:38",
-      "link": "https://justgoidea.com/2025-003/",
+      "link": "https://justgoidea.com/one-click-newsletter-publishing-perfect-integration-of-applescript-and-quaily-cli/",
       "author": "槿呈Goidea",
       "avatar": "https://justgoidea.com/favicon.svg"
     },
@@ -680,6 +729,13 @@
       "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
     },
     {
+      "title": "闺女 流感发烧的周末",
+      "created": "2025-03-03 08:17",
+      "link": "https://www.jeffer.xyz/cid/2537.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
+    },
+    {
       "title": "从 iPhone 16e 聊聊我理想中的手机",
       "created": "2025-03-03 00:51",
       "link": "https://veryjack.com/life/my_dream_cellphon/",
@@ -755,6 +811,20 @@
       "link": "https://suus.me/202502282347/",
       "author": "蘇SU",
       "avatar": "https://cravatar.cn/avatar/4924b5f45b6b65e4925c35f9056fe3e7?d=identicon"
+    },
+    {
+      "title": "项目与产品开发陷阱反思：拾起最小MVP和PMF方法论",
+      "created": "2025-03-01 02:00",
+      "link": "https://www.jeffer.xyz/cid/2526.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
+    },
+    {
+      "title": "Jefrss Simple 订阅插件 Wp-rss 朋友圈订阅插件",
+      "created": "2025-03-01 01:54",
+      "link": "https://www.jeffer.xyz/cid/2529.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
     },
     {
       "title": "噪鹃叫醒的二月",
@@ -974,6 +1044,13 @@
       "avatar": "https://cdn.1900.live/20190640/ico.png"
     },
     {
+      "title": "老年人的PUA搞笑",
+      "created": "2025-02-18 10:04",
+      "link": "https://www.jeffer.xyz/cid/2504.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
+    },
+    {
       "title": "小白也能轻松上手！用 Cherry Studio 搭建你的专属 AI 知识库",
       "created": "2025-02-17 22:54",
       "link": "https://veryjack.com/study/cherry-studio-ai-rag/",
@@ -1046,7 +1123,7 @@
     {
       "title": "悼友文",
       "created": "2025-02-16 06:27",
-      "link": "https://justgoidea.com/2025-002/",
+      "link": "https://justgoidea.com/eulogy-for-a-friend/",
       "author": "槿呈Goidea",
       "avatar": "https://justgoidea.com/favicon.svg"
     },
@@ -1100,6 +1177,13 @@
       "avatar": "https://www.jiangyu.org/images/icon.svg"
     },
     {
+      "title": "Jefrss Reader Lite1.03  WP-Rss博友圈展示插件",
+      "created": "2025-02-13 13:35",
+      "link": "https://www.jeffer.xyz/cid/2488.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
+    },
+    {
       "title": "想你时你在闹海",
       "created": "2025-02-13 01:30",
       "link": "https://hux.ink/posts/nezha/",
@@ -1144,7 +1228,7 @@
     {
       "title": "电子报与博客",
       "created": "2025-02-11 20:19",
-      "link": "https://justgoidea.com/2025-001/",
+      "link": "https://justgoidea.com/newsletter-and-blog/",
       "author": "槿呈Goidea",
       "avatar": "https://justgoidea.com/favicon.svg"
     },
@@ -1308,13 +1392,6 @@
       "link": "https://pewae.com/2025/01/records-of-movies-2024.html",
       "author": "破袜子",
       "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
-    },
-    {
-      "title": "惠山春见映月里",
-      "created": "2025-01-28 01:10",
-      "link": "https://synyan.cn/95236",
-      "author": "旅行漫记",
-      "avatar": "https://synyan.cn/wp-content/themes/Farallon-develop/build/images/favicon-s.png"
     },
     {
       "title": "Windows 11 安装软件",
@@ -1569,13 +1646,6 @@
       "avatar": "https://gravatar.memobbs.app/avatar/679666f7bd1af3e55f0e51dd70ed161c"
     },
     {
-      "title": "B621",
-      "created": "2025-01-03 20:06",
-      "link": "https://hjyl.org/b621/",
-      "author": "皇家园林",
-      "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
-    },
-    {
       "title": "梦四十四",
       "created": "2025-01-03 11:38",
       "link": "https://pewae.com/2025/01/dream_44.html",
@@ -1648,7 +1718,7 @@
     {
       "title": "里斯本日记（二）：邂逅塞图巴尔",
       "created": "2024-12-29 00:37",
-      "link": "https://justgoidea.com/2024-030/",
+      "link": "https://justgoidea.com/lisbon-diary-part-two-encountering-setubal/",
       "author": "槿呈Goidea",
       "avatar": "https://justgoidea.com/favicon.svg"
     },
@@ -1704,7 +1774,7 @@
     {
       "title": "Say Goodbye to 2024",
       "created": "2024-12-23 22:13",
-      "link": "https://justgoidea.com/2024-029/",
+      "link": "https://justgoidea.com/say-goodbye-to-2024/",
       "author": "槿呈Goidea",
       "avatar": "https://justgoidea.com/favicon.svg"
     },
@@ -1767,7 +1837,7 @@
     {
       "title": "2024 年数字工具箱",
       "created": "2024-12-13 22:56",
-      "link": "https://justgoidea.com/2024-028/",
+      "link": "https://justgoidea.com/how-i-computer-in-2024-chinese-version/",
       "author": "槿呈Goidea",
       "avatar": "https://justgoidea.com/favicon.svg"
     },
@@ -1879,7 +1949,7 @@
     {
       "title": "关于自我成长的实践：结合斯多葛主义、佛教与批判理论的每日修习",
       "created": "2024-11-10 04:16",
-      "link": "https://justgoidea.com/2024-027/",
+      "link": "https://justgoidea.com/practices-for-self-growth-daily-exercises-combining-stoicism-buddhism-and-critical-theory/",
       "author": "槿呈Goidea",
       "avatar": "https://justgoidea.com/favicon.svg"
     },
@@ -1938,13 +2008,6 @@
       "link": "https://www.yezhiyun.com/yun/71.html",
       "author": "Mr.He",
       "avatar": "https://cravatar.cn/avatar/d07ff632a5fa1256a69d92e1f9e38ce8?s=96&d=mm&r=g"
-    },
-    {
-      "title": "监测服务器流量并进行限制脚本",
-      "created": "2024-10-31 16:48",
-      "link": "https://www.jiangyu.org/traffic-monitor-sh/",
-      "author": "天一生水",
-      "avatar": "https://www.jiangyu.org/images/icon.svg"
     },
     {
       "title": "狂犬疫苗",
@@ -2082,7 +2145,7 @@
     {
       "title": "答复 dayu 的问卷",
       "created": "2024-10-19 04:32",
-      "link": "https://justgoidea.com/2024-026/",
+      "link": "https://justgoidea.com/responding-to-dayus-questionnaire/",
       "author": "槿呈Goidea",
       "avatar": "https://justgoidea.com/favicon.svg"
     },
@@ -2152,7 +2215,7 @@
     {
       "title": "里斯本日记（一）",
       "created": "2024-09-30 04:07",
-      "link": "https://justgoidea.com/2024-025/",
+      "link": "https://justgoidea.com/lisbon-diary-part-one/",
       "author": "槿呈Goidea",
       "avatar": "https://justgoidea.com/favicon.svg"
     },
