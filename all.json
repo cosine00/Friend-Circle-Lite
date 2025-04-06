@@ -4,7 +4,7 @@
     "active_num": 46,
     "error_num": 6,
     "article_num": 394,
-    "last_updated_time": "2025-04-06 02:24:29"
+    "last_updated_time": "2025-04-06 09:39:35"
   },
   "article_data": [
     {
@@ -612,7 +612,7 @@
     {
       "title": "一键发布 Newsletter：AppleScript 与 Quaily CLI 的完美配合",
       "created": "2025-03-06 16:38",
-      "link": "https://justgoidea.com/posts/2025-003/",
+      "link": "https://justgoidea.com/2025-003/",
       "author": "槿呈Goidea",
       "avatar": "https://justgoidea.com/favicon.svg"
     },
@@ -1095,7 +1095,7 @@
     {
       "title": "悼友文",
       "created": "2025-02-16 06:27",
-      "link": "https://justgoidea.com/posts/2025-002/",
+      "link": "https://justgoidea.com/2025-002/",
       "author": "槿呈Goidea",
       "avatar": "https://justgoidea.com/favicon.svg"
     },
@@ -1200,7 +1200,7 @@
     {
       "title": "电子报与博客",
       "created": "2025-02-11 20:19",
-      "link": "https://justgoidea.com/posts/2025-001/",
+      "link": "https://justgoidea.com/2025-001/",
       "author": "槿呈Goidea",
       "avatar": "https://justgoidea.com/favicon.svg"
     },
@@ -1703,8 +1703,8 @@
     },
     {
       "title": "里斯本日记（二）：邂逅塞图巴尔",
-      "created": "2024-12-29 00:22",
-      "link": "https://justgoidea.com/posts/2024-030/",
+      "created": "2024-12-29 00:37",
+      "link": "https://justgoidea.com/2024-030/",
       "author": "槿呈Goidea",
       "avatar": "https://justgoidea.com/favicon.svg"
     },
@@ -1760,7 +1760,7 @@
     {
       "title": "Say Goodbye to 2024",
       "created": "2024-12-23 22:13",
-      "link": "https://justgoidea.com/posts/2024-029/",
+      "link": "https://justgoidea.com/2024-029/",
       "author": "槿呈Goidea",
       "avatar": "https://justgoidea.com/favicon.svg"
     },
@@ -1816,14 +1816,14 @@
     {
       "title": "How I computer in 2024",
       "created": "2024-12-14 06:18",
-      "link": "https://justgoidea.com/posts/2024-028-en/",
+      "link": "https://justgoidea.com/how-i-computer-in-2024/",
       "author": "槿呈Goidea",
       "avatar": "https://justgoidea.com/favicon.svg"
     },
     {
       "title": "2024 年数字工具箱",
       "created": "2024-12-13 22:56",
-      "link": "https://justgoidea.com/posts/2024-028/",
+      "link": "https://justgoidea.com/2024-028/",
       "author": "槿呈Goidea",
       "avatar": "https://justgoidea.com/favicon.svg"
     },
@@ -1935,7 +1935,7 @@
     {
       "title": "关于自我成长的实践：结合斯多葛主义、佛教与批判理论的每日修习",
       "created": "2024-11-10 04:16",
-      "link": "https://justgoidea.com/posts/2024-027/",
+      "link": "https://justgoidea.com/2024-027/",
       "author": "槿呈Goidea",
       "avatar": "https://justgoidea.com/favicon.svg"
     },
@@ -2138,7 +2138,7 @@
     {
       "title": "答复 dayu 的问卷",
       "created": "2024-10-19 04:32",
-      "link": "https://justgoidea.com/posts/2024-026/",
+      "link": "https://justgoidea.com/2024-026/",
       "author": "槿呈Goidea",
       "avatar": "https://justgoidea.com/favicon.svg"
     },
@@ -2208,7 +2208,7 @@
     {
       "title": "里斯本日记（一）",
       "created": "2024-09-30 04:07",
-      "link": "https://justgoidea.com/posts/2024-025/",
+      "link": "https://justgoidea.com/2024-025/",
       "author": "槿呈Goidea",
       "avatar": "https://justgoidea.com/favicon.svg"
     },
