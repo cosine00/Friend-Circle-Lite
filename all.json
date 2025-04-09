@@ -4,9 +4,16 @@
     "active_num": 46,
     "error_num": 6,
     "article_num": 394,
-    "last_updated_time": "2025-04-09 02:27:20"
+    "last_updated_time": "2025-04-09 09:27:29"
   },
   "article_data": [
+    {
+      "title": "Manifest V3 之后如何屏蔽广告：NextDNS",
+      "created": "2025-04-09 05:48",
+      "link": "https://anotherdayu.com/2025/6697/",
+      "author": "Dayu",
+      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
+    },
     {
       "title": "我们为什么要多读书？",
       "created": "2025-04-09 05:28",
@@ -1399,13 +1406,6 @@
       "link": "https://elizen.me/posts/2025/02/2025-week3-and-week4/",
       "author": "Elizen",
       "avatar": "https://gravatar.memobbs.app/avatar/f65df4d87240feb1cb247857a621a48f"
-    },
-    {
-      "title": "艺术书盲盒",
-      "created": "2025-01-31 11:29",
-      "link": "https://anotherdayu.com/2025/6516/",
-      "author": "Dayu",
-      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
     },
     {
       "title": "一个实现自动网页剪藏的工作流",
