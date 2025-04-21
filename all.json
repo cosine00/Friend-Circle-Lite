@@ -4,9 +4,16 @@
     "active_num": 46,
     "error_num": 6,
     "article_num": 393,
-    "last_updated_time": "2025-04-21 14:28:56"
+    "last_updated_time": "2025-04-21 20:39:15"
   },
   "article_data": [
+    {
+      "title": "Mastodon新通知推送NoneBot",
+      "created": "2025-04-22 00:25",
+      "link": "https://www.imsun.org/archives/1742.html",
+      "author": "老孙博客",
+      "avatar": "https://img.imsun.org/avatar.jpg"
+    },
     {
       "title": "长毛象新通知推送TGBot",
       "created": "2025-04-21 12:35",
@@ -1770,13 +1777,6 @@
       "link": "https://justgoidea.com/lisbon-diary-part-two-encountering-setubal/",
       "author": "槿呈Goidea",
       "avatar": "https://justgoidea.com/favicon.svg"
-    },
-    {
-      "title": "使用Github Action自动生成静态相册",
-      "created": "2024-12-28 17:48",
-      "link": "https://www.imsun.org/archives/1684.html",
-      "author": "老孙博客",
-      "avatar": "https://img.imsun.org/avatar.jpg"
     },
     {
       "title": "2024 年概览",
