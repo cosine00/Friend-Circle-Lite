@@ -4,7 +4,7 @@
     "active_num": 46,
     "error_num": 6,
     "article_num": 393,
-    "last_updated_time": "2025-04-21 20:39:15"
+    "last_updated_time": "2025-04-22 02:27:45"
   },
   "article_data": [
     {
@@ -13,6 +13,13 @@
       "link": "https://www.imsun.org/archives/1742.html",
       "author": "老孙博客",
       "avatar": "https://img.imsun.org/avatar.jpg"
+    },
+    {
+      "title": "Google「提示词工程」白皮书阅读总结",
+      "created": "2025-04-21 22:45",
+      "link": "https://moreality.net/posts/6318/",
+      "author": "Moreality's Blog",
+      "avatar": "https://youpai.roccoshi.top/img/avatar.jpg"
     },
     {
       "title": "长毛象新通知推送TGBot",
@@ -2169,13 +2176,6 @@
       "link": "https://digu.plus/post/2abdb68840a54b8abbc7b5671de22db6/",
       "author": "嘀咕",
       "avatar": "https://digu.plus/usr/themes/ghost/images/favicon/64x64.png"
-    },
-    {
-      "title": "Blelloch 并行扫描算法",
-      "created": "2024-10-18 21:31",
-      "link": "https://moreality.net/posts/54261/",
-      "author": "Moreality's Blog",
-      "avatar": "https://youpai.roccoshi.top/img/avatar.jpg"
     },
     {
       "title": "Fediverse 与社交",
