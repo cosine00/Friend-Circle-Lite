@@ -4,20 +4,27 @@
     "active_num": 46,
     "error_num": 6,
     "article_num": 393,
-    "last_updated_time": "2025-04-30 20:39:47"
+    "last_updated_time": "2025-05-01 02:28:31"
   },
   "article_data": [
     {
-      "title": "AI开发：外贸需求WordPress静态页面指向插件",
-      "created": "2025-04-30 15:04",
-      "link": "https://www.jeffer.xyz/cid/2875.html",
+      "title": "我用 AI 做了两个 WordPress 插件 —— 好物/应用分享页",
+      "created": "2025-05-01 00:40",
+      "link": "https://veryjack.com/technique/two_wordpress_plugin/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
+    },
+    {
+      "title": "4月杂记  动物园 鱼缸电机炸机 停电",
+      "created": "2025-04-30 15:58",
+      "link": "https://www.jeffer.xyz/cid/2881.html",
       "author": "Jeffer.Z的博客",
       "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
     },
     {
-      "title": "4月杂记  动物园 鱼缸电机炸机 停电",
-      "created": "2025-04-30 14:58",
-      "link": "https://www.jeffer.xyz/cid/2881.html",
+      "title": "AI开发：外贸需求WordPress静态页面指向插件",
+      "created": "2025-04-30 14:04",
+      "link": "https://www.jeffer.xyz/cid/2875.html",
       "author": "Jeffer.Z的博客",
       "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
     },
@@ -1637,13 +1644,6 @@
       "link": "https://itlu.net/articles/2824.html",
       "author": "挨踢路",
       "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
-    },
-    {
-      "title": "谁说电动车不能开长途？1700公里春运返程分享",
-      "created": "2025-01-26 12:38",
-      "link": "https://veryjack.com/life/1700km_journey_with_electric_car/",
-      "author": "Jack's Space",
-      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
     },
     {
       "title": "洗衣机脱水时渗水",
