@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 52,
-    "active_num": 45,
-    "error_num": 7,
-    "article_num": 383,
-    "last_updated_time": "2025-05-07 09:40:59"
+    "active_num": 46,
+    "error_num": 6,
+    "article_num": 393,
+    "last_updated_time": "2025-05-07 14:30:05"
   },
   "article_data": [
     {
@@ -20,6 +20,13 @@
       "link": "https://anotherdayu.com/2025/6919/",
       "author": "Dayu",
       "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
+    },
+    {
+      "title": "与其内耗，不如去山里 —— 四明山",
+      "created": "2025-05-06 23:01",
+      "link": "https://veryjack.com/photograph/simingshan/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
     },
     {
       "title": "PIVOT Vol.16 输入法、咖啡和爵士",
@@ -120,6 +127,13 @@
       "avatar": "https://www.jiangyu.org/images/icon.svg"
     },
     {
+      "title": "我用 AI 做了两个 WordPress 插件 —— 好物/应用分享页",
+      "created": "2025-05-01 00:40",
+      "link": "https://veryjack.com/technique/two_wordpress_plugin/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
+    },
+    {
       "title": "4月杂记  动物园 鱼缸电机炸机 停电",
       "created": "2025-04-30 15:58",
       "link": "https://www.jeffer.xyz/cid/2881.html",
@@ -146,6 +160,13 @@
       "link": "https://yinji.org/5484.html",
       "author": "印记",
       "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
+    },
+    {
+      "title": "最近买了啥",
+      "created": "2025-04-29 00:13",
+      "link": "https://veryjack.com/life/what_i_bought/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
     },
     {
       "title": "于日常处 · 四月集",
@@ -708,6 +729,13 @@
       "avatar": "https://yayu.net/favicon.ico"
     },
     {
+      "title": "这个桌面宠物也太可爱了吧！",
+      "created": "2025-03-30 10:03",
+      "link": "https://veryjack.com/technique/docko/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
+    },
+    {
       "title": "黄泥岭山水蓝园",
       "created": "2025-03-29 23:45",
       "link": "https://synyan.cn/96974",
@@ -720,6 +748,13 @@
       "link": "https://suus.me/202503282209/",
       "author": "蘇SU",
       "avatar": "https://cravatar.cn/avatar/4924b5f45b6b65e4925c35f9056fe3e7?d=identicon"
+    },
+    {
+      "title": "“废物“如我，也能跑完半马",
+      "created": "2025-03-29 00:16",
+      "link": "https://veryjack.com/life/my_first_half_marathon/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
     },
     {
       "title": "我很爱我的车",
@@ -1212,6 +1247,20 @@
       "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
     },
     {
+      "title": "从 iPhone 16e 聊聊我理想中的手机",
+      "created": "2025-03-03 00:51",
+      "link": "https://veryjack.com/life/my_dream_cellphon/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
+    },
+    {
+      "title": "今日天气不错，踏春去",
+      "created": "2025-03-02 19:16",
+      "link": "https://veryjack.com/life/2025_spring/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
+    },
+    {
       "title": "vllm 的 cpu offload 参数卸载逻辑代码简析",
       "created": "2025-03-02 17:08",
       "link": "https://moreality.net/posts/28374/",
@@ -1238,6 +1287,13 @@
       "link": "https://hux.ink/posts/my-only/",
       "author": "落落vici",
       "avatar": "https://cravatar.cn/avatar/bb78cd69edd84cdbdb99a491ea2dc6c8"
+    },
+    {
+      "title": "3 块钱就能开锁，新技能 Get",
+      "created": "2025-03-01 23:46",
+      "link": "https://veryjack.com/life/3rmb_to_unlock/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
     },
     {
       "title": "Nikon Z5 开箱体验",
@@ -1429,11 +1485,25 @@
       "avatar": "https://cdn.1900.live/20190640/ico.png"
     },
     {
+      "title": "小白也能轻松上手！用 Cherry Studio 搭建你的专属 AI 知识库",
+      "created": "2025-02-17 22:54",
+      "link": "https://veryjack.com/study/cherry-studio-ai-rag/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
+    },
+    {
       "title": "好大一场雪",
       "created": "2025-02-17 10:44",
       "link": "https://hisherry.com/%e5%8a%a0%e5%9b%bd%e7%94%9f%e6%b4%bb/4817/",
       "author": "燕渡寒潭",
       "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
+    },
+    {
+      "title": "装备+1，70块不到的磁吸无线充电宝 — 移速 D05",
+      "created": "2025-02-17 09:20",
+      "link": "https://veryjack.com/life/magsafe_battery/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
     },
     {
       "title": "2025 年双周记（二）",
