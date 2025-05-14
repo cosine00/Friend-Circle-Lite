@@ -3,10 +3,17 @@
     "friends_num": 52,
     "active_num": 46,
     "error_num": 6,
-    "article_num": 383,
-    "last_updated_time": "2025-05-14 14:30:00"
+    "article_num": 393,
+    "last_updated_time": "2025-05-14 20:41:23"
   },
   "article_data": [
+    {
+      "title": "PIVOT Vol.17 云儿在天上飘",
+      "created": "2025-05-14 20:06",
+      "link": "https://anotherdayu.com/2025/6966/",
+      "author": "Dayu",
+      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
+    },
     {
       "title": "认知 觉醒了吗？",
       "created": "2025-05-14 10:45",
@@ -43,7 +50,7 @@
       "avatar": "https://bluehe.cn/usr/uploads/2024/03/1678458078.png"
     },
     {
-      "title": "259丶立夏",
+      "title": "259、立夏",
       "created": "2025-05-13 10:38",
       "link": "https://1900.live/259zhu-li-xia/",
       "author": "1900'blog",
@@ -699,13 +706,6 @@
       "link": "https://www.jiangyu.org/xian-qin-han-tang-hua-quan-ji/",
       "author": "天一生水",
       "avatar": "https://www.jiangyu.org/images/icon.svg"
-    },
-    {
-      "title": "Manifest V3 之后如何屏蔽广告：NextDNS",
-      "created": "2025-04-09 05:48",
-      "link": "https://anotherdayu.com/2025/6697/",
-      "author": "Dayu",
-      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
     },
     {
       "title": "我们为什么要多读书？",
@@ -2395,6 +2395,13 @@
       "avatar": "https://b.storyo.cn/upload/logo.png"
     },
     {
+      "title": "再见了 Kindle",
+      "created": "2024-08-07 00:16",
+      "link": "https://joyqi.com/funny/goodbye-kindle.html",
+      "author": "JoyQi",
+      "avatar": "https://joyqi.com/apple-touch-icon.png"
+    },
+    {
       "title": "炒菜万能公式",
       "created": "2024-07-26 16:22",
       "link": "https://www.eallion.com/guide-to-cooking/",
@@ -2528,6 +2535,13 @@
       "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
     },
     {
+      "title": "2024 美国行",
+      "created": "2024-04-19 20:31",
+      "link": "https://joyqi.com/life/2024-usa-trip.html",
+      "author": "JoyQi",
+      "avatar": "https://joyqi.com/apple-touch-icon.png"
+    },
+    {
       "title": "我还是个孩子啊",
       "created": "2024-04-18 15:03",
       "link": "https://digu.plus/post/96c1f2c1ff7544039af0d88124dd3de9/",
@@ -2570,6 +2584,13 @@
       "avatar": "https://digu.plus/usr/themes/ghost/images/favicon/64x64.png"
     },
     {
+      "title": "用一台被淘汰的 Mac mini 来做软路由",
+      "created": "2024-01-25 01:35",
+      "link": "https://joyqi.com/tech/use-an-outdated-mac-mini-as-soft-router.html",
+      "author": "JoyQi",
+      "avatar": "https://joyqi.com/apple-touch-icon.png"
+    },
+    {
       "title": "平城古都，大同新府",
       "created": "2024-01-02 05:34",
       "link": "https://demochen.com/posts/20240101/",
@@ -2589,6 +2610,55 @@
       "link": "https://demochen.com/posts/20231226/",
       "author": "特立独行的异类",
       "avatar": "https://demochen.com/images/avatar.png"
+    },
+    {
+      "title": "一次惊心动魄的数据拯救之旅",
+      "created": "2023-12-24 08:20",
+      "link": "https://joyqi.com/tech/save-my-kvm-qcow2-image-from-zfs.html",
+      "author": "JoyQi",
+      "avatar": "https://joyqi.com/apple-touch-icon.png"
+    },
+    {
+      "title": "Typecho 插件开发模版",
+      "created": "2023-12-19 20:32",
+      "link": "https://joyqi.com/typecho/plugin-template.html",
+      "author": "JoyQi",
+      "avatar": "https://joyqi.com/apple-touch-icon.png"
+    },
+    {
+      "title": "付费的 SSL 证书是不是智商税",
+      "created": "2023-12-16 02:32",
+      "link": "https://joyqi.com/cloud/ssl-certificates-paid-or-intelligence-tax.html",
+      "author": "JoyQi",
+      "avatar": "https://joyqi.com/apple-touch-icon.png"
+    },
+    {
+      "title": "对 Typecho 商业化的一些思考",
+      "created": "2023-12-14 07:33",
+      "link": "https://joyqi.com/typecho/thoughts-on-commercializing-typecho.html",
+      "author": "JoyQi",
+      "avatar": "https://joyqi.com/apple-touch-icon.png"
+    },
+    {
+      "title": "滨州游记",
+      "created": "2023-10-05 00:15",
+      "link": "https://joyqi.com/life/binzhou-travel-notes.html",
+      "author": "JoyQi",
+      "avatar": "https://joyqi.com/apple-touch-icon.png"
+    },
+    {
+      "title": "Typecho 1.3 开发计划",
+      "created": "2023-09-22 03:03",
+      "link": "https://joyqi.com/typecho/roadmap-for-typecho-13.html",
+      "author": "JoyQi",
+      "avatar": "https://joyqi.com/apple-touch-icon.png"
+    },
+    {
+      "title": "手机的选择",
+      "created": "2023-09-20 01:56",
+      "link": "https://joyqi.com/funny/choice-of-mobile-phone.html",
+      "author": "JoyQi",
+      "avatar": "https://joyqi.com/apple-touch-icon.png"
     },
     {
       "title": "久违的出差2",
