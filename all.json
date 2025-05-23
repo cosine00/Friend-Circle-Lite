@@ -4,9 +4,16 @@
     "active_num": 46,
     "error_num": 6,
     "article_num": 393,
-    "last_updated_time": "2025-05-23 09:41:38"
+    "last_updated_time": "2025-05-23 14:29:50"
   },
   "article_data": [
+    {
+      "title": "微软开源的更贴近Windows习惯的Linux命令行文本编辑器：edit",
+      "created": "2025-05-23 11:15",
+      "link": "https://1900.live/wei-ruan-kai-yuan-de-geng-tie-jin-windowsxi-guan-de-linuxming-ling-xing-wen-ben-bian-ji-qi-edit/",
+      "author": "1900'blog",
+      "avatar": "https://cdn.1900.live/20190640/ico.png"
+    },
     {
       "title": "意外",
       "created": "2025-05-22 15:40",
@@ -741,13 +748,6 @@
       "link": "https://yayu.net/5105.html",
       "author": "雅余",
       "avatar": "https://yayu.net/favicon.ico"
-    },
-    {
-      "title": "Memos同步至Mastodon(长毛象)",
-      "created": "2025-04-12 18:26",
-      "link": "https://1900.live/memostong-bu-zhi-mastodon-chang-mao-xiang/",
-      "author": "1900'blog",
-      "avatar": "https://cdn.1900.live/20190640/ico.png"
     },
     {
       "title": "沉迷“吉卜力”中……",
