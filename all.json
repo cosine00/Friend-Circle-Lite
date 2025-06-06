@@ -4,9 +4,16 @@
     "active_num": 46,
     "error_num": 6,
     "article_num": 393,
-    "last_updated_time": "2025-06-06 20:41:43"
+    "last_updated_time": "2025-06-07 02:29:36"
   },
   "article_data": [
+    {
+      "title": "ChatGPT 记忆模式",
+      "created": "2025-06-06 22:38",
+      "link": "https://anotherdayu.com/2025/7034/",
+      "author": "Dayu",
+      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
+    },
     {
       "title": "分歧",
       "created": "2025-06-06 22:34",
@@ -790,13 +797,6 @@
       "link": "https://suus.me/202504241923/",
       "author": "蘇SU",
       "avatar": "https://cravatar.cn/avatar/4924b5f45b6b65e4925c35f9056fe3e7?d=identicon"
-    },
-    {
-      "title": "我若浮云自在游: 湖区和 Tripsy",
-      "created": "2025-04-24 03:45",
-      "link": "https://anotherdayu.com/2025/6723/",
-      "author": "Dayu",
-      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
     },
     {
       "title": "Of Studies",
