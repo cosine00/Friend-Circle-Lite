@@ -1,12 +1,19 @@
 {
   "statistical_data": {
     "friends_num": 52,
-    "active_num": 41,
-    "error_num": 11,
-    "article_num": 344,
-    "last_updated_time": "2025-06-17 09:46:07"
+    "active_num": 45,
+    "error_num": 7,
+    "article_num": 383,
+    "last_updated_time": "2025-06-17 14:31:35"
   },
   "article_data": [
+    {
+      "title": "蚊子",
+      "created": "2025-06-17 12:16",
+      "link": "https://ihaihe.cn/3285.htm",
+      "author": "三十里海河",
+      "avatar": "https://gravatar.memobbs.app/avatar/40c46b2a6ef05464946a7e3f5230bdfa16b5d4e861c7b69977ef77efde66638a"
+    },
     {
       "title": "乙巳蛇年-六月半",
       "created": "2025-06-17 08:32",
@@ -104,6 +111,13 @@
       "link": "https://anotherdayu.com/2025/7051/",
       "author": "Dayu",
       "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
+    },
+    {
+      "title": "监控升级",
+      "created": "2025-06-10 23:12",
+      "link": "https://zhou.ge/2025-06-10.html",
+      "author": "忆往事",
+      "avatar": "https://zhou.ge/favicon.ico"
     },
     {
       "title": "旅行日记·大连",
@@ -239,6 +253,13 @@
       "avatar": "https://cdn.1900.live/20190640/ico.png"
     },
     {
+      "title": "端午的粽子",
+      "created": "2025-06-03 22:03",
+      "link": "https://hjyl.org/lated-zongzi/",
+      "author": "皇家园林",
+      "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
+    },
+    {
       "title": "快乐六一 超级飞侠亲子乐运会",
       "created": "2025-06-03 17:40",
       "link": "https://hux.ink/posts/superwings-family-gala/",
@@ -337,11 +358,25 @@
       "avatar": "https://img.imsun.org/avatar.jpg"
     },
     {
+      "title": "移动宽带半价优惠三年",
+      "created": "2025-05-30 23:34",
+      "link": "https://hjyl.org/half-price-cmcc-for-three-years/",
+      "author": "皇家园林",
+      "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
+    },
+    {
       "title": "五月选记",
       "created": "2025-05-30 22:40",
       "link": "https://hux.ink/posts/2025mayday/",
       "author": "落落vici",
       "avatar": "https://cravatar.cn/avatar/bb78cd69edd84cdbdb99a491ea2dc6c8"
+    },
+    {
+      "title": "一年不如一年",
+      "created": "2025-05-30 22:21",
+      "link": "https://hjyl.org/lower-than-last-year/",
+      "author": "皇家园林",
+      "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
     },
     {
       "title": "天津天津",
@@ -484,6 +519,13 @@
       "avatar": "https://cdn.qyliu.top/i/2024/04/15/661d443b5359c.png"
     },
     {
+      "title": "互联网之下没有新鲜事",
+      "created": "2025-05-20 17:59",
+      "link": "https://www.jeffer.xyz/cid/2935.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
+    },
+    {
       "title": "【翻译】让MFC的窗口程序支持输出到stdout",
       "created": "2025-05-20 16:35",
       "link": "https://pewae.com/2025/05/how-to-write-to-stdout-from-an-mfc-program.html",
@@ -547,6 +589,13 @@
       "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
     },
     {
+      "title": "董某莹与肖某引发舆情事件迎来初步通报",
+      "created": "2025-05-16 05:48",
+      "link": "https://itlu.net/articles/2834.html",
+      "author": "挨踢路",
+      "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
+    },
+    {
       "title": "广西科技馆游记",
       "created": "2025-05-15 19:54",
       "link": "https://bluehe.cn/archives/gx-st-museum",
@@ -561,6 +610,13 @@
       "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
     },
     {
+      "title": "尝尝门店的甜点",
+      "created": "2025-05-14 21:09",
+      "link": "https://hjyl.org/dessert-in-the-store/",
+      "author": "皇家园林",
+      "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
+    },
+    {
       "title": "PIVOT Vol.17 云儿在天上飘",
       "created": "2025-05-14 20:06",
       "link": "https://anotherdayu.com/2025/6966/",
@@ -573,6 +629,13 @@
       "link": "https://imzm.im/cognitive-awakening/",
       "author": "陈仓颉",
       "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
+    },
+    {
+      "title": "卷死实体",
+      "created": "2025-05-13 20:23",
+      "link": "https://zhou.ge/2025-05-13.html",
+      "author": "忆往事",
+      "avatar": "https://zhou.ge/favicon.ico"
     },
     {
       "title": "2025 再回顾 Orion 浏览器",
@@ -594,6 +657,13 @@
       "link": "https://1900.live/259zhu-li-xia/",
       "author": "1900'blog",
       "avatar": "https://cdn.1900.live/20190640/ico.png"
+    },
+    {
+      "title": "南航的绑定手机，能把人逼疯",
+      "created": "2025-05-13 07:52",
+      "link": "https://itlu.net/articles/2833.html",
+      "author": "挨踢路",
+      "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
     },
     {
       "title": "汉字的不可拼音化",
@@ -636,6 +706,20 @@
       "link": "https://pewae.com/2025/05/my-father-in-laws-way-of-cooking-fried-noodles.html",
       "author": "破袜子",
       "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
+    },
+    {
+      "title": "人在路上行走，也需要有安全距离了！",
+      "created": "2025-05-10 22:22",
+      "link": "https://itlu.net/articles/2832.html",
+      "author": "挨踢路",
+      "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
+    },
+    {
+      "title": "整一个纱窗",
+      "created": "2025-05-10 20:46",
+      "link": "https://hjyl.org/window-screen/",
+      "author": "皇家园林",
+      "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
     },
     {
       "title": "宝界晴澜映蠡畔",
@@ -715,6 +799,13 @@
       "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
     },
     {
+      "title": "“速成医生”还是“资源咖通道”？协和4+4项目为何引爆全民焦虑",
+      "created": "2025-05-06 05:20",
+      "link": "https://itlu.net/articles/2831.html",
+      "author": "挨踢路",
+      "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
+    },
+    {
       "title": "回农村",
       "created": "2025-05-05 19:10",
       "link": "https://ihaihe.cn/3221.htm",
@@ -743,6 +834,13 @@
       "avatar": "https://synyan.cn/wp-content/themes/Farallon-develop/build/images/favicon-s.png"
     },
     {
+      "title": "回农村当猪，到城里当牛马",
+      "created": "2025-05-02 17:54",
+      "link": "https://hjyl.org/pig-at-home-and-niuma-in-city/",
+      "author": "皇家园林",
+      "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
+    },
+    {
       "title": "#202504",
       "created": "2025-05-02 13:20",
       "link": "https://wangyunzi.com/posts/154/",
@@ -755,6 +853,13 @@
       "link": "https://xyzbz.cn/archives/1387/",
       "author": "网友小宋",
       "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
+    },
+    {
+      "title": "烂透",
+      "created": "2025-05-02 00:05",
+      "link": "https://itlu.net/articles/2830.html",
+      "author": "挨踢路",
+      "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
     },
     {
       "title": "暮春驻帐渤公岛",
@@ -776,6 +881,13 @@
       "link": "https://veryjack.com/technique/two_wordpress_plugin/",
       "author": "Jack's Space",
       "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
+    },
+    {
+      "title": "4月杂记  动物园 鱼缸电机炸机 停电",
+      "created": "2025-04-30 15:58",
+      "link": "https://www.jeffer.xyz/cid/2881.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
     },
     {
       "title": "武汉游记",
@@ -811,6 +923,13 @@
       "link": "https://pewae.com/2025/04/random_kuso_105.html",
       "author": "破袜子",
       "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
+    },
+    {
+      "title": "六安瓜片",
+      "created": "2025-04-27 19:23",
+      "link": "https://hjyl.org/lu-an-guapian-tea/",
+      "author": "皇家园林",
+      "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
     },
     {
       "title": "未曾踏足的小径",
@@ -869,6 +988,13 @@
       "avatar": "https://justgoidea.com/favicon.svg"
     },
     {
+      "title": "黑苹果",
+      "created": "2025-04-20 20:34",
+      "link": "https://hjyl.org/hackintosh/",
+      "author": "皇家园林",
+      "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
+    },
+    {
       "title": "末後一著，盡顯禪者本色",
       "created": "2025-04-20 16:37",
       "link": "https://justgoidea.com/mo-hou-yi-zhao-jin-xian-chan-zhe-ben-se/",
@@ -888,6 +1014,13 @@
       "link": "https://xyzbz.cn/archives/1380/",
       "author": "网友小宋",
       "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
+    },
+    {
+      "title": "转眼一年了",
+      "created": "2025-04-18 23:17",
+      "link": "https://hjyl.org/one-year-later/",
+      "author": "皇家园林",
+      "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
     },
     {
       "title": "看图不说话20250417",
@@ -1030,13 +1163,6 @@
       "avatar": "https://www.jiangyu.org/images/icon.svg"
     },
     {
-      "title": "4月周记一",
-      "created": "2025-04-08 15:28",
-      "link": "https://ihaihe.cn/3189.htm",
-      "author": "三十里海河",
-      "avatar": "https://gravatar.memobbs.app/avatar/40c46b2a6ef05464946a7e3f5230bdfa16b5d4e861c7b69977ef77efde66638a"
-    },
-    {
       "title": "稀缺大脑",
       "created": "2025-04-08 14:45",
       "link": "https://imzm.im/scarcity-brain/",
@@ -1044,11 +1170,25 @@
       "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
     },
     {
+      "title": "这很危险！",
+      "created": "2025-04-07 19:54",
+      "link": "https://hjyl.org/so-dangerous/",
+      "author": "皇家园林",
+      "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
+    },
+    {
       "title": "Typecho 批量插入附件 并实现图片预览[2025/04/25更新]",
       "created": "2025-04-07 18:52",
       "link": "https://www.imsun.org/archives/1735.html",
       "author": "老孙博客",
       "avatar": "https://img.imsun.org/avatar.jpg"
+    },
+    {
+      "title": "维修冰箱翻车了",
+      "created": "2025-04-06 19:10",
+      "link": "https://zhou.ge/2025-04-06.html",
+      "author": "忆往事",
+      "avatar": "https://zhou.ge/favicon.ico"
     },
     {
       "title": "长沙天心阁",
@@ -1098,6 +1238,13 @@
       "link": "https://yinji.org/5442.html",
       "author": "印记",
       "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
+    },
+    {
+      "title": "三星S24",
+      "created": "2025-03-30 17:08",
+      "link": "https://zhou.ge/2025-03-30.html",
+      "author": "忆往事",
+      "avatar": "https://zhou.ge/favicon.ico"
     },
     {
       "title": "周末澳门 City Walk",
@@ -1163,6 +1310,13 @@
       "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
     },
     {
+      "title": "像闪电一样加载WordPress页面：插件组和优化教程",
+      "created": "2025-03-27 14:16",
+      "link": "https://www.jeffer.xyz/cid/2695.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
+    },
+    {
       "title": "访客统计插件 Visitor Statistics",
       "created": "2025-03-26 13:59",
       "link": "https://kkn.me/4465.html",
@@ -1196,6 +1350,13 @@
       "link": "https://bluehe.cn/archives/traffic-accident",
       "author": "云心怀鹤",
       "avatar": "https://bluehe.cn/usr/uploads/2024/03/1678458078.png"
+    },
+    {
+      "title": "20250324 杂记  买菜 节省 扬沙子",
+      "created": "2025-03-24 12:40",
+      "link": "https://www.jeffer.xyz/cid/2665.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
     },
     {
       "title": "周记002",
@@ -1252,6 +1413,13 @@
       "link": "https://suus.me/202503192307/",
       "author": "蘇SU",
       "avatar": "https://cravatar.cn/avatar/4924b5f45b6b65e4925c35f9056fe3e7?d=identicon"
+    },
+    {
+      "title": "AI编程  20分钟Cusor创建一个WordPress网站插件",
+      "created": "2025-03-19 17:55",
+      "link": "https://www.jeffer.xyz/cid/2658.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
     },
     {
       "title": "出“险”了",
@@ -1352,6 +1520,20 @@
       "avatar": "https://www.jiangyu.org/images/icon.svg"
     },
     {
+      "title": "懒癌十级和大姨夫",
+      "created": "2025-03-11 11:28",
+      "link": "https://www.jeffer.xyz/cid/2591.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
+    },
+    {
+      "title": "高德地图的车道级导航比百度车道级导航更精准",
+      "created": "2025-03-09 23:00",
+      "link": "https://itlu.net/articles/2829.html",
+      "author": "挨踢路",
+      "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
+    },
+    {
       "title": "自建字体分包服务之中文网字计划",
       "created": "2025-03-09 21:07",
       "link": "https://xyzbz.cn/archives/1370/",
@@ -1387,6 +1569,13 @@
       "avatar": "https://justgoidea.com/favicon.svg"
     },
     {
+      "title": "Edge浏览器默认劫持百度搜索，带上尾巴?tn=68018901_16_pg",
+      "created": "2025-03-06 08:31",
+      "link": "https://itlu.net/articles/2828.html",
+      "author": "挨踢路",
+      "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
+    },
+    {
       "title": "[转载]一位父亲的灵魂叩问：我们究竟在为什么而养育孩子？",
       "created": "2025-03-05 03:22",
       "link": "https://suus.me/202503041922/",
@@ -1399,6 +1588,20 @@
       "link": "https://yayu.net/4978.html",
       "author": "雅余",
       "avatar": "https://yayu.net/favicon.ico"
+    },
+    {
+      "title": "用DeepSeek修复Typecho的插件问题",
+      "created": "2025-03-04 08:12",
+      "link": "https://itlu.net/articles/2827.html",
+      "author": "挨踢路",
+      "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
+    },
+    {
+      "title": "闺女 流感发烧的周末",
+      "created": "2025-03-03 08:17",
+      "link": "https://www.jeffer.xyz/cid/2537.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
     },
     {
       "title": "从 iPhone 16e 聊聊我理想中的手机",
@@ -1441,6 +1644,34 @@
       "link": "https://suus.me/202502282347/",
       "author": "蘇SU",
       "avatar": "https://cravatar.cn/avatar/4924b5f45b6b65e4925c35f9056fe3e7?d=identicon"
+    },
+    {
+      "title": "项目与产品开发陷阱反思：拾起最小MVP和PMF方法论",
+      "created": "2025-03-01 02:00",
+      "link": "https://www.jeffer.xyz/cid/2526.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
+    },
+    {
+      "title": "Jefrss Simple 订阅插件 Wp-rss 朋友圈订阅插件",
+      "created": "2025-03-01 01:54",
+      "link": "https://www.jeffer.xyz/cid/2529.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
+    },
+    {
+      "title": "没有手机App，你根本不配使用这些",
+      "created": "2025-02-27 08:30",
+      "link": "https://itlu.net/articles/2826.html",
+      "author": "挨踢路",
+      "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
+    },
+    {
+      "title": "春节假期与出差交织的二月：美食、旅行与工作",
+      "created": "2025-02-27 05:44",
+      "link": "https://itlu.net/articles/2825.html",
+      "author": "挨踢路",
+      "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
     },
     {
       "title": "江湖不远，就在燕云十六声",
@@ -1520,6 +1751,13 @@
       "avatar": "https://gravatar.memobbs.app/avatar/c1b204bab687a23c8b6d7c8de11c7c59"
     },
     {
+      "title": "行车志之贵人",
+      "created": "2025-02-14 07:01",
+      "link": "https://zhou.ge/2025-02-13.html",
+      "author": "忆往事",
+      "avatar": "https://zhou.ge/favicon.ico"
+    },
+    {
       "title": "重游北京",
       "created": "2025-02-12 08:00",
       "link": "https://www.juroku.net/posts/20250212.html",
@@ -1553,6 +1791,13 @@
       "link": "https://demochen.com/posts/20250207/",
       "author": "特立独行的异类",
       "avatar": "https://demochen.com/images/avatar.png"
+    },
+    {
+      "title": "牛马上线了",
+      "created": "2025-02-07 07:13",
+      "link": "https://zhou.ge/2025-02-06.html",
+      "author": "忆往事",
+      "avatar": "https://zhou.ge/favicon.ico"
     },
     {
       "title": "港珠澳大家庭游，难得",
@@ -1590,6 +1835,13 @@
       "avatar": "https://gravatar.memobbs.app/avatar/171e4c30959e8c077a6c58b958624b31"
     },
     {
+      "title": "洗衣机脱水时渗水",
+      "created": "2025-01-26 06:30",
+      "link": "https://zhou.ge/2025-01-25.html",
+      "author": "忆往事",
+      "avatar": "https://zhou.ge/favicon.ico"
+    },
+    {
       "title": "我差一点就发布了一款 Chrome 插件",
       "created": "2025-01-23 08:00",
       "link": "https://elizen.me/posts/2025/01/development-chrome-extension/",
@@ -1611,6 +1863,13 @@
       "avatar": "https://immmmm.com/favicon.ico"
     },
     {
+      "title": "令人痛心",
+      "created": "2025-01-16 07:36",
+      "link": "https://zhou.ge/2025-01-15.html",
+      "author": "忆往事",
+      "avatar": "https://zhou.ge/favicon.ico"
+    },
+    {
       "title": "2025 年双周记（〇）",
       "created": "2025-01-13 08:00",
       "link": "https://elizen.me/posts/2025/01/2025-week1-and-week2.zh.md/",
@@ -1625,11 +1884,25 @@
       "avatar": "https://gravatar.memobbs.app/avatar/679666f7bd1af3e55f0e51dd70ed161c"
     },
     {
+      "title": "捡了只猫",
+      "created": "2025-01-09 18:22",
+      "link": "https://zhou.ge/2025-01-09.html",
+      "author": "忆往事",
+      "avatar": "https://zhou.ge/favicon.ico"
+    },
+    {
       "title": "老张博客的2024",
       "created": "2025-01-05 11:05",
       "link": "https://laozhang.org/archives/3923.html",
       "author": "老张博客",
       "avatar": "https://gravatar.memobbs.app/avatar/679666f7bd1af3e55f0e51dd70ed161c"
+    },
+    {
+      "title": "2025，从水一篇始",
+      "created": "2025-01-01 17:00",
+      "link": "https://zhou.ge/2025-01-01.html",
+      "author": "忆往事",
+      "avatar": "https://zhou.ge/favicon.ico"
     },
     {
       "title": "新手机，旧手机",
