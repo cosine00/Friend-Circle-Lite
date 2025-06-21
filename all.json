@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 52,
-    "active_num": 46,
-    "error_num": 6,
-    "article_num": 393,
-    "last_updated_time": "2025-06-21 20:38:54"
+    "active_num": 45,
+    "error_num": 7,
+    "article_num": 383,
+    "last_updated_time": "2025-06-22 02:27:08"
   },
   "article_data": [
     {
@@ -50,13 +50,6 @@
       "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
     },
     {
-      "title": "行走的哲学：去有风的旷野，自由和答案都在风里",
-      "created": "2025-06-19 21:22",
-      "link": "https://yayu.net/5242.html",
-      "author": "雅余",
-      "avatar": "https://yayu.net/favicon.ico"
-    },
-    {
       "title": "一波三折 Carplay 播放视频「未完结」",
       "created": "2025-06-18 10:41",
       "link": "https://h4ck.org.cn/2025/06/20984",
@@ -99,13 +92,6 @@
       "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
     },
     {
-      "title": "博物志｜木荷",
-      "created": "2025-06-16 22:44",
-      "link": "https://yayu.net/5233.html",
-      "author": "雅余",
-      "avatar": "https://yayu.net/favicon.ico"
-    },
-    {
       "title": "2025年06月第2周记",
       "created": "2025-06-16 17:30",
       "link": "https://www.imsun.org/archives/1748.html",
@@ -139,13 +125,6 @@
       "link": "https://www.eallion.com/n8n-sync-blog-to-mastodon/",
       "author": "大大的小蜗牛",
       "avatar": "https://gravatar.memobbs.app/avatar/171e4c30959e8c077a6c58b958624b31"
-    },
-    {
-      "title": "博物志｜山棯子",
-      "created": "2025-06-13 23:47",
-      "link": "https://yayu.net/5226.html",
-      "author": "雅余",
-      "avatar": "https://yayu.net/favicon.ico"
     },
     {
       "title": "重温老片《我左眼见到鬼》",
@@ -230,13 +209,6 @@
       "link": "https://synyan.cn/99857",
       "author": "旅行漫记",
       "avatar": "https://synyan.cn/wp-content/themes/Farallon-develop/build/images/favicon-s.png"
-    },
-    {
-      "title": "登珠海凤凰山凤凰顶",
-      "created": "2025-06-08 20:30",
-      "link": "https://yayu.net/5183.html",
-      "author": "雅余",
-      "avatar": "https://yayu.net/favicon.ico"
     },
     {
       "title": "薛定谔的电瓶",
@@ -869,13 +841,6 @@
       "avatar": "https://img.imsun.org/avatar.jpg"
     },
     {
-      "title": "隐居假期",
-      "created": "2025-05-04 22:35",
-      "link": "https://yayu.net/5172.html",
-      "author": "雅余",
-      "avatar": "https://yayu.net/favicon.ico"
-    },
-    {
       "title": "千灯百桥客连云",
       "created": "2025-05-04 01:40",
       "link": "https://synyan.cn/98534",
@@ -1121,13 +1086,6 @@
       "avatar": "https://bluehe.cn/usr/uploads/2024/03/1678458078.png"
     },
     {
-      "title": "观“古蜀瑰宝—三星堆与金沙”文物特展",
-      "created": "2025-04-12 20:35",
-      "link": "https://yayu.net/5105.html",
-      "author": "雅余",
-      "avatar": "https://yayu.net/favicon.ico"
-    },
-    {
       "title": "沉迷“吉卜力”中……",
       "created": "2025-04-12 15:59",
       "link": "https://immmmm.com/ghiblio-enjoy/",
@@ -1287,13 +1245,6 @@
       "link": "https://zhou.ge/2025-03-30.html",
       "author": "忆往事",
       "avatar": "https://zhou.ge/favicon.ico"
-    },
-    {
-      "title": "周末澳门 City Walk",
-      "created": "2025-03-30 17:01",
-      "link": "https://yayu.net/5078.html",
-      "author": "雅余",
-      "avatar": "https://yayu.net/favicon.ico"
     },
     {
       "title": "这个桌面宠物也太可爱了吧！",
@@ -1541,13 +1492,6 @@
       "avatar": "https://cravatar.cn/avatar/9bb287fc3455d90580b3a098b31b1b6a?s=96&d=mm&r=g"
     },
     {
-      "title": "途中风景",
-      "created": "2025-03-12 22:25",
-      "link": "https://yayu.net/5068.html",
-      "author": "雅余",
-      "avatar": "https://yayu.net/favicon.ico"
-    },
-    {
       "title": "湖南博物院",
       "created": "2025-03-12 12:47",
       "link": "https://www.jiangyu.org/hunan-museum/",
@@ -1574,20 +1518,6 @@
       "link": "https://immmmm.com/iptv-fixed/",
       "author": "木木木木木",
       "avatar": "https://immmmm.com/favicon.ico"
-    },
-    {
-      "title": "上海外滩",
-      "created": "2025-03-06 23:34",
-      "link": "https://yayu.net/5063.html",
-      "author": "雅余",
-      "avatar": "https://yayu.net/favicon.ico"
-    },
-    {
-      "title": "我在苏州逛园子之狮子林",
-      "created": "2025-03-06 23:19",
-      "link": "https://yayu.net/5031.html",
-      "author": "雅余",
-      "avatar": "https://yayu.net/favicon.ico"
     },
     {
       "title": "一键发布 Newsletter：AppleScript 与 Quaily CLI 的完美配合",
