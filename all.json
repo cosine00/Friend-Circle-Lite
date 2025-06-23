@@ -4,9 +4,16 @@
     "active_num": 46,
     "error_num": 6,
     "article_num": 393,
-    "last_updated_time": "2025-06-23 14:33:18"
+    "last_updated_time": "2025-06-23 20:44:34"
   },
   "article_data": [
+    {
+      "title": "自行理发的这几年",
+      "created": "2025-06-24 02:19",
+      "link": "https://itlu.net/articles/2837.html",
+      "author": "挨踢路",
+      "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
+    },
     {
       "title": "行将就木",
       "created": "2025-06-23 10:36",
@@ -120,7 +127,7 @@
       "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
     },
     {
-      "title": "博物志｜木荷",
+      "title": "草木图鉴｜木荷",
       "created": "2025-06-16 22:44",
       "link": "https://yayu.net/5233.html",
       "author": "雅余",
@@ -162,7 +169,7 @@
       "avatar": "https://gravatar.memobbs.app/avatar/171e4c30959e8c077a6c58b958624b31"
     },
     {
-      "title": "博物志｜山棯子",
+      "title": "草木图鉴｜山棯子",
       "created": "2025-06-13 23:47",
       "link": "https://yayu.net/5226.html",
       "author": "雅余",
@@ -1609,13 +1616,6 @@
       "link": "https://suus.me/202503041922/",
       "author": "蘇SU",
       "avatar": "https://cravatar.cn/avatar/4924b5f45b6b65e4925c35f9056fe3e7?d=identicon"
-    },
-    {
-      "title": "用DeepSeek修复Typecho的插件问题",
-      "created": "2025-03-04 08:12",
-      "link": "https://itlu.net/articles/2827.html",
-      "author": "挨踢路",
-      "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
     },
     {
       "title": "闺女 流感发烧的周末",
