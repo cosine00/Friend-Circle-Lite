@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 52,
-    "active_num": 46,
-    "error_num": 6,
-    "article_num": 393,
-    "last_updated_time": "2025-07-03 20:42:20"
+    "active_num": 45,
+    "error_num": 7,
+    "article_num": 383,
+    "last_updated_time": "2025-07-04 02:30:18"
   },
   "article_data": [
     {
@@ -48,13 +48,6 @@
       "link": "https://yayu.net/5291.html",
       "author": "雅余",
       "avatar": "https://yayu.net/favicon.ico"
-    },
-    {
-      "title": "原来夏天真的可以不用空调",
-      "created": "2025-07-01 20:59",
-      "link": "https://anotherdayu.com/2025/7066/",
-      "author": "Dayu",
-      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
     },
     {
       "title": "随手拍，六月份的尾巴",
@@ -386,13 +379,6 @@
       "avatar": "https://gravatar.memobbs.app/avatar/171e4c30959e8c077a6c58b958624b31"
     },
     {
-      "title": "篝火",
-      "created": "2025-06-11 02:56",
-      "link": "https://anotherdayu.com/2025/7051/",
-      "author": "Dayu",
-      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
-    },
-    {
       "title": "监控升级",
       "created": "2025-06-10 23:12",
       "link": "https://zhou.ge/2025-06-10.html",
@@ -468,13 +454,6 @@
       "link": "https://veryjack.com/technique/wordpress_friendlinks_plugin/",
       "author": "Jack's Space",
       "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
-    },
-    {
-      "title": "ChatGPT 记忆模式",
-      "created": "2025-06-06 22:38",
-      "link": "https://anotherdayu.com/2025/7034/",
-      "author": "Dayu",
-      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
     },
     {
       "title": "分歧",
@@ -561,13 +540,6 @@
       "avatar": "https://cdn.1900.live/20190640/ico.png"
     },
     {
-      "title": "DEVONthink Tips 1 自动化工作流",
-      "created": "2025-06-02 23:30",
-      "link": "https://anotherdayu.com/2025/7024/",
-      "author": "Dayu",
-      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
-    },
-    {
       "title": "集合！我的AI员工们",
       "created": "2025-06-02 22:27",
       "link": "https://veryjack.com/technique/my_ai_employees/",
@@ -601,13 +573,6 @@
       "link": "https://justgoidea.com/shen-du-and-autocontrole-and-saudade/",
       "author": "槿呈Goidea",
       "avatar": "https://justgoidea.com/favicon.svg"
-    },
-    {
-      "title": "主题推荐：Firefox X Safari",
-      "created": "2025-06-01 22:56",
-      "link": "https://anotherdayu.com/2025/7016/",
-      "author": "Dayu",
-      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
     },
     {
       "title": "苹果Carplay 自定义壁纸实现逻辑分析",
@@ -834,25 +799,11 @@
       "avatar": "https://bluehe.cn/usr/uploads/2024/03/1678458078.png"
     },
     {
-      "title": "VXNA 和 Folo",
-      "created": "2025-05-15 10:00",
-      "link": "https://anotherdayu.com/2025/6972/",
-      "author": "Dayu",
-      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
-    },
-    {
       "title": "尝尝门店的甜点",
       "created": "2025-05-14 21:09",
       "link": "https://hjyl.org/dessert-in-the-store/",
       "author": "皇家园林",
       "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
-    },
-    {
-      "title": "PIVOT Vol.17 云儿在天上飘",
-      "created": "2025-05-14 20:06",
-      "link": "https://anotherdayu.com/2025/6966/",
-      "author": "Dayu",
-      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
     },
     {
       "title": "认知 觉醒了吗？",
@@ -867,13 +818,6 @@
       "link": "https://zhou.ge/2025-05-13.html",
       "author": "忆往事",
       "avatar": "https://zhou.ge/favicon.ico"
-    },
-    {
-      "title": "2025 再回顾 Orion 浏览器",
-      "created": "2025-05-13 19:43",
-      "link": "https://anotherdayu.com/2025/6953/",
-      "author": "Dayu",
-      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
     },
     {
       "title": "南宁动物园游记",
@@ -953,13 +897,6 @@
       "avatar": "https://synyan.cn/wp-content/themes/Farallon-develop/build/images/favicon-s.png"
     },
     {
-      "title": "个人网站博客可以尝试的 100 件事",
-      "created": "2025-05-09 09:45",
-      "link": "https://anotherdayu.com/2025/6940/",
-      "author": "Dayu",
-      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
-    },
-    {
       "title": "良凤江国家森林公园游记",
       "created": "2025-05-08 20:49",
       "link": "https://bluehe.cn/archives/liangfengjiang-park",
@@ -993,13 +930,6 @@
       "link": "https://hisherry.com/%e5%8a%a0%e5%9b%bd%e7%94%9f%e6%b4%bb/4838/",
       "author": "燕渡寒潭",
       "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
-    },
-    {
-      "title": "如果你想使用这套 WordPress 主题",
-      "created": "2025-05-06 23:14",
-      "link": "https://anotherdayu.com/2025/6919/",
-      "author": "Dayu",
-      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
     },
     {
       "title": "与其内耗，不如去山里 —— 四明山",
