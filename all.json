@@ -1,12 +1,19 @@
 {
   "statistical_data": {
     "friends_num": 52,
-    "active_num": 44,
-    "error_num": 8,
-    "article_num": 383,
-    "last_updated_time": "2025-07-08 14:32:30"
+    "active_num": 45,
+    "error_num": 7,
+    "article_num": 393,
+    "last_updated_time": "2025-07-08 20:43:50"
   },
   "article_data": [
+    {
+      "title": "iOS快捷指令与自动化",
+      "created": "2025-07-09 01:06",
+      "link": "https://hux.ink/posts/shortcuts/",
+      "author": "落落vici",
+      "avatar": "https://cravatar.cn/avatar/bb78cd69edd84cdbdb99a491ea2dc6c8"
+    },
     {
       "title": "公司脏事两三件",
       "created": "2025-07-07 23:51",
@@ -24,7 +31,7 @@
     {
       "title": "星露谷老农民",
       "created": "2025-07-07 23:30",
-      "link": "https://www.juroku.net/posts/20250707.html",
+      "link": "https://www.juroku.net/20250707.html",
       "author": "十六",
       "avatar": "https://www.juroku.net/favicon.ico"
     },
@@ -87,7 +94,7 @@
     {
       "title": "入手AirPods Pro第二代",
       "created": "2025-07-02 19:27",
-      "link": "https://www.juroku.net/posts/20250702.html",
+      "link": "https://www.juroku.net/20250702.html",
       "author": "十六",
       "avatar": "https://www.juroku.net/favicon.ico"
     },
@@ -111,6 +118,13 @@
       "link": "https://anotherdayu.com/2025/7066/",
       "author": "Dayu",
       "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
+    },
+    {
+      "title": "随手拍，六月份的尾巴",
+      "created": "2025-06-29 23:04",
+      "link": "https://veryjack.com/photograph/final_days_of_june/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
     },
     {
       "title": "想换车",
@@ -164,7 +178,7 @@
     {
       "title": "养鱼记录",
       "created": "2025-06-27 19:35",
-      "link": "https://www.juroku.net/posts/20250627.html",
+      "link": "https://www.juroku.net/20250627.html",
       "author": "十六",
       "avatar": "https://www.juroku.net/favicon.ico"
     },
@@ -269,7 +283,7 @@
     {
       "title": "出差大西北",
       "created": "2025-06-21 17:07",
-      "link": "https://www.juroku.net/posts/20250621.html",
+      "link": "https://www.juroku.net/20250621.html",
       "author": "十六",
       "avatar": "https://www.juroku.net/favicon.ico"
     },
@@ -349,6 +363,13 @@
       "link": "https://xyzbz.cn/archives/1395/",
       "author": "网友小宋",
       "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
+    },
+    {
+      "title": "我的 WordPress 博客主题与插件设置分享",
+      "created": "2025-06-17 00:58",
+      "link": "https://veryjack.com/technique/about_my_blog_theme/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
     },
     {
       "title": "草木图鉴｜木荷",
@@ -498,6 +519,13 @@
       "avatar": "https://justgoidea.com/favicon.svg"
     },
     {
+      "title": "又一个 WordPress 友情链接插件",
+      "created": "2025-06-07 13:08",
+      "link": "https://veryjack.com/technique/wordpress_friendlinks_plugin/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
+    },
+    {
       "title": "ChatGPT 记忆模式",
       "created": "2025-06-06 22:38",
       "link": "https://anotherdayu.com/2025/7034/",
@@ -514,7 +542,7 @@
     {
       "title": "折腾",
       "created": "2025-06-06 08:00",
-      "link": "https://www.juroku.net/posts/20250606.html",
+      "link": "https://www.juroku.net/20250606.html",
       "author": "十六",
       "avatar": "https://www.juroku.net/favicon.ico"
     },
@@ -594,6 +622,13 @@
       "link": "https://anotherdayu.com/2025/7024/",
       "author": "Dayu",
       "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
+    },
+    {
+      "title": "集合！我的AI员工们",
+      "created": "2025-06-02 22:27",
+      "link": "https://veryjack.com/technique/my_ai_employees/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
     },
     {
       "title": "还是孩子的我们",
@@ -731,7 +766,7 @@
     {
       "title": "又去香港",
       "created": "2025-05-26 08:00",
-      "link": "https://www.juroku.net/posts/20250526.html",
+      "link": "https://www.juroku.net/20250526.html",
       "author": "十六",
       "avatar": "https://www.juroku.net/favicon.ico"
     },
@@ -804,6 +839,13 @@
       "link": "https://xyzbz.cn/archives/1391/",
       "author": "网友小宋",
       "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
+    },
+    {
+      "title": "才不到 300？OPPO Enco Free 4 主观体验",
+      "created": "2025-05-17 23:42",
+      "link": "https://veryjack.com/technique/enco_free_4/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
     },
     {
       "title": "济州岛之旅&团建",
@@ -995,6 +1037,13 @@
       "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
     },
     {
+      "title": "与其内耗，不如去山里 —— 四明山",
+      "created": "2025-05-06 23:01",
+      "link": "https://veryjack.com/photograph/simingshan/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
+    },
+    {
       "title": "七百天后",
       "created": "2025-05-06 12:20",
       "link": "https://imzm.im/700-days-after/",
@@ -1051,6 +1100,13 @@
       "avatar": "https://www.jiangyu.org/images/icon.svg"
     },
     {
+      "title": "我用 AI 做了两个 WordPress 插件 —— 好物/应用分享页",
+      "created": "2025-05-01 00:40",
+      "link": "https://veryjack.com/technique/two_wordpress_plugin/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
+    },
+    {
       "title": "4月杂记  动物园 鱼缸电机炸机 停电",
       "created": "2025-04-30 15:58",
       "link": "https://www.jeffer.xyz/cid/2881.html",
@@ -1063,6 +1119,13 @@
       "link": "https://yinji.org/5484.html",
       "author": "印记",
       "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
+    },
+    {
+      "title": "最近买了啥",
+      "created": "2025-04-29 00:13",
+      "link": "https://veryjack.com/life/what_i_bought/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
     },
     {
       "title": "于日常处 · 四月集",
@@ -1338,11 +1401,25 @@
       "avatar": "https://zhou.ge/favicon.ico"
     },
     {
+      "title": "这个桌面宠物也太可爱了吧！",
+      "created": "2025-03-30 10:03",
+      "link": "https://veryjack.com/technique/docko/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
+    },
+    {
       "title": "成年人的悲哀，就是活成了自己曾经最讨厌的样子",
       "created": "2025-03-29 06:09",
       "link": "https://suus.me/202503282209/",
       "author": "蘇SU",
       "avatar": "https://cravatar.cn/avatar/4924b5f45b6b65e4925c35f9056fe3e7?d=identicon"
+    },
+    {
+      "title": "“废物“如我，也能跑完半马",
+      "created": "2025-03-29 00:16",
+      "link": "https://veryjack.com/life/my_first_half_marathon/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
     },
     {
       "title": "我很爱我的车",
@@ -1441,13 +1518,6 @@
       "link": "https://www.jiangyu.org/du-fu/",
       "author": "天一生水",
       "avatar": "https://www.jiangyu.org/images/icon.svg"
-    },
-    {
-      "title": "战或逃",
-      "created": "2025-03-21 18:20",
-      "link": "https://hux.ink/posts/fight-or-flight/",
-      "author": "落落vici",
-      "avatar": "https://cravatar.cn/avatar/bb78cd69edd84cdbdb99a491ea2dc6c8"
     },
     {
       "title": "搬家带来的漂泊感",
@@ -1725,7 +1795,7 @@
     {
       "title": "重游北京",
       "created": "2025-02-12 08:00",
-      "link": "https://www.juroku.net/posts/20250212.html",
+      "link": "https://www.juroku.net/20250212.html",
       "author": "十六",
       "avatar": "https://www.juroku.net/favicon.ico"
     },
@@ -2096,7 +2166,7 @@
     {
       "title": "久违的珠海长隆",
       "created": "2024-11-01 08:00",
-      "link": "https://www.juroku.net/posts/20241101.html",
+      "link": "https://www.juroku.net/20241101.html",
       "author": "十六",
       "avatar": "https://www.juroku.net/favicon.ico"
     },
@@ -2320,7 +2390,7 @@
     {
       "title": "又是一年出差时",
       "created": "2024-09-04 08:00",
-      "link": "https://www.juroku.net/posts/20240904.html",
+      "link": "https://www.juroku.net/20240904.html",
       "author": "十六",
       "avatar": "https://www.juroku.net/favicon.ico"
     },
@@ -2635,7 +2705,7 @@
     {
       "title": "久违的出差2",
       "created": "2023-07-31 08:00",
-      "link": "https://www.juroku.net/posts/20230731.html",
+      "link": "https://www.juroku.net/20230731.html",
       "author": "十六",
       "avatar": "https://www.juroku.net/favicon.ico"
     },
