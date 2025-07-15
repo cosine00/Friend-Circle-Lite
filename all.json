@@ -1,12 +1,26 @@
 {
   "statistical_data": {
     "friends_num": 53,
-    "active_num": 45,
-    "error_num": 8,
-    "article_num": 388,
-    "last_updated_time": "2025-07-15 20:46:06"
+    "active_num": 46,
+    "error_num": 7,
+    "article_num": 398,
+    "last_updated_time": "2025-07-16 02:33:22"
   },
   "article_data": [
+    {
+      "title": "乙巳蛇年-七月半",
+      "created": "2025-07-16 07:26",
+      "link": "https://xyzbz.cn/archives/1415/",
+      "author": "网友小宋",
+      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
+    },
+    {
+      "title": "你别误会，我不是卡托盘",
+      "created": "2025-07-15 22:56",
+      "link": "https://hjyl.org/stuck-with-your-pallets/",
+      "author": "皇家园林",
+      "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
+    },
     {
       "title": "小米手环平替失败",
       "created": "2025-07-15 22:00",
@@ -456,6 +470,13 @@
       "avatar": "https://gravatar.memobbs.app/avatar/d9cc49ea0301640d7a19b6a1e77012dd"
     },
     {
+      "title": "自行理发的这几年",
+      "created": "2025-06-24 02:19",
+      "link": "https://itlu.net/articles/2837.html",
+      "author": "挨踢路",
+      "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
+    },
+    {
       "title": "日常漫步 Vol.14 之雨中山野徒步",
       "created": "2025-06-23 21:46",
       "link": "https://yayu.net/5259.html",
@@ -524,6 +545,20 @@
       "link": "https://yayu.net/5247.html",
       "author": "雅余",
       "avatar": "https://yayu.net/favicon.ico"
+    },
+    {
+      "title": "新能源汽车下乡：万亿赛道背后的冰火劫",
+      "created": "2025-06-20 09:08",
+      "link": "https://itlu.net/articles/2836.html",
+      "author": "挨踢路",
+      "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
+    },
+    {
+      "title": "刑不上大夫，礼不下庶人",
+      "created": "2025-06-20 08:05",
+      "link": "https://itlu.net/articles/2835.html",
+      "author": "挨踢路",
+      "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
     },
     {
       "title": "行走的哲学：去有风的旷野，自由和答案都在风里",
@@ -1065,6 +1100,13 @@
       "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
     },
     {
+      "title": "董某莹与肖某引发舆情事件迎来初步通报",
+      "created": "2025-05-16 05:48",
+      "link": "https://itlu.net/articles/2834.html",
+      "author": "挨踢路",
+      "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
+    },
+    {
       "title": "广西科技馆游记",
       "created": "2025-05-15 19:54",
       "link": "https://bluehe.cn/archives/gx-st-museum",
@@ -1121,6 +1163,13 @@
       "avatar": "https://bluehe.cn/usr/uploads/2024/03/1678458078.png"
     },
     {
+      "title": "南航的绑定手机，能把人逼疯",
+      "created": "2025-05-13 07:52",
+      "link": "https://itlu.net/articles/2833.html",
+      "author": "挨踢路",
+      "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
+    },
+    {
       "title": "汉字的不可拼音化",
       "created": "2025-05-13 05:18",
       "link": "https://justgoidea.com/the-impossibility-of-pinyin-for-chinese-characters/",
@@ -1154,6 +1203,13 @@
       "link": "https://pewae.com/2025/05/my-father-in-laws-way-of-cooking-fried-noodles.html",
       "author": "破袜子",
       "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
+    },
+    {
+      "title": "人在路上行走，也需要有安全距离了！",
+      "created": "2025-05-10 22:22",
+      "link": "https://itlu.net/articles/2832.html",
+      "author": "挨踢路",
+      "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
     },
     {
       "title": "整一个纱窗",
@@ -1212,6 +1268,13 @@
       "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
     },
     {
+      "title": "“速成医生”还是“资源咖通道”？协和4+4项目为何引爆全民焦虑",
+      "created": "2025-05-06 05:20",
+      "link": "https://itlu.net/articles/2831.html",
+      "author": "挨踢路",
+      "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
+    },
+    {
       "title": "Typecho根据slug添加icon",
       "created": "2025-05-05 18:50",
       "link": "https://www.imsun.org/archives/1743.html",
@@ -1233,11 +1296,11 @@
       "avatar": "https://gravatar.memobbs.app/avatar/c1b204bab687a23c8b6d7c8de11c7c59"
     },
     {
-      "title": "乙巳蛇年-四月末",
-      "created": "2025-05-02 07:26",
-      "link": "https://xyzbz.cn/archives/1387/",
-      "author": "网友小宋",
-      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
+      "title": "烂透",
+      "created": "2025-05-02 00:05",
+      "link": "https://itlu.net/articles/2830.html",
+      "author": "挨踢路",
+      "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
     },
     {
       "title": "惊艳的Google NotebookLM输出的中文音频读书笔记",
@@ -1287,13 +1350,6 @@
       "link": "https://pewae.com/2025/04/random_kuso_105.html",
       "author": "破袜子",
       "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
-    },
-    {
-      "title": "六安瓜片",
-      "created": "2025-04-27 19:23",
-      "link": "https://hjyl.org/lu-an-guapian-tea/",
-      "author": "皇家园林",
-      "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
     },
     {
       "title": "未曾踏足的小径",
@@ -1723,6 +1779,13 @@
       "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
     },
     {
+      "title": "高德地图的车道级导航比百度车道级导航更精准",
+      "created": "2025-03-09 23:00",
+      "link": "https://itlu.net/articles/2829.html",
+      "author": "挨踢路",
+      "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
+    },
+    {
       "title": "懒到现在才安上肥羊 allinone",
       "created": "2025-03-09 00:27",
       "link": "https://immmmm.com/iptv-fixed/",
@@ -1735,6 +1798,13 @@
       "link": "https://justgoidea.com/one-click-newsletter-publishing-perfect-integration-of-applescript-and-quaily-cli/",
       "author": "槿呈Goidea",
       "avatar": "https://justgoidea.com/favicon.svg"
+    },
+    {
+      "title": "Edge浏览器默认劫持百度搜索，带上尾巴?tn=68018901_16_pg",
+      "created": "2025-03-06 08:31",
+      "link": "https://itlu.net/articles/2828.html",
+      "author": "挨踢路",
+      "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
     },
     {
       "title": "[转载]一位父亲的灵魂叩问：我们究竟在为什么而养育孩子？",
