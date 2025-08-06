@@ -4,9 +4,23 @@
     "active_num": 45,
     "error_num": 8,
     "article_num": 388,
-    "last_updated_time": "2025-08-06 20:50:49"
+    "last_updated_time": "2025-08-07 02:33:09"
   },
   "article_data": [
+    {
+      "title": "记录一次产品8n国际化的翻车事件",
+      "created": "2025-08-06 22:48",
+      "link": "https://www.jeffer.xyz/cid/3081.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
+    },
+    {
+      "title": "每夫吐槽（108）",
+      "created": "2025-08-06 20:58",
+      "link": "https://pewae.com/2025/08/random_kuso_108.html",
+      "author": "破袜子",
+      "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
+    },
     {
       "title": "佳明255光速退货",
       "created": "2025-08-06 01:40",
@@ -1275,13 +1289,6 @@
       "avatar": "https://atpx.com/favicon-32x32.png"
     },
     {
-      "title": "干啥啥不行，喂屎第一名",
-      "created": "2025-05-12 22:25",
-      "link": "https://pewae.com/2025/05/dead-loop-from-baidu-phone-number-changing.html",
-      "author": "破袜子",
-      "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
-    },
-    {
       "title": "人在路上行走，也需要有安全距离了！",
       "created": "2025-05-10 22:22",
       "link": "https://itlu.net/articles/2832.html",
@@ -1644,13 +1651,6 @@
       "link": "https://demochen.com/posts/20250325/",
       "author": "特立独行的异类",
       "avatar": "https://demochen.com/images/avatar.png"
-    },
-    {
-      "title": "20250324 杂记  买菜 节省 扬沙子",
-      "created": "2025-03-24 12:40",
-      "link": "https://www.jeffer.xyz/cid/2665.html",
-      "author": "Jeffer.Z的博客",
-      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
     },
     {
       "title": "周记002",
