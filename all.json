@@ -4,9 +4,16 @@
     "active_num": 45,
     "error_num": 8,
     "article_num": 388,
-    "last_updated_time": "2025-08-08 09:55:07"
+    "last_updated_time": "2025-08-08 14:36:06"
   },
   "article_data": [
+    {
+      "title": "Ghost6.0配置Nginx以启用Activitypub",
+      "created": "2025-08-08 12:58",
+      "link": "https://1900.live/ghost6-0pei-zhi-nginxyi-qi-yong-activitypub/",
+      "author": "1900'blog",
+      "avatar": "https://cdn.1900.live/20190640/ico.png"
+    },
     {
       "title": "通报“平息”的艺术与永不揭开的谜底",
       "created": "2025-08-08 07:41",
@@ -1077,13 +1084,6 @@
       "link": "https://pewae.com/2025/06/random_kuso_106.html",
       "author": "破袜子",
       "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
-    },
-    {
-      "title": "文化人的游记",
-      "created": "2025-06-04 12:41",
-      "link": "https://1900.live/wen-hua-ren-de-you-ji/",
-      "author": "1900'blog",
-      "avatar": "https://cdn.1900.live/20190640/ico.png"
     },
     {
       "title": "端午的粽子",
