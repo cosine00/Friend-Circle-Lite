@@ -4,9 +4,23 @@
     "active_num": 45,
     "error_num": 8,
     "article_num": 388,
-    "last_updated_time": "2025-08-14 02:31:02"
+    "last_updated_time": "2025-08-14 09:46:45"
   },
   "article_data": [
+    {
+      "title": "Coming soon",
+      "created": "2025-08-14 07:28",
+      "link": "https://yinji.org/coming-soon/",
+      "author": "印记",
+      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
+    },
+    {
+      "title": "PIVOT Vol.19-有19个链接",
+      "created": "2025-08-14 05:58",
+      "link": "https://anotherdayu.com/2025/7121/",
+      "author": "Dayu",
+      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
+    },
     {
       "title": "吴博随州文物展",
       "created": "2025-08-13 16:17",
@@ -577,7 +591,7 @@
     {
       "title": "搬家",
       "created": "2025-07-14 22:53",
-      "link": "https://yinji.org/5548.html",
+      "link": "https://yinji.org/-e6-90-ac-e5-ae-b6-689d20770ddccf001b2621be/",
       "author": "印记",
       "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
     },
@@ -990,7 +1004,7 @@
     {
       "title": "CapWords：写给大朋友和小朋友的英语学习工具",
       "created": "2025-06-15 17:29",
-      "link": "https://yinji.org/5541.html",
+      "link": "https://yinji.org/capwords/",
       "author": "印记",
       "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
     },
@@ -1116,7 +1130,7 @@
     {
       "title": "楼下的商贩与城管",
       "created": "2025-06-05 23:22",
-      "link": "https://yinji.org/5536.html",
+      "link": "https://yinji.org/-e6-a5-bc-e4-b8-8b-e7-9a-84-e5-95-86-e8-b4-a9-e4-b8-8e-e5-9f-8e-e7-ae-a1-689d20770ddccf001b2621bc/",
       "author": "印记",
       "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
     },
@@ -1161,13 +1175,6 @@
       "link": "https://imzm.im/strange-stories-from-metro/",
       "author": "陈仓颉",
       "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
-    },
-    {
-      "title": "DEVONthink Tips 1 自动化工作流",
-      "created": "2025-06-02 23:30",
-      "link": "https://anotherdayu.com/2025/7024/",
-      "author": "Dayu",
-      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
     },
     {
       "title": "集合！我的AI员工们",
@@ -1277,7 +1284,7 @@
     {
       "title": "对网吧的偏见",
       "created": "2025-05-17 00:56",
-      "link": "https://yinji.org/5508.html",
+      "link": "https://yinji.org/-e5-af-b9-e7-bd-91-e5-90-a7-e7-9a-84-e5-81-8f-e8-a7-81-689d20770ddccf001b2621bb/",
       "author": "印记",
       "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
     },
@@ -1417,7 +1424,7 @@
     {
       "title": "武汉游记",
       "created": "2025-04-29 23:00",
-      "link": "https://yinji.org/5484.html",
+      "link": "https://yinji.org/-e6-ad-a6-e6-b1-89-e6-b8-b8-e8-ae-b0-689d20770ddccf001b2621ba/",
       "author": "印记",
       "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
     },
@@ -1438,7 +1445,7 @@
     {
       "title": "未曾踏足的小径",
       "created": "2025-04-25 22:56",
-      "link": "https://yinji.org/5471.html",
+      "link": "https://yinji.org/-e6-9c-aa-e6-9b-be-e8-b8-8f-e8-b6-b3-e7-9a-84-e5-b0-8f-e5-be-84-689d20770ddccf001b2621b9/",
       "author": "印记",
       "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
     },
@@ -1515,7 +1522,7 @@
     {
       "title": "从做家务开始说起",
       "created": "2025-04-13 01:08",
-      "link": "https://yinji.org/5463.html",
+      "link": "https://yinji.org/-e4-bb-8e-e5-81-9a-e5-ae-b6-e5-8a-a1-e5-bc-80-e5-a7-8b-e8-af-b4-e8-b5-b7-689d20770ddccf001b2621b8/",
       "author": "印记",
       "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
     },
@@ -1606,7 +1613,7 @@
     {
       "title": "年轻人的第一台 eSIM 手机",
       "created": "2025-04-05 14:13",
-      "link": "https://yinji.org/5445.html",
+      "link": "https://yinji.org/-e5-b9-b4-e8-bd-bb-e4-ba-ba-e7-9a-84-e7-ac-ac-e4-b8-80-e5-8f-b0-esim--e6-89-8b-e6-9c-ba-689d20770ddccf001b2621b7/",
       "author": "印记",
       "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
     },
@@ -1620,7 +1627,7 @@
     {
       "title": "摄影随想",
       "created": "2025-03-30 21:33",
-      "link": "https://yinji.org/5442.html",
+      "link": "https://yinji.org/-e6-91-84-e5-bd-b1-e9-9a-8f-e6-83-b3-689d20770ddccf001b2621b6/",
       "author": "印记",
       "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
     },
@@ -1756,13 +1763,6 @@
       "link": "https://kkn.me/note/%e6%8f%92%e4%bb%b6-simple-page-cache",
       "author": "沉沦博客",
       "avatar": "https://cravatar.cn/avatar/9bb287fc3455d90580b3a098b31b1b6a?s=96&d=mm&r=g"
-    },
-    {
-      "title": "博客的七年之痒",
-      "created": "2025-03-15 22:25",
-      "link": "https://yinji.org/5421.html",
-      "author": "印记",
-      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
     },
     {
       "title": "长沙杜甫江阁",
