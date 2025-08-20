@@ -4,9 +4,16 @@
     "active_num": 45,
     "error_num": 8,
     "article_num": 388,
-    "last_updated_time": "2025-08-20 20:42:16"
+    "last_updated_time": "2025-08-21 02:30:45"
   },
   "article_data": [
+    {
+      "title": "如何让MFC的Dialog类型窗口在高度超出屏幕高度时出现比例合适的垂直滚动条",
+      "created": "2025-08-20 22:31",
+      "link": "https://pewae.com/2025/08/how-to-add-vscroll-bar-dynamicly-when-display-scale-to-more-then-1.html",
+      "author": "破袜子",
+      "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
+    },
     {
       "title": "灵山梵境双辉展",
       "created": "2025-08-20 20:32",
@@ -1273,13 +1280,6 @@
       "link": "https://www.jeffer.xyz/cid/2935.html",
       "author": "Jeffer.Z的博客",
       "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
-    },
-    {
-      "title": "【翻译】让MFC的窗口程序支持输出到stdout",
-      "created": "2025-05-20 16:35",
-      "link": "https://pewae.com/2025/05/how-to-write-to-stdout-from-an-mfc-program.html",
-      "author": "破袜子",
-      "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
     },
     {
       "title": "才不到 300？OPPO Enco Free 4 主观体验",
