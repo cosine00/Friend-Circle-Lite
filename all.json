@@ -1,12 +1,19 @@
 {
   "statistical_data": {
     "friends_num": 53,
-    "active_num": 43,
-    "error_num": 10,
-    "article_num": 368,
-    "last_updated_time": "2025-08-31 02:25:57"
+    "active_num": 44,
+    "error_num": 9,
+    "article_num": 378,
+    "last_updated_time": "2025-08-31 09:41:16"
   },
   "article_data": [
+    {
+      "title": "我的儿时网络记忆",
+      "created": "2025-08-31 04:58",
+      "link": "https://justgoidea.com/childhood-digital-memory/",
+      "author": "槿呈Goidea",
+      "avatar": "https://justgoidea.com/favicon.svg"
+    },
     {
       "title": "Weekly Plog 1",
       "created": "2025-08-30 20:45",
@@ -344,6 +351,13 @@
       "avatar": "https://cdn.qyliu.top/i/2024/04/15/661d443b5359c.png"
     },
     {
+      "title": "旁观者的耻辱：一段关于校园霸凌的记忆",
+      "created": "2025-08-17 23:12",
+      "link": "https://justgoidea.com/pang-guan-zhe-de-chi-ru/",
+      "author": "槿呈Goidea",
+      "avatar": "https://justgoidea.com/favicon.svg"
+    },
+    {
       "title": "免费冰淇淋",
       "created": "2025-08-17 22:17",
       "link": "https://hjyl.org/free-ice-cream/",
@@ -615,6 +629,13 @@
       "link": "https://ihaihe.cn/3333.htm",
       "author": "三十里海河",
       "avatar": "https://gravatar.memobbs.app/avatar/40c46b2a6ef05464946a7e3f5230bdfa16b5d4e861c7b69977ef77efde66638a"
+    },
+    {
+      "title": "塔",
+      "created": "2025-08-05 02:57",
+      "link": "https://justgoidea.com/tower/",
+      "author": "槿呈Goidea",
+      "avatar": "https://justgoidea.com/favicon.svg"
     },
     {
       "title": "醒脑提升的咖啡压片糖果",
@@ -1205,6 +1226,13 @@
       "avatar": "https://gravatar.memobbs.app/avatar/40c46b2a6ef05464946a7e3f5230bdfa16b5d4e861c7b69977ef77efde66638a"
     },
     {
+      "title": "本来没有我",
+      "created": "2025-06-07 20:33",
+      "link": "https://justgoidea.com/ben-lai-mei-you-wo/",
+      "author": "槿呈Goidea",
+      "avatar": "https://justgoidea.com/favicon.svg"
+    },
+    {
       "title": "又一个 WordPress 友情链接插件",
       "created": "2025-06-07 13:08",
       "link": "https://veryjack.com/technique/wordpress_friendlinks_plugin/",
@@ -1245,6 +1273,13 @@
       "link": "https://ihaihe.cn/3262.htm",
       "author": "三十里海河",
       "avatar": "https://gravatar.memobbs.app/avatar/40c46b2a6ef05464946a7e3f5230bdfa16b5d4e861c7b69977ef77efde66638a"
+    },
+    {
+      "title": "慎独，autocontrole 与 Saudade",
+      "created": "2025-06-02 00:37",
+      "link": "https://justgoidea.com/shen-du-and-autocontrole-and-saudade/",
+      "author": "槿呈Goidea",
+      "avatar": "https://justgoidea.com/favicon.svg"
     },
     {
       "title": "Lucky-canvas 抽奖插件折腾记",
@@ -1338,6 +1373,13 @@
       "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
     },
     {
+      "title": "汉字的不可拼音化",
+      "created": "2025-05-13 05:18",
+      "link": "https://justgoidea.com/the-impossibility-of-pinyin-for-chinese-characters/",
+      "author": "槿呈Goidea",
+      "avatar": "https://justgoidea.com/favicon.svg"
+    },
+    {
       "title": "从 WHOIS 到 RDAP",
       "created": "2025-05-12 23:23",
       "link": "https://atpx.com/blog/from-whois-to-rdap/",
@@ -1415,6 +1457,13 @@
       "avatar": "https://bluehe.cn/usr/uploads/2024/03/1678458078.png"
     },
     {
+      "title": "花瓣里的火焰，转型中的鸣响",
+      "created": "2025-04-25 18:57",
+      "link": "https://justgoidea.com/flames-in-petals-sounds-of-transformation/",
+      "author": "槿呈Goidea",
+      "avatar": "https://justgoidea.com/favicon.svg"
+    },
+    {
       "title": "如何在 HUGO 中打造更友好的 RSS 体验？",
       "created": "2025-04-25 03:23",
       "link": "https://suus.me/202504241923/",
@@ -1441,6 +1490,20 @@
       "link": "https://moreality.net/posts/6318/",
       "author": "Moreality's Blog",
       "avatar": "https://youpai.roccoshi.top/img/avatar.jpg"
+    },
+    {
+      "title": "春別",
+      "created": "2025-04-21 05:13",
+      "link": "https://justgoidea.com/chun-bie/",
+      "author": "槿呈Goidea",
+      "avatar": "https://justgoidea.com/favicon.svg"
+    },
+    {
+      "title": "末後一著，盡顯禪者本色",
+      "created": "2025-04-20 16:37",
+      "link": "https://justgoidea.com/mo-hou-yi-zhao-jin-xian-chan-zhe-ben-se/",
+      "author": "槿呈Goidea",
+      "avatar": "https://justgoidea.com/favicon.svg"
     },
     {
       "title": "《叫魂：1768年中国妖术大恐慌》读书笔记",
@@ -1707,6 +1770,13 @@
       "link": "https://immmmm.com/iptv-fixed/",
       "author": "木木木木木",
       "avatar": "https://immmmm.com/favicon.ico"
+    },
+    {
+      "title": "一键发布 Newsletter：AppleScript 与 Quaily CLI 的完美配合",
+      "created": "2025-03-06 16:38",
+      "link": "https://justgoidea.com/one-click-newsletter-publishing-perfect-integration-of-applescript-and-quaily-cli/",
+      "author": "槿呈Goidea",
+      "avatar": "https://justgoidea.com/favicon.svg"
     },
     {
       "title": "[转载]一位父亲的灵魂叩问：我们究竟在为什么而养育孩子？",
