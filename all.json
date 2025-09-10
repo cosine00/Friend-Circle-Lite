@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 53,
-    "active_num": 44,
-    "error_num": 9,
-    "article_num": 368,
-    "last_updated_time": "2025-09-10 02:26:19"
+    "active_num": 45,
+    "error_num": 8,
+    "article_num": 378,
+    "last_updated_time": "2025-09-10 09:25:16"
   },
   "article_data": [
     {
@@ -34,6 +34,13 @@
       "link": "https://h4ck.org.cn/2025/09/21500",
       "author": "obaby",
       "avatar": "https://cdn.qyliu.top/i/2024/04/15/661d443b5359c.png"
+    },
+    {
+      "title": "给大家介绍一下，他叫小黄",
+      "created": "2025-09-08 11:00",
+      "link": "https://veryjack.com/life/he_is_xiaohuang/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
     },
     {
       "title": "属于这个夏天的一些照片",
@@ -309,6 +316,13 @@
       "avatar": "https://cdn.qyliu.top/i/2024/04/15/661d443b5359c.png"
     },
     {
+      "title": "从 iPhone 16 到 realme Neo7 Turbo：双持用户的主观体验",
+      "created": "2025-08-26 09:00",
+      "link": "https://veryjack.com/technique/realme_neo7_turbo/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
+    },
+    {
       "title": "车子后视镜擦伤了",
       "created": "2025-08-25 18:01",
       "link": "https://zhoutian.com/316.html",
@@ -475,6 +489,13 @@
       "link": "https://synyan.cn/102622",
       "author": "旅行漫记",
       "avatar": "https://synyan.cn/wp-content/themes/Farallon-develop/build/images/favicon-s.png"
+    },
+    {
+      "title": "蓝与绿之间，藏着最温柔的治愈 — 安吉",
+      "created": "2025-08-20 12:28",
+      "link": "https://veryjack.com/life/anji/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
     },
     {
       "title": "吴博风雅吴中展",
@@ -862,6 +883,13 @@
       "avatar": "https://synyan.cn/wp-content/themes/Farallon-develop/build/images/favicon-s.png"
     },
     {
+      "title": "看了懂车帝的视频，我有一些想法",
+      "created": "2025-07-26 14:05",
+      "link": "https://veryjack.com/life/some_thoughts_about_dcd/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
+    },
+    {
       "title": "蜘蛛侠与X战警",
       "created": "2025-07-24 23:19",
       "link": "https://pewae.com/2025/07/spider-man-and-x-men-arcades-revenge.html",
@@ -958,6 +986,13 @@
       "link": "https://zhou.ge/2025-07-14.html",
       "author": "忆往事",
       "avatar": "https://zhou.ge/favicon.ico"
+    },
+    {
+      "title": "一把趁手的工具 — Nuphy Kick75",
+      "created": "2025-07-14 20:12",
+      "link": "https://veryjack.com/technique/nuphy-kick75/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
     },
     {
       "title": "南宁方特：一日游遍东盟十国",
@@ -1086,6 +1121,13 @@
       "avatar": "https://www.jiangyu.org/images/icon.svg"
     },
     {
+      "title": "随手拍，六月份的尾巴",
+      "created": "2025-06-29 23:04",
+      "link": "https://veryjack.com/photograph/final_days_of_june/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
+    },
+    {
       "title": "想换车",
       "created": "2025-06-29 19:46",
       "link": "https://ihaihe.cn/3303.htm",
@@ -1161,6 +1203,13 @@
       "link": "https://ihaihe.cn/3285.htm",
       "author": "三十里海河",
       "avatar": "https://gravatar.memobbs.app/avatar/40c46b2a6ef05464946a7e3f5230bdfa16b5d4e861c7b69977ef77efde66638a"
+    },
+    {
+      "title": "我的 WordPress 博客主题与插件设置分享",
+      "created": "2025-06-17 00:58",
+      "link": "https://veryjack.com/technique/about_my_blog_theme/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
     },
     {
       "title": "地球冒险1+2",
@@ -1254,6 +1303,13 @@
       "avatar": "https://justgoidea.com/favicon.svg"
     },
     {
+      "title": "又一个 WordPress 友情链接插件",
+      "created": "2025-06-07 13:08",
+      "link": "https://veryjack.com/technique/wordpress_friendlinks_plugin/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
+    },
+    {
       "title": "人人都是悉达多",
       "created": "2025-06-05 17:46",
       "link": "https://imzm.im/siddhartha/",
@@ -1266,6 +1322,13 @@
       "link": "https://imzm.im/strange-stories-from-metro/",
       "author": "陈仓颉",
       "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
+    },
+    {
+      "title": "集合！我的AI员工们",
+      "created": "2025-06-02 22:27",
+      "link": "https://veryjack.com/technique/my_ai_employees/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
     },
     {
       "title": "慎独，autocontrole 与 Saudade",
@@ -1308,6 +1371,13 @@
       "link": "https://www.jeffer.xyz/cid/2935.html",
       "author": "Jeffer.Z的博客",
       "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
+    },
+    {
+      "title": "才不到 300？OPPO Enco Free 4 主观体验",
+      "created": "2025-05-17 23:42",
+      "link": "https://veryjack.com/technique/enco_free_4/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
     },
     {
       "title": "济州岛之旅&团建",
