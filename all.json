@@ -4,9 +4,23 @@
     "active_num": 45,
     "error_num": 8,
     "article_num": 378,
-    "last_updated_time": "2025-09-12 09:24:37"
+    "last_updated_time": "2025-09-12 14:30:01"
   },
   "article_data": [
+    {
+      "title": "联邦礼仪之一",
+      "created": "2025-09-12 14:27",
+      "link": "https://www.eallion.com/fediverse-courtesy/",
+      "author": "大大的小蜗牛",
+      "avatar": "https://gravatar.memobbs.app/avatar/171e4c30959e8c077a6c58b958624b31"
+    },
+    {
+      "title": "【去过】页面上线",
+      "created": "2025-09-12 09:40",
+      "link": "https://pewae.com/2025/09/steps-page-been-set-up.html",
+      "author": "破袜子",
+      "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
+    },
     {
       "title": "麦门永存。",
       "created": "2025-09-11 23:54",
@@ -1254,13 +1268,6 @@
       "avatar": "https://gravatar.memobbs.app/avatar/171e4c30959e8c077a6c58b958624b31"
     },
     {
-      "title": "重温老片《我左眼见到鬼》",
-      "created": "2025-06-13 18:38",
-      "link": "https://pewae.com/2025/06/review-my-left-eye-sees-ghosts.html",
-      "author": "破袜子",
-      "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
-    },
-    {
       "title": "《梵高手稿》读书笔记",
       "created": "2025-06-12 21:30",
       "link": "https://www.jiangyu.org/van-gogh/",
@@ -2295,13 +2302,6 @@
       "link": "https://dongjunke.cn/posts/2024/10/22/20584.html",
       "author": "东评西就",
       "avatar": "https://gravatar.memobbs.app/avatar/42542189ddb33064599dc88a5149bea7"
-    },
-    {
-      "title": "Hugo 博客集成 Mastodon",
-      "created": "2024-10-20 16:05",
-      "link": "https://www.eallion.com/hugo-blog-embed-mastodon/",
-      "author": "大大的小蜗牛",
-      "avatar": "https://gravatar.memobbs.app/avatar/171e4c30959e8c077a6c58b958624b31"
     },
     {
       "title": "莫名的限我额度？硬杠到底",
