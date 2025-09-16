@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 53,
-    "active_num": 44,
-    "error_num": 9,
-    "article_num": 368,
-    "last_updated_time": "2025-09-16 09:25:14"
+    "active_num": 43,
+    "error_num": 10,
+    "article_num": 358,
+    "last_updated_time": "2025-09-16 14:30:45"
   },
   "article_data": [
     {
@@ -148,13 +148,6 @@
       "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
     },
     {
-      "title": "拉💩后写日常 & 我的Anki学习方法",
-      "created": "2025-09-10 13:17",
-      "link": "https://1900.live/la-hou-xie-ri-chang-wo-de-ankixue-xi-fang-fa/",
-      "author": "1900'blog",
-      "avatar": "https://cdn.1900.live/20190640/ico.png"
-    },
-    {
       "title": "强风SE羁绊",
       "created": "2025-09-09 23:26",
       "link": "https://hux.ink/posts/run-with-the-wind/",
@@ -209,13 +202,6 @@
       "link": "https://hjyl.org/replace-air-filter/",
       "author": "皇家园林",
       "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
-    },
-    {
-      "title": "267、白露",
-      "created": "2025-09-07 14:54",
-      "link": "https://1900.live/267-bai-lu/",
-      "author": "1900'blog",
-      "avatar": "https://cdn.1900.live/20190640/ico.png"
     },
     {
       "title": "不知最親切",
@@ -547,13 +533,6 @@
       "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
     },
     {
-      "title": "266、处暑",
-      "created": "2025-08-23 09:14",
-      "link": "https://1900.live/266-chu-shu/",
-      "author": "1900'blog",
-      "avatar": "https://cdn.1900.live/20190640/ico.png"
-    },
-    {
       "title": "",
       "created": "2025-08-23 01:15",
       "link": "https://www.ashsilent.com/shuoshuo/8449",
@@ -750,13 +729,6 @@
       "avatar": "https://cravatar.cn/avatar/bb78cd69edd84cdbdb99a491ea2dc6c8"
     },
     {
-      "title": "不错的洗发水和混沌无序的AI和草台班子微信",
-      "created": "2025-08-14 09:43",
-      "link": "https://1900.live/good-shampoo-and-chaotic-ai-and-makeshift-wechat/",
-      "author": "1900'blog",
-      "avatar": "https://cdn.1900.live/20190640/ico.png"
-    },
-    {
       "title": "PIVOT Vol.19 有 19 个链接",
       "created": "2025-08-14 05:58",
       "link": "https://anotherdayu.com/2025/7121/",
@@ -820,13 +792,6 @@
       "avatar": "https://img.imsun.org/avatar.jpg"
     },
     {
-      "title": "忽闻噩耗和AI的浪漫",
-      "created": "2025-08-09 10:03",
-      "link": "https://1900.live/suddenly-hearing-bad-news-and-the-romance-of-ai/",
-      "author": "1900'blog",
-      "avatar": "https://cdn.1900.live/20190640/ico.png"
-    },
-    {
       "title": "吴博凉州文物展",
       "created": "2025-08-09 02:11",
       "link": "https://synyan.cn/101807",
@@ -839,13 +804,6 @@
       "link": "https://imzm.im/summer-movies-2025/",
       "author": "陈仓颉",
       "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
-    },
-    {
-      "title": "Ghost6.0配置Nginx以启用Activitypub",
-      "created": "2025-08-08 12:58",
-      "link": "https://1900.live/ghost6-0pei-zhi-nginxyi-qi-yong-activitypub/",
-      "author": "1900'blog",
-      "avatar": "https://cdn.1900.live/20190640/ico.png"
     },
     {
       "title": "通报“平息”的艺术与永不揭开的谜底",
@@ -867,13 +825,6 @@
       "link": "https://hux.ink/posts/hr-zone/",
       "author": "落落vici",
       "avatar": "https://cravatar.cn/avatar/bb78cd69edd84cdbdb99a491ea2dc6c8"
-    },
-    {
-      "title": "265、立秋",
-      "created": "2025-08-07 12:48",
-      "link": "https://1900.live/265-li-qiu/",
-      "author": "1900'blog",
-      "avatar": "https://cdn.1900.live/20190640/ico.png"
     },
     {
       "title": "记录一次产品8n国际化的翻车事件",
@@ -911,13 +862,6 @@
       "avatar": "https://justgoidea.com/favicon.svg"
     },
     {
-      "title": "散装日常",
-      "created": "2025-08-04 16:33",
-      "link": "https://1900.live/re-de-fa-hun-sui-sui-nian/",
-      "author": "1900'blog",
-      "avatar": "https://cdn.1900.live/20190640/ico.png"
-    },
-    {
       "title": "恶臭红尘，不能自已",
       "created": "2025-08-04 14:37",
       "link": "https://www.jeffer.xyz/cid/3068.html",
@@ -937,13 +881,6 @@
       "link": "https://synyan.cn/101658",
       "author": "旅行漫记",
       "avatar": "https://synyan.cn/wp-content/themes/Farallon-develop/build/images/favicon-s.png"
-    },
-    {
-      "title": "Excel单元格做多选下拉框",
-      "created": "2025-08-02 17:12",
-      "link": "https://1900.live/exceldan-yuan-ge-zuo-duo-xuan-xia-la-kuang/",
-      "author": "1900'blog",
-      "avatar": "https://cdn.1900.live/20190640/ico.png"
     },
     {
       "title": "蔑视和不平等",
@@ -1007,13 +944,6 @@
       "link": "https://hux.ink/posts/absolutely-devastated/",
       "author": "落落vici",
       "avatar": "https://cravatar.cn/avatar/bb78cd69edd84cdbdb99a491ea2dc6c8"
-    },
-    {
-      "title": "264、大暑",
-      "created": "2025-07-22 09:37",
-      "link": "https://1900.live/263-xiao-shu-2/",
-      "author": "1900'blog",
-      "avatar": "https://cdn.1900.live/20190640/ico.png"
     },
     {
       "title": "加拿大国庆日",
