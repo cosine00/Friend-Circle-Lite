@@ -1,12 +1,26 @@
 {
   "statistical_data": {
     "friends_num": 53,
-    "active_num": 43,
-    "error_num": 10,
-    "article_num": 358,
-    "last_updated_time": "2025-09-16 14:30:45"
+    "active_num": 45,
+    "error_num": 8,
+    "article_num": 378,
+    "last_updated_time": "2025-09-16 20:41:07"
   },
   "article_data": [
+    {
+      "title": "山西河北历史文化之旅 | 大同火山群",
+      "created": "2025-09-16 19:55",
+      "link": "https://yayu.net/5632.html",
+      "author": "雅余",
+      "avatar": "https://yayu.net/favicon.ico"
+    },
+    {
+      "title": "最近和夕阳的几件事",
+      "created": "2025-09-16 13:50",
+      "link": "https://1900.live/a-few-recent-things-with-the-sunset/",
+      "author": "1900'blog",
+      "avatar": "https://cdn.1900.live/20190640/ico.png"
+    },
     {
       "title": "净水器更换滤芯",
       "created": "2025-09-15 21:59",
@@ -41,6 +55,13 @@
       "link": "https://hisherry.com/imserious/4911/",
       "author": "燕渡寒潭",
       "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
+    },
+    {
+      "title": "收藏的博客",
+      "created": "2025-09-14 22:41",
+      "link": "https://yinji.org/blogroll.html",
+      "author": "印记",
+      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
     },
     {
       "title": "梁韵公园梁溪河",
@@ -148,6 +169,13 @@
       "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
     },
     {
+      "title": "拉💩后写日常 & 我的Anki学习方法",
+      "created": "2025-09-10 13:17",
+      "link": "https://1900.live/la-hou-xie-ri-chang-wo-de-ankixue-xi-fang-fa/",
+      "author": "1900'blog",
+      "avatar": "https://cdn.1900.live/20190640/ico.png"
+    },
+    {
       "title": "强风SE羁绊",
       "created": "2025-09-09 23:26",
       "link": "https://hux.ink/posts/run-with-the-wind/",
@@ -202,6 +230,20 @@
       "link": "https://hjyl.org/replace-air-filter/",
       "author": "皇家园林",
       "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
+    },
+    {
+      "title": "ActivityPub 与去中心化社交",
+      "created": "2025-09-07 20:35",
+      "link": "https://yinji.org/activitypub.html",
+      "author": "印记",
+      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
+    },
+    {
+      "title": "267、白露",
+      "created": "2025-09-07 14:54",
+      "link": "https://1900.live/267-bai-lu/",
+      "author": "1900'blog",
+      "avatar": "https://cdn.1900.live/20190640/ico.png"
     },
     {
       "title": "不知最親切",
@@ -267,6 +309,13 @@
       "avatar": "https://gravatar.memobbs.app/avatar/d9cc49ea0301640d7a19b6a1e77012dd"
     },
     {
+      "title": "Quaily",
+      "created": "2025-09-04 22:43",
+      "link": "https://yinji.org/quaily.html",
+      "author": "印记",
+      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
+    },
+    {
       "title": "木鱼与金鱼",
       "created": "2025-09-04 11:24",
       "link": "https://h4ck.org.cn/2025/09/21473",
@@ -279,6 +328,13 @@
       "link": "https://laozhang.org/archives/3942.html",
       "author": "老张博客",
       "avatar": "https://gravatar.memobbs.app/avatar/679666f7bd1af3e55f0e51dd70ed161c"
+    },
+    {
+      "title": "放在状态栏上的日历工具",
+      "created": "2025-09-03 22:35",
+      "link": "https://yinji.org/lunarbar.html",
+      "author": "印记",
+      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
     },
     {
       "title": "汽车空调不制冷",
@@ -358,6 +414,13 @@
       "avatar": "https://img.imsun.org/avatar.jpg"
     },
     {
+      "title": "更换主题后最喜欢做的事情",
+      "created": "2025-08-31 23:06",
+      "link": "https://yinji.org/the-things-i-like-to-do-after-changing-theme.html",
+      "author": "印记",
+      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
+    },
+    {
       "title": "我的儿时网络记忆",
       "created": "2025-08-31 04:58",
       "link": "https://justgoidea.com/childhood-digital-memory/",
@@ -370,6 +433,13 @@
       "link": "https://anotherdayu.com/2025/7301/",
       "author": "Dayu",
       "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
+    },
+    {
+      "title": "过去的互联网完全由网站组成",
+      "created": "2025-08-29 23:08",
+      "link": "https://yinji.org/the-internet.html",
+      "author": "印记",
+      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
     },
     {
       "title": "来自理工男奇瑞的小浪漫",
@@ -449,6 +519,13 @@
       "avatar": "https://cdn.qyliu.top/i/2024/04/15/661d443b5359c.png"
     },
     {
+      "title": "新键盘：惠普 GT87 Ultra",
+      "created": "2025-08-26 22:51",
+      "link": "https://yinji.org/new-keyboard-hp-gt87-ultra.html",
+      "author": "印记",
+      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
+    },
+    {
       "title": "从 iPhone 16 到 realme Neo7 Turbo：双持用户的主观体验",
       "created": "2025-08-26 09:00",
       "link": "https://veryjack.com/technique/realme_neo7_turbo/",
@@ -491,6 +568,13 @@
       "avatar": "https://yayu.net/favicon.ico"
     },
     {
+      "title": "Cycling Page",
+      "created": "2025-08-24 21:52",
+      "link": "https://yinji.org/cycling-page.html",
+      "author": "印记",
+      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
+    },
+    {
       "title": "An Unfinished Film",
       "created": "2025-08-24 20:23",
       "link": "https://anotherdayu.com/2025/7172/",
@@ -531,6 +615,13 @@
       "link": "https://anotherdayu.com/2025/7169/",
       "author": "Dayu",
       "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
+    },
+    {
+      "title": "266、处暑",
+      "created": "2025-08-23 09:14",
+      "link": "https://1900.live/266-chu-shu/",
+      "author": "1900'blog",
+      "avatar": "https://cdn.1900.live/20190640/ico.png"
     },
     {
       "title": "",
@@ -729,6 +820,13 @@
       "avatar": "https://cravatar.cn/avatar/bb78cd69edd84cdbdb99a491ea2dc6c8"
     },
     {
+      "title": "不错的洗发水和混沌无序的AI和草台班子微信",
+      "created": "2025-08-14 09:43",
+      "link": "https://1900.live/good-shampoo-and-chaotic-ai-and-makeshift-wechat/",
+      "author": "1900'blog",
+      "avatar": "https://cdn.1900.live/20190640/ico.png"
+    },
+    {
       "title": "PIVOT Vol.19 有 19 个链接",
       "created": "2025-08-14 05:58",
       "link": "https://anotherdayu.com/2025/7121/",
@@ -755,13 +853,6 @@
       "link": "https://imzm.im/the-shadows-edge/",
       "author": "陈仓颉",
       "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
-    },
-    {
-      "title": "Mark Koester “纯文本生活”理念",
-      "created": "2025-08-12 20:53",
-      "link": "https://yayu.net/5376.html",
-      "author": "雅余",
-      "avatar": "https://yayu.net/favicon.ico"
     },
     {
       "title": "我们，都是浪浪山的小妖怪。",
@@ -792,6 +883,13 @@
       "avatar": "https://img.imsun.org/avatar.jpg"
     },
     {
+      "title": "忽闻噩耗和AI的浪漫",
+      "created": "2025-08-09 10:03",
+      "link": "https://1900.live/suddenly-hearing-bad-news-and-the-romance-of-ai/",
+      "author": "1900'blog",
+      "avatar": "https://cdn.1900.live/20190640/ico.png"
+    },
+    {
       "title": "吴博凉州文物展",
       "created": "2025-08-09 02:11",
       "link": "https://synyan.cn/101807",
@@ -804,6 +902,13 @@
       "link": "https://imzm.im/summer-movies-2025/",
       "author": "陈仓颉",
       "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
+    },
+    {
+      "title": "Ghost6.0配置Nginx以启用Activitypub",
+      "created": "2025-08-08 12:58",
+      "link": "https://1900.live/ghost6-0pei-zhi-nginxyi-qi-yong-activitypub/",
+      "author": "1900'blog",
+      "avatar": "https://cdn.1900.live/20190640/ico.png"
     },
     {
       "title": "通报“平息”的艺术与永不揭开的谜底",
@@ -825,6 +930,13 @@
       "link": "https://hux.ink/posts/hr-zone/",
       "author": "落落vici",
       "avatar": "https://cravatar.cn/avatar/bb78cd69edd84cdbdb99a491ea2dc6c8"
+    },
+    {
+      "title": "265、立秋",
+      "created": "2025-08-07 12:48",
+      "link": "https://1900.live/265-li-qiu/",
+      "author": "1900'blog",
+      "avatar": "https://cdn.1900.live/20190640/ico.png"
     },
     {
       "title": "记录一次产品8n国际化的翻车事件",
@@ -862,6 +974,13 @@
       "avatar": "https://justgoidea.com/favicon.svg"
     },
     {
+      "title": "散装日常",
+      "created": "2025-08-04 16:33",
+      "link": "https://1900.live/re-de-fa-hun-sui-sui-nian/",
+      "author": "1900'blog",
+      "avatar": "https://cdn.1900.live/20190640/ico.png"
+    },
+    {
       "title": "恶臭红尘，不能自已",
       "created": "2025-08-04 14:37",
       "link": "https://www.jeffer.xyz/cid/3068.html",
@@ -881,6 +1000,13 @@
       "link": "https://synyan.cn/101658",
       "author": "旅行漫记",
       "avatar": "https://synyan.cn/wp-content/themes/Farallon-develop/build/images/favicon-s.png"
+    },
+    {
+      "title": "Excel单元格做多选下拉框",
+      "created": "2025-08-02 17:12",
+      "link": "https://1900.live/exceldan-yuan-ge-zuo-duo-xuan-xia-la-kuang/",
+      "author": "1900'blog",
+      "avatar": "https://cdn.1900.live/20190640/ico.png"
     },
     {
       "title": "蔑视和不平等",
@@ -1014,6 +1140,13 @@
       "link": "https://zhou.ge/2025-07-14.html",
       "author": "忆往事",
       "avatar": "https://zhou.ge/favicon.ico"
+    },
+    {
+      "title": "搬家",
+      "created": "2025-07-14 22:53",
+      "link": "https://yinji.org/move-home.html",
+      "author": "印记",
+      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
     },
     {
       "title": "一把趁手的工具 — Nuphy Kick75",
@@ -1231,6 +1364,13 @@
       "link": "https://pewae.com/2025/06/mother-12.html",
       "author": "破袜子",
       "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
+    },
+    {
+      "title": "CapWords：写给大朋友和小朋友的英语学习工具",
+      "created": "2025-06-15 17:29",
+      "link": "https://yinji.org/capwords-english-learning-tool-for-adults-and-children.html",
+      "author": "印记",
+      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
     },
     {
       "title": "n8n 之同步博客到 Mastodon",
