@@ -4,9 +4,16 @@
     "active_num": 45,
     "error_num": 8,
     "article_num": 378,
-    "last_updated_time": "2025-09-17 14:30:35"
+    "last_updated_time": "2025-09-17 20:41:25"
   },
   "article_data": [
+    {
+      "title": "仁哉小祁",
+      "created": "2025-09-17 16:08",
+      "link": "https://pewae.com/2025/09/miss-qi-is-so-kind.html",
+      "author": "破袜子",
+      "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
+    },
     {
       "title": "升级 macOS 26",
       "created": "2025-09-16 23:13",
@@ -1364,13 +1371,6 @@
       "link": "https://veryjack.com/technique/about_my_blog_theme/",
       "author": "Jack's Space",
       "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
-    },
-    {
-      "title": "地球冒险1+2",
-      "created": "2025-06-15 17:36",
-      "link": "https://pewae.com/2025/06/mother-12.html",
-      "author": "破袜子",
-      "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
     },
     {
       "title": "CapWords：写给大朋友和小朋友的英语学习工具",
