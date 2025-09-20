@@ -4,9 +4,16 @@
     "active_num": 45,
     "error_num": 8,
     "article_num": 378,
-    "last_updated_time": "2025-09-20 14:27:54"
+    "last_updated_time": "2025-09-20 20:37:38"
   },
   "article_data": [
+    {
+      "title": "永远在重复愚蠢历史",
+      "created": "2025-09-20 19:50",
+      "link": "https://wangyunzi.com/posts/157/",
+      "author": "长街短梦",
+      "avatar": "https://gravatar.memobbs.app/avatar/c1b204bab687a23c8b6d7c8de11c7c59"
+    },
     {
       "title": "山西河北历史文化之旅 | 广灵甸顶山空中草原",
       "created": "2025-09-19 19:55",
@@ -2337,13 +2344,6 @@
       "link": "https://dongjunke.cn/posts/2024/10/07/63639.html",
       "author": "东评西就",
       "avatar": "https://gravatar.memobbs.app/avatar/42542189ddb33064599dc88a5149bea7"
-    },
-    {
-      "title": "docker代理问题",
-      "created": "2024-09-25 21:24",
-      "link": "https://wangyunzi.com/posts/147/",
-      "author": "长街短梦",
-      "avatar": "https://gravatar.memobbs.app/avatar/c1b204bab687a23c8b6d7c8de11c7c59"
     },
     {
       "title": "飞傲KB1K小键盘 Mac系统使用教程",
