@@ -4,9 +4,16 @@
     "active_num": 45,
     "error_num": 8,
     "article_num": 377,
-    "last_updated_time": "2025-09-25 20:42:23"
+    "last_updated_time": "2025-09-26 02:30:09"
   },
   "article_data": [
+    {
+      "title": "多事之秋",
+      "created": "2025-09-25 22:40",
+      "link": "https://ihaihe.cn/3369.htm",
+      "author": "三十里海河",
+      "avatar": "https://gravatar.memobbs.app/avatar/40c46b2a6ef05464946a7e3f5230bdfa16b5d4e861c7b69977ef77efde66638a"
+    },
     {
       "title": "小布记忆：一窥手机 AI 的未来",
       "created": "2025-09-25 00:30",
@@ -1483,13 +1490,6 @@
       "link": "https://www.eallion.com/docker-deploy-mastodon/",
       "author": "大大的小蜗牛",
       "avatar": "https://gravatar.memobbs.app/avatar/171e4c30959e8c077a6c58b958624b31"
-    },
-    {
-      "title": "薛定谔的电瓶",
-      "created": "2025-06-08 09:25",
-      "link": "https://ihaihe.cn/3274.htm",
-      "author": "三十里海河",
-      "avatar": "https://gravatar.memobbs.app/avatar/40c46b2a6ef05464946a7e3f5230bdfa16b5d4e861c7b69977ef77efde66638a"
     },
     {
       "title": "本来没有我",
