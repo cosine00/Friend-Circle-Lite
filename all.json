@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 53,
-    "active_num": 45,
-    "error_num": 8,
-    "article_num": 377,
-    "last_updated_time": "2025-09-30 09:26:54"
+    "active_num": 44,
+    "error_num": 9,
+    "article_num": 357,
+    "last_updated_time": "2025-09-30 14:31:14"
   },
   "article_data": [
     {
@@ -57,13 +57,6 @@
       "avatar": "https://cdn.qyliu.top/i/2024/04/15/661d443b5359c.png"
     },
     {
-      "title": "彩礼",
-      "created": "2025-09-26 22:07",
-      "link": "https://www.eallion.com/bridewealth/",
-      "author": "大大的小蜗牛",
-      "avatar": "https://gravatar.memobbs.app/avatar/171e4c30959e8c077a6c58b958624b31"
-    },
-    {
       "title": "山西河北历史文化之旅｜河北正定古城和正定四塔",
       "created": "2025-09-26 19:55",
       "link": "https://yayu.net/5724.html",
@@ -83,13 +76,6 @@
       "link": "https://ihaihe.cn/3369.htm",
       "author": "三十里海河",
       "avatar": "https://gravatar.memobbs.app/avatar/40c46b2a6ef05464946a7e3f5230bdfa16b5d4e861c7b69977ef77efde66638a"
-    },
-    {
-      "title": "小布记忆：一窥手机 AI 的未来",
-      "created": "2025-09-25 00:30",
-      "link": "https://veryjack.com/technique/xiaobu_memory/",
-      "author": "Jack's Space",
-      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
     },
     {
       "title": "辞未动心已至",
@@ -246,13 +232,6 @@
       "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
     },
     {
-      "title": "2025 博客变化",
-      "created": "2025-09-16 21:52",
-      "link": "https://www.eallion.com/2025-blog-changes/",
-      "author": "大大的小蜗牛",
-      "avatar": "https://gravatar.memobbs.app/avatar/171e4c30959e8c077a6c58b958624b31"
-    },
-    {
       "title": "山西河北历史文化之旅｜大同火山群",
       "created": "2025-09-16 19:55",
       "link": "https://yayu.net/5632.html",
@@ -279,13 +258,6 @@
       "link": "https://atpx.com/blog/time-on-the-bus/",
       "author": "atpX",
       "avatar": "https://atpx.com/favicon-32x32.png"
-    },
-    {
-      "title": "预制菜",
-      "created": "2025-09-15 18:11",
-      "link": "https://www.eallion.com/pre-made-dishes/",
-      "author": "大大的小蜗牛",
-      "avatar": "https://gravatar.memobbs.app/avatar/171e4c30959e8c077a6c58b958624b31"
     },
     {
       "title": "忙疯了",
@@ -337,13 +309,6 @@
       "avatar": "https://justgoidea.com/favicon.svg"
     },
     {
-      "title": "联邦礼仪之一",
-      "created": "2025-09-12 14:27",
-      "link": "https://www.eallion.com/fediverse-courtesy/",
-      "author": "大大的小蜗牛",
-      "avatar": "https://gravatar.memobbs.app/avatar/171e4c30959e8c077a6c58b958624b31"
-    },
-    {
       "title": "【去过】页面上线",
       "created": "2025-09-12 09:40",
       "link": "https://pewae.com/2025/09/steps-page-been-set-up.html",
@@ -370,13 +335,6 @@
       "link": "https://hux.ink/posts/pic-compress/",
       "author": "落落vici",
       "avatar": "https://cravatar.cn/avatar/bb78cd69edd84cdbdb99a491ea2dc6c8"
-    },
-    {
-      "title": "重拾写博客的乐趣",
-      "created": "2025-09-11 17:02",
-      "link": "https://www.eallion.com/back-to-blogging/",
-      "author": "大大的小蜗牛",
-      "avatar": "https://gravatar.memobbs.app/avatar/171e4c30959e8c077a6c58b958624b31"
     },
     {
       "title": "邪修还是正修？ — 解决捷豹 XEL 后排异响",
@@ -447,13 +405,6 @@
       "link": "https://h4ck.org.cn/2025/09/21500",
       "author": "obaby",
       "avatar": "https://cdn.qyliu.top/i/2024/04/15/661d443b5359c.png"
-    },
-    {
-      "title": "给大家介绍一下，他叫小黄",
-      "created": "2025-09-08 11:00",
-      "link": "https://veryjack.com/life/he_is_xiaohuang/",
-      "author": "Jack's Space",
-      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
     },
     {
       "title": "属于这个夏天的一些照片",
@@ -750,13 +701,6 @@
       "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
     },
     {
-      "title": "从 iPhone 16 到 realme Neo7 Turbo：双持用户的主观体验",
-      "created": "2025-08-26 09:00",
-      "link": "https://veryjack.com/technique/realme_neo7_turbo/",
-      "author": "Jack's Space",
-      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
-    },
-    {
       "title": "车子后视镜擦伤了",
       "created": "2025-08-25 18:01",
       "link": "https://zhoutian.com/316.html",
@@ -888,13 +832,6 @@
       "link": "https://synyan.cn/102622",
       "author": "旅行漫记",
       "avatar": "https://synyan.cn/wp-content/themes/Farallon-develop/build/images/favicon-s.png"
-    },
-    {
-      "title": "蓝与绿之间，藏着最温柔的治愈 — 安吉",
-      "created": "2025-08-20 12:28",
-      "link": "https://veryjack.com/life/anji/",
-      "author": "Jack's Space",
-      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
     },
     {
       "title": "吴博风雅吴中展",
@@ -1149,13 +1086,6 @@
       "avatar": "https://gravatar.memobbs.app/avatar/40c46b2a6ef05464946a7e3f5230bdfa16b5d4e861c7b69977ef77efde66638a"
     },
     {
-      "title": "看了懂车帝的视频，我有一些想法",
-      "created": "2025-07-26 14:05",
-      "link": "https://veryjack.com/life/some_thoughts_about_dcd/",
-      "author": "Jack's Space",
-      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
-    },
-    {
       "title": "蜘蛛侠与X战警",
       "created": "2025-07-24 23:19",
       "link": "https://pewae.com/2025/07/spider-man-and-x-men-arcades-revenge.html",
@@ -1238,13 +1168,6 @@
       "link": "https://zhou.ge/2025-07-14.html",
       "author": "忆往事",
       "avatar": "https://zhou.ge/favicon.ico"
-    },
-    {
-      "title": "一把趁手的工具 — Nuphy Kick75",
-      "created": "2025-07-14 20:12",
-      "link": "https://veryjack.com/technique/nuphy-kick75/",
-      "author": "Jack's Space",
-      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
     },
     {
       "title": "南宁方特：一日游遍东盟十国",
@@ -1352,25 +1275,11 @@
       "avatar": "https://www.jiangyu.org/images/icon.svg"
     },
     {
-      "title": "随手拍，六月份的尾巴",
-      "created": "2025-06-29 23:04",
-      "link": "https://veryjack.com/photograph/final_days_of_june/",
-      "author": "Jack's Space",
-      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
-    },
-    {
       "title": "想换车",
       "created": "2025-06-29 19:46",
       "link": "https://ihaihe.cn/3303.htm",
       "author": "三十里海河",
       "avatar": "https://gravatar.memobbs.app/avatar/40c46b2a6ef05464946a7e3f5230bdfa16b5d4e861c7b69977ef77efde66638a"
-    },
-    {
-      "title": "少儿 TED - 时间管理大师",
-      "created": "2025-06-27 11:49",
-      "link": "https://www.eallion.com/ted-master-of-time-management/",
-      "author": "大大的小蜗牛",
-      "avatar": "https://gravatar.memobbs.app/avatar/171e4c30959e8c077a6c58b958624b31"
     },
     {
       "title": "日拱一卒，功不唐捐",
@@ -1429,32 +1338,11 @@
       "avatar": "https://gravatar.memobbs.app/avatar/40c46b2a6ef05464946a7e3f5230bdfa16b5d4e861c7b69977ef77efde66638a"
     },
     {
-      "title": "我的 WordPress 博客主题与插件设置分享",
-      "created": "2025-06-17 00:58",
-      "link": "https://veryjack.com/technique/about_my_blog_theme/",
-      "author": "Jack's Space",
-      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
-    },
-    {
-      "title": "n8n 之同步博客到 Mastodon",
-      "created": "2025-06-14 12:04",
-      "link": "https://www.eallion.com/n8n-sync-blog-to-mastodon/",
-      "author": "大大的小蜗牛",
-      "avatar": "https://gravatar.memobbs.app/avatar/171e4c30959e8c077a6c58b958624b31"
-    },
-    {
       "title": "《梵高手稿》读书笔记",
       "created": "2025-06-12 21:30",
       "link": "https://www.jiangyu.org/van-gogh/",
       "author": "天一生水",
       "avatar": "https://www.jiangyu.org/images/icon.svg"
-    },
-    {
-      "title": "n8n 之备份 Mastodon 嘟文",
-      "created": "2025-06-11 15:55",
-      "link": "https://www.eallion.com/n8n-backup-mastodon-statuses/",
-      "author": "大大的小蜗牛",
-      "avatar": "https://gravatar.memobbs.app/avatar/171e4c30959e8c077a6c58b958624b31"
     },
     {
       "title": "监控升级",
@@ -1478,13 +1366,6 @@
       "avatar": "https://bluehe.cn/usr/uploads/2024/03/1678458078.png"
     },
     {
-      "title": "如何备份 Mastodon",
-      "created": "2025-06-09 22:09",
-      "link": "https://www.eallion.com/mastodon-backup/",
-      "author": "大大的小蜗牛",
-      "avatar": "https://gravatar.memobbs.app/avatar/171e4c30959e8c077a6c58b958624b31"
-    },
-    {
       "title": "与系统共舞",
       "created": "2025-06-09 17:36",
       "link": "https://imzm.im/thinking-in-systems/",
@@ -1492,25 +1373,11 @@
       "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
     },
     {
-      "title": "Docker 部署 Mastodon",
-      "created": "2025-06-09 00:05",
-      "link": "https://www.eallion.com/docker-deploy-mastodon/",
-      "author": "大大的小蜗牛",
-      "avatar": "https://gravatar.memobbs.app/avatar/171e4c30959e8c077a6c58b958624b31"
-    },
-    {
       "title": "本来没有我",
       "created": "2025-06-07 20:33",
       "link": "https://justgoidea.com/ben-lai-mei-you-wo/",
       "author": "槿呈Goidea",
       "avatar": "https://justgoidea.com/favicon.svg"
-    },
-    {
-      "title": "又一个 WordPress 友情链接插件",
-      "created": "2025-06-07 13:08",
-      "link": "https://veryjack.com/technique/wordpress_friendlinks_plugin/",
-      "author": "Jack's Space",
-      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
     },
     {
       "title": "人人都是悉达多",
@@ -1525,13 +1392,6 @@
       "link": "https://imzm.im/strange-stories-from-metro/",
       "author": "陈仓颉",
       "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
-    },
-    {
-      "title": "集合！我的AI员工们",
-      "created": "2025-06-02 22:27",
-      "link": "https://veryjack.com/technique/my_ai_employees/",
-      "author": "Jack's Space",
-      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
     },
     {
       "title": "慎独，autocontrole 与 Saudade",
