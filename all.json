@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 53,
-    "active_num": 44,
-    "error_num": 9,
-    "article_num": 367,
-    "last_updated_time": "2025-10-01 02:26:32"
+    "active_num": 42,
+    "error_num": 11,
+    "article_num": 347,
+    "last_updated_time": "2025-10-01 09:44:42"
   },
   "article_data": [
     {
@@ -62,13 +62,6 @@
       "link": "https://1900.live/qiu-tian-qi-shi-ye-hao-jiu-shi-wo-shen-jing-shuai-ruo/",
       "author": "1900'blog",
       "avatar": "https://cdn.1900.live/20190640/ico.png"
-    },
-    {
-      "title": "展示照片的好地方",
-      "created": "2025-09-27 23:20",
-      "link": "https://yinji.org/chronoframe.html",
-      "author": "印记",
-      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
     },
     {
       "title": "乌龙",
@@ -225,13 +218,6 @@
       "avatar": "https://gravatar.memobbs.app/avatar/679666f7bd1af3e55f0e51dd70ed161c"
     },
     {
-      "title": "当我在骑车时，我在想什么",
-      "created": "2025-09-18 23:00",
-      "link": "https://yinji.org/what-am-i-thinking-when-i-ride-a-bike.html",
-      "author": "印记",
-      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
-    },
-    {
       "title": "macOS Tahoe 26 丑哭了",
       "created": "2025-09-18 22:34",
       "link": "https://yayu.net/5692.html",
@@ -328,13 +314,6 @@
       "link": "https://hisherry.com/imserious/4911/",
       "author": "燕渡寒潭",
       "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
-    },
-    {
-      "title": "收藏的博客",
-      "created": "2025-09-14 22:41",
-      "link": "https://yinji.org/blogroll.html",
-      "author": "印记",
-      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
     },
     {
       "title": "梁韵公园梁溪河",
@@ -505,13 +484,6 @@
       "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
     },
     {
-      "title": "ActivityPub 与去中心化社交",
-      "created": "2025-09-07 20:35",
-      "link": "https://yinji.org/activitypub.html",
-      "author": "印记",
-      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
-    },
-    {
       "title": "267、白露",
       "created": "2025-09-07 14:54",
       "link": "https://1900.live/267-bai-lu/",
@@ -582,13 +554,6 @@
       "avatar": "https://gravatar.memobbs.app/avatar/d9cc49ea0301640d7a19b6a1e77012dd"
     },
     {
-      "title": "Quaily",
-      "created": "2025-09-04 22:43",
-      "link": "https://yinji.org/quaily.html",
-      "author": "印记",
-      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
-    },
-    {
       "title": "木鱼与金鱼",
       "created": "2025-09-04 11:24",
       "link": "https://h4ck.org.cn/2025/09/21473",
@@ -601,13 +566,6 @@
       "link": "https://laozhang.org/archives/3942.html",
       "author": "老张博客",
       "avatar": "https://gravatar.memobbs.app/avatar/679666f7bd1af3e55f0e51dd70ed161c"
-    },
-    {
-      "title": "放在状态栏上的日历工具",
-      "created": "2025-09-03 22:35",
-      "link": "https://yinji.org/lunarbar.html",
-      "author": "印记",
-      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
     },
     {
       "title": "汽车空调不制冷",
@@ -659,20 +617,6 @@
       "avatar": "https://yayu.net/favicon.ico"
     },
     {
-      "title": "底部上水电茶壶E4错误代码维修",
-      "created": "2025-09-01 00:20",
-      "link": "https://itlu.net/articles/2842.html",
-      "author": "挨踢路",
-      "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
-    },
-    {
-      "title": "更换主题后最喜欢做的事情",
-      "created": "2025-08-31 23:06",
-      "link": "https://yinji.org/the-things-i-like-to-do-after-changing-theme.html",
-      "author": "印记",
-      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
-    },
-    {
       "title": "我的儿时网络记忆",
       "created": "2025-08-31 04:58",
       "link": "https://justgoidea.com/childhood-digital-memory/",
@@ -685,13 +629,6 @@
       "link": "https://anotherdayu.com/2025/7301/",
       "author": "Dayu",
       "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
-    },
-    {
-      "title": "过去的互联网完全由网站组成",
-      "created": "2025-08-29 23:08",
-      "link": "https://yinji.org/the-internet.html",
-      "author": "印记",
-      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
     },
     {
       "title": "来自理工男奇瑞的小浪漫",
@@ -713,13 +650,6 @@
       "link": "https://pewae.com/2025/08/random_kuso_109.html",
       "author": "破袜子",
       "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
-    },
-    {
-      "title": "魔幻年年有，今年特别多",
-      "created": "2025-08-29 00:36",
-      "link": "https://itlu.net/articles/2841.html",
-      "author": "挨踢路",
-      "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
     },
     {
       "title": "《一一》道来",
@@ -757,13 +687,6 @@
       "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
     },
     {
-      "title": "新键盘：惠普 GT87 Ultra",
-      "created": "2025-08-26 22:51",
-      "link": "https://yinji.org/new-keyboard-hp-gt87-ultra.html",
-      "author": "印记",
-      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
-    },
-    {
       "title": "从 iPhone 16 到 realme Neo7 Turbo：双持用户的主观体验",
       "created": "2025-08-26 09:00",
       "link": "https://veryjack.com/technique/realme_neo7_turbo/",
@@ -783,13 +706,6 @@
       "link": "https://www.ashsilent.com/shuoshuo/8452",
       "author": "Ashsilent Planet",
       "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
-    },
-    {
-      "title": "Cycling Page",
-      "created": "2025-08-24 21:52",
-      "link": "https://yinji.org/cycling-page.html",
-      "author": "印记",
-      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
     },
     {
       "title": "An Unfinished Film",
@@ -1037,13 +953,6 @@
       "avatar": "https://cdn.1900.live/20190640/ico.png"
     },
     {
-      "title": "通报“平息”的艺术与永不揭开的谜底",
-      "created": "2025-08-08 07:41",
-      "link": "https://itlu.net/articles/2840.html",
-      "author": "挨踢路",
-      "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
-    },
-    {
       "title": "与跑步心率和解",
       "created": "2025-08-08 00:29",
       "link": "https://hux.ink/posts/hr-zone/",
@@ -1175,20 +1084,6 @@
       "link": "https://lms.im/story/unreachable-bloggers/",
       "author": "不亦乐乎",
       "avatar": "https://gravatar.memobbs.app/avatar/d9cc49ea0301640d7a19b6a1e77012dd"
-    },
-    {
-      "title": "家用水龙头管件，切记不要使用合金材质",
-      "created": "2025-07-21 05:18",
-      "link": "https://itlu.net/articles/2839.html",
-      "author": "挨踢路",
-      "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
-    },
-    {
-      "title": "家庭用水，真有必要安装前置过滤器",
-      "created": "2025-07-20 05:53",
-      "link": "https://itlu.net/articles/2838.html",
-      "author": "挨踢路",
-      "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
     },
     {
       "title": "梦四十六",
@@ -1338,32 +1233,11 @@
       "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
     },
     {
-      "title": "自行理发的这几年",
-      "created": "2025-06-24 02:19",
-      "link": "https://itlu.net/articles/2837.html",
-      "author": "挨踢路",
-      "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
-    },
-    {
       "title": "倒霉的一天",
       "created": "2025-06-21 07:57",
       "link": "https://ihaihe.cn/3290.htm",
       "author": "三十里海河",
       "avatar": "https://gravatar.memobbs.app/avatar/40c46b2a6ef05464946a7e3f5230bdfa16b5d4e861c7b69977ef77efde66638a"
-    },
-    {
-      "title": "新能源汽车下乡：万亿赛道背后的冰火劫",
-      "created": "2025-06-20 09:08",
-      "link": "https://itlu.net/articles/2836.html",
-      "author": "挨踢路",
-      "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
-    },
-    {
-      "title": "刑不上大夫，礼不下庶人",
-      "created": "2025-06-20 08:05",
-      "link": "https://itlu.net/articles/2835.html",
-      "author": "挨踢路",
-      "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
     },
     {
       "title": "我的 WordPress 博客主题与插件设置分享",
@@ -1520,13 +1394,6 @@
       "avatar": "https://gravatar.memobbs.app/avatar/c1b204bab687a23c8b6d7c8de11c7c59"
     },
     {
-      "title": "董某莹与肖某引发舆情事件迎来初步通报",
-      "created": "2025-05-16 05:48",
-      "link": "https://itlu.net/articles/2834.html",
-      "author": "挨踢路",
-      "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
-    },
-    {
       "title": "广西科技馆游记",
       "created": "2025-05-15 19:54",
       "link": "https://bluehe.cn/archives/gx-st-museum",
@@ -1553,13 +1420,6 @@
       "link": "https://bluehe.cn/archives/nanning-zoo",
       "author": "云心怀鹤",
       "avatar": "https://bluehe.cn/usr/uploads/2024/03/1678458078.png"
-    },
-    {
-      "title": "南航的绑定手机，能把人逼疯",
-      "created": "2025-05-13 07:52",
-      "link": "https://itlu.net/articles/2833.html",
-      "author": "挨踢路",
-      "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
     },
     {
       "title": "汉字的不可拼音化",
