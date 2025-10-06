@@ -4,7 +4,7 @@
     "active_num": 44,
     "error_num": 9,
     "article_num": 367,
-    "last_updated_time": "2025-10-06 02:25:54"
+    "last_updated_time": "2025-10-06 09:27:33"
   },
   "article_data": [
     {
@@ -13,6 +13,13 @@
       "link": "https://zhou.ge/2025-10-05.html",
       "author": "忆往事",
       "avatar": "https://zhou.ge/favicon.ico"
+    },
+    {
+      "title": "The CETDE Framework: A Guide to Deep Knowledge in the AI Era",
+      "created": "2025-10-06 02:53",
+      "link": "https://justgoidea.com/cetde-framework/",
+      "author": "槿呈Goidea",
+      "avatar": "https://justgoidea.com/favicon.svg"
     },
     {
       "title": "苏自栾城，西宅于眉",
@@ -1672,13 +1679,6 @@
       "link": "https://moreality.net/posts/6318/",
       "author": "Moreality's Blog",
       "avatar": "https://youpai.roccoshi.top/img/avatar.jpg"
-    },
-    {
-      "title": "春別",
-      "created": "2025-04-21 05:13",
-      "link": "https://justgoidea.com/chun-bie/",
-      "author": "槿呈Goidea",
-      "avatar": "https://justgoidea.com/favicon.svg"
     },
     {
       "title": "《叫魂：1768年中国妖术大恐慌》读书笔记",
