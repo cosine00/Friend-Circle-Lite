@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 53,
-    "active_num": 42,
-    "error_num": 11,
-    "article_num": 357,
-    "last_updated_time": "2025-10-15 20:43:28"
+    "active_num": 43,
+    "error_num": 10,
+    "article_num": 367,
+    "last_updated_time": "2025-10-16 02:31:07"
   },
   "article_data": [
     {
@@ -20,6 +20,20 @@
       "link": "https://ihaihe.cn/3401.htm",
       "author": "三十里海河",
       "avatar": "https://gravatar.memobbs.app/avatar/40c46b2a6ef05464946a7e3f5230bdfa16b5d4e861c7b69977ef77efde66638a"
+    },
+    {
+      "title": "小爱音箱接入豆包折戟",
+      "created": "2025-10-15 08:52",
+      "link": "https://hux.ink/posts/doubao404/",
+      "author": "落落vici",
+      "avatar": "https://cravatar.cn/avatar/bb78cd69edd84cdbdb99a491ea2dc6c8"
+    },
+    {
+      "title": "走出家门：日本四国（3）",
+      "created": "2025-10-15 00:00",
+      "link": "https://www.javis.me/matsuyama/",
+      "author": "查令十字街84号",
+      "avatar": "https://b.storyo.cn/upload/logo.png"
     },
     {
       "title": "山西河北历史文化之旅｜正定博物馆",
@@ -323,6 +337,13 @@
       "avatar": "https://cdn.1900.live/20190640/ico.png"
     },
     {
+      "title": "展示照片的好地方",
+      "created": "2025-09-27 23:20",
+      "link": "https://yinji.org/chronoframe.html",
+      "author": "印记",
+      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
+    },
+    {
       "title": "乌龙",
       "created": "2025-09-27 05:13",
       "link": "https://lms.im/life/oolong/",
@@ -477,6 +498,13 @@
       "avatar": "https://gravatar.memobbs.app/avatar/679666f7bd1af3e55f0e51dd70ed161c"
     },
     {
+      "title": "当我在骑车时，我在想什么",
+      "created": "2025-09-18 23:00",
+      "link": "https://yinji.org/what-am-i-thinking-when-i-ride-a-bike.html",
+      "author": "印记",
+      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
+    },
+    {
       "title": "macOS Tahoe 26 丑哭了",
       "created": "2025-09-18 22:34",
       "link": "https://yayu.net/5692.html",
@@ -573,6 +601,13 @@
       "link": "https://hisherry.com/imserious/4911/",
       "author": "燕渡寒潭",
       "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
+    },
+    {
+      "title": "收藏的博客",
+      "created": "2025-09-14 22:41",
+      "link": "https://yinji.org/blogroll.html",
+      "author": "印记",
+      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
     },
     {
       "title": "梁韵公园梁溪河",
@@ -736,6 +771,13 @@
       "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
     },
     {
+      "title": "ActivityPub 与去中心化社交",
+      "created": "2025-09-07 20:35",
+      "link": "https://yinji.org/activitypub.html",
+      "author": "印记",
+      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
+    },
+    {
       "title": "267、白露",
       "created": "2025-09-07 14:54",
       "link": "https://1900.live/267-bai-lu/",
@@ -792,11 +834,25 @@
       "avatar": "https://gravatar.memobbs.app/avatar/d9cc49ea0301640d7a19b6a1e77012dd"
     },
     {
+      "title": "Quaily",
+      "created": "2025-09-04 22:43",
+      "link": "https://yinji.org/quaily.html",
+      "author": "印记",
+      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
+    },
+    {
       "title": "“断网”这些天，我都干了啥！？",
       "created": "2025-09-04 10:35",
       "link": "https://laozhang.org/archives/3942.html",
       "author": "老张博客",
       "avatar": "https://gravatar.memobbs.app/avatar/679666f7bd1af3e55f0e51dd70ed161c"
+    },
+    {
+      "title": "放在状态栏上的日历工具",
+      "created": "2025-09-03 22:35",
+      "link": "https://yinji.org/lunarbar.html",
+      "author": "印记",
+      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
     },
     {
       "title": "汽车空调不制冷",
@@ -841,6 +897,13 @@
       "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
     },
     {
+      "title": "更换主题后最喜欢做的事情",
+      "created": "2025-08-31 23:06",
+      "link": "https://yinji.org/the-things-i-like-to-do-after-changing-theme.html",
+      "author": "印记",
+      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
+    },
+    {
       "title": "我的儿时网络记忆",
       "created": "2025-08-31 04:58",
       "link": "https://justgoidea.com/childhood-digital-memory/",
@@ -853,6 +916,13 @@
       "link": "https://anotherdayu.com/2025/7301/",
       "author": "Dayu",
       "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
+    },
+    {
+      "title": "过去的互联网完全由网站组成",
+      "created": "2025-08-29 23:08",
+      "link": "https://yinji.org/the-internet.html",
+      "author": "印记",
+      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
     },
     {
       "title": "来自理工男奇瑞的小浪漫",
@@ -911,6 +981,13 @@
       "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
     },
     {
+      "title": "新键盘：惠普 GT87 Ultra",
+      "created": "2025-08-26 22:51",
+      "link": "https://yinji.org/new-keyboard-hp-gt87-ultra.html",
+      "author": "印记",
+      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
+    },
+    {
       "title": "从 iPhone 16 到 realme Neo7 Turbo：双持用户的主观体验",
       "created": "2025-08-26 09:00",
       "link": "https://veryjack.com/technique/realme_neo7_turbo/",
@@ -923,6 +1000,13 @@
       "link": "https://www.ashsilent.com/shuoshuo/8452",
       "author": "Ashsilent Planet",
       "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
+    },
+    {
+      "title": "Cycling Page",
+      "created": "2025-08-24 21:52",
+      "link": "https://yinji.org/cycling-page.html",
+      "author": "印记",
+      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
     },
     {
       "title": "An Unfinished Film",
@@ -1238,13 +1322,6 @@
       "link": "https://www.jeffer.xyz/cid/3025.html",
       "author": "Jeffer.Z的博客",
       "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
-    },
-    {
-      "title": "最近心态崩了",
-      "created": "2025-07-23 18:06",
-      "link": "https://hux.ink/posts/absolutely-devastated/",
-      "author": "落落vici",
-      "avatar": "https://cravatar.cn/avatar/bb78cd69edd84cdbdb99a491ea2dc6c8"
     },
     {
       "title": "加拿大国庆日",
@@ -1880,13 +1957,6 @@
       "title": "24 年 7 月去了趟贵州",
       "created": "2025-02-11 00:00",
       "link": "https://www.javis.me/guizhou/",
-      "author": "查令十字街84号",
-      "avatar": "https://b.storyo.cn/upload/logo.png"
-    },
-    {
-      "title": "正直，勇敢，有阅读量 | 2024 年度总结",
-      "created": "2025-02-10 00:00",
-      "link": "https://www.javis.me/brave-smart-determined-rebellious/",
       "author": "查令十字街84号",
       "avatar": "https://b.storyo.cn/upload/logo.png"
     },
