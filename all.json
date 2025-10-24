@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 53,
-    "active_num": 44,
-    "error_num": 9,
-    "article_num": 367,
-    "last_updated_time": "2025-10-24 09:26:16"
+    "active_num": 45,
+    "error_num": 8,
+    "article_num": 377,
+    "last_updated_time": "2025-10-24 14:30:27"
   },
   "article_data": [
     {
@@ -13,6 +13,13 @@
       "link": "https://zhoutian.com/334.html",
       "author": "满心记",
       "avatar": "https://weavatar.com/avatar/9b3a681168a25e910954372e468fbc91"
+    },
+    {
+      "title": "270、霜降",
+      "created": "2025-10-24 09:55",
+      "link": "https://1900.live/270-shuang-jiang/",
+      "author": "1900'blog",
+      "avatar": "https://cdn.1900.live/20190640/ico.png"
     },
     {
       "title": "老人家轻微脑梗了",
@@ -1324,13 +1331,6 @@
       "avatar": "https://img.imsun.org/avatar.jpg"
     },
     {
-      "title": "忽闻噩耗和AI的浪漫",
-      "created": "2025-08-09 10:03",
-      "link": "https://1900.live/suddenly-hearing-bad-news-and-the-romance-of-ai/",
-      "author": "1900'blog",
-      "avatar": "https://cdn.1900.live/20190640/ico.png"
-    },
-    {
       "title": "暑期观影",
       "created": "2025-08-08 18:54",
       "link": "https://imzm.im/summer-movies-2025/",
@@ -1506,6 +1506,13 @@
       "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
     },
     {
+      "title": "博客更新之hexo, EdgeOne以及Apaxy",
+      "created": "2025-07-02 21:02",
+      "link": "https://www.jiangyu.org/hexo-edgeone-apaxy/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
+    },
+    {
       "title": "随手拍，六月份的尾巴",
       "created": "2025-06-29 23:04",
       "link": "https://veryjack.com/photograph/final_days_of_june/",
@@ -1581,6 +1588,13 @@
       "link": "https://www.eallion.com/n8n-sync-blog-to-mastodon/",
       "author": "大大的小蜗牛",
       "avatar": "https://gravatar.memobbs.app/avatar/171e4c30959e8c077a6c58b958624b31"
+    },
+    {
+      "title": "《梵高手稿》读书笔记",
+      "created": "2025-06-12 21:30",
+      "link": "https://www.jiangyu.org/van-gogh/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
     },
     {
       "title": "n8n 之备份 Mastodon 嘟文",
@@ -1744,6 +1758,13 @@
       "avatar": "https://gravatar.memobbs.app/avatar/c1b204bab687a23c8b6d7c8de11c7c59"
     },
     {
+      "title": "惊艳的Google NotebookLM输出的中文音频读书笔记",
+      "created": "2025-05-01 17:50",
+      "link": "https://www.jiangyu.org/chinese-audio-overview/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
+    },
+    {
       "title": "爷爷的孙女",
       "created": "2025-04-22 21:24",
       "link": "https://www.javis.me/grandpa/",
@@ -1763,6 +1784,13 @@
       "link": "https://moreality.net/posts/6318/",
       "author": "Moreality's Blog",
       "avatar": "https://youpai.roccoshi.top/img/avatar.jpg"
+    },
+    {
+      "title": "《叫魂：1768年中国妖术大恐慌》读书笔记",
+      "created": "2025-04-16 20:40",
+      "link": "https://www.jiangyu.org/jiao-hun/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
     },
     {
       "title": "断网一百天，打好攻坚战！",
@@ -1786,11 +1814,39 @@
       "avatar": "https://gravatar.memobbs.app/avatar/42542189ddb33064599dc88a5149bea7"
     },
     {
+      "title": "《清画全集》及其目录索引",
+      "created": "2025-04-09 13:54",
+      "link": "https://www.jiangyu.org/qing-hua-quan-ji/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
+    },
+    {
+      "title": "《先秦汉唐画全集》及其目录索引",
+      "created": "2025-04-09 13:50",
+      "link": "https://www.jiangyu.org/xian-qin-han-tang-hua-quan-ji/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
+    },
+    {
+      "title": "《明画全集》及其目录索引",
+      "created": "2025-04-08 16:11",
+      "link": "https://www.jiangyu.org/ming-hua-quan-ji/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
+    },
+    {
       "title": "维修冰箱翻车了",
       "created": "2025-04-06 19:10",
       "link": "https://zhou.ge/2025-04-06.html",
       "author": "忆往事",
       "avatar": "https://zhou.ge/favicon.ico"
+    },
+    {
+      "title": "长沙天心阁",
+      "created": "2025-04-06 16:44",
+      "link": "https://www.jiangyu.org/tian-xin-ge/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
     },
     {
       "title": "#202503",
@@ -1828,6 +1884,13 @@
       "avatar": "https://b.storyo.cn/upload/logo.png"
     },
     {
+      "title": "诗圣杜甫",
+      "created": "2025-03-23 14:07",
+      "link": "https://www.jiangyu.org/du-fu/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
+    },
+    {
       "title": "搬家带来的漂泊感",
       "created": "2025-03-21 01:30",
       "link": "https://demochen.com/posts/20250320/",
@@ -1840,6 +1903,13 @@
       "link": "https://www.javis.me/week-note-001/",
       "author": "查令十字街84号",
       "avatar": "https://b.storyo.cn/upload/logo.png"
+    },
+    {
+      "title": "长沙杜甫江阁",
+      "created": "2025-03-15 20:25",
+      "link": "https://www.jiangyu.org/du-fu-jiang-ge/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
     },
     {
       "title": "懒到现在才安上肥羊 allinone",
