@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 53,
-    "active_num": 44,
-    "error_num": 9,
-    "article_num": 367,
-    "last_updated_time": "2025-10-25 02:28:26"
+    "active_num": 42,
+    "error_num": 11,
+    "article_num": 347,
+    "last_updated_time": "2025-10-25 09:27:46"
   },
   "article_data": [
     {
@@ -162,13 +162,6 @@
       "avatar": "https://yayu.net/favicon.ico"
     },
     {
-      "title": "Staying in Flow",
-      "created": "2025-10-18 16:21",
-      "link": "https://justgoidea.com/staying-in-flow-continuous-learning/",
-      "author": "槿呈Goidea",
-      "avatar": "https://justgoidea.com/favicon.svg"
-    },
-    {
       "title": "乙巳蛇年-十月半",
       "created": "2025-10-18 01:11",
       "link": "https://xyzbz.cn/archives/1458/",
@@ -239,13 +232,6 @@
       "avatar": "https://cravatar.cn/avatar/bb78cd69edd84cdbdb99a491ea2dc6c8"
     },
     {
-      "title": "走出家门：日本四国之四国水族馆",
-      "created": "2025-10-16 00:00",
-      "link": "https://www.javis.me/matsuyama-2/",
-      "author": "查令十字街84号",
-      "avatar": "https://b.storyo.cn/upload/logo.png"
-    },
-    {
       "title": "路人",
       "created": "2025-10-15 17:51",
       "link": "https://imzm.im/passersby/",
@@ -267,13 +253,6 @@
       "avatar": "https://cravatar.cn/avatar/bb78cd69edd84cdbdb99a491ea2dc6c8"
     },
     {
-      "title": "走出家门：日本四国之道后温泉",
-      "created": "2025-10-15 00:00",
-      "link": "https://www.javis.me/matsuyama/",
-      "author": "查令十字街84号",
-      "avatar": "https://b.storyo.cn/upload/logo.png"
-    },
-    {
       "title": "山西河北历史文化之旅｜正定博物馆",
       "created": "2025-10-14 18:30",
       "link": "https://yayu.net/5836.html",
@@ -293,13 +272,6 @@
       "link": "https://synyan.cn/104612",
       "author": "旅行漫记",
       "avatar": "https://synyan.cn/wp-content/themes/Farallon-develop/build/images/favicon-s.png"
-    },
-    {
-      "title": "走出家门：日本四国之「直岛」—— 游客的地狱",
-      "created": "2025-10-14 00:00",
-      "link": "https://www.javis.me/takamatsu2/",
-      "author": "查令十字街84号",
-      "avatar": "https://b.storyo.cn/upload/logo.png"
     },
     {
       "title": "车子送去做首保了",
@@ -328,13 +300,6 @@
       "link": "https://xyzbz.cn/archives/1457/",
       "author": "网友小宋",
       "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
-    },
-    {
-      "title": "走出家门：日本四国之藏宝游戏",
-      "created": "2025-10-12 00:00",
-      "link": "https://www.javis.me/takamatsu/",
-      "author": "查令十字街84号",
-      "avatar": "https://b.storyo.cn/upload/logo.png"
     },
     {
       "title": "食草堂",
@@ -449,13 +414,6 @@
       "avatar": "https://gravatar.memobbs.app/avatar/c1b204bab687a23c8b6d7c8de11c7c59"
     },
     {
-      "title": "題乙巳中秋",
-      "created": "2025-10-07 03:15",
-      "link": "https://justgoidea.com/mid-autumn-festival-2025-poem/",
-      "author": "槿呈Goidea",
-      "avatar": "https://justgoidea.com/favicon.svg"
-    },
-    {
       "title": "映月灯海见古镇",
       "created": "2025-10-07 02:27",
       "link": "https://synyan.cn/104322",
@@ -468,13 +426,6 @@
       "link": "https://zhou.ge/2025-10-05.html",
       "author": "忆往事",
       "avatar": "https://zhou.ge/favicon.ico"
-    },
-    {
-      "title": "The CETDE Framework: A Guide to Deep Knowledge in the AI Era",
-      "created": "2025-10-06 02:53",
-      "link": "https://justgoidea.com/cetde-framework/",
-      "author": "槿呈Goidea",
-      "avatar": "https://justgoidea.com/favicon.svg"
     },
     {
       "title": "苏自栾城，西宅于眉",
@@ -848,13 +799,6 @@
       "avatar": "https://bluehe.cn/usr/uploads/2024/03/1678458078.png"
     },
     {
-      "title": "Beyond Left and Right: Why I'm a Classical Liberal",
-      "created": "2025-09-13 05:40",
-      "link": "https://justgoidea.com/beyond-left-right-classical-liberal/",
-      "author": "槿呈Goidea",
-      "avatar": "https://justgoidea.com/favicon.svg"
-    },
-    {
       "title": "联邦礼仪之一",
       "created": "2025-09-12 14:27",
       "link": "https://www.eallion.com/fediverse-courtesy/",
@@ -902,20 +846,6 @@
       "link": "https://h4ck.org.cn/2025/09/21525",
       "author": "obaby",
       "avatar": "https://cdn.qyliu.top/i/2024/04/15/661d443b5359c.png"
-    },
-    {
-      "title": "「疑犯追踪」你们无可取代",
-      "created": "2025-09-11 00:00",
-      "link": "https://www.javis.me/poi/",
-      "author": "查令十字街84号",
-      "avatar": "https://b.storyo.cn/upload/logo.png"
-    },
-    {
-      "title": "两杯朝日啤酒过后",
-      "created": "2025-09-10 22:59",
-      "link": "https://www.javis.me/asahi/",
-      "author": "查令十字街84号",
-      "avatar": "https://b.storyo.cn/upload/logo.png"
     },
     {
       "title": "年审#第十一年",
@@ -993,13 +923,6 @@
       "link": "https://1900.live/267-bai-lu/",
       "author": "1900'blog",
       "avatar": "https://cdn.1900.live/20190640/ico.png"
-    },
-    {
-      "title": "不知最親切",
-      "created": "2025-09-07 03:49",
-      "link": "https://justgoidea.com/bu-zhi-zui-qin-qie/",
-      "author": "槿呈Goidea",
-      "avatar": "https://justgoidea.com/favicon.svg"
     },
     {
       "title": "像“阿三”致敬",
@@ -1107,13 +1030,6 @@
       "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
     },
     {
-      "title": "我的儿时网络记忆",
-      "created": "2025-08-31 04:58",
-      "link": "https://justgoidea.com/childhood-digital-memory/",
-      "author": "槿呈Goidea",
-      "avatar": "https://justgoidea.com/favicon.svg"
-    },
-    {
       "title": "Weekly Plog 1",
       "created": "2025-08-30 20:45",
       "link": "https://anotherdayu.com/2025/7301/",
@@ -1191,13 +1107,6 @@
       "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
     },
     {
-      "title": "2025 年网络购物的得与亏",
-      "created": "2025-08-24 13:42",
-      "link": "https://www.javis.me/cyber-shopping-2025/",
-      "author": "查令十字街84号",
-      "avatar": "https://b.storyo.cn/upload/logo.png"
-    },
-    {
       "title": "关于“我那不争气的老表”",
       "created": "2025-08-24 06:50",
       "link": "https://xyzbz.cn/archives/1451/",
@@ -1273,13 +1182,6 @@
       "link": "https://xyzbz.cn/archives/1431/",
       "author": "网友小宋",
       "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
-    },
-    {
-      "title": "旁观者的耻辱：一段关于校园霸凌的记忆",
-      "created": "2025-08-17 23:12",
-      "link": "https://justgoidea.com/pang-guan-zhe-de-chi-ru/",
-      "author": "槿呈Goidea",
-      "avatar": "https://justgoidea.com/favicon.svg"
     },
     {
       "title": "8月周记",
@@ -1371,13 +1273,6 @@
       "link": "https://ihaihe.cn/3333.htm",
       "author": "三十里海河",
       "avatar": "https://gravatar.memobbs.app/avatar/40c46b2a6ef05464946a7e3f5230bdfa16b5d4e861c7b69977ef77efde66638a"
-    },
-    {
-      "title": "塔",
-      "created": "2025-08-05 02:57",
-      "link": "https://justgoidea.com/tower/",
-      "author": "槿呈Goidea",
-      "avatar": "https://justgoidea.com/favicon.svg"
     },
     {
       "title": "恶臭红尘，不能自已",
@@ -1653,20 +1548,6 @@
       "avatar": "https://gravatar.memobbs.app/avatar/171e4c30959e8c077a6c58b958624b31"
     },
     {
-      "title": "本来没有我",
-      "created": "2025-06-07 20:33",
-      "link": "https://justgoidea.com/ben-lai-mei-you-wo/",
-      "author": "槿呈Goidea",
-      "avatar": "https://justgoidea.com/favicon.svg"
-    },
-    {
-      "title": "慎独，autocontrole 与 Saudade",
-      "created": "2025-06-02 00:37",
-      "link": "https://justgoidea.com/shen-du-and-autocontrole-and-saudade/",
-      "author": "槿呈Goidea",
-      "avatar": "https://justgoidea.com/favicon.svg"
-    },
-    {
       "title": "Lucky-canvas 抽奖插件折腾记",
       "created": "2025-06-01 04:02",
       "link": "https://immmmm.com/lucky-everday/",
@@ -1763,13 +1644,6 @@
       "link": "https://www.jiangyu.org/chinese-audio-overview/",
       "author": "天一生水",
       "avatar": "https://www.jiangyu.org/images/icon.svg"
-    },
-    {
-      "title": "爷爷的孙女",
-      "created": "2025-04-22 21:24",
-      "link": "https://www.javis.me/grandpa/",
-      "author": "查令十字街84号",
-      "avatar": "https://b.storyo.cn/upload/logo.png"
     },
     {
       "title": "Mastodon新通知推送NoneBot",
@@ -1877,13 +1751,6 @@
       "avatar": "https://demochen.com/images/avatar.png"
     },
     {
-      "title": "周记002",
-      "created": "2025-03-24 00:00",
-      "link": "https://www.javis.me/week-note-002/",
-      "author": "查令十字街84号",
-      "avatar": "https://b.storyo.cn/upload/logo.png"
-    },
-    {
       "title": "诗圣杜甫",
       "created": "2025-03-23 14:07",
       "link": "https://www.jiangyu.org/du-fu/",
@@ -1896,13 +1763,6 @@
       "link": "https://demochen.com/posts/20250320/",
       "author": "特立独行的异类",
       "avatar": "https://demochen.com/images/avatar.png"
-    },
-    {
-      "title": "周记001",
-      "created": "2025-03-16 22:02",
-      "link": "https://www.javis.me/week-note-001/",
-      "author": "查令十字街84号",
-      "avatar": "https://b.storyo.cn/upload/logo.png"
     },
     {
       "title": "长沙杜甫江阁",
