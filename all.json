@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 53,
-    "active_num": 44,
-    "error_num": 9,
-    "article_num": 367,
-    "last_updated_time": "2025-10-29 02:32:18"
+    "active_num": 43,
+    "error_num": 10,
+    "article_num": 357,
+    "last_updated_time": "2025-10-29 09:43:39"
   },
   "article_data": [
     {
@@ -43,25 +43,11 @@
       "avatar": "https://cdn.qyliu.top/i/2024/04/15/661d443b5359c.png"
     },
     {
-      "title": "歌单和专辑",
-      "created": "2025-10-28 12:13",
-      "link": "https://anotherdayu.com/2025/7421/",
-      "author": "Dayu",
-      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
-    },
-    {
       "title": "《园冶》：世界最早的造园学名著",
       "created": "2025-10-27 22:51",
       "link": "https://yayu.net/5909.html",
       "author": "雅余",
       "avatar": "https://yayu.net/favicon.ico"
-    },
-    {
-      "title": "我的 CSS 设置",
-      "created": "2025-10-27 18:35",
-      "link": "https://anotherdayu.com/2025/7411/",
-      "author": "Dayu",
-      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
     },
     {
       "title": "九峰森林动物园一日游",
@@ -83,13 +69,6 @@
       "link": "https://synyan.cn/105063",
       "author": "旅行漫记",
       "avatar": "https://synyan.cn/wp-content/themes/Farallon-develop/build/images/favicon-s.png"
-    },
-    {
-      "title": "超车",
-      "created": "2025-10-25 22:51",
-      "link": "https://anotherdayu.com/2025/7385/",
-      "author": "Dayu",
-      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
     },
     {
       "title": "Group Chats Could Be Overwhelming",
@@ -300,13 +279,6 @@
       "link": "https://www.imsun.org/archives/1752.html",
       "author": "老孙博客",
       "avatar": "https://img.imsun.org/avatar.jpg"
-    },
-    {
-      "title": "251016 生活碎片",
-      "created": "2025-10-16 18:42",
-      "link": "https://anotherdayu.com/2025/7370/",
-      "author": "Dayu",
-      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
     },
     {
       "title": "老父亲骨质增生了",
@@ -699,13 +671,6 @@
       "link": "https://veryjack.com/technique/xiaobu_memory/",
       "author": "Jack's Space",
       "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
-    },
-    {
-      "title": "辞未动心已至",
-      "created": "2025-09-24 19:34",
-      "link": "https://anotherdayu.com/2025/7362/",
-      "author": "Dayu",
-      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
     },
     {
       "title": "你礼貌吗？",
@@ -1135,13 +1100,6 @@
       "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
     },
     {
-      "title": "WordPress 插件 – 旅行地图 WP Travel Map",
-      "created": "2025-09-02 04:57",
-      "link": "https://anotherdayu.com/2025/7336/",
-      "author": "Dayu",
-      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
-    },
-    {
       "title": "乙巳蛇年-八月末",
       "created": "2025-09-02 01:17",
       "link": "https://xyzbz.cn/archives/1453/",
@@ -1170,25 +1128,11 @@
       "avatar": "https://justgoidea.com/favicon.svg"
     },
     {
-      "title": "Weekly Plog 1",
-      "created": "2025-08-30 20:45",
-      "link": "https://anotherdayu.com/2025/7301/",
-      "author": "Dayu",
-      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
-    },
-    {
       "title": "过去的互联网完全由网站组成",
       "created": "2025-08-29 23:08",
       "link": "https://yinji.org/the-internet.html",
       "author": "印记",
       "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
-    },
-    {
-      "title": "iA Writer",
-      "created": "2025-08-29 22:04",
-      "link": "https://anotherdayu.com/2025/7299/",
-      "author": "Dayu",
-      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
     },
     {
       "title": "每夫吐槽（109）",
@@ -1203,20 +1147,6 @@
       "link": "https://itlu.net/articles/2841.html",
       "author": "挨踢路",
       "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
-    },
-    {
-      "title": "《一一》道来",
-      "created": "2025-08-28 21:27",
-      "link": "https://anotherdayu.com/2025/7288/",
-      "author": "Dayu",
-      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
-    },
-    {
-      "title": "WordPress 友情链接插件 Simple 版",
-      "created": "2025-08-27 21:19",
-      "link": "https://anotherdayu.com/2025/7248/",
-      "author": "Dayu",
-      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
     },
     {
       "title": "从 iPhone 16 到 realme Neo7 Turbo：双持用户的主观体验",
