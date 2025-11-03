@@ -4,7 +4,7 @@
     "active_num": 45,
     "error_num": 8,
     "article_num": 377,
-    "last_updated_time": "2025-11-03 14:33:46"
+    "last_updated_time": "2025-11-03 20:44:17"
   },
   "article_data": [
     {
@@ -13,6 +13,13 @@
       "link": "https://zhoutian.com/336.html",
       "author": "满心记",
       "avatar": "https://weavatar.com/avatar/9b3a681168a25e910954372e468fbc91"
+    },
+    {
+      "title": "开了五天车，到新疆了",
+      "created": "2025-11-03 16:43",
+      "link": "https://ihaihe.cn/3427.htm",
+      "author": "三十里海河",
+      "avatar": "https://gravatar.memobbs.app/avatar/40c46b2a6ef05464946a7e3f5230bdfa16b5d4e861c7b69977ef77efde66638a"
     },
     {
       "title": "Weekly Plog 2",
@@ -1448,13 +1455,6 @@
       "link": "https://pewae.com/2025/08/random_kuso_108.html",
       "author": "破袜子",
       "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
-    },
-    {
-      "title": "特斯拉，按个按钮就爆炸！",
-      "created": "2025-08-05 18:45",
-      "link": "https://ihaihe.cn/3333.htm",
-      "author": "三十里海河",
-      "avatar": "https://gravatar.memobbs.app/avatar/40c46b2a6ef05464946a7e3f5230bdfa16b5d4e861c7b69977ef77efde66638a"
     },
     {
       "title": "塔",
