@@ -4,9 +4,16 @@
     "active_num": 45,
     "error_num": 8,
     "article_num": 377,
-    "last_updated_time": "2025-11-04 09:41:10"
+    "last_updated_time": "2025-11-04 14:33:10"
   },
   "article_data": [
+    {
+      "title": "再谈WP更新逻辑",
+      "created": "2025-11-04 10:44",
+      "link": "https://h4ck.org.cn/2025/11/21910",
+      "author": "obaby",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/15/661d443b5359c.png"
+    },
     {
       "title": "希望树除醛凝胶是智商税？",
       "created": "2025-11-03 18:28",
@@ -902,13 +909,6 @@
       "link": "https://yinji.org/what-am-i-thinking-when-i-ride-a-bike.html",
       "author": "印记",
       "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
-    },
-    {
-      "title": "Baby WP 评论强化拦截插件 — 再战 WP 垃圾评论",
-      "created": "2025-09-18 16:56",
-      "link": "https://h4ck.org.cn/2025/09/21609",
-      "author": "obaby",
-      "avatar": "https://cdn.qyliu.top/i/2024/04/15/661d443b5359c.png"
     },
     {
       "title": "用 Gemini 2.5 Flash 制作一个小工具",
