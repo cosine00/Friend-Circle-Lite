@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 53,
-    "active_num": 42,
-    "error_num": 11,
-    "article_num": 357,
-    "last_updated_time": "2025-11-07 20:42:07"
+    "active_num": 41,
+    "error_num": 12,
+    "article_num": 347,
+    "last_updated_time": "2025-11-08 02:30:01"
   },
   "article_data": [
     {
@@ -372,13 +372,6 @@
       "avatar": "https://yayu.net/favicon.ico"
     },
     {
-      "title": "Staying in Flow",
-      "created": "2025-10-18 16:21",
-      "link": "https://justgoidea.com/staying-in-flow-continuous-learning/",
-      "author": "槿呈Goidea",
-      "avatar": "https://justgoidea.com/favicon.svg"
-    },
-    {
       "title": "乙巳蛇年-十月半",
       "created": "2025-10-18 01:11",
       "link": "https://xyzbz.cn/archives/1458/",
@@ -645,13 +638,6 @@
       "avatar": "https://gravatar.memobbs.app/avatar/c1b204bab687a23c8b6d7c8de11c7c59"
     },
     {
-      "title": "題乙巳中秋",
-      "created": "2025-10-07 03:15",
-      "link": "https://justgoidea.com/mid-autumn-festival-2025-poem/",
-      "author": "槿呈Goidea",
-      "avatar": "https://justgoidea.com/favicon.svg"
-    },
-    {
       "title": "映月灯海见古镇",
       "created": "2025-10-07 02:27",
       "link": "https://synyan.cn/104322",
@@ -664,13 +650,6 @@
       "link": "https://zhou.ge/2025-10-05.html",
       "author": "忆往事",
       "avatar": "https://zhou.ge/favicon.ico"
-    },
-    {
-      "title": "The CETDE Framework: A Guide to Deep Knowledge in the AI Era",
-      "created": "2025-10-06 02:53",
-      "link": "https://justgoidea.com/cetde-framework/",
-      "author": "槿呈Goidea",
-      "avatar": "https://justgoidea.com/favicon.svg"
     },
     {
       "title": "苏自栾城，西宅于眉",
@@ -974,13 +953,6 @@
       "avatar": "https://bluehe.cn/usr/uploads/2024/03/1678458078.png"
     },
     {
-      "title": "Beyond Left and Right: Why I'm a Classical Liberal",
-      "created": "2025-09-13 05:40",
-      "link": "https://justgoidea.com/beyond-left-right-classical-liberal/",
-      "author": "槿呈Goidea",
-      "avatar": "https://justgoidea.com/favicon.svg"
-    },
-    {
       "title": "联邦礼仪之一",
       "created": "2025-09-12 14:27",
       "link": "https://www.eallion.com/fediverse-courtesy/",
@@ -1100,13 +1072,6 @@
       "avatar": "https://cdn.1900.live/20190640/ico.png"
     },
     {
-      "title": "不知最親切",
-      "created": "2025-09-07 03:49",
-      "link": "https://justgoidea.com/bu-zhi-zui-qin-qie/",
-      "author": "槿呈Goidea",
-      "avatar": "https://justgoidea.com/favicon.svg"
-    },
-    {
       "title": "电线塞牙缝",
       "created": "2025-09-06 18:33",
       "link": "https://lms.im/story/wire-plug-seams/",
@@ -1182,13 +1147,6 @@
       "link": "https://yinji.org/the-things-i-like-to-do-after-changing-theme.html",
       "author": "印记",
       "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
-    },
-    {
-      "title": "我的儿时网络记忆",
-      "created": "2025-08-31 04:58",
-      "link": "https://justgoidea.com/childhood-digital-memory/",
-      "author": "槿呈Goidea",
-      "avatar": "https://justgoidea.com/favicon.svg"
     },
     {
       "title": "Weekly Plog 1",
@@ -1317,13 +1275,6 @@
       "avatar": "https://zhou.ge/favicon.ico"
     },
     {
-      "title": "旁观者的耻辱：一段关于校园霸凌的记忆",
-      "created": "2025-08-17 23:12",
-      "link": "https://justgoidea.com/pang-guan-zhe-de-chi-ru/",
-      "author": "槿呈Goidea",
-      "avatar": "https://justgoidea.com/favicon.svg"
-    },
-    {
       "title": "8月周记",
       "created": "2025-08-16 16:44",
       "link": "https://ihaihe.cn/3343.htm",
@@ -1392,13 +1343,6 @@
       "link": "https://pewae.com/2025/08/random_kuso_108.html",
       "author": "破袜子",
       "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
-    },
-    {
-      "title": "塔",
-      "created": "2025-08-05 02:57",
-      "link": "https://justgoidea.com/tower/",
-      "author": "槿呈Goidea",
-      "avatar": "https://justgoidea.com/favicon.svg"
     },
     {
       "title": "恶臭红尘，不能自已",
@@ -1588,20 +1532,6 @@
       "link": "https://www.eallion.com/mastodon-backup/",
       "author": "大大的小蜗牛",
       "avatar": "https://gravatar.memobbs.app/avatar/171e4c30959e8c077a6c58b958624b31"
-    },
-    {
-      "title": "本来没有我",
-      "created": "2025-06-07 20:33",
-      "link": "https://justgoidea.com/ben-lai-mei-you-wo/",
-      "author": "槿呈Goidea",
-      "avatar": "https://justgoidea.com/favicon.svg"
-    },
-    {
-      "title": "慎独，autocontrole 与 Saudade",
-      "created": "2025-06-02 00:37",
-      "link": "https://justgoidea.com/shen-du-and-autocontrole-and-saudade/",
-      "author": "槿呈Goidea",
-      "avatar": "https://justgoidea.com/favicon.svg"
     },
     {
       "title": "Lucky-canvas 抽奖插件折腾记",
