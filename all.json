@@ -3,8 +3,8 @@
     "friends_num": 53,
     "active_num": 43,
     "error_num": 10,
-    "article_num": 367,
-    "last_updated_time": "2025-11-10 20:43:46"
+    "article_num": 368,
+    "last_updated_time": "2025-11-11 02:30:47"
   },
   "article_data": [
     {
@@ -741,6 +741,13 @@
       "link": "https://bluehe.cn/archives/nanning-flower-sea",
       "author": "云心怀鹤",
       "avatar": "https://bluehe.cn/usr/uploads/2024/03/1678458078.png"
+    },
+    {
+      "title": "观光列车梦乐园",
+      "created": "2025-10-03 23:35",
+      "link": "https://synyan.cn/104051",
+      "author": "旅行漫记",
+      "avatar": "https://synyan.cn/wp-content/themes/Farallon-develop/build/images/favicon-s.png"
     },
     {
       "title": "刷了个机",
