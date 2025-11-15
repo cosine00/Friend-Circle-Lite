@@ -4,9 +4,16 @@
     "active_num": 43,
     "error_num": 10,
     "article_num": 368,
-    "last_updated_time": "2025-11-15 02:30:44"
+    "last_updated_time": "2025-11-15 09:38:30"
   },
   "article_data": [
+    {
+      "title": "一元 kimi 加上 Claude Code，真香",
+      "created": "2025-11-15 09:00",
+      "link": "https://veryjack.com/technique/kimi_plus_claudecode/",
+      "author": "Jack's Space",
+      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
+    },
     {
       "title": "南京之行",
       "created": "2025-11-15 00:41",
@@ -1560,13 +1567,6 @@
       "link": "https://zhou.ge/2025-07-14.html",
       "author": "忆往事",
       "avatar": "https://zhou.ge/favicon.ico"
-    },
-    {
-      "title": "一把趁手的工具 — Nuphy Kick75",
-      "created": "2025-07-14 20:12",
-      "link": "https://veryjack.com/technique/nuphy-kick75/",
-      "author": "Jack's Space",
-      "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
     },
     {
       "title": "南宁方特：一日游遍东盟十国",
