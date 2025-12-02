@@ -1,10 +1,10 @@
 {
   "statistical_data": {
-    "friends_num": 53,
-    "active_num": 42,
-    "error_num": 11,
-    "article_num": 353,
-    "last_updated_time": "2025-12-02 09:44:53"
+    "friends_num": 54,
+    "active_num": 44,
+    "error_num": 10,
+    "article_num": 373,
+    "last_updated_time": "2025-12-02 14:35:03"
   },
   "article_data": [
     {
@@ -71,6 +71,13 @@
       "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
     },
     {
+      "title": "忙碌日子",
+      "created": "2025-11-30 19:08",
+      "link": "/2025/11/busy-days/",
+      "author": "道貌岸然",
+      "avatar": "https://blog.liuf.net/favicon.ico"
+    },
+    {
       "title": "毒",
       "created": "2025-11-30 04:45",
       "link": "https://lms.im/story/noxious/",
@@ -132,6 +139,13 @@
       "link": "https://laozhang.org/archives/3994.html",
       "author": "老张博客",
       "avatar": "https://gravatar.memobbs.app/avatar/679666f7bd1af3e55f0e51dd70ed161c"
+    },
+    {
+      "title": "无花堪散",
+      "created": "2025-11-26 11:42",
+      "link": "https://pewae.com/2025/11/20th-anniverasry.html",
+      "author": "破袜子",
+      "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
     },
     {
       "title": "绽放",
@@ -358,6 +372,13 @@
       "avatar": "https://cdn.qyliu.top/i/2024/04/15/661d443b5359c.png"
     },
     {
+      "title": "每夫吐槽（112）",
+      "created": "2025-11-13 15:27",
+      "link": "https://pewae.com/2025/11/random_kuso_112.html",
+      "author": "破袜子",
+      "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
+    },
+    {
       "title": "基于 wp-cron.php 的拒绝服务攻击",
       "created": "2025-11-12 14:02",
       "link": "https://h4ck.org.cn/2025/11/21970",
@@ -512,6 +533,13 @@
       "avatar": "https://digu.plus/usr/themes/ghost/images/favicon/64x64.png"
     },
     {
+      "title": "加量先生",
+      "created": "2025-10-30 08:55",
+      "link": "https://pewae.com/2025/10/mr-more.html",
+      "author": "破袜子",
+      "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
+    },
+    {
       "title": "换厨卫水龙头",
       "created": "2025-10-29 15:24",
       "link": "https://hjyl.org/change-kitchen-faucets/",
@@ -524,6 +552,13 @@
       "link": "https://laozhang.org/archives/3985.html",
       "author": "老张博客",
       "avatar": "https://gravatar.memobbs.app/avatar/679666f7bd1af3e55f0e51dd70ed161c"
+    },
+    {
+      "title": "重温老片《杀人鳄鱼潭》",
+      "created": "2025-10-28 23:27",
+      "link": "https://pewae.com/2025/10/review-killer-crocodile.html",
+      "author": "破袜子",
+      "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
     },
     {
       "title": "神兽成人了",
@@ -589,6 +624,13 @@
       "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
     },
     {
+      "title": "把日历弄得花花绿绿",
+      "created": "2025-10-24 23:25",
+      "link": "/2025/10/colorful-calendar/",
+      "author": "道貌岸然",
+      "avatar": "https://blog.liuf.net/favicon.ico"
+    },
+    {
       "title": "Group Chats Could Be Overwhelming",
       "created": "2025-10-24 17:51",
       "link": "https://imzm.im/group-chats-could-be-overwhelming/",
@@ -610,6 +652,13 @@
       "avatar": "https://cdn.1900.live/20190640/ico.png"
     },
     {
+      "title": "小声哔哔",
+      "created": "2025-10-23 23:46",
+      "link": "/2025/10/light-bibi/",
+      "author": "道貌岸然",
+      "avatar": "https://blog.liuf.net/favicon.ico"
+    },
+    {
       "title": "老人家轻微脑梗了",
       "created": "2025-10-23 21:55",
       "link": "https://hjyl.org/mom-slight-ci/",
@@ -622,6 +671,13 @@
       "link": "https://synyan.cn/104985",
       "author": "旅行漫记",
       "avatar": "https://synyan.cn/wp-content/themes/Farallon-develop/build/images/favicon-s.png"
+    },
+    {
+      "title": "每夫吐槽（111）",
+      "created": "2025-10-23 15:08",
+      "link": "https://pewae.com/2025/10/random_kuso_111.html",
+      "author": "破袜子",
+      "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
     },
     {
       "title": "无惊无喜",
@@ -687,6 +743,13 @@
       "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
     },
     {
+      "title": "《阅读的方法》",
+      "created": "2025-10-20 17:06",
+      "link": "/2025/10/the-book-the-reading-methods/",
+      "author": "道貌岸然",
+      "avatar": "https://blog.liuf.net/favicon.ico"
+    },
+    {
       "title": "记一次痛不欲生的肾结石经历",
       "created": "2025-10-20 07:24",
       "link": "https://joyqi.com/life/a-painful-kidney-stone-experience.html",
@@ -743,6 +806,13 @@
       "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
     },
     {
+      "title": "《打造第二大脑》",
+      "created": "2025-10-17 17:49",
+      "link": "/2025/10/the-book-building-a-second-brain/",
+      "author": "道貌岸然",
+      "avatar": "https://blog.liuf.net/favicon.ico"
+    },
+    {
       "title": "零后端搭建”博友圈”：用 FindBLOG.Net 的 rss.json 直接渲染友链时间线",
       "created": "2025-10-17 17:08",
       "link": "https://www.jeffer.xyz/cid/3169.html",
@@ -783,6 +853,13 @@
       "link": "https://zhoutian.com/331.html",
       "author": "满心记",
       "avatar": "https://weavatar.com/avatar/9b3a681168a25e910954372e468fbc91"
+    },
+    {
+      "title": "2025 年淘宝双十一预购体验",
+      "created": "2025-10-16 16:35",
+      "link": "/2025/10/taobao-double-11-preorder/",
+      "author": "道貌岸然",
+      "avatar": "https://blog.liuf.net/favicon.ico"
     },
     {
       "title": "从从容容 连滚带爬",
@@ -918,6 +995,20 @@
       "avatar": "https://cdn.1900.live/20190640/ico.png"
     },
     {
+      "title": "电影中的大连",
+      "created": "2025-10-08 19:36",
+      "link": "https://pewae.com/2025/10/dalian-in-movies.html",
+      "author": "破袜子",
+      "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
+    },
+    {
+      "title": "iOS 26 糟糕的分词体验",
+      "created": "2025-10-08 19:06",
+      "link": "/2025/10/bad-input-experience-of-ios-26/",
+      "author": "道貌岸然",
+      "avatar": "https://blog.liuf.net/favicon.ico"
+    },
+    {
       "title": "随手拍，国庆瞎游",
       "created": "2025-10-08 18:43",
       "link": "https://veryjack.com/life/national_day/",
@@ -937,6 +1028,13 @@
       "link": "https://wangyunzi.com/posts/159/",
       "author": "长街短梦",
       "avatar": "https://gravatar.memobbs.app/avatar/c1b204bab687a23c8b6d7c8de11c7c59"
+    },
+    {
+      "title": "长文多一点",
+      "created": "2025-10-07 03:23",
+      "link": "/2025/10/long-article-is-better/",
+      "author": "道貌岸然",
+      "avatar": "https://blog.liuf.net/favicon.ico"
     },
     {
       "title": "題乙巳中秋",
@@ -993,6 +1091,13 @@
       "link": "https://xyzbz.cn/archives/1456/",
       "author": "网友小宋",
       "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
+    },
+    {
+      "title": "谈 2025 年 9 月济南育英中学事件",
+      "created": "2025-09-30 17:30",
+      "link": "/2025/09/pre-vulkan/",
+      "author": "道貌岸然",
+      "avatar": "https://blog.liuf.net/favicon.ico"
     },
     {
       "title": "Faint",
@@ -1093,6 +1198,20 @@
       "avatar": "https://cdn.1900.live/20190640/ico.png"
     },
     {
+      "title": "《山的那一头》再续",
+      "created": "2025-09-23 00:36",
+      "link": "/2025/09/20250922-the-other-side-3/",
+      "author": "道貌岸然",
+      "avatar": "https://blog.liuf.net/favicon.ico"
+    },
+    {
+      "title": "每夫吐槽（110）",
+      "created": "2025-09-21 22:58",
+      "link": "https://pewae.com/2025/09/random_kuso_110.html",
+      "author": "破袜子",
+      "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
+    },
+    {
       "title": "苏州游记",
       "created": "2025-09-20 20:42",
       "link": "https://wangyunzi.com/posts/158/",
@@ -1133,6 +1252,13 @@
       "link": "https://xyzbz.cn/archives/1455/",
       "author": "网友小宋",
       "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
+    },
+    {
+      "title": "仁哉小祁",
+      "created": "2025-09-17 16:08",
+      "link": "https://pewae.com/2025/09/miss-qi-is-so-kind.html",
+      "author": "破袜子",
+      "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
     },
     {
       "title": "2025 博客变化",
@@ -1196,6 +1322,13 @@
       "link": "https://www.eallion.com/fediverse-courtesy/",
       "author": "大大的小蜗牛",
       "avatar": "https://gravatar.memobbs.app/avatar/171e4c30959e8c077a6c58b958624b31"
+    },
+    {
+      "title": "【去过】页面上线",
+      "created": "2025-09-12 09:40",
+      "link": "https://pewae.com/2025/09/steps-page-been-set-up.html",
+      "author": "破袜子",
+      "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
     },
     {
       "title": "麦门永存。",
@@ -1357,6 +1490,13 @@
       "link": "https://anotherdayu.com/2025/7299/",
       "author": "Dayu",
       "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
+    },
+    {
+      "title": "每夫吐槽（109）",
+      "created": "2025-08-29 20:33",
+      "link": "https://pewae.com/2025/08/random_kuso_109.html",
+      "author": "破袜子",
+      "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
     },
     {
       "title": "魔幻年年有，今年特别多",
