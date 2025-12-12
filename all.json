@@ -4,9 +4,16 @@
     "active_num": 44,
     "error_num": 10,
     "article_num": 373,
-    "last_updated_time": "2025-12-12 14:36:10"
+    "last_updated_time": "2025-12-12 20:47:26"
   },
   "article_data": [
+    {
+      "title": "彻底放弃收费 SSL 证书",
+      "created": "2025-12-12 22:50",
+      "link": "https://joyqi.com/cloud/drop-paid-ssl-cert.html",
+      "author": "JoyQi",
+      "avatar": "https://joyqi.com/apple-touch-icon.png"
+    },
     {
       "title": "谁没被降薪加班虐过？",
       "created": "2025-12-12 18:13",
@@ -2489,13 +2496,6 @@
       "title": "对 Typecho 商业化的一些思考",
       "created": "2023-12-14 07:33",
       "link": "https://joyqi.com/typecho/thoughts-on-commercializing-typecho.html",
-      "author": "JoyQi",
-      "avatar": "https://joyqi.com/apple-touch-icon.png"
-    },
-    {
-      "title": "滨州游记",
-      "created": "2023-10-05 00:15",
-      "link": "https://joyqi.com/life/binzhou-travel-notes.html",
       "author": "JoyQi",
       "avatar": "https://joyqi.com/apple-touch-icon.png"
     },
