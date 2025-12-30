@@ -3,10 +3,17 @@
     "friends_num": 54,
     "active_num": 43,
     "error_num": 11,
-    "article_num": 344,
-    "last_updated_time": "2025-12-30 09:49:08"
+    "article_num": 354,
+    "last_updated_time": "2025-12-30 14:36:00"
   },
   "article_data": [
+    {
+      "title": "2025阅读记录",
+      "created": "2025-12-30 14:03",
+      "link": "https://pewae.com/2025/12/2025-reading-record.html",
+      "author": "破袜子",
+      "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
+    },
     {
       "title": "乙巳蛇年-十二月末",
       "created": "2025-12-30 13:02",
@@ -83,6 +90,13 @@
       "link": "https://pewae.com/2025/12/errors-i-met-using-qosaddsockettoflow-to-build-qos-on-windows.html",
       "author": "破袜子",
       "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
+    },
+    {
+      "title": "2025 年个人博客回顾",
+      "created": "2025-12-24 21:48",
+      "link": "https://yayu.net/6076.html",
+      "author": "雅余",
+      "avatar": "https://yayu.net/favicon.ico"
     },
     {
       "title": "Docker部署简单网页分析工具GoatCounter",
@@ -190,6 +204,13 @@
       "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
     },
     {
+      "title": "游中山金钟水库打卡水杉林",
+      "created": "2025-12-20 22:26",
+      "link": "https://yayu.net/6059.html",
+      "author": "雅余",
+      "avatar": "https://yayu.net/favicon.ico"
+    },
+    {
       "title": "换燃气表",
       "created": "2025-12-20 21:36",
       "link": "https://hjyl.org/change-gas-meter/",
@@ -230,6 +251,13 @@
       "link": "https://hjyl.org/can-not-escape/",
       "author": "皇家园林",
       "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
+    },
+    {
+      "title": "日常漫步 Vol.21 之珠海蓝",
+      "created": "2025-12-17 20:38",
+      "link": "https://yayu.net/6046.html",
+      "author": "雅余",
+      "avatar": "https://yayu.net/favicon.ico"
     },
     {
       "title": "电影生涯喜好表（截至2025年12月）",
@@ -293,6 +321,13 @@
       "link": "https://h4ck.org.cn/2025/12/22171",
       "author": "obaby",
       "avatar": "https://cdn.qyliu.top/i/2024/04/15/661d443b5359c.png"
+    },
+    {
+      "title": "日常漫步 Vol.20 之珠海圆明新园",
+      "created": "2025-12-14 16:35",
+      "link": "https://yayu.net/6029.html",
+      "author": "雅余",
+      "avatar": "https://yayu.net/favicon.ico"
     },
     {
       "title": "Umami升级V3踩坑指南",
@@ -414,6 +449,13 @@
       "avatar": "https://gravatar.memobbs.app/avatar/40c46b2a6ef05464946a7e3f5230bdfa16b5d4e861c7b69977ef77efde66638a"
     },
     {
+      "title": "博物图鉴｜薇甘菊和猪屎豆",
+      "created": "2025-12-07 11:00",
+      "link": "https://yayu.net/6020.html",
+      "author": "雅余",
+      "avatar": "https://yayu.net/favicon.ico"
+    },
+    {
       "title": "273、大雪",
       "created": "2025-12-07 07:05",
       "link": "https://1900.live/273-da-xue/",
@@ -433,6 +475,13 @@
       "link": "https://zhoutian.com/342.html",
       "author": "满心记",
       "avatar": "https://weavatar.com/avatar/9b3a681168a25e910954372e468fbc91"
+    },
+    {
+      "title": "博物图鉴｜假连翘和大头茶",
+      "created": "2025-12-04 19:43",
+      "link": "https://yayu.net/6011.html",
+      "author": "雅余",
+      "avatar": "https://yayu.net/favicon.ico"
     },
     {
       "title": "动物乌托邦",
@@ -638,6 +687,13 @@
       "avatar": "https://synyan.cn/wp-content/themes/Farallon-develop/build/images/favicon-s.png"
     },
     {
+      "title": "日常漫步 Vol.19 之稻田与猫",
+      "created": "2025-11-23 21:49",
+      "link": "https://yayu.net/5990.html",
+      "author": "雅余",
+      "avatar": "https://yayu.net/favicon.ico"
+    },
+    {
       "title": "散装日常 2",
       "created": "2025-11-22 14:11",
       "link": "https://1900.live/san-zhuang-ri-chang-2/",
@@ -715,6 +771,13 @@
       "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
     },
     {
+      "title": "日常漫步 Vol.18 之每周一山",
+      "created": "2025-11-15 22:00",
+      "link": "https://yayu.net/5973.html",
+      "author": "雅余",
+      "avatar": "https://yayu.net/favicon.ico"
+    },
+    {
       "title": "一元 kimi 加上 Claude Code，真香",
       "created": "2025-11-15 09:00",
       "link": "https://veryjack.com/technique/kimi_plus_claudecode/",
@@ -755,6 +818,13 @@
       "link": "https://laozhang.org/archives/3988.html",
       "author": "老张博客",
       "avatar": "https://gravatar.memobbs.app/avatar/679666f7bd1af3e55f0e51dd70ed161c"
+    },
+    {
+      "title": "山西河北历史文化之旅｜河北博物院",
+      "created": "2025-11-11 22:14",
+      "link": "https://yayu.net/5915.html",
+      "author": "雅余",
+      "avatar": "https://yayu.net/favicon.ico"
     },
     {
       "title": "Ubuntu 25.10 安装和配置",
@@ -902,6 +972,13 @@
       "link": "https://anotherdayu.com/2025/7421/",
       "author": "Dayu",
       "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
+    },
+    {
+      "title": "《园冶》：世界最早的造园学名著",
+      "created": "2025-10-27 22:51",
+      "link": "https://yayu.net/5909.html",
+      "author": "雅余",
+      "avatar": "https://yayu.net/favicon.ico"
     },
     {
       "title": "我的 CSS 设置",
@@ -1182,13 +1259,6 @@
       "link": "https://ihaihe.cn/3388.htm",
       "author": "三十里海河",
       "avatar": "https://gravatar.memobbs.app/avatar/40c46b2a6ef05464946a7e3f5230bdfa16b5d4e861c7b69977ef77efde66638a"
-    },
-    {
-      "title": "电影中的大连",
-      "created": "2025-10-08 19:36",
-      "link": "https://pewae.com/2025/10/dalian-in-movies.html",
-      "author": "破袜子",
-      "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
     },
     {
       "title": "iOS 26 糟糕的分词体验",
