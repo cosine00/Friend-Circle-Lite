@@ -1,12 +1,19 @@
 {
   "statistical_data": {
     "friends_num": 54,
-    "active_num": 43,
-    "error_num": 11,
-    "article_num": 354,
-    "last_updated_time": "2025-12-31 14:36:44"
+    "active_num": 41,
+    "error_num": 13,
+    "article_num": 343,
+    "last_updated_time": "2025-12-31 20:46:30"
   },
   "article_data": [
+    {
+      "title": "2025年的已读书单+观影记录",
+      "created": "2025-12-31 20:28",
+      "link": "https://yayu.net/6077.html",
+      "author": "雅余",
+      "avatar": "https://yayu.net/favicon.ico"
+    },
     {
       "title": "2025年总结",
       "created": "2025-12-30 22:40",
@@ -505,13 +512,6 @@
       "avatar": "https://yayu.net/favicon.ico"
     },
     {
-      "title": "动物乌托邦",
-      "created": "2025-12-04 18:23",
-      "link": "https://imzm.im/zootopia-2/",
-      "author": "陈仓颉",
-      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
-    },
-    {
       "title": "Spotify",
       "created": "2025-12-03 23:51",
       "link": "https://yinji.org/spotify.html",
@@ -524,6 +524,13 @@
       "link": "https://h4ck.org.cn/2025/12/22107",
       "author": "obaby",
       "avatar": "https://cdn.qyliu.top/i/2024/04/15/661d443b5359c.png"
+    },
+    {
+      "title": "博客年终总结 ：2025 Ai贯穿工作生活",
+      "created": "2025-12-02 16:18",
+      "link": "https://www.jeffer.xyz/cid/3256.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
     },
     {
       "title": "患上了过敏性结膜炎",
@@ -750,6 +757,13 @@
       "avatar": "https://gravatar.memobbs.app/avatar/679666f7bd1af3e55f0e51dd70ed161c"
     },
     {
+      "title": "极简统计 支持本地部署PHP网站统计系统",
+      "created": "2025-11-18 17:13",
+      "link": "https://www.jeffer.xyz/cid/3221.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
+    },
+    {
       "title": "周末当然要开心",
       "created": "2025-11-17 21:03",
       "link": "https://hux.ink/posts/happy-weekend/",
@@ -869,18 +883,18 @@
       "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
     },
     {
-      "title": "白宫到底炸没炸",
-      "created": "2025-11-07 18:45",
-      "link": "https://imzm.im/a-house-of-dynamite/",
-      "author": "陈仓颉",
-      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
-    },
-    {
       "title": "271、立冬",
       "created": "2025-11-07 18:15",
       "link": "https://1900.live/271-li-dong/",
       "author": "1900'blog",
       "avatar": "https://cdn.1900.live/20190640/ico.png"
+    },
+    {
+      "title": "爸爸厨房：简单版糖炒栗子",
+      "created": "2025-11-06 12:31",
+      "link": "https://www.jeffer.xyz/cid/3207.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
     },
     {
       "title": "希望树除醛凝胶是智商税？",
@@ -988,13 +1002,6 @@
       "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
     },
     {
-      "title": "《园冶》：世界最早的造园学名著",
-      "created": "2025-10-27 22:51",
-      "link": "https://yayu.net/5909.html",
-      "author": "雅余",
-      "avatar": "https://yayu.net/favicon.ico"
-    },
-    {
       "title": "我的 CSS 设置",
       "created": "2025-10-27 18:35",
       "link": "https://anotherdayu.com/2025/7411/",
@@ -1023,13 +1030,6 @@
       "avatar": "https://blog.liuf.net/favicon.ico"
     },
     {
-      "title": "Group Chats Could Be Overwhelming",
-      "created": "2025-10-24 17:51",
-      "link": "https://imzm.im/group-chats-could-be-overwhelming/",
-      "author": "陈仓颉",
-      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
-    },
-    {
       "title": "小声哔哔",
       "created": "2025-10-23 23:46",
       "link": "/2025/10/light-bibi/",
@@ -1051,6 +1051,13 @@
       "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
     },
     {
+      "title": "使用工具为博客做一个体检 看看可以得几分？",
+      "created": "2025-10-22 16:21",
+      "link": "https://www.jeffer.xyz/cid/3188.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
+    },
+    {
       "title": "不透明的电信套餐",
       "created": "2025-10-22 14:36",
       "link": "https://hux.ink/posts/la-ji-dian-xin/",
@@ -1063,13 +1070,6 @@
       "link": "https://yinji.org/ipad-mini.html",
       "author": "印记",
       "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
-    },
-    {
-      "title": "和平使者不和平",
-      "created": "2025-10-21 10:09",
-      "link": "https://imzm.im/who-is-peacemaker/",
-      "author": "陈仓颉",
-      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
     },
     {
       "title": "五十日琐记：当中年生活按下“不顺畅”键",
@@ -1128,11 +1128,25 @@
       "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
     },
     {
+      "title": "喜提浓密黑发 萎靡不振恢复好多",
+      "created": "2025-10-17 18:06",
+      "link": "https://www.jeffer.xyz/cid/3172.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
+    },
+    {
       "title": "《打造第二大脑》",
       "created": "2025-10-17 17:49",
       "link": "/2025/10/the-book-building-a-second-brain/",
       "author": "道貌岸然",
       "avatar": "https://blog.liuf.net/favicon.ico"
+    },
+    {
+      "title": "零后端搭建”博友圈”：用 FindBLOG.Net 的 rss.json 直接渲染友链时间线",
+      "created": "2025-10-17 17:08",
+      "link": "https://www.jeffer.xyz/cid/3169.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
     },
     {
       "title": "前男友做了鸭",
@@ -1175,13 +1189,6 @@
       "link": "https://www.javis.me/matsuyama-2/",
       "author": "查令十字街84号",
       "avatar": "https://b.storyo.cn/upload/logo.png"
-    },
-    {
-      "title": "路人",
-      "created": "2025-10-15 17:51",
-      "link": "https://imzm.im/passersby/",
-      "author": "陈仓颉",
-      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
     },
     {
       "title": "租客放鸽子",
@@ -1338,13 +1345,6 @@
       "avatar": "https://blog.liuf.net/favicon.ico"
     },
     {
-      "title": "Faint",
-      "created": "2025-09-30 15:20",
-      "link": "https://imzm.im/faint/",
-      "author": "陈仓颉",
-      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
-    },
-    {
       "title": "展示照片的好地方",
       "created": "2025-09-27 23:20",
       "link": "https://yinji.org/chronoframe.html",
@@ -1401,13 +1401,6 @@
       "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
     },
     {
-      "title": "用 Gemini 2.5 Flash 制作一个小工具",
-      "created": "2025-09-18 12:07",
-      "link": "https://imzm.im/make-a-tool-with-gemini-in-python/",
-      "author": "陈仓颉",
-      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
-    },
-    {
       "title": "2025 博客变化",
       "created": "2025-09-16 21:52",
       "link": "https://www.eallion.com/2025-blog-changes/",
@@ -1455,13 +1448,6 @@
       "link": "https://www.eallion.com/fediverse-courtesy/",
       "author": "大大的小蜗牛",
       "avatar": "https://gravatar.memobbs.app/avatar/171e4c30959e8c077a6c58b958624b31"
-    },
-    {
-      "title": "麦门永存。",
-      "created": "2025-09-11 23:54",
-      "link": "https://imzm.im/long-live-macdonalds/",
-      "author": "陈仓颉",
-      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
     },
     {
       "title": "重拾写博客的乐趣",
@@ -1541,39 +1527,11 @@
       "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
     },
     {
-      "title": "",
-      "created": "2025-08-25 15:41",
-      "link": "https://www.ashsilent.com/shuoshuo/8452",
-      "author": "Ashsilent Planet",
-      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
-    },
-    {
       "title": "2025 年网络购物的得与亏",
       "created": "2025-08-24 13:42",
       "link": "https://www.javis.me/cyber-shopping-2025/",
       "author": "查令十字街84号",
       "avatar": "https://b.storyo.cn/upload/logo.png"
-    },
-    {
-      "title": "",
-      "created": "2025-08-23 01:15",
-      "link": "https://www.ashsilent.com/shuoshuo/8449",
-      "author": "Ashsilent Planet",
-      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
-    },
-    {
-      "title": "",
-      "created": "2025-08-21 07:36",
-      "link": "https://www.ashsilent.com/shuoshuo/8447",
-      "author": "Ashsilent Planet",
-      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
-    },
-    {
-      "title": "",
-      "created": "2025-08-21 05:59",
-      "link": "https://www.ashsilent.com/shuoshuo/8436",
-      "author": "Ashsilent Planet",
-      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
     },
     {
       "title": "老宅拆旧重建",
@@ -1590,18 +1548,11 @@
       "avatar": "https://justgoidea.com/favicon.svg"
     },
     {
-      "title": "捕风追影",
-      "created": "2025-08-13 00:49",
-      "link": "https://imzm.im/the-shadows-edge/",
-      "author": "陈仓颉",
-      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
-    },
-    {
-      "title": "暑期观影",
-      "created": "2025-08-08 18:54",
-      "link": "https://imzm.im/summer-movies-2025/",
-      "author": "陈仓颉",
-      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
+      "title": "艰难前进的痛苦",
+      "created": "2025-08-11 00:55",
+      "link": "https://www.jeffer.xyz/cid/3087.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
     },
     {
       "title": "通报“平息”的艺术与永不揭开的谜底",
@@ -1611,11 +1562,25 @@
       "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
     },
     {
+      "title": "记录一次产品8n国际化的翻车事件",
+      "created": "2025-08-06 22:48",
+      "link": "https://www.jeffer.xyz/cid/3081.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
+    },
+    {
       "title": "塔",
       "created": "2025-08-05 02:57",
       "link": "https://justgoidea.com/tower/",
       "author": "槿呈Goidea",
       "avatar": "https://justgoidea.com/favicon.svg"
+    },
+    {
+      "title": "恶臭红尘，不能自已",
+      "created": "2025-08-04 14:37",
+      "link": "https://www.jeffer.xyz/cid/3068.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
     },
     {
       "title": "蔑视和不平等",
@@ -2283,13 +2248,6 @@
       "avatar": "https://demochen.com/images/avatar.png"
     },
     {
-      "title": "",
-      "created": "2024-07-20 05:02",
-      "link": "https://www.ashsilent.com/shuoshuo/8411",
-      "author": "Ashsilent Planet",
-      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
-    },
-    {
       "title": "为什么心肺复苏技能值得学习",
       "created": "2024-06-26 05:36",
       "link": "http://www.gexiao.me/2024/06/26/cpr/",
@@ -2302,13 +2260,6 @@
       "link": "http://www.gexiao.me/2024/06/25/logic-under-power/",
       "author": "默默小屋",
       "avatar": "https://www.gexiao.me/images/apple-touch-icon-next.png"
-    },
-    {
-      "title": "",
-      "created": "2024-06-24 12:07",
-      "link": "https://www.ashsilent.com/shuoshuo/8408",
-      "author": "Ashsilent Planet",
-      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
     },
     {
       "title": "外卖打包费的维权",
@@ -2330,34 +2281,6 @@
       "link": "http://www.gexiao.me/2024/06/18/hitch-notes/",
       "author": "默默小屋",
       "avatar": "https://www.gexiao.me/images/apple-touch-icon-next.png"
-    },
-    {
-      "title": "",
-      "created": "2024-06-11 01:07",
-      "link": "https://www.ashsilent.com/shuoshuo/8403",
-      "author": "Ashsilent Planet",
-      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
-    },
-    {
-      "title": "",
-      "created": "2024-06-10 08:45",
-      "link": "https://www.ashsilent.com/shuoshuo/8401",
-      "author": "Ashsilent Planet",
-      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
-    },
-    {
-      "title": "",
-      "created": "2024-06-09 00:35",
-      "link": "https://www.ashsilent.com/shuoshuo/8398",
-      "author": "Ashsilent Planet",
-      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
-    },
-    {
-      "title": "",
-      "created": "2024-06-07 16:25",
-      "link": "https://www.ashsilent.com/shuoshuo/8396",
-      "author": "Ashsilent Planet",
-      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
     },
     {
       "title": "2024 美国行",
