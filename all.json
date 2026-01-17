@@ -3,8 +3,8 @@
     "friends_num": 54,
     "active_num": 42,
     "error_num": 12,
-    "article_num": 359,
-    "last_updated_time": "2026-01-17 14:33:47"
+    "article_num": 349,
+    "last_updated_time": "2026-01-17 20:43:13"
   },
   "article_data": [
     {
@@ -498,13 +498,6 @@
       "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
     },
     {
-      "title": "装机计划 and 环境部署",
-      "created": "2025-12-20 19:57",
-      "link": "https://www.imsun.org/archives/1764.html",
-      "author": "老孙博客",
-      "avatar": "https://img.imsun.org/avatar.jpg"
-    },
-    {
       "title": "游戏生涯个人喜好表",
       "created": "2025-12-20 12:07",
       "link": "https://pewae.com/2025/12/my-game-life-bests.html",
@@ -743,13 +736,6 @@
       "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
     },
     {
-      "title": "一个基于AI的Typecho辅助生成插件 AIHelper",
-      "created": "2025-12-03 11:50",
-      "link": "https://www.imsun.org/archives/1763.html",
-      "author": "老孙博客",
-      "avatar": "https://img.imsun.org/avatar.jpg"
-    },
-    {
       "title": "博客年终总结 ：2025 Ai贯穿工作生活",
       "created": "2025-12-02 16:18",
       "link": "https://www.jeffer.xyz/cid/3256.html",
@@ -876,13 +862,6 @@
       "avatar": "https://weavatar.com/avatar/9b3a681168a25e910954372e468fbc91"
     },
     {
-      "title": "修复Typecho UploadPlugin插件在1.3.0中的上传问题",
-      "created": "2025-11-24 17:20",
-      "link": "https://www.imsun.org/archives/1762.html",
-      "author": "老孙博客",
-      "avatar": "https://img.imsun.org/avatar.jpg"
-    },
-    {
       "title": "一条盘山路：把呼吸调成“大明山模式”",
       "created": "2025-11-23 22:12",
       "link": "https://bluehe.cn/archives/damingshan-mode",
@@ -988,13 +967,6 @@
       "avatar": "https://gravatar.memobbs.app/avatar/d9cc49ea0301640d7a19b6a1e77012dd"
     },
     {
-      "title": "规则",
-      "created": "2025-11-14 15:14",
-      "link": "https://www.imsun.org/archives/1761.html",
-      "author": "老孙博客",
-      "avatar": "https://img.imsun.org/avatar.jpg"
-    },
-    {
       "title": "每夫吐槽（112）",
       "created": "2025-11-13 15:27",
       "link": "https://pewae.com/2025/11/random_kuso_112.html",
@@ -1007,13 +979,6 @@
       "link": "https://www.eallion.com/ubuntu2510/",
       "author": "大大的小蜗牛",
       "avatar": "https://gravatar.memobbs.app/avatar/171e4c30959e8c077a6c58b958624b31"
-    },
-    {
-      "title": "&quot;套娃&quot;",
-      "created": "2025-11-09 14:58",
-      "link": "https://www.imsun.org/archives/1759.html",
-      "author": "老孙博客",
-      "avatar": "https://img.imsun.org/avatar.jpg"
     },
     {
       "title": "渐觉社会包容度走低",
@@ -1177,13 +1142,6 @@
       "avatar": "https://blog.liuf.net/favicon.ico"
     },
     {
-      "title": "Typecho RSS 全文输出美化插件",
-      "created": "2025-10-20 09:18",
-      "link": "https://www.imsun.org/archives/1753.html",
-      "author": "老孙博客",
-      "avatar": "https://img.imsun.org/avatar.jpg"
-    },
-    {
       "title": "记一次痛不欲生的肾结石经历",
       "created": "2025-10-20 07:24",
       "link": "https://joyqi.com/life/a-painful-kidney-stone-experience.html",
@@ -1252,13 +1210,6 @@
       "link": "/2025/10/taobao-double-11-preorder/",
       "author": "道貌岸然",
       "avatar": "https://blog.liuf.net/favicon.ico"
-    },
-    {
-      "title": "Puock - 又一款Typecho主题",
-      "created": "2025-10-16 13:36",
-      "link": "https://www.imsun.org/archives/1752.html",
-      "author": "老孙博客",
-      "avatar": "https://img.imsun.org/avatar.jpg"
     },
     {
       "title": "从从容容 连滚带爬",
@@ -1632,13 +1583,6 @@
       "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
     },
     {
-      "title": "解决部分云服务器内存爆满但SWAP占用为0的问题",
-      "created": "2025-08-09 17:27",
-      "link": "https://www.imsun.org/archives/1751.html",
-      "author": "老孙博客",
-      "avatar": "https://img.imsun.org/avatar.jpg"
-    },
-    {
       "title": "通报“平息”的艺术与永不揭开的谜底",
       "created": "2025-08-08 07:41",
       "link": "https://itlu.net/articles/2840.html",
@@ -1681,13 +1625,6 @@
       "avatar": "https://zhou.ge/favicon.ico"
     },
     {
-      "title": "又年长一岁",
-      "created": "2025-07-09 15:09",
-      "link": "https://www.imsun.org/archives/1750.html",
-      "author": "老孙博客",
-      "avatar": "https://img.imsun.org/avatar.jpg"
-    },
-    {
       "title": "博客更新之hexo, EdgeOne以及Apaxy",
       "created": "2025-07-02 21:02",
       "link": "https://www.jiangyu.org/hexo-edgeone-apaxy/",
@@ -1700,13 +1637,6 @@
       "link": "https://www.eallion.com/ted-master-of-time-management/",
       "author": "大大的小蜗牛",
       "avatar": "https://gravatar.memobbs.app/avatar/171e4c30959e8c077a6c58b958624b31"
-    },
-    {
-      "title": "Typecho常用插件集合",
-      "created": "2025-06-17 15:14",
-      "link": "https://www.imsun.org/archives/1749.html",
-      "author": "老孙博客",
-      "avatar": "https://img.imsun.org/avatar.jpg"
     },
     {
       "title": "n8n 之同步博客到 Mastodon",
