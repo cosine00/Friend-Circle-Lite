@@ -4,9 +4,16 @@
     "active_num": 42,
     "error_num": 12,
     "article_num": 349,
-    "last_updated_time": "2026-01-18 14:34:20"
+    "last_updated_time": "2026-01-18 20:43:06"
   },
   "article_data": [
+    {
+      "title": "AI浪潮下我的些许变化",
+      "created": "2026-01-19 00:20",
+      "link": "https://demochen.com/posts/20260115/",
+      "author": "特立独行的异类",
+      "avatar": "https://demochen.com/images/avatar.png"
+    },
     {
       "title": "我为什么写博客",
       "created": "2026-01-18 10:58",
@@ -2386,13 +2393,6 @@
       "link": "https://joyqi.com/typecho/plugin-template.html",
       "author": "JoyQi",
       "avatar": "https://joyqi.com/apple-touch-icon.png"
-    },
-    {
-      "title": "通过用户分层找细分市场",
-      "created": "2023-12-17 23:21",
-      "link": "https://demochen.com/posts/20231217/",
-      "author": "特立独行的异类",
-      "avatar": "https://demochen.com/images/avatar.png"
     },
     {
       "title": "付费的 SSL 证书是不是智商税",
