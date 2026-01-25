@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 54,
-    "active_num": 41,
-    "error_num": 13,
-    "article_num": 339,
-    "last_updated_time": "2026-01-25 02:32:51"
+    "active_num": 43,
+    "error_num": 11,
+    "article_num": 369,
+    "last_updated_time": "2026-01-25 10:02:21"
   },
   "article_data": [
     {
@@ -85,6 +85,13 @@
       "avatar": "https://gravatar.memobbs.app/avatar/679666f7bd1af3e55f0e51dd70ed161c"
     },
     {
+      "title": "如何教笨蛋 AI 好好干活",
+      "created": "2026-01-21 06:27",
+      "link": "https://voderl.cn/js/agent-workflow-mcp-tool/",
+      "author": "笑呀 | Voderl",
+      "avatar": "https://voderl.cn/favicon-32x32.png?v=46070ec513e0f3579b9b9d18dc57cd4d"
+    },
+    {
       "title": "家人认知碰撞和曲线救国",
       "created": "2026-01-20 10:48",
       "link": "https://1900.live/jia-ren-ren-zhi-peng-zhuang-he-qu-xian-jiu-guo/",
@@ -111,6 +118,13 @@
       "link": "https://zhoutian.com/348.html",
       "author": "满心记",
       "avatar": "https://weavatar.com/avatar/9b3a681168a25e910954372e468fbc91"
+    },
+    {
+      "title": "My App Defaults 2025",
+      "created": "2026-01-19 16:52",
+      "link": "https://imzm.im/my-app-defaults-2025/",
+      "author": "陈仓颉",
+      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
     },
     {
       "title": "AI浪潮下我的些许变化",
@@ -419,6 +433,13 @@
       "link": "https://yayu.net/6077.html",
       "author": "雅余",
       "avatar": "https://yayu.net/favicon.ico"
+    },
+    {
+      "title": "再见 2025",
+      "created": "2025-12-31 17:31",
+      "link": "https://imzm.im/bye-2025/",
+      "author": "陈仓颉",
+      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
     },
     {
       "title": "2025年总结",
@@ -806,6 +827,13 @@
       "avatar": "https://weavatar.com/avatar/9b3a681168a25e910954372e468fbc91"
     },
     {
+      "title": "动物乌托邦",
+      "created": "2025-12-04 18:23",
+      "link": "https://imzm.im/zootopia-2/",
+      "author": "陈仓颉",
+      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
+    },
+    {
       "title": "Spotify",
       "created": "2025-12-03 23:51",
       "link": "https://yinji.org/spotify.html",
@@ -1079,6 +1107,13 @@
       "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
     },
     {
+      "title": "白宫到底炸没炸",
+      "created": "2025-11-07 18:45",
+      "link": "https://imzm.im/a-house-of-dynamite/",
+      "author": "陈仓颉",
+      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
+    },
+    {
       "title": "爸爸厨房：简单版糖炒栗子",
       "created": "2025-11-06 12:31",
       "link": "https://www.jeffer.xyz/cid/3207.html",
@@ -1135,6 +1170,13 @@
       "avatar": "https://blog.liuf.net/favicon.ico"
     },
     {
+      "title": "Group Chats Could Be Overwhelming",
+      "created": "2025-10-24 17:51",
+      "link": "https://imzm.im/group-chats-could-be-overwhelming/",
+      "author": "陈仓颉",
+      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
+    },
+    {
       "title": "小声哔哔",
       "created": "2025-10-23 23:46",
       "link": "/2025/10/light-bibi/",
@@ -1161,6 +1203,13 @@
       "link": "https://yinji.org/ipad-mini.html",
       "author": "印记",
       "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
+    },
+    {
+      "title": "和平使者不和平",
+      "created": "2025-10-21 10:09",
+      "link": "https://imzm.im/who-is-peacemaker/",
+      "author": "陈仓颉",
+      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
     },
     {
       "title": "五十日琐记：当中年生活按下“不顺畅”键",
@@ -1268,6 +1317,13 @@
       "avatar": "https://b.storyo.cn/upload/logo.png"
     },
     {
+      "title": "路人",
+      "created": "2025-10-15 17:51",
+      "link": "https://imzm.im/passersby/",
+      "author": "陈仓颉",
+      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
+    },
+    {
       "title": "租客放鸽子",
       "created": "2025-10-15 14:11",
       "link": "https://ihaihe.cn/3401.htm",
@@ -1315,6 +1371,13 @@
       "link": "https://ihaihe.cn/3388.htm",
       "author": "三十里海河",
       "avatar": "https://gravatar.memobbs.app/avatar/40c46b2a6ef05464946a7e3f5230bdfa16b5d4e861c7b69977ef77efde66638a"
+    },
+    {
+      "title": "AI 蒸馏感想",
+      "created": "2025-10-09 06:32",
+      "link": "https://voderl.cn/rhymes?slug=/rhymes/2025-10-8/",
+      "author": "笑呀 | Voderl",
+      "avatar": "https://voderl.cn/favicon-32x32.png?v=46070ec513e0f3579b9b9d18dc57cd4d"
     },
     {
       "title": "iOS 26 糟糕的分词体验",
@@ -1380,6 +1443,20 @@
       "avatar": "https://blog.liuf.net/favicon.ico"
     },
     {
+      "title": "Faint",
+      "created": "2025-09-30 15:20",
+      "link": "https://imzm.im/faint/",
+      "author": "陈仓颉",
+      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
+    },
+    {
+      "title": "信息过载的时代",
+      "created": "2025-09-30 06:32",
+      "link": "https://voderl.cn/rhymes?slug=/rhymes/2025-9-23/",
+      "author": "笑呀 | Voderl",
+      "avatar": "https://voderl.cn/favicon-32x32.png?v=46070ec513e0f3579b9b9d18dc57cd4d"
+    },
+    {
       "title": "展示照片的好地方",
       "created": "2025-09-27 23:20",
       "link": "https://yinji.org/chronoframe.html",
@@ -1420,6 +1497,13 @@
       "link": "https://yinji.org/what-am-i-thinking-when-i-ride-a-bike.html",
       "author": "印记",
       "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
+    },
+    {
+      "title": "用 Gemini 2.5 Flash 制作一个小工具",
+      "created": "2025-09-18 12:07",
+      "link": "https://imzm.im/make-a-tool-with-gemini-in-python/",
+      "author": "陈仓颉",
+      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
     },
     {
       "title": "2025 博客变化",
@@ -1469,6 +1553,13 @@
       "link": "https://www.eallion.com/fediverse-courtesy/",
       "author": "大大的小蜗牛",
       "avatar": "https://gravatar.memobbs.app/avatar/171e4c30959e8c077a6c58b958624b31"
+    },
+    {
+      "title": "麦门永存。",
+      "created": "2025-09-11 23:54",
+      "link": "https://imzm.im/long-live-macdonalds/",
+      "author": "陈仓颉",
+      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
     },
     {
       "title": "重拾写博客的乐趣",
@@ -1527,11 +1618,39 @@
       "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
     },
     {
+      "title": "",
+      "created": "2025-08-25 15:41",
+      "link": "https://www.ashsilent.com/shuoshuo/8452",
+      "author": "Ashsilent Planet",
+      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
+    },
+    {
       "title": "2025 年网络购物的得与亏",
       "created": "2025-08-24 13:42",
       "link": "https://www.javis.me/cyber-shopping-2025/",
       "author": "查令十字街84号",
       "avatar": "https://b.storyo.cn/upload/logo.png"
+    },
+    {
+      "title": "",
+      "created": "2025-08-23 01:15",
+      "link": "https://www.ashsilent.com/shuoshuo/8449",
+      "author": "Ashsilent Planet",
+      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
+    },
+    {
+      "title": "",
+      "created": "2025-08-21 07:36",
+      "link": "https://www.ashsilent.com/shuoshuo/8447",
+      "author": "Ashsilent Planet",
+      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
+    },
+    {
+      "title": "",
+      "created": "2025-08-21 05:59",
+      "link": "https://www.ashsilent.com/shuoshuo/8436",
+      "author": "Ashsilent Planet",
+      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
     },
     {
       "title": "老宅拆旧重建",
@@ -1665,6 +1784,13 @@
       "link": "https://moreality.net/posts/30786/",
       "author": "Moreality's Blog",
       "avatar": "https://youpai.roccoshi.top/img/avatar.jpg"
+    },
+    {
+      "title": "风一吹就好远",
+      "created": "2025-05-24 06:32",
+      "link": "https://voderl.cn/rhymes?slug=/rhymes/2025-5-23/",
+      "author": "笑呀 | Voderl",
+      "avatar": "https://voderl.cn/favicon-32x32.png?v=46070ec513e0f3579b9b9d18dc57cd4d"
     },
     {
       "title": "济州岛之旅&团建",
@@ -2045,6 +2171,13 @@
       "avatar": "https://cravatar.cn/avatar/441e67d84e8b2d1961c0b56f74fef186?d=identicon"
     },
     {
+      "title": "南京的秋天再一次到来",
+      "created": "2024-11-06 08:00",
+      "link": "https://voderl.cn/rhymes?slug=/rhymes/2024-11-6/",
+      "author": "笑呀 | Voderl",
+      "avatar": "https://voderl.cn/favicon-32x32.png?v=46070ec513e0f3579b9b9d18dc57cd4d"
+    },
+    {
       "title": "20241104231557",
       "created": "2024-11-05 07:15",
       "link": "https://lillianwho.com/posts/20241104231557/",
@@ -2220,11 +2353,32 @@
       "avatar": "https://joyqi.com/apple-touch-icon.png"
     },
     {
+      "title": "40 度天气里的晴朗夏日",
+      "created": "2024-08-06 09:24",
+      "link": "https://voderl.cn/rhymes?slug=/rhymes/2024-8-6/",
+      "author": "笑呀 | Voderl",
+      "avatar": "https://voderl.cn/favicon-32x32.png?v=46070ec513e0f3579b9b9d18dc57cd4d"
+    },
+    {
+      "title": "落日列车迎着晚霞与彩虹前行",
+      "created": "2024-07-31 06:46",
+      "link": "https://voderl.cn/rhymes?slug=/rhymes/2024-7-30/",
+      "author": "笑呀 | Voderl",
+      "avatar": "https://voderl.cn/favicon-32x32.png?v=46070ec513e0f3579b9b9d18dc57cd4d"
+    },
+    {
       "title": "线上问诊的经验",
       "created": "2024-07-23 01:19",
       "link": "https://demochen.com/posts/20240722/",
       "author": "特立独行的异类",
       "avatar": "https://demochen.com/images/avatar.png"
+    },
+    {
+      "title": "",
+      "created": "2024-07-20 05:02",
+      "link": "https://www.ashsilent.com/shuoshuo/8411",
+      "author": "Ashsilent Planet",
+      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
     },
     {
       "title": "为什么心肺复苏技能值得学习",
@@ -2239,6 +2393,13 @@
       "link": "http://www.gexiao.me/2024/06/25/logic-under-power/",
       "author": "默默小屋",
       "avatar": "https://www.gexiao.me/images/apple-touch-icon-next.png"
+    },
+    {
+      "title": "",
+      "created": "2024-06-24 12:07",
+      "link": "https://www.ashsilent.com/shuoshuo/8408",
+      "author": "Ashsilent Planet",
+      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
     },
     {
       "title": "外卖打包费的维权",
@@ -2262,6 +2423,48 @@
       "avatar": "https://www.gexiao.me/images/apple-touch-icon-next.png"
     },
     {
+      "title": "去到风吹过来的地方",
+      "created": "2024-06-12 06:06",
+      "link": "https://voderl.cn/rhymes?slug=/rhymes/2024-6-11/",
+      "author": "笑呀 | Voderl",
+      "avatar": "https://voderl.cn/favicon-32x32.png?v=46070ec513e0f3579b9b9d18dc57cd4d"
+    },
+    {
+      "title": "",
+      "created": "2024-06-11 01:07",
+      "link": "https://www.ashsilent.com/shuoshuo/8403",
+      "author": "Ashsilent Planet",
+      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
+    },
+    {
+      "title": "",
+      "created": "2024-06-10 08:45",
+      "link": "https://www.ashsilent.com/shuoshuo/8401",
+      "author": "Ashsilent Planet",
+      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
+    },
+    {
+      "title": "",
+      "created": "2024-06-09 00:35",
+      "link": "https://www.ashsilent.com/shuoshuo/8398",
+      "author": "Ashsilent Planet",
+      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
+    },
+    {
+      "title": "",
+      "created": "2024-06-07 16:25",
+      "link": "https://www.ashsilent.com/shuoshuo/8396",
+      "author": "Ashsilent Planet",
+      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
+    },
+    {
+      "title": "恋爱ing",
+      "created": "2024-05-04 23:08",
+      "link": "https://voderl.cn/rhymes?slug=/rhymes/2024-5-4/",
+      "author": "笑呀 | Voderl",
+      "avatar": "https://voderl.cn/favicon-32x32.png?v=46070ec513e0f3579b9b9d18dc57cd4d"
+    },
+    {
       "title": "2024 美国行",
       "created": "2024-04-19 20:31",
       "link": "https://joyqi.com/life/2024-usa-trip.html",
@@ -2281,6 +2484,13 @@
       "link": "https://dongjunke.cn/posts/2024/04/07/27334.html",
       "author": "东评西就",
       "avatar": "https://gravatar.memobbs.app/avatar/42542189ddb33064599dc88a5149bea7"
+    },
+    {
+      "title": "落幕前的樱花与海棠",
+      "created": "2024-04-02 07:26",
+      "link": "https://voderl.cn/rhymes?slug=/rhymes/2024-4-1/",
+      "author": "笑呀 | Voderl",
+      "avatar": "https://voderl.cn/favicon-32x32.png?v=46070ec513e0f3579b9b9d18dc57cd4d"
     },
     {
       "title": "用一台被淘汰的 Mac mini 来做软路由",
