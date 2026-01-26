@@ -4,9 +4,16 @@
     "active_num": 43,
     "error_num": 11,
     "article_num": 359,
-    "last_updated_time": "2026-01-26 20:53:26"
+    "last_updated_time": "2026-01-27 02:39:02"
   },
   "article_data": [
+    {
+      "title": "在 AI 浪潮中迷失的 Setapp",
+      "created": "2026-01-27 00:58",
+      "link": "https://anotherdayu.com/2026/7686/",
+      "author": "Dayu",
+      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
+    },
     {
       "title": "从记账漫想到金钱观",
       "created": "2026-01-26 10:43",
@@ -769,13 +776,6 @@
       "link": "https://itlu.net/articles/2846.html",
       "author": "挨踢路",
       "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
-    },
-    {
-      "title": "救救我的眼睛",
-      "created": "2025-12-10 18:36",
-      "link": "https://anotherdayu.com/2025/7495/",
-      "author": "Dayu",
-      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
     },
     {
       "title": "一键生成AI播客",
