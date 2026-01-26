@@ -4,9 +4,16 @@
     "active_num": 43,
     "error_num": 11,
     "article_num": 359,
-    "last_updated_time": "2026-01-26 10:01:49"
+    "last_updated_time": "2026-01-26 14:40:18"
   },
   "article_data": [
+    {
+      "title": "从记账漫想到金钱观",
+      "created": "2026-01-26 10:43",
+      "link": "https://1900.live/cong-ji-zhang-man-xiang-dao-jin-qian-guan/",
+      "author": "1900'blog",
+      "avatar": "https://cdn.1900.live/20190640/ico.png"
+    },
     {
       "title": "再谈 iA Writer",
       "created": "2026-01-26 00:19",
@@ -335,13 +342,6 @@
       "link": "https://hjyl.org/five-blacks-soy-sauce/",
       "author": "皇家园林",
       "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
-    },
-    {
-      "title": "到底是AI在学习还是我们在学习？",
-      "created": "2026-01-08 10:37",
-      "link": "https://1900.live/dao/",
-      "author": "1900'blog",
-      "avatar": "https://cdn.1900.live/20190640/ico.png"
     },
     {
       "title": "中山金钟水库10公里环湖漫步",
