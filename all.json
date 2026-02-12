@@ -4,9 +4,16 @@
     "active_num": 42,
     "error_num": 12,
     "article_num": 349,
-    "last_updated_time": "2026-02-12 03:05:56"
+    "last_updated_time": "2026-02-12 10:26:01"
   },
   "article_data": [
+    {
+      "title": "斐讯N1安装飞牛OS",
+      "created": "2026-02-12 13:28",
+      "link": "https://xyzbz.cn/archives/1513/",
+      "author": "网友小宋",
+      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
+    },
     {
       "title": "放假了，满油满电，出发回家",
       "created": "2026-02-12 01:28",
@@ -1056,13 +1063,6 @@
       "link": "https://justgoidea.com/ren-jiu-shi-jiang-hu/",
       "author": "槿呈Goidea",
       "avatar": "https://justgoidea.com/favicon.svg"
-    },
-    {
-      "title": "乙巳蛇年-十一月末",
-      "created": "2025-12-01 07:59",
-      "link": "https://xyzbz.cn/archives/1478/",
-      "author": "网友小宋",
-      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
     },
     {
       "title": "回邮美学：“会说话的界面”",
