@@ -4,9 +4,23 @@
     "active_num": 42,
     "error_num": 12,
     "article_num": 349,
-    "last_updated_time": "2026-02-12 21:12:16"
+    "last_updated_time": "2026-02-13 03:04:51"
   },
   "article_data": [
+    {
+      "title": "马马马马",
+      "created": "2026-02-13 05:41",
+      "link": "https://zhou.ge/2026-02-12.html",
+      "author": "忆往事",
+      "avatar": "https://zhou.ge/favicon.ico"
+    },
+    {
+      "title": "用 Keyboard Maestro 快速读取新通知中的验证码",
+      "created": "2026-02-12 21:45",
+      "link": "https://anotherdayu.com/2026/7714/",
+      "author": "Dayu",
+      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
+    },
     {
       "title": "斐讯N1安装飞牛OS",
       "created": "2026-02-12 13:28",
@@ -517,13 +531,6 @@
       "link": "https://hjyl.org/nb-daye/",
       "author": "皇家园林",
       "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
-    },
-    {
-      "title": "几个我喜欢的特殊快捷键",
-      "created": "2026-01-14 19:28",
-      "link": "https://anotherdayu.com/2026/7628/",
-      "author": "Dayu",
-      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
     },
     {
       "title": "AI翻译这么强，我为什么还在学英语？",
@@ -1924,13 +1931,6 @@
       "link": "https://elizen.me/posts/2025/02/2025-week5-and-week6/",
       "author": "Elizen",
       "avatar": "https://gravatar.memobbs.app/avatar/f65df4d87240feb1cb247857a621a48f"
-    },
-    {
-      "title": "行车志之贵人",
-      "created": "2025-02-14 07:01",
-      "link": "https://zhou.ge/2025-02-13.html",
-      "author": "忆往事",
-      "avatar": "https://zhou.ge/favicon.ico"
     },
     {
       "title": "AI对保险的价值",
