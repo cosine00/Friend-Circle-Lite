@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 54,
-    "active_num": 37,
-    "error_num": 17,
-    "article_num": 319,
-    "last_updated_time": "2026-02-13 10:40:36"
+    "active_num": 42,
+    "error_num": 12,
+    "article_num": 349,
+    "last_updated_time": "2026-02-13 15:01:53"
   },
   "article_data": [
     {
@@ -20,6 +20,13 @@
       "link": "https://anotherdayu.com/2026/7714/",
       "author": "Dayu",
       "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
+    },
+    {
+      "title": "斐讯N1安装飞牛OS",
+      "created": "2026-02-12 13:28",
+      "link": "https://xyzbz.cn/archives/1513/",
+      "author": "网友小宋",
+      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
     },
     {
       "title": "放假了，满油满电，出发回家",
@@ -90,6 +97,27 @@
       "link": "/2026/02/on-small-ad-movie-by-oppo/",
       "author": "道貌岸然",
       "avatar": "https://blog.liuf.net/favicon.ico"
+    },
+    {
+      "title": "乌托邦咖啡",
+      "created": "2026-02-08 21:27",
+      "link": "https://bluehe.cn/archives/utopia-cafe",
+      "author": "云心怀鹤",
+      "avatar": "https://bluehe.cn/usr/uploads/2024/03/1678458078.png"
+    },
+    {
+      "title": "南宁视角：灵龟山的落羽杉红了",
+      "created": "2026-02-08 21:26",
+      "link": "https://bluehe.cn/archives/lingguishan-bald-cypress",
+      "author": "云心怀鹤",
+      "avatar": "https://bluehe.cn/usr/uploads/2024/03/1678458078.png"
+    },
+    {
+      "title": "千问ai的生态服务融合",
+      "created": "2026-02-08 19:38",
+      "link": "https://bluehe.cn/archives/ai-qianwen",
+      "author": "云心怀鹤",
+      "avatar": "https://bluehe.cn/usr/uploads/2024/03/1678458078.png"
     },
     {
       "title": "闪灵让我恐怖的是什么？",
@@ -246,6 +274,13 @@
       "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
     },
     {
+      "title": "松声｜廿六年·一月暮·岁灯残",
+      "created": "2026-01-30 22:32",
+      "link": "https://xyzbz.cn/archives/1509/",
+      "author": "网友小宋",
+      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
+    },
+    {
       "title": "我失业后能干啥",
       "created": "2026-01-30 11:12",
       "link": "https://1900.live/what-can-i-do-after-losing-my-job/",
@@ -365,11 +400,25 @@
       "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
     },
     {
+      "title": "松声｜廿六年·雪后早上",
+      "created": "2026-01-24 00:48",
+      "link": "https://xyzbz.cn/archives/1506/",
+      "author": "网友小宋",
+      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
+    },
+    {
       "title": "轻舟已过万重山",
       "created": "2026-01-23 16:57",
       "link": "https://hux.ink/posts/fear/",
       "author": "落落vici",
       "avatar": "https://cravatar.cn/avatar/bb78cd69edd84cdbdb99a491ea2dc6c8"
+    },
+    {
+      "title": "给兰空图床增加一个机器人登录提醒",
+      "created": "2026-01-23 01:18",
+      "link": "https://xyzbz.cn/archives/1504/",
+      "author": "网友小宋",
+      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
     },
     {
       "title": "重温老片《非常突然》",
@@ -463,6 +512,13 @@
       "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
     },
     {
+      "title": "松声｜廿六年·一月初·雪叩窗",
+      "created": "2026-01-16 13:17",
+      "link": "https://xyzbz.cn/archives/1496/",
+      "author": "网友小宋",
+      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
+    },
+    {
       "title": "CMF Headphone Pro",
       "created": "2026-01-15 22:28",
       "link": "https://anotherdayu.com/2026/7641/",
@@ -517,6 +573,13 @@
       "link": "https://pewae.com/2026/01/you-are-just-arrived.html",
       "author": "破袜子",
       "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
+    },
+    {
+      "title": "竖图风景：从闲逛到成片",
+      "created": "2026-01-11 06:34",
+      "link": "https://bluehe.cn/archives/one-day-nanning-itinerary",
+      "author": "云心怀鹤",
+      "avatar": "https://bluehe.cn/usr/uploads/2024/03/1678458078.png"
     },
     {
       "title": "新年换新表",
@@ -589,11 +652,25 @@
       "avatar": "https://justgoidea.com/favicon.svg"
     },
     {
+      "title": "2025年终回顾",
+      "created": "2026-01-03 18:15",
+      "link": "https://xyzbz.cn/archives/1491/",
+      "author": "网友小宋",
+      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
+    },
+    {
       "title": "想写点东西",
       "created": "2026-01-02 06:05",
       "link": "/2026/01/i-want-to-write-something/",
       "author": "道貌岸然",
       "avatar": "https://blog.liuf.net/favicon.ico"
+    },
+    {
+      "title": "2026元旦初雪",
+      "created": "2026-01-01 15:19",
+      "link": "https://xyzbz.cn/archives/1489/",
+      "author": "网友小宋",
+      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
     },
     {
       "title": "2026 万事皆可期",
@@ -666,6 +743,20 @@
       "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
     },
     {
+      "title": "乙巳蛇年-十二月末",
+      "created": "2025-12-30 13:02",
+      "link": "https://xyzbz.cn/archives/1488/",
+      "author": "网友小宋",
+      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
+    },
+    {
+      "title": "Gist：2025最佳Folo替代品",
+      "created": "2025-12-28 20:42",
+      "link": "https://bluehe.cn/archives/gist-rss",
+      "author": "云心怀鹤",
+      "avatar": "https://bluehe.cn/usr/uploads/2024/03/1678458078.png"
+    },
+    {
       "title": "老张博客的2025",
       "created": "2025-12-28 15:17",
       "link": "https://laozhang.org/archives/4011.html",
@@ -708,6 +799,13 @@
       "avatar": "https://yayu.net/favicon.ico"
     },
     {
+      "title": "Docker部署简单网页分析工具GoatCounter",
+      "created": "2025-12-23 21:31",
+      "link": "https://xyzbz.cn/archives/1485/",
+      "author": "网友小宋",
+      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
+    },
+    {
       "title": "除草近况",
       "created": "2025-12-23 06:49",
       "link": "https://zhou.ge/2025-12-22.html",
@@ -729,11 +827,25 @@
       "avatar": "https://gravatar.memobbs.app/avatar/40c46b2a6ef05464946a7e3f5230bdfa16b5d4e861c7b69977ef77efde66638a"
     },
     {
+      "title": "2025：从草稿箱到收件箱",
+      "created": "2025-12-22 02:06",
+      "link": "https://bluehe.cn/archives/2025-written-here",
+      "author": "云心怀鹤",
+      "avatar": "https://bluehe.cn/usr/uploads/2024/03/1678458078.png"
+    },
+    {
       "title": "告别 2025",
       "created": "2025-12-22 00:41",
       "link": "https://justgoidea.com/say-goodbye-to-2025/",
       "author": "槿呈Goidea",
       "avatar": "https://justgoidea.com/favicon.svg"
+    },
+    {
+      "title": "骑楼里的南宁：复古滤镜",
+      "created": "2025-12-21 22:31",
+      "link": "https://bluehe.cn/archives/nanning-qilou-slow",
+      "author": "云心怀鹤",
+      "avatar": "https://bluehe.cn/usr/uploads/2024/03/1678458078.png"
     },
     {
       "title": "回顾 2025",
@@ -769,6 +881,13 @@
       "link": "https://pewae.com/2025/12/my-game-life-bests.html",
       "author": "破袜子",
       "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
+    },
+    {
+      "title": "当城市开始变暖：逛青秀山菊展",
+      "created": "2025-12-19 07:32",
+      "link": "https://bluehe.cn/archives/qxs-chrys-photo",
+      "author": "云心怀鹤",
+      "avatar": "https://bluehe.cn/usr/uploads/2024/03/1678458078.png"
     },
     {
       "title": "岁月如梭啊",
@@ -832,6 +951,13 @@
       "link": "https://itlu.net/articles/2847.html",
       "author": "挨踢路",
       "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
+    },
+    {
+      "title": "乙巳蛇年-十二月半",
+      "created": "2025-12-15 12:21",
+      "link": "https://xyzbz.cn/archives/1482/",
+      "author": "网友小宋",
+      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
     },
     {
       "title": "彻底放弃收费 SSL 证书",
@@ -946,6 +1072,13 @@
       "avatar": "https://justgoidea.com/favicon.svg"
     },
     {
+      "title": "回邮美学：“会说话的界面”",
+      "created": "2025-12-01 04:58",
+      "link": "https://bluehe.cn/archives/email-reply",
+      "author": "云心怀鹤",
+      "avatar": "https://bluehe.cn/usr/uploads/2024/03/1678458078.png"
+    },
+    {
       "title": "昆明小记",
       "created": "2025-11-30 22:42",
       "link": "https://yinji.org/kunming.html",
@@ -1000,6 +1133,13 @@
       "link": "https://ihaihe.cn/3456.htm",
       "author": "三十里海河",
       "avatar": "https://gravatar.memobbs.app/avatar/40c46b2a6ef05464946a7e3f5230bdfa16b5d4e861c7b69977ef77efde66638a"
+    },
+    {
+      "title": "一条盘山路：把呼吸调成“大明山模式”",
+      "created": "2025-11-23 22:12",
+      "link": "https://bluehe.cn/archives/damingshan-mode",
+      "author": "云心怀鹤",
+      "avatar": "https://bluehe.cn/usr/uploads/2024/03/1678458078.png"
     },
     {
       "title": "极简统计 支持本地部署PHP网站统计系统",
@@ -1534,6 +1674,13 @@
       "avatar": "https://zhou.ge/favicon.ico"
     },
     {
+      "title": "博客更新之hexo, EdgeOne以及Apaxy",
+      "created": "2025-07-02 21:02",
+      "link": "https://www.jiangyu.org/hexo-edgeone-apaxy/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
+    },
+    {
       "title": "少儿 TED - 时间管理大师",
       "created": "2025-06-27 11:49",
       "link": "https://www.eallion.com/ted-master-of-time-management/",
@@ -1546,6 +1693,13 @@
       "link": "https://www.eallion.com/n8n-sync-blog-to-mastodon/",
       "author": "大大的小蜗牛",
       "avatar": "https://gravatar.memobbs.app/avatar/171e4c30959e8c077a6c58b958624b31"
+    },
+    {
+      "title": "《梵高手稿》读书笔记",
+      "created": "2025-06-12 21:30",
+      "link": "https://www.jiangyu.org/van-gogh/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
     },
     {
       "title": "n8n 之备份 Mastodon 嘟文",
@@ -1618,11 +1772,25 @@
       "avatar": "https://gravatar.memobbs.app/avatar/c1b204bab687a23c8b6d7c8de11c7c59"
     },
     {
+      "title": "惊艳的Google NotebookLM输出的中文音频读书笔记",
+      "created": "2025-05-01 17:50",
+      "link": "https://www.jiangyu.org/chinese-audio-overview/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
+    },
+    {
       "title": "Google「提示词工程」白皮书阅读总结",
       "created": "2025-04-21 22:45",
       "link": "https://moreality.net/posts/6318/",
       "author": "Moreality's Blog",
       "avatar": "https://youpai.roccoshi.top/img/avatar.jpg"
+    },
+    {
+      "title": "《叫魂：1768年中国妖术大恐慌》读书笔记",
+      "created": "2025-04-16 20:40",
+      "link": "https://www.jiangyu.org/jiao-hun/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
     },
     {
       "title": "沉迷“吉卜力”中……",
@@ -1639,11 +1807,39 @@
       "avatar": "https://gravatar.memobbs.app/avatar/42542189ddb33064599dc88a5149bea7"
     },
     {
+      "title": "《清画全集》及其目录索引",
+      "created": "2025-04-09 13:54",
+      "link": "https://www.jiangyu.org/qing-hua-quan-ji/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
+    },
+    {
+      "title": "《先秦汉唐画全集》及其目录索引",
+      "created": "2025-04-09 13:50",
+      "link": "https://www.jiangyu.org/xian-qin-han-tang-hua-quan-ji/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
+    },
+    {
+      "title": "《明画全集》及其目录索引",
+      "created": "2025-04-08 16:11",
+      "link": "https://www.jiangyu.org/ming-hua-quan-ji/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
+    },
+    {
       "title": "维修冰箱翻车了",
       "created": "2025-04-06 19:10",
       "link": "https://zhou.ge/2025-04-06.html",
       "author": "忆往事",
       "avatar": "https://zhou.ge/favicon.ico"
+    },
+    {
+      "title": "长沙天心阁",
+      "created": "2025-04-06 16:44",
+      "link": "https://www.jiangyu.org/tian-xin-ge/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
     },
     {
       "title": "#202503",
@@ -1674,11 +1870,25 @@
       "avatar": "https://demochen.com/images/avatar.png"
     },
     {
+      "title": "诗圣杜甫",
+      "created": "2025-03-23 14:07",
+      "link": "https://www.jiangyu.org/du-fu/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
+    },
+    {
       "title": "搬家带来的漂泊感",
       "created": "2025-03-21 01:30",
       "link": "https://demochen.com/posts/20250320/",
       "author": "特立独行的异类",
       "avatar": "https://demochen.com/images/avatar.png"
+    },
+    {
+      "title": "长沙杜甫江阁",
+      "created": "2025-03-15 20:25",
+      "link": "https://www.jiangyu.org/du-fu-jiang-ge/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
     },
     {
       "title": "懒到现在才安上肥羊 allinone",
