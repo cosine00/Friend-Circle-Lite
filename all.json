@@ -4,9 +4,23 @@
     "active_num": 42,
     "error_num": 12,
     "article_num": 350,
-    "last_updated_time": "2026-03-04 14:51:43"
+    "last_updated_time": "2026-03-04 21:00:33"
   },
   "article_data": [
+    {
+      "title": "Show Random posts in Bear Blog",
+      "created": "2026-03-04 19:00",
+      "link": "https://anotherdayu.com/random-posts/",
+      "author": "Dayu",
+      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
+    },
+    {
+      "title": "通关《皇牌空战 7》",
+      "created": "2026-03-04 07:59",
+      "link": "/2026/03/finished-ace-combat-7/",
+      "author": "道貌岸然",
+      "avatar": "https://blog.liuf.net/favicon.ico"
+    },
     {
       "title": "我的二月",
       "created": "2026-03-04 06:26",
@@ -671,13 +685,6 @@
       "link": "https://ihaihe.cn/3480.htm",
       "author": "三十里海河",
       "avatar": "https://gravatar.memobbs.app/avatar/40c46b2a6ef05464946a7e3f5230bdfa16b5d4e861c7b69977ef77efde66638a"
-    },
-    {
-      "title": "电视的沙沙声",
-      "created": "2026-01-16 23:15",
-      "link": "https://anotherdayu.com/2026/7656/",
-      "author": "Dayu",
-      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
     },
     {
       "title": "去山里",
@@ -1364,13 +1371,6 @@
       "link": "https://itlu.net/articles/2843.html",
       "author": "挨踢路",
       "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
-    },
-    {
-      "title": "《阅读的方法》",
-      "created": "2025-10-20 17:06",
-      "link": "/2025/10/the-book-the-reading-methods/",
-      "author": "道貌岸然",
-      "avatar": "https://blog.liuf.net/favicon.ico"
     },
     {
       "title": "记一次痛不欲生的肾结石经历",
