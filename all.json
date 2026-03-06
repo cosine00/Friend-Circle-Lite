@@ -4,9 +4,16 @@
     "active_num": 41,
     "error_num": 13,
     "article_num": 350,
-    "last_updated_time": "2026-03-06 14:52:58"
+    "last_updated_time": "2026-03-06 21:00:03"
   },
   "article_data": [
+    {
+      "title": "Plog 6 搬家啦",
+      "created": "2026-03-06 20:37",
+      "link": "https://anotherdayu.com/plog-6/",
+      "author": "Dayu",
+      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
+    },
     {
       "title": "279、惊蛰",
       "created": "2026-03-06 09:51",
@@ -566,13 +573,6 @@
       "link": "https://pewae.com/2026/01/random_kuso_114.html",
       "author": "破袜子",
       "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
-    },
-    {
-      "title": "在 AI 浪潮中迷失的 Setapp",
-      "created": "2026-01-27 00:58",
-      "link": "https://anotherdayu.com/2026/7686/",
-      "author": "Dayu",
-      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
     },
     {
       "title": "Mac mini ordered",
