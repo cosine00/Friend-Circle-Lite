@@ -3,8 +3,8 @@
     "friends_num": 54,
     "active_num": 41,
     "error_num": 13,
-    "article_num": 352,
-    "last_updated_time": "2026-03-09 15:04:53"
+    "article_num": 353,
+    "last_updated_time": "2026-03-09 21:07:17"
   },
   "article_data": [
     {
@@ -20,6 +20,13 @@
       "link": "https://hisherry.com/imserious/4951/",
       "author": "燕渡寒潭",
       "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
+    },
+    {
+      "title": "Ai练手",
+      "created": "2026-03-09 05:20",
+      "link": "https://www.leolin86.com/archives/382/",
+      "author": "拾风草堂",
+      "avatar": "https://www.leolin86.com/wp-content/themes/Readd/images/favicon.ico"
     },
     {
       "title": "杂记-20260308",
