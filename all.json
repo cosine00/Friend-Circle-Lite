@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 54,
-    "active_num": 42,
-    "error_num": 12,
-    "article_num": 365,
-    "last_updated_time": "2026-03-19 03:02:45"
+    "active_num": 41,
+    "error_num": 13,
+    "article_num": 355,
+    "last_updated_time": "2026-03-19 10:26:33"
   },
   "article_data": [
     {
@@ -108,7 +108,7 @@
     {
       "title": "偷窥癖",
       "created": "2026-03-14 18:18",
-      "link": "/2026/03/voyeurism/",
+      "link": "https://blog.liuf.net/2026/03/voyeurism/",
       "author": "道貌岸然",
       "avatar": "https://blog.liuf.net/favicon.ico"
     },
@@ -150,7 +150,7 @@
     {
       "title": "玩龙虾，耽误读书",
       "created": "2026-03-12 22:01",
-      "link": "/2026/03/play-lobster-not-read/",
+      "link": "https://blog.liuf.net/2026/03/play-lobster-not-read/",
       "author": "道貌岸然",
       "avatar": "https://blog.liuf.net/favicon.ico"
     },
@@ -262,7 +262,7 @@
     {
       "title": "休假羞耻",
       "created": "2026-03-07 07:08",
-      "link": "/2026/03/vacation-shame/",
+      "link": "https://blog.liuf.net/2026/03/vacation-shame/",
       "author": "道貌岸然",
       "avatar": "https://blog.liuf.net/favicon.ico"
     },
@@ -332,7 +332,7 @@
     {
       "title": "通关《皇牌空战 7》",
       "created": "2026-03-04 07:59",
-      "link": "/2026/03/finished-ace-combat-7/",
+      "link": "https://blog.liuf.net/2026/03/finished-ace-combat-7/",
       "author": "道貌岸然",
       "avatar": "https://blog.liuf.net/favicon.ico"
     },
@@ -430,7 +430,7 @@
     {
       "title": "Todoist 新功能！",
       "created": "2026-02-25 21:44",
-      "link": "/2026/02/llm-in-todoist/",
+      "link": "https://blog.liuf.net/2026/02/llm-in-todoist/",
       "author": "道貌岸然",
       "avatar": "https://blog.liuf.net/favicon.ico"
     },
@@ -465,7 +465,7 @@
     {
       "title": "暂停使用便单",
       "created": "2026-02-24 21:41",
-      "link": "/2026/02/suspension-of-using-biandan/",
+      "link": "https://blog.liuf.net/2026/02/suspension-of-using-biandan/",
       "author": "道貌岸然",
       "avatar": "https://blog.liuf.net/favicon.ico"
     },
@@ -577,7 +577,7 @@
     {
       "title": "从苹果到华为",
       "created": "2026-02-13 23:13",
-      "link": "/2026/02/from-apple-to-huawei/",
+      "link": "https://blog.liuf.net/2026/02/from-apple-to-huawei/",
       "author": "道貌岸然",
       "avatar": "https://blog.liuf.net/favicon.ico"
     },
@@ -682,7 +682,7 @@
     {
       "title": "关于 OPPO 近期发布的小广告电影",
       "created": "2026-02-09 03:42",
-      "link": "/2026/02/on-small-ad-movie-by-oppo/",
+      "link": "https://blog.liuf.net/2026/02/on-small-ad-movie-by-oppo/",
       "author": "道貌岸然",
       "avatar": "https://blog.liuf.net/favicon.ico"
     },
@@ -724,7 +724,7 @@
     {
       "title": "岁月",
       "created": "2026-02-06 23:52",
-      "link": "/2026/02/time/",
+      "link": "https://blog.liuf.net/2026/02/time/",
       "author": "道貌岸然",
       "avatar": "https://blog.liuf.net/favicon.ico"
     },
@@ -1200,7 +1200,7 @@
     {
       "title": "想写点东西",
       "created": "2026-01-02 06:05",
-      "link": "/2026/01/i-want-to-write-something/",
+      "link": "https://blog.liuf.net/2026/01/i-want-to-write-something/",
       "author": "道貌岸然",
       "avatar": "https://blog.liuf.net/favicon.ico"
     },
@@ -1898,13 +1898,6 @@
       "avatar": "https://zhou.ge/favicon.ico"
     },
     {
-      "title": "博客更新之hexo, EdgeOne以及Apaxy",
-      "created": "2025-07-02 21:02",
-      "link": "https://www.jiangyu.org/hexo-edgeone-apaxy/",
-      "author": "天一生水",
-      "avatar": "https://www.jiangyu.org/images/icon.svg"
-    },
-    {
       "title": "少儿 TED - 时间管理大师",
       "created": "2025-06-27 11:49",
       "link": "https://www.eallion.com/ted-master-of-time-management/",
@@ -1917,13 +1910,6 @@
       "link": "https://www.eallion.com/n8n-sync-blog-to-mastodon/",
       "author": "大大的小蜗牛",
       "avatar": "https://gravatar.memobbs.app/avatar/171e4c30959e8c077a6c58b958624b31"
-    },
-    {
-      "title": "《梵高手稿》读书笔记",
-      "created": "2025-06-12 21:30",
-      "link": "https://www.jiangyu.org/van-gogh/",
-      "author": "天一生水",
-      "avatar": "https://www.jiangyu.org/images/icon.svg"
     },
     {
       "title": "n8n 之备份 Mastodon 嘟文",
@@ -1996,25 +1982,11 @@
       "avatar": "https://gravatar.memobbs.app/avatar/c1b204bab687a23c8b6d7c8de11c7c59"
     },
     {
-      "title": "惊艳的Google NotebookLM输出的中文音频读书笔记",
-      "created": "2025-05-01 17:50",
-      "link": "https://www.jiangyu.org/chinese-audio-overview/",
-      "author": "天一生水",
-      "avatar": "https://www.jiangyu.org/images/icon.svg"
-    },
-    {
       "title": "Google「提示词工程」白皮书阅读总结",
       "created": "2025-04-21 22:45",
       "link": "https://moreality.net/posts/6318/",
       "author": "Moreality's Blog",
       "avatar": "https://youpai.roccoshi.top/img/avatar.jpg"
-    },
-    {
-      "title": "《叫魂：1768年中国妖术大恐慌》读书笔记",
-      "created": "2025-04-16 20:40",
-      "link": "https://www.jiangyu.org/jiao-hun/",
-      "author": "天一生水",
-      "avatar": "https://www.jiangyu.org/images/icon.svg"
     },
     {
       "title": "沉迷“吉卜力”中……",
@@ -2031,39 +2003,11 @@
       "avatar": "https://gravatar.memobbs.app/avatar/42542189ddb33064599dc88a5149bea7"
     },
     {
-      "title": "《清画全集》及其目录索引",
-      "created": "2025-04-09 13:54",
-      "link": "https://www.jiangyu.org/qing-hua-quan-ji/",
-      "author": "天一生水",
-      "avatar": "https://www.jiangyu.org/images/icon.svg"
-    },
-    {
-      "title": "《先秦汉唐画全集》及其目录索引",
-      "created": "2025-04-09 13:50",
-      "link": "https://www.jiangyu.org/xian-qin-han-tang-hua-quan-ji/",
-      "author": "天一生水",
-      "avatar": "https://www.jiangyu.org/images/icon.svg"
-    },
-    {
-      "title": "《明画全集》及其目录索引",
-      "created": "2025-04-08 16:11",
-      "link": "https://www.jiangyu.org/ming-hua-quan-ji/",
-      "author": "天一生水",
-      "avatar": "https://www.jiangyu.org/images/icon.svg"
-    },
-    {
       "title": "维修冰箱翻车了",
       "created": "2025-04-06 19:10",
       "link": "https://zhou.ge/2025-04-06.html",
       "author": "忆往事",
       "avatar": "https://zhou.ge/favicon.ico"
-    },
-    {
-      "title": "长沙天心阁",
-      "created": "2025-04-06 16:44",
-      "link": "https://www.jiangyu.org/tian-xin-ge/",
-      "author": "天一生水",
-      "avatar": "https://www.jiangyu.org/images/icon.svg"
     },
     {
       "title": "自建音乐串流服务探索",
@@ -2080,25 +2024,11 @@
       "avatar": "https://demochen.com/images/avatar.png"
     },
     {
-      "title": "诗圣杜甫",
-      "created": "2025-03-23 14:07",
-      "link": "https://www.jiangyu.org/du-fu/",
-      "author": "天一生水",
-      "avatar": "https://www.jiangyu.org/images/icon.svg"
-    },
-    {
       "title": "搬家带来的漂泊感",
       "created": "2025-03-21 01:30",
       "link": "https://demochen.com/posts/20250320/",
       "author": "特立独行的异类",
       "avatar": "https://demochen.com/images/avatar.png"
-    },
-    {
-      "title": "长沙杜甫江阁",
-      "created": "2025-03-15 20:25",
-      "link": "https://www.jiangyu.org/du-fu-jiang-ge/",
-      "author": "天一生水",
-      "avatar": "https://www.jiangyu.org/images/icon.svg"
     },
     {
       "title": "懒到现在才安上肥羊 allinone",
