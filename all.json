@@ -4,9 +4,23 @@
     "active_num": 42,
     "error_num": 12,
     "article_num": 367,
-    "last_updated_time": "2026-03-20 21:03:33"
+    "last_updated_time": "2026-03-21 02:53:32"
   },
   "article_data": [
+    {
+      "title": "VMWare 安装 kaihongOS 失败",
+      "created": "2026-03-21 06:31",
+      "link": "https://lms.im/magic/vmware-failed-to-install-kaihongos/",
+      "author": "不亦乐乎",
+      "avatar": "https://gravatar.memobbs.app/avatar/d9cc49ea0301640d7a19b6a1e77012dd"
+    },
+    {
+      "title": "七年金方情",
+      "created": "2026-03-21 05:53",
+      "link": "https://blog.liuf.net/2026/03/johnnie-walker-golden-label/",
+      "author": "道貌岸然",
+      "avatar": "https://blog.liuf.net/favicon.ico"
+    },
     {
       "title": "杂记-20260320",
       "created": "2026-03-21 04:37",
@@ -1212,13 +1226,6 @@
       "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
     },
     {
-      "title": "想写点东西",
-      "created": "2026-01-02 06:05",
-      "link": "https://blog.liuf.net/2026/01/i-want-to-write-something/",
-      "author": "道貌岸然",
-      "avatar": "https://blog.liuf.net/favicon.ico"
-    },
-    {
       "title": "2026 万事皆可期",
       "created": "2026-01-01 12:45",
       "link": "https://yayu.net/6081.html",
@@ -1553,13 +1560,6 @@
       "link": "https://www.jeffer.xyz/cid/3221.html",
       "author": "Jeffer.Z的博客",
       "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
-    },
-    {
-      "title": "装了个复古游戏机",
-      "created": "2025-11-14 16:01",
-      "link": "https://lms.im/magic/installed-a-retro-game-console/",
-      "author": "不亦乐乎",
-      "avatar": "https://gravatar.memobbs.app/avatar/d9cc49ea0301640d7a19b6a1e77012dd"
     },
     {
       "title": "Ubuntu 25.10 安装和配置",
