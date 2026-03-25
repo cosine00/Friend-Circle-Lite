@@ -4,15 +4,36 @@
     "active_num": 43,
     "error_num": 11,
     "article_num": 368,
-    "last_updated_time": "2026-03-25 10:25:06"
+    "last_updated_time": "2026-03-25 15:04:59"
   },
   "article_data": [
+    {
+      "title": "聊驾驶证",
+      "created": "2026-03-25 18:57",
+      "link": "https://zhou.ge/2026-03-25.html",
+      "author": "忆往事",
+      "avatar": "https://zhou.ge/favicon.ico"
+    },
+    {
+      "title": "活着",
+      "created": "2026-03-25 18:30",
+      "link": "https://www.mrhe.net/say/3542.html",
+      "author": "Mr.He",
+      "avatar": "https://cravatar.cn/avatar/d07ff632a5fa1256a69d92e1f9e38ce8?s=96&d=mm&r=g"
+    },
     {
       "title": "杂记-20260325",
       "created": "2026-03-25 17:17",
       "link": "https://www.leolin86.com/archives/427/",
       "author": "拾风草堂",
       "avatar": "https://www.leolin86.com/wp-content/themes/Readd/images/favicon.ico"
+    },
+    {
+      "title": "碎碎念2026.3.24",
+      "created": "2026-03-25 11:11",
+      "link": "https://hisherry.com/%e5%8a%a0%e5%9b%bd%e7%94%9f%e6%b4%bb/4954/",
+      "author": "燕渡寒潭",
+      "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
     },
     {
       "title": "目前老张博客服务器搭配方案！",
@@ -995,13 +1016,6 @@
       "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
     },
     {
-      "title": "福利还是陷阱？",
-      "created": "2026-01-27 19:03",
-      "link": "https://www.mrhe.net/life/3419.html",
-      "author": "Mr.He",
-      "avatar": "https://cravatar.cn/avatar/d07ff632a5fa1256a69d92e1f9e38ce8?s=96&d=mm&r=g"
-    },
-    {
       "title": "Mac mini ordered",
       "created": "2026-01-25 22:42",
       "link": "https://hux.ink/posts/mac-mini-ordered/",
@@ -1426,13 +1440,6 @@
       "created": "2025-12-20 12:07",
       "link": "https://pewae.com/2025/12/my-game-life-bests.html",
       "author": "破袜子",
-      "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
-    },
-    {
-      "title": "岁月如梭啊",
-      "created": "2025-12-19 04:16",
-      "link": "https://hisherry.com/%e5%8a%a0%e5%9b%bd%e7%94%9f%e6%b4%bb/4922/",
-      "author": "燕渡寒潭",
       "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
     },
     {
@@ -2071,13 +2078,6 @@
       "link": "https://www.jiangyu.org/ming-hua-quan-ji/",
       "author": "天一生水",
       "avatar": "https://www.jiangyu.org/images/icon.svg"
-    },
-    {
-      "title": "维修冰箱翻车了",
-      "created": "2025-04-06 19:10",
-      "link": "https://zhou.ge/2025-04-06.html",
-      "author": "忆往事",
-      "avatar": "https://zhou.ge/favicon.ico"
     },
     {
       "title": "长沙天心阁",
