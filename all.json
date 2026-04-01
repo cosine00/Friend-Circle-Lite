@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 54,
-    "active_num": 42,
-    "error_num": 12,
-    "article_num": 360,
-    "last_updated_time": "2026-04-01 10:44:32"
+    "active_num": 43,
+    "error_num": 11,
+    "article_num": 359,
+    "last_updated_time": "2026-04-01 15:23:34"
   },
   "article_data": [
     {
@@ -13,6 +13,20 @@
       "link": "https://xyzbz.cn/archives/1524/",
       "author": "网友小宋",
       "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
+    },
+    {
+      "title": "不追求单个高点转守平衡利润点",
+      "created": "2026-04-01 12:42",
+      "link": "https://www.jeffer.xyz/cid/3304.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
+    },
+    {
+      "title": "弱弱的问一下，我的网站怎么被镜像了嗫？",
+      "created": "2026-04-01 11:18",
+      "link": "https://zhongxiaojie.cn/2026/04/768/",
+      "author": "obaby",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/15/661d443b5359c.png"
     },
     {
       "title": "Notion同步测试",
@@ -468,13 +482,6 @@
       "link": "/2026/03/voyeurism/",
       "author": "道貌岸然",
       "avatar": "https://blog.liuf.net/favicon.ico"
-    },
-    {
-      "title": "开源项目目录📇",
-      "created": "2026-03-14 16:14",
-      "link": "https://zhongxiaojie.cn/2026/03/593/",
-      "author": "obaby",
-      "avatar": "https://cdn.qyliu.top/i/2024/04/15/661d443b5359c.png"
     },
     {
       "title": "读《陶庵梦忆》（一、梦忆序）",
@@ -1051,6 +1058,13 @@
       "avatar": "https://cdn.1900.live/20190640/ico.png"
     },
     {
+      "title": "丙火暖身，戊土稳心",
+      "created": "2026-02-04 22:17",
+      "link": "https://www.jeffer.xyz/cid/3284.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
+    },
+    {
       "title": "第1封信：脑袋空空",
       "created": "2026-02-04 22:16",
       "link": "https://www.javis.me/brainfade/",
@@ -1506,13 +1520,6 @@
       "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
     },
     {
-      "title": "彻底放弃收费 SSL 证书",
-      "created": "2025-12-12 22:50",
-      "link": "https://joyqi.com/cloud/drop-paid-ssl-cert.html",
-      "author": "JoyQi",
-      "avatar": "https://joyqi.com/apple-touch-icon.png"
-    },
-    {
       "title": "“最快女护士”被处分：当个人才华撞上体制高墙",
       "created": "2025-12-10 21:06",
       "link": "https://itlu.net/articles/2846.html",
@@ -1546,6 +1553,13 @@
       "link": "https://yinji.org/spotify.html",
       "author": "印记",
       "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
+    },
+    {
+      "title": "博客年终总结 ：2025 Ai贯穿工作生活",
+      "created": "2025-12-02 16:18",
+      "link": "https://www.jeffer.xyz/cid/3256.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
     },
     {
       "title": "人就是江湖",
@@ -1583,6 +1597,13 @@
       "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
     },
     {
+      "title": "极简统计 支持本地部署PHP网站统计系统",
+      "created": "2025-11-18 17:13",
+      "link": "https://www.jeffer.xyz/cid/3221.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
+    },
+    {
       "title": "Ubuntu 25.10 安装和配置",
       "created": "2025-11-11 16:16",
       "link": "https://www.eallion.com/ubuntu2510/",
@@ -1602,6 +1623,13 @@
       "link": "https://imzm.im/a-house-of-dynamite/",
       "author": "陈仓颉",
       "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
+    },
+    {
+      "title": "爸爸厨房：简单版糖炒栗子",
+      "created": "2025-11-06 12:31",
+      "link": "https://www.jeffer.xyz/cid/3207.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
     },
     {
       "title": "再遭入室盗窃",
@@ -1632,6 +1660,13 @@
       "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
     },
     {
+      "title": "使用工具为博客做一个体检 看看可以得几分？",
+      "created": "2025-10-22 16:21",
+      "link": "https://www.jeffer.xyz/cid/3188.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
+    },
+    {
       "title": "和平使者不和平",
       "created": "2025-10-21 10:09",
       "link": "https://imzm.im/who-is-peacemaker/",
@@ -1646,13 +1681,6 @@
       "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
     },
     {
-      "title": "记一次痛不欲生的肾结石经历",
-      "created": "2025-10-20 07:24",
-      "link": "https://joyqi.com/life/a-painful-kidney-stone-experience.html",
-      "author": "JoyQi",
-      "avatar": "https://joyqi.com/apple-touch-icon.png"
-    },
-    {
       "title": "偶尔是深夜就好了",
       "created": "2025-10-20 00:12",
       "link": "https://atpx.com/blog/sometimes-midnight-is-enough/",
@@ -1665,6 +1693,20 @@
       "link": "https://justgoidea.com/staying-in-flow-continuous-learning/",
       "author": "槿呈Goidea",
       "avatar": "https://justgoidea.com/favicon.svg"
+    },
+    {
+      "title": "喜提浓密黑发 萎靡不振恢复好多",
+      "created": "2025-10-17 18:06",
+      "link": "https://www.jeffer.xyz/cid/3172.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
+    },
+    {
+      "title": "零后端搭建”博友圈”：用 FindBLOG.Net 的 rss.json 直接渲染友链时间线",
+      "created": "2025-10-17 17:08",
+      "link": "https://www.jeffer.xyz/cid/3169.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
     },
     {
       "title": "走出家门：日本四国之四国水族馆",
@@ -1800,13 +1842,6 @@
       "avatar": "https://gravatar.memobbs.app/avatar/171e4c30959e8c077a6c58b958624b31"
     },
     {
-      "title": "属于这个夏天的一些照片",
-      "created": "2025-09-08 05:18",
-      "link": "https://joyqi.com/photography/photos-from-summer-2025.html",
-      "author": "JoyQi",
-      "avatar": "https://joyqi.com/apple-touch-icon.png"
-    },
-    {
       "title": "长大就是把自己重新养一遍",
       "created": "2025-09-06 00:47",
       "link": "https://wangyunzi.com/posts/156/",
@@ -1847,6 +1882,13 @@
       "link": "https://zhou.ge/2025-08-18.html",
       "author": "忆往事",
       "avatar": "https://zhou.ge/favicon.ico"
+    },
+    {
+      "title": "艰难前进的痛苦",
+      "created": "2025-08-11 00:55",
+      "link": "https://www.jeffer.xyz/cid/3087.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
     },
     {
       "title": "记一次闲鱼维权经历",
@@ -2332,13 +2374,6 @@
       "avatar": "https://demochen.com/images/avatar.png"
     },
     {
-      "title": "再见了 Kindle",
-      "created": "2024-08-07 00:16",
-      "link": "https://joyqi.com/funny/goodbye-kindle.html",
-      "author": "JoyQi",
-      "avatar": "https://joyqi.com/apple-touch-icon.png"
-    },
-    {
       "title": "线上问诊的经验",
       "created": "2024-07-23 01:19",
       "link": "https://demochen.com/posts/20240722/",
@@ -2416,13 +2451,6 @@
       "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
     },
     {
-      "title": "2024 美国行",
-      "created": "2024-04-19 20:31",
-      "link": "https://joyqi.com/life/2024-usa-trip.html",
-      "author": "JoyQi",
-      "avatar": "https://joyqi.com/apple-touch-icon.png"
-    },
-    {
       "title": "打击网络谣言处罚几个自媒体远远不够",
       "created": "2024-04-15 15:01",
       "link": "https://dongjunke.cn/posts/2024/04/15/48226.html",
@@ -2437,13 +2465,6 @@
       "avatar": "https://gravatar.memobbs.app/avatar/42542189ddb33064599dc88a5149bea7"
     },
     {
-      "title": "用一台被淘汰的 Mac mini 来做软路由",
-      "created": "2024-01-25 01:35",
-      "link": "https://joyqi.com/tech/use-an-outdated-mac-mini-as-soft-router.html",
-      "author": "JoyQi",
-      "avatar": "https://joyqi.com/apple-touch-icon.png"
-    },
-    {
       "title": "平城古都，大同新府",
       "created": "2024-01-02 05:34",
       "link": "https://demochen.com/posts/20240101/",
@@ -2456,34 +2477,6 @@
       "link": "https://demochen.com/posts/20231229/",
       "author": "特立独行的异类",
       "avatar": "https://demochen.com/images/avatar.png"
-    },
-    {
-      "title": "一次惊心动魄的数据拯救之旅",
-      "created": "2023-12-24 08:20",
-      "link": "https://joyqi.com/tech/save-my-kvm-qcow2-image-from-zfs.html",
-      "author": "JoyQi",
-      "avatar": "https://joyqi.com/apple-touch-icon.png"
-    },
-    {
-      "title": "Typecho 插件开发模版",
-      "created": "2023-12-19 20:32",
-      "link": "https://joyqi.com/typecho/plugin-template.html",
-      "author": "JoyQi",
-      "avatar": "https://joyqi.com/apple-touch-icon.png"
-    },
-    {
-      "title": "付费的 SSL 证书是不是智商税",
-      "created": "2023-12-16 02:32",
-      "link": "https://joyqi.com/cloud/ssl-certificates-paid-or-intelligence-tax.html",
-      "author": "JoyQi",
-      "avatar": "https://joyqi.com/apple-touch-icon.png"
-    },
-    {
-      "title": "对 Typecho 商业化的一些思考",
-      "created": "2023-12-14 07:33",
-      "link": "https://joyqi.com/typecho/thoughts-on-commercializing-typecho.html",
-      "author": "JoyQi",
-      "avatar": "https://joyqi.com/apple-touch-icon.png"
     },
     {
       "title": "溜达后的一点回顾",
