@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 54,
-    "active_num": 42,
-    "error_num": 12,
-    "article_num": 359,
-    "last_updated_time": "2026-04-02 15:15:53"
+    "active_num": 43,
+    "error_num": 11,
+    "article_num": 369,
+    "last_updated_time": "2026-04-02 21:17:51"
   },
   "article_data": [
     {
@@ -13,6 +13,20 @@
       "link": "https://itlu.net/articles/2853.html",
       "author": "挨踢路",
       "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
+    },
+    {
+      "title": "下载微信公众号的视频",
+      "created": "2026-04-02 16:46",
+      "link": "https://zhongxiaojie.cn/2026/04/778/",
+      "author": "obaby",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/15/661d443b5359c.png"
+    },
+    {
+      "title": "DNA、得意忘形与个体自由",
+      "created": "2026-04-02 07:32",
+      "link": "http://www.gexiao.me/2026/04/02/live-in-love/",
+      "author": "默默小屋",
+      "avatar": "https://www.gexiao.me/images/apple-touch-icon-next.png"
     },
     {
       "title": "春假北京游 Day1",
@@ -440,13 +454,6 @@
       "link": "https://anotherdayu.com/5823/",
       "author": "Dayu",
       "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
-    },
-    {
-      "title": "不确定性",
-      "created": "2026-03-17 16:35",
-      "link": "https://zhongxiaojie.cn/2026/03/602/",
-      "author": "obaby",
-      "avatar": "https://cdn.qyliu.top/i/2024/04/15/661d443b5359c.png"
     },
     {
       "title": "松声｜廿六年·三月中·燕衔泥",
@@ -1534,6 +1541,13 @@
       "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
     },
     {
+      "title": "彻底放弃收费 SSL 证书",
+      "created": "2025-12-12 22:50",
+      "link": "https://joyqi.com/cloud/drop-paid-ssl-cert.html",
+      "author": "JoyQi",
+      "avatar": "https://joyqi.com/apple-touch-icon.png"
+    },
+    {
       "title": "“最快女护士”被处分：当个人才华撞上体制高墙",
       "created": "2025-12-10 21:06",
       "link": "https://itlu.net/articles/2846.html",
@@ -1688,6 +1702,13 @@
       "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
     },
     {
+      "title": "记一次痛不欲生的肾结石经历",
+      "created": "2025-10-20 07:24",
+      "link": "https://joyqi.com/life/a-painful-kidney-stone-experience.html",
+      "author": "JoyQi",
+      "avatar": "https://joyqi.com/apple-touch-icon.png"
+    },
+    {
       "title": "偶尔是深夜就好了",
       "created": "2025-10-20 00:12",
       "link": "https://atpx.com/blog/sometimes-midnight-is-enough/",
@@ -1840,6 +1861,13 @@
       "link": "https://www.eallion.com/back-to-blogging/",
       "author": "大大的小蜗牛",
       "avatar": "https://gravatar.memobbs.app/avatar/171e4c30959e8c077a6c58b958624b31"
+    },
+    {
+      "title": "属于这个夏天的一些照片",
+      "created": "2025-09-08 05:18",
+      "link": "https://joyqi.com/photography/photos-from-summer-2025.html",
+      "author": "JoyQi",
+      "avatar": "https://joyqi.com/apple-touch-icon.png"
     },
     {
       "title": "长大就是把自己重新养一遍",
@@ -2374,6 +2402,13 @@
       "avatar": "https://demochen.com/images/avatar.png"
     },
     {
+      "title": "再见了 Kindle",
+      "created": "2024-08-07 00:16",
+      "link": "https://joyqi.com/funny/goodbye-kindle.html",
+      "author": "JoyQi",
+      "avatar": "https://joyqi.com/apple-touch-icon.png"
+    },
+    {
       "title": "线上问诊的经验",
       "created": "2024-07-23 01:19",
       "link": "https://demochen.com/posts/20240722/",
@@ -2451,6 +2486,13 @@
       "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
     },
     {
+      "title": "2024 美国行",
+      "created": "2024-04-19 20:31",
+      "link": "https://joyqi.com/life/2024-usa-trip.html",
+      "author": "JoyQi",
+      "avatar": "https://joyqi.com/apple-touch-icon.png"
+    },
+    {
       "title": "打击网络谣言处罚几个自媒体远远不够",
       "created": "2024-04-15 15:01",
       "link": "https://dongjunke.cn/posts/2024/04/15/48226.html",
@@ -2465,6 +2507,13 @@
       "avatar": "https://gravatar.memobbs.app/avatar/42542189ddb33064599dc88a5149bea7"
     },
     {
+      "title": "用一台被淘汰的 Mac mini 来做软路由",
+      "created": "2024-01-25 01:35",
+      "link": "https://joyqi.com/tech/use-an-outdated-mac-mini-as-soft-router.html",
+      "author": "JoyQi",
+      "avatar": "https://joyqi.com/apple-touch-icon.png"
+    },
+    {
       "title": "平城古都，大同新府",
       "created": "2024-01-02 05:34",
       "link": "https://demochen.com/posts/20240101/",
@@ -2477,6 +2526,34 @@
       "link": "https://demochen.com/posts/20231229/",
       "author": "特立独行的异类",
       "avatar": "https://demochen.com/images/avatar.png"
+    },
+    {
+      "title": "一次惊心动魄的数据拯救之旅",
+      "created": "2023-12-24 08:20",
+      "link": "https://joyqi.com/tech/save-my-kvm-qcow2-image-from-zfs.html",
+      "author": "JoyQi",
+      "avatar": "https://joyqi.com/apple-touch-icon.png"
+    },
+    {
+      "title": "Typecho 插件开发模版",
+      "created": "2023-12-19 20:32",
+      "link": "https://joyqi.com/typecho/plugin-template.html",
+      "author": "JoyQi",
+      "avatar": "https://joyqi.com/apple-touch-icon.png"
+    },
+    {
+      "title": "付费的 SSL 证书是不是智商税",
+      "created": "2023-12-16 02:32",
+      "link": "https://joyqi.com/cloud/ssl-certificates-paid-or-intelligence-tax.html",
+      "author": "JoyQi",
+      "avatar": "https://joyqi.com/apple-touch-icon.png"
+    },
+    {
+      "title": "对 Typecho 商业化的一些思考",
+      "created": "2023-12-14 07:33",
+      "link": "https://joyqi.com/typecho/thoughts-on-commercializing-typecho.html",
+      "author": "JoyQi",
+      "avatar": "https://joyqi.com/apple-touch-icon.png"
     },
     {
       "title": "溜达后的一点回顾",
@@ -2510,13 +2587,6 @@
       "title": "聊几个我推荐的硬件工具",
       "created": "2021-10-03 15:40",
       "link": "http://www.gexiao.me/2021/10/03/recommended-tools/",
-      "author": "默默小屋",
-      "avatar": "https://www.gexiao.me/images/apple-touch-icon-next.png"
-    },
-    {
-      "title": "2020 年的一些记录",
-      "created": "2021-01-31 03:55",
-      "link": "http://www.gexiao.me/2021/01/31/summary-2020/",
       "author": "默默小屋",
       "avatar": "https://www.gexiao.me/images/apple-touch-icon-next.png"
     }
