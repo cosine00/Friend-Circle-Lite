@@ -4,7 +4,7 @@
     "active_num": 42,
     "error_num": 12,
     "article_num": 359,
-    "last_updated_time": "2026-04-11 21:02:30"
+    "last_updated_time": "2026-04-12 02:49:35"
   },
   "article_data": [
     {
@@ -13,6 +13,13 @@
       "link": "https://lms.im/story/wps-this-is-hilarious/",
       "author": "不亦乐乎",
       "avatar": "https://gravatar.memobbs.app/avatar/d9cc49ea0301640d7a19b6a1e77012dd"
+    },
+    {
+      "title": "春天好啊",
+      "created": "2026-04-11 20:45",
+      "link": "https://wangyunzi.com/posts/164/",
+      "author": "长街短梦",
+      "avatar": "https://gravatar.memobbs.app/avatar/c1b204bab687a23c8b6d7c8de11c7c59"
     },
     {
       "title": "杂记-20260410",
@@ -97,6 +104,13 @@
       "link": "https://zhoutian.com/359.html",
       "author": "满心记",
       "avatar": "https://weavatar.com/avatar/9b3a681168a25e910954372e468fbc91"
+    },
+    {
+      "title": "春假清明自驾游",
+      "created": "2026-04-07 21:17",
+      "link": "https://www.eallion.com/qingming-road-trip-2026/",
+      "author": "大大的小蜗牛",
+      "avatar": "https://gravatar.memobbs.app/avatar/171e4c30959e8c077a6c58b958624b31"
     },
     {
       "title": "四月天",
@@ -708,13 +722,6 @@
       "avatar": "https://www.leolin86.com/wp-content/themes/Readd/images/favicon.ico"
     },
     {
-      "title": "梦",
-      "created": "2026-03-11 22:58",
-      "link": "https://yinji.org/dream.html",
-      "author": "印记",
-      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
-    },
-    {
       "title": "不值得可怜",
       "created": "2026-03-11 18:28",
       "link": "https://ihaihe.cn/3524.htm",
@@ -876,13 +883,6 @@
       "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
     },
     {
-      "title": "周报 #13 – 2026 好久不见",
-      "created": "2026-03-01 17:46",
-      "link": "https://yinji.org/weekly-report-13-2026.html",
-      "author": "印记",
-      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
-    },
-    {
       "title": "自建 S3 兼容对象存储服务 Garage",
       "created": "2026-03-01 17:35",
       "link": "https://atpx.com/blog/garage-s3/",
@@ -953,13 +953,6 @@
       "avatar": "https://cravatar.cn/avatar/bb78cd69edd84cdbdb99a491ea2dc6c8"
     },
     {
-      "title": "春节小记",
-      "created": "2026-02-22 23:22",
-      "link": "https://yinji.org/chinese-new-year-2026.html",
-      "author": "印记",
-      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
-    },
-    {
       "title": "",
       "created": "2026-02-22 17:28",
       "link": "https://www.ashsilent.com/shuoshuo/8460",
@@ -1014,13 +1007,6 @@
       "link": "https://pewae.com/2026/02/records-of-movies-2025.html",
       "author": "破袜子",
       "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
-    },
-    {
-      "title": "再谈霞鹜文楷",
-      "created": "2026-02-14 16:56",
-      "link": "https://yinji.org/lxgw-wenkai.html",
-      "author": "印记",
-      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
     },
     {
       "title": "从苹果到华为",
@@ -1233,13 +1219,6 @@
       "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
     },
     {
-      "title": "海口出差随记",
-      "created": "2026-01-30 00:21",
-      "link": "https://yinji.org/haikou.html",
-      "author": "印记",
-      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
-    },
-    {
       "title": "7 刀 VPS 照样玩转 Clawdbot (Moltbot)",
       "created": "2026-01-28 23:16",
       "link": "https://veryjack.com/technique/clawdbot_moltbot/",
@@ -1371,13 +1350,6 @@
       "link": "https://veryjack.com/study/how_to_learn_english_with_ai/",
       "author": "Jack's Space",
       "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
-    },
-    {
-      "title": "真心换真心",
-      "created": "2026-01-12 21:10",
-      "link": "https://yinji.org/goose-goose-duck.html",
-      "author": "印记",
-      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
     },
     {
       "title": "Portuguese presidential election 2026: Observing the Formation of a Momentum",
@@ -1534,13 +1506,6 @@
       "avatar": "https://justgoidea.com/favicon.svg"
     },
     {
-      "title": "回顾 2025",
-      "created": "2025-12-20 23:23",
-      "link": "https://yinji.org/review-2025.html",
-      "author": "印记",
-      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
-    },
-    {
       "title": "这个国度就是个草台班子之二：南京博物馆不见五件馆藏珍品",
       "created": "2025-12-20 22:56",
       "link": "https://itlu.net/articles/2848.html",
@@ -1590,25 +1555,11 @@
       "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
     },
     {
-      "title": "不知道吃什么，那就吃肯德基",
-      "created": "2025-12-07 23:10",
-      "link": "https://yinji.org/kfc.html",
-      "author": "印记",
-      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
-    },
-    {
       "title": "动物乌托邦",
       "created": "2025-12-04 18:23",
       "link": "https://imzm.im/zootopia-2/",
       "author": "陈仓颉",
       "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
-    },
-    {
-      "title": "Spotify",
-      "created": "2025-12-03 23:51",
-      "link": "https://yinji.org/spotify.html",
-      "author": "印记",
-      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
     },
     {
       "title": "博客年终总结 ：2025 Ai贯穿工作生活",
@@ -1623,13 +1574,6 @@
       "link": "https://justgoidea.com/ren-jiu-shi-jiang-hu/",
       "author": "槿呈Goidea",
       "avatar": "https://justgoidea.com/favicon.svg"
-    },
-    {
-      "title": "昆明小记",
-      "created": "2025-11-30 22:42",
-      "link": "https://yinji.org/kunming.html",
-      "author": "印记",
-      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
     },
     {
       "title": "AI辅助办公",
@@ -1961,6 +1905,13 @@
       "avatar": "https://zhou.ge/favicon.ico"
     },
     {
+      "title": "博客更新之hexo, EdgeOne以及Apaxy",
+      "created": "2025-07-02 21:02",
+      "link": "https://www.jiangyu.org/hexo-edgeone-apaxy/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
+    },
+    {
       "title": "少儿 TED - 时间管理大师",
       "created": "2025-06-27 11:49",
       "link": "https://www.eallion.com/ted-master-of-time-management/",
@@ -1975,11 +1926,11 @@
       "avatar": "https://gravatar.memobbs.app/avatar/171e4c30959e8c077a6c58b958624b31"
     },
     {
-      "title": "n8n 之备份 Mastodon 嘟文",
-      "created": "2025-06-11 15:55",
-      "link": "https://www.eallion.com/n8n-backup-mastodon-statuses/",
-      "author": "大大的小蜗牛",
-      "avatar": "https://gravatar.memobbs.app/avatar/171e4c30959e8c077a6c58b958624b31"
+      "title": "《梵高手稿》读书笔记",
+      "created": "2025-06-12 21:30",
+      "link": "https://www.jiangyu.org/van-gogh/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
     },
     {
       "title": "监控升级",
@@ -2031,11 +1982,11 @@
       "avatar": "https://atpx.com/favicon-32x32.png"
     },
     {
-      "title": "#202504",
-      "created": "2025-05-02 13:20",
-      "link": "https://wangyunzi.com/posts/154/",
-      "author": "长街短梦",
-      "avatar": "https://gravatar.memobbs.app/avatar/c1b204bab687a23c8b6d7c8de11c7c59"
+      "title": "惊艳的Google NotebookLM输出的中文音频读书笔记",
+      "created": "2025-05-01 17:50",
+      "link": "https://www.jiangyu.org/chinese-audio-overview/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
     },
     {
       "title": "Google「提示词工程」白皮书阅读总结",
@@ -2043,6 +1994,13 @@
       "link": "https://moreality.net/posts/6318/",
       "author": "Moreality's Blog",
       "avatar": "https://youpai.roccoshi.top/img/avatar.jpg"
+    },
+    {
+      "title": "《叫魂：1768年中国妖术大恐慌》读书笔记",
+      "created": "2025-04-16 20:40",
+      "link": "https://www.jiangyu.org/jiao-hun/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
     },
     {
       "title": "沉迷“吉卜力”中……",
@@ -2059,6 +2017,34 @@
       "avatar": "https://gravatar.memobbs.app/avatar/42542189ddb33064599dc88a5149bea7"
     },
     {
+      "title": "《清画全集》及其目录索引",
+      "created": "2025-04-09 13:54",
+      "link": "https://www.jiangyu.org/qing-hua-quan-ji/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
+    },
+    {
+      "title": "《先秦汉唐画全集》及其目录索引",
+      "created": "2025-04-09 13:50",
+      "link": "https://www.jiangyu.org/xian-qin-han-tang-hua-quan-ji/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
+    },
+    {
+      "title": "《明画全集》及其目录索引",
+      "created": "2025-04-08 16:11",
+      "link": "https://www.jiangyu.org/ming-hua-quan-ji/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
+    },
+    {
+      "title": "长沙天心阁",
+      "created": "2025-04-06 16:44",
+      "link": "https://www.jiangyu.org/tian-xin-ge/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
+    },
+    {
       "title": "自建音乐串流服务探索",
       "created": "2025-03-28 04:56",
       "link": "https://atpx.com/blog/selfhosted-music-streaming-server/",
@@ -2073,11 +2059,25 @@
       "avatar": "https://demochen.com/images/avatar.png"
     },
     {
+      "title": "诗圣杜甫",
+      "created": "2025-03-23 14:07",
+      "link": "https://www.jiangyu.org/du-fu/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
+    },
+    {
       "title": "搬家带来的漂泊感",
       "created": "2025-03-21 01:30",
       "link": "https://demochen.com/posts/20250320/",
       "author": "特立独行的异类",
       "avatar": "https://demochen.com/images/avatar.png"
+    },
+    {
+      "title": "长沙杜甫江阁",
+      "created": "2025-03-15 20:25",
+      "link": "https://www.jiangyu.org/du-fu-jiang-ge/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
     },
     {
       "title": "懒到现在才安上肥羊 allinone",
