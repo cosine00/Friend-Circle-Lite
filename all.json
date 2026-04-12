@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 54,
-    "active_num": 42,
-    "error_num": 12,
-    "article_num": 359,
-    "last_updated_time": "2026-04-12 10:44:34"
+    "active_num": 41,
+    "error_num": 13,
+    "article_num": 339,
+    "last_updated_time": "2026-04-12 15:16:50"
   },
   "article_data": [
     {
@@ -22,6 +22,13 @@
       "avatar": "https://gravatar.memobbs.app/avatar/d9cc49ea0301640d7a19b6a1e77012dd"
     },
     {
+      "title": "雨衣下的世界",
+      "created": "2026-04-11 22:02",
+      "link": "https://yinji.org/the-world-under-the-raincoat.html",
+      "author": "印记",
+      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
+    },
+    {
       "title": "春天好啊",
       "created": "2026-04-11 20:45",
       "link": "https://wangyunzi.com/posts/164/",
@@ -36,13 +43,6 @@
       "avatar": "https://www.leolin86.com/wp-content/themes/Readd/images/favicon.ico"
     },
     {
-      "title": "网图不能随便用",
-      "created": "2026-04-10 21:09",
-      "link": "https://www.mrhe.net/3593.html",
-      "author": "Mr.He",
-      "avatar": "https://cravatar.cn/avatar/d07ff632a5fa1256a69d92e1f9e38ce8?s=96&d=mm&r=g"
-    },
-    {
       "title": "苟延残喘",
       "created": "2026-04-10 15:23",
       "link": "https://zhongxiaojie.cn/2026/04/904/",
@@ -55,13 +55,6 @@
       "link": "https://hjyl.org/naval-mine-triggered/",
       "author": "皇家园林",
       "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
-    },
-    {
-      "title": "换地方了",
-      "created": "2026-04-09 15:22",
-      "link": "https://imzm.im/moved/",
-      "author": "陈仓颉",
-      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
     },
     {
       "title": "体验不佳的琅琊古城！",
@@ -162,13 +155,6 @@
       "avatar": "https://cravatar.cn/avatar/bb78cd69edd84cdbdb99a491ea2dc6c8"
     },
     {
-      "title": "春假北京游 Day3",
-      "created": "2026-04-05 06:13",
-      "link": "https://www.mrhe.net/3591.html",
-      "author": "Mr.He",
-      "avatar": "https://cravatar.cn/avatar/d07ff632a5fa1256a69d92e1f9e38ce8?s=96&d=mm&r=g"
-    },
-    {
       "title": "习惯了语音输入后，再也不想打字了",
       "created": "2026-04-05 05:06",
       "link": "https://demochen.com/posts/20260404/",
@@ -190,13 +176,6 @@
       "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
     },
     {
-      "title": "春假北京游 Day2",
-      "created": "2026-04-03 07:04",
-      "link": "https://www.mrhe.net/3579.html",
-      "author": "Mr.He",
-      "avatar": "https://cravatar.cn/avatar/d07ff632a5fa1256a69d92e1f9e38ce8?s=96&d=mm&r=g"
-    },
-    {
       "title": "如何解决微信WeChatAppEx.exe占用内存过多的问题",
       "created": "2026-04-02 17:26",
       "link": "https://itlu.net/articles/2853.html",
@@ -216,13 +195,6 @@
       "link": "http://www.gexiao.me/2026/04/02/live-in-love/",
       "author": "默默小屋",
       "avatar": "https://www.gexiao.me/images/apple-touch-icon-next.png"
-    },
-    {
-      "title": "春假北京游 Day1",
-      "created": "2026-04-02 05:33",
-      "link": "https://www.mrhe.net/3563.html",
-      "author": "Mr.He",
-      "avatar": "https://cravatar.cn/avatar/d07ff632a5fa1256a69d92e1f9e38ce8?s=96&d=mm&r=g"
     },
     {
       "title": "里斯本的春天",
@@ -372,13 +344,6 @@
       "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
     },
     {
-      "title": "Tpyecho 集成 Artalk 折腾小记",
-      "created": "2026-03-29 04:43",
-      "link": "https://www.mrhe.net/3545.html",
-      "author": "Mr.He",
-      "avatar": "https://cravatar.cn/avatar/d07ff632a5fa1256a69d92e1f9e38ce8?s=96&d=mm&r=g"
-    },
-    {
       "title": "抄都抄不来",
       "created": "2026-03-28 23:42",
       "link": "https://hux.ink/posts/hard-to-copy/",
@@ -470,13 +435,6 @@
       "avatar": "https://zhou.ge/favicon.ico"
     },
     {
-      "title": "活着",
-      "created": "2026-03-25 18:30",
-      "link": "https://www.mrhe.net/3542.html",
-      "author": "Mr.He",
-      "avatar": "https://cravatar.cn/avatar/d07ff632a5fa1256a69d92e1f9e38ce8?s=96&d=mm&r=g"
-    },
-    {
       "title": "绽放",
       "created": "2026-03-25 17:19",
       "link": "https://zhongxiaojie.cn/2026/03/693/",
@@ -517,13 +475,6 @@
       "link": "https://www.javis.me/make-up-stories-of-past/",
       "author": "查令十字街84号",
       "avatar": "https://b.storyo.cn/upload/logo.png"
-    },
-    {
-      "title": "踏春去",
-      "created": "2026-03-23 18:33",
-      "link": "https://www.mrhe.net/3535.html",
-      "author": "Mr.He",
-      "avatar": "https://cravatar.cn/avatar/d07ff632a5fa1256a69d92e1f9e38ce8?s=96&d=mm&r=g"
     },
     {
       "title": "Vibe Coding 体验",
@@ -603,13 +554,6 @@
       "avatar": "https://gravatar.memobbs.app/avatar/c1b204bab687a23c8b6d7c8de11c7c59"
     },
     {
-      "title": "忍不了一点",
-      "created": "2026-03-18 18:09",
-      "link": "https://www.mrhe.net/3530.html",
-      "author": "Mr.He",
-      "avatar": "https://cravatar.cn/avatar/d07ff632a5fa1256a69d92e1f9e38ce8?s=96&d=mm&r=g"
-    },
-    {
       "title": "甩出一杆，然后把世界关在门外",
       "created": "2026-03-17 18:47",
       "link": "https://anotherdayu.com/5823/",
@@ -629,13 +573,6 @@
       "link": "https://zhou.ge/2026-03-16.html",
       "author": "忆往事",
       "avatar": "https://zhou.ge/favicon.ico"
-    },
-    {
-      "title": "一加 15 及其它",
-      "created": "2026-03-16 22:12",
-      "link": "https://www.mrhe.net/3529.html",
-      "author": "Mr.He",
-      "avatar": "https://cravatar.cn/avatar/d07ff632a5fa1256a69d92e1f9e38ce8?s=96&d=mm&r=g"
     },
     {
       "title": "Tailscale+Lucky+雷池waf，多项组合让NAS更安全！",
@@ -708,13 +645,6 @@
       "avatar": "https://bluehe.cn/usr/uploads/2024/03/1678458078.png"
     },
     {
-      "title": "The Memory Could Not Be Written",
-      "created": "2026-03-13 16:13",
-      "link": "https://imzm.im/the-memory-could-not-be-written/",
-      "author": "陈仓颉",
-      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
-    },
-    {
       "title": "玩龙虾，耽误读书",
       "created": "2026-03-12 22:01",
       "link": "/2026/03/play-lobster-not-read/",
@@ -727,6 +657,13 @@
       "link": "https://www.leolin86.com/archives/388/",
       "author": "拾风草堂",
       "avatar": "https://www.leolin86.com/wp-content/themes/Readd/images/favicon.ico"
+    },
+    {
+      "title": "梦",
+      "created": "2026-03-11 22:58",
+      "link": "https://yinji.org/dream.html",
+      "author": "印记",
+      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
     },
     {
       "title": "不值得可怜",
@@ -748,13 +685,6 @@
       "link": "https://zhoutian.com/353.html",
       "author": "满心记",
       "avatar": "https://weavatar.com/avatar/9b3a681168a25e910954372e468fbc91"
-    },
-    {
-      "title": "老何杂记 28",
-      "created": "2026-03-10 18:34",
-      "link": "https://www.mrhe.net/3520.html",
-      "author": "Mr.He",
-      "avatar": "https://cravatar.cn/avatar/d07ff632a5fa1256a69d92e1f9e38ce8?s=96&d=mm&r=g"
     },
     {
       "title": "NAS，如何做好安全防护！",
@@ -890,6 +820,13 @@
       "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
     },
     {
+      "title": "周报 #13 – 2026 好久不见",
+      "created": "2026-03-01 17:46",
+      "link": "https://yinji.org/weekly-report-13-2026.html",
+      "author": "印记",
+      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
+    },
+    {
       "title": "自建 S3 兼容对象存储服务 Garage",
       "created": "2026-03-01 17:35",
       "link": "https://atpx.com/blog/garage-s3/",
@@ -960,11 +897,11 @@
       "avatar": "https://cravatar.cn/avatar/bb78cd69edd84cdbdb99a491ea2dc6c8"
     },
     {
-      "title": "",
-      "created": "2026-02-22 17:28",
-      "link": "https://www.ashsilent.com/shuoshuo/8460",
-      "author": "Ashsilent Planet",
-      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
+      "title": "春节小记",
+      "created": "2026-02-22 23:22",
+      "link": "https://yinji.org/chinese-new-year-2026.html",
+      "author": "印记",
+      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
     },
     {
       "title": "开工",
@@ -1014,6 +951,13 @@
       "link": "https://pewae.com/2026/02/records-of-movies-2025.html",
       "author": "破袜子",
       "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
+    },
+    {
+      "title": "再谈霞鹜文楷",
+      "created": "2026-02-14 16:56",
+      "link": "https://yinji.org/lxgw-wenkai.html",
+      "author": "印记",
+      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
     },
     {
       "title": "从苹果到华为",
@@ -1226,6 +1170,13 @@
       "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
     },
     {
+      "title": "海口出差随记",
+      "created": "2026-01-30 00:21",
+      "link": "https://yinji.org/haikou.html",
+      "author": "印记",
+      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
+    },
+    {
       "title": "7 刀 VPS 照样玩转 Clawdbot (Moltbot)",
       "created": "2026-01-28 23:16",
       "link": "https://veryjack.com/technique/clawdbot_moltbot/",
@@ -1310,13 +1261,6 @@
       "avatar": "https://weavatar.com/avatar/9b3a681168a25e910954372e468fbc91"
     },
     {
-      "title": "My App Defaults 2025",
-      "created": "2026-01-19 16:52",
-      "link": "https://imzm.im/my-app-defaults-2025/",
-      "author": "陈仓颉",
-      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
-    },
-    {
       "title": "AI浪潮下我的些许变化",
       "created": "2026-01-19 00:20",
       "link": "https://demochen.com/posts/20260115/",
@@ -1350,6 +1294,13 @@
       "link": "https://veryjack.com/study/how_to_learn_english_with_ai/",
       "author": "Jack's Space",
       "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
+    },
+    {
+      "title": "真心换真心",
+      "created": "2026-01-12 21:10",
+      "link": "https://yinji.org/goose-goose-duck.html",
+      "author": "印记",
+      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
     },
     {
       "title": "Portuguese presidential election 2026: Observing the Formation of a Momentum",
@@ -1436,13 +1387,6 @@
       "avatar": "https://yayu.net/favicon.ico"
     },
     {
-      "title": "再见 2025",
-      "created": "2025-12-31 17:31",
-      "link": "https://imzm.im/bye-2025/",
-      "author": "陈仓颉",
-      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
-    },
-    {
       "title": "2025阅读记录",
       "created": "2025-12-30 14:03",
       "link": "https://pewae.com/2025/12/2025-reading-record.html",
@@ -1506,6 +1450,13 @@
       "avatar": "https://justgoidea.com/favicon.svg"
     },
     {
+      "title": "回顾 2025",
+      "created": "2025-12-20 23:23",
+      "link": "https://yinji.org/review-2025.html",
+      "author": "印记",
+      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
+    },
+    {
       "title": "这个国度就是个草台班子之二：南京博物馆不见五件馆藏珍品",
       "created": "2025-12-20 22:56",
       "link": "https://itlu.net/articles/2848.html",
@@ -1555,11 +1506,18 @@
       "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
     },
     {
-      "title": "动物乌托邦",
-      "created": "2025-12-04 18:23",
-      "link": "https://imzm.im/zootopia-2/",
-      "author": "陈仓颉",
-      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
+      "title": "不知道吃什么，那就吃肯德基",
+      "created": "2025-12-07 23:10",
+      "link": "https://yinji.org/kfc.html",
+      "author": "印记",
+      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
+    },
+    {
+      "title": "Spotify",
+      "created": "2025-12-03 23:51",
+      "link": "https://yinji.org/spotify.html",
+      "author": "印记",
+      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
     },
     {
       "title": "博客年终总结 ：2025 Ai贯穿工作生活",
@@ -1618,13 +1576,6 @@
       "avatar": "https://gravatar.memobbs.app/avatar/c1b204bab687a23c8b6d7c8de11c7c59"
     },
     {
-      "title": "白宫到底炸没炸",
-      "created": "2025-11-07 18:45",
-      "link": "https://imzm.im/a-house-of-dynamite/",
-      "author": "陈仓颉",
-      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
-    },
-    {
       "title": "爸爸厨房：简单版糖炒栗子",
       "created": "2025-11-06 12:31",
       "link": "https://www.jeffer.xyz/cid/3207.html",
@@ -1653,25 +1604,11 @@
       "avatar": "https://digu.plus/usr/themes/ghost/images/favicon/64x64.png"
     },
     {
-      "title": "Group Chats Could Be Overwhelming",
-      "created": "2025-10-24 17:51",
-      "link": "https://imzm.im/group-chats-could-be-overwhelming/",
-      "author": "陈仓颉",
-      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
-    },
-    {
       "title": "使用工具为博客做一个体检 看看可以得几分？",
       "created": "2025-10-22 16:21",
       "link": "https://www.jeffer.xyz/cid/3188.html",
       "author": "Jeffer.Z的博客",
       "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
-    },
-    {
-      "title": "和平使者不和平",
-      "created": "2025-10-21 10:09",
-      "link": "https://imzm.im/who-is-peacemaker/",
-      "author": "陈仓颉",
-      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
     },
     {
       "title": "记一次痛不欲生的肾结石经历",
@@ -1707,13 +1644,6 @@
       "link": "https://www.javis.me/matsuyama-2/",
       "author": "查令十字街84号",
       "avatar": "https://b.storyo.cn/upload/logo.png"
-    },
-    {
-      "title": "路人",
-      "created": "2025-10-15 17:51",
-      "link": "https://imzm.im/passersby/",
-      "author": "陈仓颉",
-      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
     },
     {
       "title": "走出家门：日本四国之道后温泉",
@@ -1756,13 +1686,6 @@
       "link": "https://dongjunke.cn/posts/2025/10/04/58899.html",
       "author": "东评西就",
       "avatar": "https://gravatar.memobbs.app/avatar/42542189ddb33064599dc88a5149bea7"
-    },
-    {
-      "title": "Faint",
-      "created": "2025-09-30 15:20",
-      "link": "https://imzm.im/faint/",
-      "author": "陈仓颉",
-      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
     },
     {
       "title": "彩礼",
@@ -1840,34 +1763,6 @@
       "link": "https://wangyunzi.com/posts/156/",
       "author": "长街短梦",
       "avatar": "https://gravatar.memobbs.app/avatar/c1b204bab687a23c8b6d7c8de11c7c59"
-    },
-    {
-      "title": "",
-      "created": "2025-08-25 15:41",
-      "link": "https://www.ashsilent.com/shuoshuo/8452",
-      "author": "Ashsilent Planet",
-      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
-    },
-    {
-      "title": "",
-      "created": "2025-08-23 01:15",
-      "link": "https://www.ashsilent.com/shuoshuo/8449",
-      "author": "Ashsilent Planet",
-      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
-    },
-    {
-      "title": "",
-      "created": "2025-08-21 07:36",
-      "link": "https://www.ashsilent.com/shuoshuo/8447",
-      "author": "Ashsilent Planet",
-      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
-    },
-    {
-      "title": "",
-      "created": "2025-08-21 05:59",
-      "link": "https://www.ashsilent.com/shuoshuo/8436",
-      "author": "Ashsilent Planet",
-      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
     },
     {
       "title": "老宅拆旧重建",
@@ -2353,13 +2248,6 @@
       "avatar": "https://demochen.com/images/avatar.png"
     },
     {
-      "title": "",
-      "created": "2024-07-20 05:02",
-      "link": "https://www.ashsilent.com/shuoshuo/8411",
-      "author": "Ashsilent Planet",
-      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
-    },
-    {
       "title": "为什么心肺复苏技能值得学习",
       "created": "2024-06-26 05:36",
       "link": "http://www.gexiao.me/2024/06/26/cpr/",
@@ -2372,13 +2260,6 @@
       "link": "http://www.gexiao.me/2024/06/25/logic-under-power/",
       "author": "默默小屋",
       "avatar": "https://www.gexiao.me/images/apple-touch-icon-next.png"
-    },
-    {
-      "title": "",
-      "created": "2024-06-24 12:07",
-      "link": "https://www.ashsilent.com/shuoshuo/8408",
-      "author": "Ashsilent Planet",
-      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
     },
     {
       "title": "外卖打包费的维权",
@@ -2400,27 +2281,6 @@
       "link": "http://www.gexiao.me/2024/06/18/hitch-notes/",
       "author": "默默小屋",
       "avatar": "https://www.gexiao.me/images/apple-touch-icon-next.png"
-    },
-    {
-      "title": "",
-      "created": "2024-06-11 01:07",
-      "link": "https://www.ashsilent.com/shuoshuo/8403",
-      "author": "Ashsilent Planet",
-      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
-    },
-    {
-      "title": "",
-      "created": "2024-06-10 08:45",
-      "link": "https://www.ashsilent.com/shuoshuo/8401",
-      "author": "Ashsilent Planet",
-      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
-    },
-    {
-      "title": "",
-      "created": "2024-06-09 00:35",
-      "link": "https://www.ashsilent.com/shuoshuo/8398",
-      "author": "Ashsilent Planet",
-      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
     },
     {
       "title": "2024 美国行",
