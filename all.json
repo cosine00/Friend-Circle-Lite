@@ -1,12 +1,19 @@
 {
   "statistical_data": {
     "friends_num": 54,
-    "active_num": 42,
-    "error_num": 12,
-    "article_num": 359,
-    "last_updated_time": "2026-04-19 15:22:19"
+    "active_num": 40,
+    "error_num": 14,
+    "article_num": 340,
+    "last_updated_time": "2026-04-19 21:05:06"
   },
   "article_data": [
+    {
+      "title": "旅行日记·大同",
+      "created": "2026-04-19 20:07",
+      "link": "https://moreality.net/posts/31742/",
+      "author": "Moreality's Blog",
+      "avatar": "https://youpai.roccoshi.top/img/avatar.jpg"
+    },
     {
       "title": "我用 AI 做了一个算卦的小程序",
       "created": "2026-04-19 17:44",
@@ -113,13 +120,6 @@
       "avatar": "https://bluehe.cn/usr/uploads/2024/03/1678458078.png"
     },
     {
-      "title": "再补一次牙",
-      "created": "2026-04-12 21:50",
-      "link": "https://hjyl.org/fill-a-tooth-again/",
-      "author": "皇家园林",
-      "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
-    },
-    {
       "title": "Docker部署Cups-Web网页打印机",
       "created": "2026-04-12 15:13",
       "link": "https://xyzbz.cn/archives/1525/",
@@ -160,13 +160,6 @@
       "link": "https://zhongxiaojie.cn/2026/04/904/",
       "author": "obaby",
       "avatar": "https://cdn.qyliu.top/i/2024/04/15/661d443b5359c.png"
-    },
-    {
-      "title": "我居然扔了个雷，被那谁点了",
-      "created": "2026-04-09 22:43",
-      "link": "https://hjyl.org/naval-mine-triggered/",
-      "author": "皇家园林",
-      "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
     },
     {
       "title": "换地方了",
@@ -295,13 +288,6 @@
       "avatar": "https://gravatar.memobbs.app/avatar/679666f7bd1af3e55f0e51dd70ed161c"
     },
     {
-      "title": "堆豆子",
-      "created": "2026-04-03 20:33",
-      "link": "https://hjyl.org/pile-coffee-beans/",
-      "author": "皇家园林",
-      "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
-    },
-    {
       "title": "如何解决微信WeChatAppEx.exe占用内存过多的问题",
       "created": "2026-04-02 17:26",
       "link": "https://itlu.net/articles/2853.html",
@@ -349,13 +335,6 @@
       "link": "https://xyzbz.cn/archives/1524/",
       "author": "网友小宋",
       "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
-    },
-    {
-      "title": "不追求单个高点转守平衡利润点",
-      "created": "2026-04-01 12:42",
-      "link": "https://www.jeffer.xyz/cid/3304.html",
-      "author": "Jeffer.Z的博客",
-      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
     },
     {
       "title": "弱弱的问一下，我的网站怎么被镜像了嗫？",
@@ -582,13 +561,6 @@
       "avatar": "https://blog.liuf.net/favicon.ico"
     },
     {
-      "title": "加油没熄火",
-      "created": "2026-03-22 20:13",
-      "link": "https://hjyl.org/refueling-not-turned-off/",
-      "author": "皇家园林",
-      "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
-    },
-    {
       "title": "茶亭公园",
       "created": "2026-03-22 04:49",
       "link": "https://lms.im/life/chating-park/",
@@ -678,20 +650,6 @@
       "link": "https://laozhang.org/archives/4034.html",
       "author": "老张博客",
       "avatar": "https://gravatar.memobbs.app/avatar/679666f7bd1af3e55f0e51dd70ed161c"
-    },
-    {
-      "title": "iPhone 日历同步钉钉考勤",
-      "created": "2026-03-16 22:06",
-      "link": "https://hjyl.org/dingding-to-iphone-calendar/",
-      "author": "皇家园林",
-      "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
-    },
-    {
-      "title": "老家又养了一条小狗",
-      "created": "2026-03-16 20:44",
-      "link": "https://hjyl.org/a-cute-dog/",
-      "author": "皇家园林",
-      "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
     },
     {
       "title": "青秀山黄花风铃木：属于南宁绿城三月独有的浪漫",
@@ -876,13 +834,6 @@
       "avatar": "https://blog.liuf.net/favicon.ico"
     },
     {
-      "title": "元宵节快乐！",
-      "created": "2026-03-03 20:52",
-      "link": "https://hjyl.org/happy-lantern-festival/",
-      "author": "皇家园林",
-      "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
-    },
-    {
       "title": "再聊永久服务",
       "created": "2026-03-03 20:13",
       "link": "https://anotherdayu.com/lifetime-plan/",
@@ -995,13 +946,6 @@
       "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
     },
     {
-      "title": "开工",
-      "created": "2026-02-21 20:24",
-      "link": "https://hjyl.org/fuck-2026/",
-      "author": "皇家园林",
-      "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
-    },
-    {
       "title": "大家新年快乐！",
       "created": "2026-02-21 10:50",
       "link": "https://1900.live/da-jia-xin-nian-kuai-le/",
@@ -1093,13 +1037,6 @@
       "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
     },
     {
-      "title": "事发突然",
-      "created": "2026-02-10 21:17",
-      "link": "https://hjyl.org/one-leave-two-stay/",
-      "author": "皇家园林",
-      "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
-    },
-    {
       "title": "你会放弃CloudCone吗？",
       "created": "2026-02-10 14:42",
       "link": "https://laozhang.org/archives/4026.html",
@@ -1168,20 +1105,6 @@
       "link": "https://hux.ink/posts/childlike-01/",
       "author": "落落vici",
       "avatar": "https://cravatar.cn/avatar/bb78cd69edd84cdbdb99a491ea2dc6c8"
-    },
-    {
-      "title": "这两天两件事",
-      "created": "2026-02-05 21:35",
-      "link": "https://hjyl.org/two-things-in-these-two-days/",
-      "author": "皇家园林",
-      "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
-    },
-    {
-      "title": "丙火暖身，戊土稳心",
-      "created": "2026-02-04 22:17",
-      "link": "https://www.jeffer.xyz/cid/3284.html",
-      "author": "Jeffer.Z的博客",
-      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
     },
     {
       "title": "第1封信：脑袋空空",
@@ -1569,13 +1492,6 @@
       "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
     },
     {
-      "title": "博客年终总结 ：2025 Ai贯穿工作生活",
-      "created": "2025-12-02 16:18",
-      "link": "https://www.jeffer.xyz/cid/3256.html",
-      "author": "Jeffer.Z的博客",
-      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
-    },
-    {
       "title": "AI辅助办公",
       "created": "2025-11-28 19:59",
       "link": "https://itlu.net/articles/2845.html",
@@ -1597,13 +1513,6 @@
       "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
     },
     {
-      "title": "极简统计 支持本地部署PHP网站统计系统",
-      "created": "2025-11-18 17:13",
-      "link": "https://www.jeffer.xyz/cid/3221.html",
-      "author": "Jeffer.Z的博客",
-      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
-    },
-    {
       "title": "Ubuntu 25.10 安装和配置",
       "created": "2025-11-11 16:16",
       "link": "https://www.eallion.com/ubuntu2510/",
@@ -1623,13 +1532,6 @@
       "link": "https://imzm.im/a-house-of-dynamite/",
       "author": "陈仓颉",
       "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
-    },
-    {
-      "title": "爸爸厨房：简单版糖炒栗子",
-      "created": "2025-11-06 12:31",
-      "link": "https://www.jeffer.xyz/cid/3207.html",
-      "author": "Jeffer.Z的博客",
-      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
     },
     {
       "title": "再遭入室盗窃",
@@ -1660,13 +1562,6 @@
       "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
     },
     {
-      "title": "使用工具为博客做一个体检 看看可以得几分？",
-      "created": "2025-10-22 16:21",
-      "link": "https://www.jeffer.xyz/cid/3188.html",
-      "author": "Jeffer.Z的博客",
-      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
-    },
-    {
       "title": "和平使者不和平",
       "created": "2025-10-21 10:09",
       "link": "https://imzm.im/who-is-peacemaker/",
@@ -1686,20 +1581,6 @@
       "link": "https://atpx.com/blog/sometimes-midnight-is-enough/",
       "author": "atpX",
       "avatar": "https://atpx.com/favicon-32x32.png"
-    },
-    {
-      "title": "喜提浓密黑发 萎靡不振恢复好多",
-      "created": "2025-10-17 18:06",
-      "link": "https://www.jeffer.xyz/cid/3172.html",
-      "author": "Jeffer.Z的博客",
-      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
-    },
-    {
-      "title": "零后端搭建”博友圈”：用 FindBLOG.Net 的 rss.json 直接渲染友链时间线",
-      "created": "2025-10-17 17:08",
-      "link": "https://www.jeffer.xyz/cid/3169.html",
-      "author": "Jeffer.Z的博客",
-      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
     },
     {
       "title": "走出家门：日本四国之四国水族馆",
@@ -1875,13 +1756,6 @@
       "link": "https://zhou.ge/2025-08-18.html",
       "author": "忆往事",
       "avatar": "https://zhou.ge/favicon.ico"
-    },
-    {
-      "title": "艰难前进的痛苦",
-      "created": "2025-08-11 00:55",
-      "link": "https://www.jeffer.xyz/cid/3087.html",
-      "author": "Jeffer.Z的博客",
-      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
     },
     {
       "title": "记一次闲鱼维权经历",
@@ -2209,13 +2083,6 @@
       "title": "2024 年度书影音总结",
       "created": "2024-12-24 15:05",
       "link": "https://moreality.net/posts/20893/",
-      "author": "Moreality's Blog",
-      "avatar": "https://youpai.roccoshi.top/img/avatar.jpg"
-    },
-    {
-      "title": "Claude MCP 体验: 实现一个 Arxiv 论文搜索工具",
-      "created": "2024-12-13 15:20",
-      "link": "https://moreality.net/posts/5672/",
       "author": "Moreality's Blog",
       "avatar": "https://youpai.roccoshi.top/img/avatar.jpg"
     },
