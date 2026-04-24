@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 54,
-    "active_num": 41,
-    "error_num": 13,
-    "article_num": 339,
-    "last_updated_time": "2026-04-24 21:27:13"
+    "active_num": 42,
+    "error_num": 12,
+    "article_num": 359,
+    "last_updated_time": "2026-04-25 02:55:52"
   },
   "article_data": [
     {
@@ -456,6 +456,13 @@
       "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
     },
     {
+      "title": "如何解决微信WeChatAppEx.exe占用内存过多的问题",
+      "created": "2026-04-02 17:26",
+      "link": "https://itlu.net/articles/2853.html",
+      "author": "挨踢路",
+      "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
+    },
+    {
       "title": "DNA、得意忘形与个体自由",
       "created": "2026-04-02 07:32",
       "link": "http://www.gexiao.me/2026/04/02/live-in-love/",
@@ -869,6 +876,13 @@
       "avatar": "https://gravatar.memobbs.app/avatar/40c46b2a6ef05464946a7e3f5230bdfa16b5d4e861c7b69977ef77efde66638a"
     },
     {
+      "title": "过期牛奶还能不能喝？",
+      "created": "2026-03-11 08:15",
+      "link": "https://itlu.net/articles/2852.html",
+      "author": "挨踢路",
+      "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
+    },
+    {
       "title": "闲不下来的上一辈人，失业了真的很难接受吗？",
       "created": "2026-03-10 21:42",
       "link": "https://zhoutian.com/353.html",
@@ -888,6 +902,13 @@
       "link": "https://ihaihe.cn/3521.htm",
       "author": "三十里海河",
       "avatar": "https://gravatar.memobbs.app/avatar/40c46b2a6ef05464946a7e3f5230bdfa16b5d4e861c7b69977ef77efde66638a"
+    },
+    {
+      "title": "清闲一周，把生活一件件收拾妥当",
+      "created": "2026-03-08 07:05",
+      "link": "https://itlu.net/articles/2851.html",
+      "author": "挨踢路",
+      "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
     },
     {
       "title": "AI 时代的人类处境：科技、宗教与生命意义的重构",
@@ -1149,6 +1170,13 @@
       "avatar": "https://gravatar.memobbs.app/avatar/679666f7bd1af3e55f0e51dd70ed161c"
     },
     {
+      "title": "南博事件迎来所谓的详细通报，应该没有后续",
+      "created": "2026-02-10 06:09",
+      "link": "https://itlu.net/articles/2850.html",
+      "author": "挨踢路",
+      "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
+    },
+    {
       "title": "快过年了，快放假了，烦心事儿却不少",
       "created": "2026-02-09 18:12",
       "link": "https://zhoutian.com/350.html",
@@ -1294,6 +1322,13 @@
       "link": "https://yayu.net/6158.html",
       "author": "雅余",
       "avatar": "https://yayu.net/favicon.ico"
+    },
+    {
+      "title": "项目驻场",
+      "created": "2026-01-24 19:31",
+      "link": "https://itlu.net/articles/2849.html",
+      "author": "挨踢路",
+      "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
     },
     {
       "title": "重温老片《非常突然》",
@@ -1478,6 +1513,13 @@
       "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
     },
     {
+      "title": "这个国度就是个草台班子之二：南京博物馆不见五件馆藏珍品",
+      "created": "2025-12-20 22:56",
+      "link": "https://itlu.net/articles/2848.html",
+      "author": "挨踢路",
+      "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
+    },
+    {
       "title": "游中山金钟水库打卡水杉林",
       "created": "2025-12-20 22:26",
       "link": "https://yayu.net/6059.html",
@@ -1492,11 +1534,25 @@
       "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
     },
     {
+      "title": "这个国度就是个草台班子之一：全网最忙五人组",
+      "created": "2025-12-15 16:14",
+      "link": "https://itlu.net/articles/2847.html",
+      "author": "挨踢路",
+      "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
+    },
+    {
       "title": "彻底放弃收费 SSL 证书",
       "created": "2025-12-12 22:50",
       "link": "https://joyqi.com/cloud/drop-paid-ssl-cert.html",
       "author": "JoyQi",
       "avatar": "https://joyqi.com/apple-touch-icon.png"
+    },
+    {
+      "title": "“最快女护士”被处分：当个人才华撞上体制高墙",
+      "created": "2025-12-10 21:06",
+      "link": "https://itlu.net/articles/2846.html",
+      "author": "挨踢路",
+      "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
     },
     {
       "title": "Docker 部署一个精美的画廊 —— ChronoFrame",
@@ -1534,11 +1590,25 @@
       "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
     },
     {
+      "title": "AI辅助办公",
+      "created": "2025-11-28 19:59",
+      "link": "https://itlu.net/articles/2845.html",
+      "author": "挨踢路",
+      "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
+    },
+    {
       "title": "一年一度的黑五又来了",
       "created": "2025-11-28 12:42",
       "link": "https://veryjack.com/life/2025_blackfriday/",
       "author": "Jack's Space",
       "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
+    },
+    {
+      "title": "职场上的那些破事_2",
+      "created": "2025-11-28 05:52",
+      "link": "https://itlu.net/articles/2844.html",
+      "author": "挨踢路",
+      "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
     },
     {
       "title": "极简统计 支持本地部署PHP网站统计系统",
@@ -1842,6 +1912,13 @@
       "avatar": "https://zhou.ge/favicon.ico"
     },
     {
+      "title": "博客更新之hexo, EdgeOne以及Apaxy",
+      "created": "2025-07-02 21:02",
+      "link": "https://www.jiangyu.org/hexo-edgeone-apaxy/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
+    },
+    {
       "title": "少儿 TED - 时间管理大师",
       "created": "2025-06-27 11:49",
       "link": "https://www.eallion.com/ted-master-of-time-management/",
@@ -1854,6 +1931,13 @@
       "link": "https://www.eallion.com/n8n-sync-blog-to-mastodon/",
       "author": "大大的小蜗牛",
       "avatar": "https://gravatar.memobbs.app/avatar/171e4c30959e8c077a6c58b958624b31"
+    },
+    {
+      "title": "《梵高手稿》读书笔记",
+      "created": "2025-06-12 21:30",
+      "link": "https://www.jiangyu.org/van-gogh/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
     },
     {
       "title": "监控升级",
@@ -1905,11 +1989,25 @@
       "avatar": "https://atpx.com/favicon-32x32.png"
     },
     {
+      "title": "惊艳的Google NotebookLM输出的中文音频读书笔记",
+      "created": "2025-05-01 17:50",
+      "link": "https://www.jiangyu.org/chinese-audio-overview/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
+    },
+    {
       "title": "Google「提示词工程」白皮书阅读总结",
       "created": "2025-04-21 22:45",
       "link": "https://moreality.net/posts/6318/",
       "author": "Moreality's Blog",
       "avatar": "https://youpai.roccoshi.top/img/avatar.jpg"
+    },
+    {
+      "title": "《叫魂：1768年中国妖术大恐慌》读书笔记",
+      "created": "2025-04-16 20:40",
+      "link": "https://www.jiangyu.org/jiao-hun/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
     },
     {
       "title": "沉迷“吉卜力”中……",
@@ -1926,6 +2024,34 @@
       "avatar": "https://gravatar.memobbs.app/avatar/42542189ddb33064599dc88a5149bea7"
     },
     {
+      "title": "《清画全集》及其目录索引",
+      "created": "2025-04-09 13:54",
+      "link": "https://www.jiangyu.org/qing-hua-quan-ji/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
+    },
+    {
+      "title": "《先秦汉唐画全集》及其目录索引",
+      "created": "2025-04-09 13:50",
+      "link": "https://www.jiangyu.org/xian-qin-han-tang-hua-quan-ji/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
+    },
+    {
+      "title": "《明画全集》及其目录索引",
+      "created": "2025-04-08 16:11",
+      "link": "https://www.jiangyu.org/ming-hua-quan-ji/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
+    },
+    {
+      "title": "长沙天心阁",
+      "created": "2025-04-06 16:44",
+      "link": "https://www.jiangyu.org/tian-xin-ge/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
+    },
+    {
       "title": "自建音乐串流服务探索",
       "created": "2025-03-28 04:56",
       "link": "https://atpx.com/blog/selfhosted-music-streaming-server/",
@@ -1940,11 +2066,25 @@
       "avatar": "https://demochen.com/images/avatar.png"
     },
     {
+      "title": "诗圣杜甫",
+      "created": "2025-03-23 14:07",
+      "link": "https://www.jiangyu.org/du-fu/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
+    },
+    {
       "title": "搬家带来的漂泊感",
       "created": "2025-03-21 01:30",
       "link": "https://demochen.com/posts/20250320/",
       "author": "特立独行的异类",
       "avatar": "https://demochen.com/images/avatar.png"
+    },
+    {
+      "title": "长沙杜甫江阁",
+      "created": "2025-03-15 20:25",
+      "link": "https://www.jiangyu.org/du-fu-jiang-ge/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
     },
     {
       "title": "懒到现在才安上肥羊 allinone",
