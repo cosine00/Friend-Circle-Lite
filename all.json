@@ -4,9 +4,16 @@
     "active_num": 42,
     "error_num": 12,
     "article_num": 359,
-    "last_updated_time": "2026-04-25 15:20:08"
+    "last_updated_time": "2026-04-25 21:08:22"
   },
   "article_data": [
+    {
+      "title": "两朵红花",
+      "created": "2026-04-25 17:44",
+      "link": "https://justgoidea.com/two-reds/",
+      "author": "槿呈Goidea",
+      "avatar": "https://justgoidea.com/favicon.svg"
+    },
     {
       "title": "2026-04-25",
       "created": "2026-04-25 08:27",
@@ -1497,13 +1504,6 @@
       "link": "https://zhou.ge/2025-12-22.html",
       "author": "忆往事",
       "avatar": "https://zhou.ge/favicon.ico"
-    },
-    {
-      "title": "告别 2025",
-      "created": "2025-12-22 00:41",
-      "link": "https://justgoidea.com/say-goodbye-to-2025/",
-      "author": "槿呈Goidea",
-      "avatar": "https://justgoidea.com/favicon.svg"
     },
     {
       "title": "回顾 2025",
