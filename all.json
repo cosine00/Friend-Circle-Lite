@@ -1,12 +1,19 @@
 {
   "statistical_data": {
     "friends_num": 54,
-    "active_num": 41,
-    "error_num": 13,
-    "article_num": 349,
-    "last_updated_time": "2026-04-26 10:51:40"
+    "active_num": 42,
+    "error_num": 12,
+    "article_num": 359,
+    "last_updated_time": "2026-04-26 15:42:30"
   },
   "article_data": [
+    {
+      "title": "和H小姐的约会",
+      "created": "2026-04-26 11:57",
+      "link": "https://1900.live/he-hxiao-jie-de-yue-hui/",
+      "author": "1900'blog",
+      "avatar": "https://cdn.1900.live/20190640/ico.png"
+    },
     {
       "title": "",
       "created": "2026-04-25 23:37",
@@ -1093,13 +1100,6 @@
       "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
     },
     {
-      "title": "大家新年快乐！",
-      "created": "2026-02-21 10:50",
-      "link": "https://1900.live/da-jia-xin-nian-kuai-le/",
-      "author": "1900'blog",
-      "avatar": "https://cdn.1900.live/20190640/ico.png"
-    },
-    {
       "title": "一款自用三年的“小众”记账 App —— Cookie 记账",
       "created": "2026-02-19 22:54",
       "link": "https://veryjack.com/technique/cookie/",
@@ -1919,6 +1919,13 @@
       "avatar": "https://zhou.ge/favicon.ico"
     },
     {
+      "title": "博客更新之hexo, EdgeOne以及Apaxy",
+      "created": "2025-07-02 21:02",
+      "link": "https://www.jiangyu.org/hexo-edgeone-apaxy/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
+    },
+    {
       "title": "少儿 TED - 时间管理大师",
       "created": "2025-06-27 11:49",
       "link": "https://www.eallion.com/ted-master-of-time-management/",
@@ -1931,6 +1938,13 @@
       "link": "https://www.eallion.com/n8n-sync-blog-to-mastodon/",
       "author": "大大的小蜗牛",
       "avatar": "https://gravatar.memobbs.app/avatar/171e4c30959e8c077a6c58b958624b31"
+    },
+    {
+      "title": "《梵高手稿》读书笔记",
+      "created": "2025-06-12 21:30",
+      "link": "https://www.jiangyu.org/van-gogh/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
     },
     {
       "title": "监控升级",
@@ -1982,11 +1996,25 @@
       "avatar": "https://atpx.com/favicon-32x32.png"
     },
     {
+      "title": "惊艳的Google NotebookLM输出的中文音频读书笔记",
+      "created": "2025-05-01 17:50",
+      "link": "https://www.jiangyu.org/chinese-audio-overview/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
+    },
+    {
       "title": "Google「提示词工程」白皮书阅读总结",
       "created": "2025-04-21 22:45",
       "link": "https://moreality.net/posts/6318/",
       "author": "Moreality's Blog",
       "avatar": "https://youpai.roccoshi.top/img/avatar.jpg"
+    },
+    {
+      "title": "《叫魂：1768年中国妖术大恐慌》读书笔记",
+      "created": "2025-04-16 20:40",
+      "link": "https://www.jiangyu.org/jiao-hun/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
     },
     {
       "title": "沉迷“吉卜力”中……",
@@ -2003,6 +2031,34 @@
       "avatar": "https://gravatar.memobbs.app/avatar/42542189ddb33064599dc88a5149bea7"
     },
     {
+      "title": "《清画全集》及其目录索引",
+      "created": "2025-04-09 13:54",
+      "link": "https://www.jiangyu.org/qing-hua-quan-ji/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
+    },
+    {
+      "title": "《先秦汉唐画全集》及其目录索引",
+      "created": "2025-04-09 13:50",
+      "link": "https://www.jiangyu.org/xian-qin-han-tang-hua-quan-ji/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
+    },
+    {
+      "title": "《明画全集》及其目录索引",
+      "created": "2025-04-08 16:11",
+      "link": "https://www.jiangyu.org/ming-hua-quan-ji/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
+    },
+    {
+      "title": "长沙天心阁",
+      "created": "2025-04-06 16:44",
+      "link": "https://www.jiangyu.org/tian-xin-ge/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
+    },
+    {
       "title": "自建音乐串流服务探索",
       "created": "2025-03-28 04:56",
       "link": "https://atpx.com/blog/selfhosted-music-streaming-server/",
@@ -2017,11 +2073,25 @@
       "avatar": "https://demochen.com/images/avatar.png"
     },
     {
+      "title": "诗圣杜甫",
+      "created": "2025-03-23 14:07",
+      "link": "https://www.jiangyu.org/du-fu/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
+    },
+    {
       "title": "搬家带来的漂泊感",
       "created": "2025-03-21 01:30",
       "link": "https://demochen.com/posts/20250320/",
       "author": "特立独行的异类",
       "avatar": "https://demochen.com/images/avatar.png"
+    },
+    {
+      "title": "长沙杜甫江阁",
+      "created": "2025-03-15 20:25",
+      "link": "https://www.jiangyu.org/du-fu-jiang-ge/",
+      "author": "天一生水",
+      "avatar": "https://www.jiangyu.org/images/icon.svg"
     },
     {
       "title": "懒到现在才安上肥羊 allinone",
