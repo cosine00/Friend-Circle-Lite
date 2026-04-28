@@ -4,9 +4,16 @@
     "active_num": 42,
     "error_num": 12,
     "article_num": 359,
-    "last_updated_time": "2026-04-28 11:23:08"
+    "last_updated_time": "2026-04-28 16:27:31"
   },
   "article_data": [
+    {
+      "title": "暗黑4，火炬之光，流放之路1",
+      "created": "2026-04-28 14:46",
+      "link": "https://acevs.com/4936/",
+      "author": "ACEVS",
+      "avatar": "https://weavatar.com/avatar/ffc1ac2ecde17b2eb1caff3e94c119fdaea4dc1a947a08a3092b388bf9b454d0"
+    },
     {
       "title": "",
       "created": "2026-04-28 01:45",
@@ -223,13 +230,6 @@
       "link": "https://justgoidea.com/du-tao-an-meng-yi-zhong-shan/",
       "author": "槿呈Goidea",
       "avatar": "https://justgoidea.com/favicon.svg"
-    },
-    {
-      "title": "硬币的变化",
-      "created": "2026-04-18 10:34",
-      "link": "https://acevs.com/4894/",
-      "author": "ACEVS",
-      "avatar": "https://weavatar.com/avatar/ffc1ac2ecde17b2eb1caff3e94c119fdaea4dc1a947a08a3092b388bf9b454d0"
     },
     {
       "title": "Cloud gaming: Shadow vs GeForce Now",
