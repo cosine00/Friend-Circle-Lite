@@ -4,9 +4,16 @@
     "active_num": 42,
     "error_num": 12,
     "article_num": 359,
-    "last_updated_time": "2026-04-29 22:00:42"
+    "last_updated_time": "2026-04-30 03:28:37"
   },
   "article_data": [
+    {
+      "title": "超级马里奥全明星",
+      "created": "2026-04-29 23:28",
+      "link": "https://pewae.com/2026/04/super-mario-all-stars.html",
+      "author": "破袜子",
+      "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
+    },
     {
       "title": "多邻国和openai合作这几年",
       "created": "2026-04-29 10:42",
@@ -1476,13 +1483,6 @@
       "link": "https://imzm.im/bye-2025/",
       "author": "陈仓颉",
       "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
-    },
-    {
-      "title": "2025阅读记录",
-      "created": "2025-12-30 14:03",
-      "link": "https://pewae.com/2025/12/2025-reading-record.html",
-      "author": "破袜子",
-      "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
     },
     {
       "title": "2025年概览",
