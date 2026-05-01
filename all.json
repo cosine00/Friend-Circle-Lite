@@ -4,9 +4,23 @@
     "active_num": 42,
     "error_num": 12,
     "article_num": 359,
-    "last_updated_time": "2026-05-01 21:21:46"
+    "last_updated_time": "2026-05-02 03:15:04"
   },
   "article_data": [
+    {
+      "title": "关于 AI 生成视频，我突然有个想法",
+      "created": "2026-05-02 05:23",
+      "link": "https://lms.im/play/suddenly-i-had-an-idea-about-ai-generated-video/",
+      "author": "不亦乐乎",
+      "avatar": "https://gravatar.memobbs.app/avatar/d9cc49ea0301640d7a19b6a1e77012dd"
+    },
+    {
+      "title": "不要坚持",
+      "created": "2026-05-02 00:09",
+      "link": "https://yinji.org/do-not-insist.html",
+      "author": "印记",
+      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
+    },
     {
       "title": "假期从折腾Obsidian开始",
       "created": "2026-05-01 19:05",
@@ -153,6 +167,13 @@
       "link": "https://acevs.com/4930/",
       "author": "ACEVS",
       "avatar": "https://weavatar.com/avatar/ffc1ac2ecde17b2eb1caff3e94c119fdaea4dc1a947a08a3092b388bf9b454d0"
+    },
+    {
+      "title": "一个鸡肋的WP插件-发语音",
+      "created": "2026-04-24 22:04",
+      "link": "https://hjyl.org/wp-voice-messages/",
+      "author": "皇家园林",
+      "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
     },
     {
       "title": "产品，还是玩具？ — Baby Press(缝合怪)",
@@ -813,13 +834,6 @@
       "avatar": "https://cravatar.cn/avatar/bb78cd69edd84cdbdb99a491ea2dc6c8"
     },
     {
-      "title": "VMWare 安装 kaihongOS 失败",
-      "created": "2026-03-21 06:31",
-      "link": "https://lms.im/magic/vmware-failed-to-install-kaihongos/",
-      "author": "不亦乐乎",
-      "avatar": "https://gravatar.memobbs.app/avatar/d9cc49ea0301640d7a19b6a1e77012dd"
-    },
-    {
       "title": "杂记-20260320",
       "created": "2026-03-21 04:37",
       "link": "https://www.leolin86.com/archives/414/",
@@ -1212,13 +1226,6 @@
       "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
     },
     {
-      "title": "事发突然",
-      "created": "2026-02-10 21:17",
-      "link": "https://hjyl.org/one-leave-two-stay/",
-      "author": "皇家园林",
-      "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
-    },
-    {
       "title": "南博事件迎来所谓的详细通报，应该没有后续",
       "created": "2026-02-10 06:09",
       "link": "https://itlu.net/articles/2850.html",
@@ -1588,13 +1595,6 @@
       "link": "https://imzm.im/zootopia-2/",
       "author": "陈仓颉",
       "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
-    },
-    {
-      "title": "Spotify",
-      "created": "2025-12-03 23:51",
-      "link": "https://yinji.org/spotify.html",
-      "author": "印记",
-      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
     },
     {
       "title": "博客年终总结 ：2025 Ai贯穿工作生活",
