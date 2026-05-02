@@ -4,7 +4,7 @@
     "active_num": 42,
     "error_num": 12,
     "article_num": 359,
-    "last_updated_time": "2026-05-02 15:46:48"
+    "last_updated_time": "2026-05-02 21:15:37"
   },
   "article_data": [
     {
@@ -13,6 +13,13 @@
       "link": "https://hux.ink/posts/tong-zhen-yi-man/",
       "author": "落落vici",
       "avatar": "https://cravatar.cn/avatar/bb78cd69edd84cdbdb99a491ea2dc6c8"
+    },
+    {
+      "title": "一些视频记录",
+      "created": "2026-05-02 16:43",
+      "link": "https://acevs.com/4946/",
+      "author": "ACEVS",
+      "avatar": "https://weavatar.com/avatar/ffc1ac2ecde17b2eb1caff3e94c119fdaea4dc1a947a08a3092b388bf9b454d0"
     },
     {
       "title": "关于 AI 生成视频，我突然有个想法",
@@ -230,13 +237,6 @@
       "link": "https://hisherry.com/iread/4974/",
       "author": "燕渡寒潭",
       "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
-    },
-    {
-      "title": "经济学是哲学还是科学",
-      "created": "2026-04-22 08:56",
-      "link": "https://acevs.com/4924/",
-      "author": "ACEVS",
-      "avatar": "https://weavatar.com/avatar/ffc1ac2ecde17b2eb1caff3e94c119fdaea4dc1a947a08a3092b388bf9b454d0"
     },
     {
       "title": "再也不会去的“窑湾古镇”",
