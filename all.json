@@ -1,12 +1,26 @@
 {
   "statistical_data": {
     "friends_num": 54,
-    "active_num": 42,
-    "error_num": 12,
-    "article_num": 350,
-    "last_updated_time": "2026-05-09 10:55:39"
+    "active_num": 43,
+    "error_num": 11,
+    "article_num": 359,
+    "last_updated_time": "2026-05-09 15:58:40"
   },
   "article_data": [
+    {
+      "title": "周天记正式更换主题Riven",
+      "created": "2026-05-09 22:03",
+      "link": "https://zhoutian.com/369.html",
+      "author": "满心记",
+      "avatar": "https://weavatar.com/avatar/9b3a681168a25e910954372e468fbc91"
+    },
+    {
+      "title": "快速鞋带按扣没买",
+      "created": "2026-05-09 13:20",
+      "link": "https://acevs.com/4960/",
+      "author": "ACEVS",
+      "avatar": "https://weavatar.com/avatar/ffc1ac2ecde17b2eb1caff3e94c119fdaea4dc1a947a08a3092b388bf9b454d0"
+    },
     {
       "title": "偏见和事实",
       "created": "2026-05-08 22:14",
@@ -216,13 +230,6 @@
       "link": "https://pewae.com/2026/04/super-mario-all-stars.html",
       "author": "破袜子",
       "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
-    },
-    {
-      "title": "多邻国和openai合作这几年",
-      "created": "2026-04-29 10:42",
-      "link": "https://acevs.com/4939/",
-      "author": "ACEVS",
-      "avatar": "https://weavatar.com/avatar/ffc1ac2ecde17b2eb1caff3e94c119fdaea4dc1a947a08a3092b388bf9b454d0"
     },
     {
       "title": "杂记-20260429",
@@ -678,6 +685,13 @@
       "link": "https://xyzbz.cn/archives/1524/",
       "author": "网友小宋",
       "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
+    },
+    {
+      "title": "不追求单个高点转守平衡利润点",
+      "created": "2026-04-01 12:42",
+      "link": "https://www.jeffer.xyz/cid/3304.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
     },
     {
       "title": "Notion同步测试",
@@ -1240,13 +1254,6 @@
       "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
     },
     {
-      "title": "放假了，满油满电，出发回家",
-      "created": "2026-02-12 01:28",
-      "link": "https://zhoutian.com/349.html",
-      "author": "满心记",
-      "avatar": "https://weavatar.com/avatar/9b3a681168a25e910954372e468fbc91"
-    },
-    {
       "title": "梦四十七",
       "created": "2026-02-11 22:32",
       "link": "https://pewae.com/2026/02/dream_47.html",
@@ -1287,6 +1294,13 @@
       "link": "https://demochen.com/posts/20260207/",
       "author": "特立独行的异类",
       "avatar": "https://demochen.com/images/avatar.png"
+    },
+    {
+      "title": "丙火暖身，戊土稳心",
+      "created": "2026-02-04 22:17",
+      "link": "https://www.jeffer.xyz/cid/3284.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
     },
     {
       "title": "第1封信：脑袋空空",
@@ -1604,6 +1618,13 @@
       "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
     },
     {
+      "title": "博客年终总结 ：2025 Ai贯穿工作生活",
+      "created": "2025-12-02 16:18",
+      "link": "https://www.jeffer.xyz/cid/3256.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
+    },
+    {
       "title": "AI辅助办公",
       "created": "2025-11-28 19:59",
       "link": "https://itlu.net/articles/2845.html",
@@ -1625,6 +1646,13 @@
       "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
     },
     {
+      "title": "极简统计 支持本地部署PHP网站统计系统",
+      "created": "2025-11-18 17:13",
+      "link": "https://www.jeffer.xyz/cid/3221.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
+    },
+    {
       "title": "Ubuntu 25.10 安装和配置",
       "created": "2025-11-11 16:16",
       "link": "https://www.eallion.com/ubuntu2510/",
@@ -1644,6 +1672,13 @@
       "link": "https://imzm.im/a-house-of-dynamite/",
       "author": "陈仓颉",
       "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
+    },
+    {
+      "title": "爸爸厨房：简单版糖炒栗子",
+      "created": "2025-11-06 12:31",
+      "link": "https://www.jeffer.xyz/cid/3207.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
     },
     {
       "title": "再遭入室盗窃",
@@ -1674,6 +1709,13 @@
       "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
     },
     {
+      "title": "使用工具为博客做一个体检 看看可以得几分？",
+      "created": "2025-10-22 16:21",
+      "link": "https://www.jeffer.xyz/cid/3188.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
+    },
+    {
       "title": "和平使者不和平",
       "created": "2025-10-21 10:09",
       "link": "https://imzm.im/who-is-peacemaker/",
@@ -1693,6 +1735,20 @@
       "link": "https://atpx.com/blog/sometimes-midnight-is-enough/",
       "author": "atpX",
       "avatar": "https://atpx.com/favicon-32x32.png"
+    },
+    {
+      "title": "喜提浓密黑发 萎靡不振恢复好多",
+      "created": "2025-10-17 18:06",
+      "link": "https://www.jeffer.xyz/cid/3172.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
+    },
+    {
+      "title": "零后端搭建”博友圈”：用 FindBLOG.Net 的 rss.json 直接渲染友链时间线",
+      "created": "2025-10-17 17:08",
+      "link": "https://www.jeffer.xyz/cid/3169.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
     },
     {
       "title": "走出家门：日本四国之四国水族馆",
@@ -1861,6 +1917,13 @@
       "link": "https://zhou.ge/2025-08-18.html",
       "author": "忆往事",
       "avatar": "https://zhou.ge/favicon.ico"
+    },
+    {
+      "title": "艰难前进的痛苦",
+      "created": "2025-08-11 00:55",
+      "link": "https://www.jeffer.xyz/cid/3087.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
     },
     {
       "title": "记一次闲鱼维权经历",
