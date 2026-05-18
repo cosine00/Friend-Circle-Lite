@@ -4,9 +4,16 @@
     "active_num": 43,
     "error_num": 11,
     "article_num": 359,
-    "last_updated_time": "2026-05-18 23:35:50"
+    "last_updated_time": "2026-05-19 03:46:20"
   },
   "article_data": [
+    {
+      "title": "第一次做游戏插件-激战2国际服中文转换",
+      "created": "2026-05-19 00:54",
+      "link": "https://anotherdayu.com/guildwars2-chinese/",
+      "author": "Dayu",
+      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
+    },
     {
       "title": "提车",
       "created": "2026-05-18 21:20",
@@ -1357,13 +1364,6 @@
       "link": "https://zhou.ge/2026-02-12.html",
       "author": "忆往事",
       "avatar": "https://zhou.ge/favicon.ico"
-    },
-    {
-      "title": "用 Keyboard Maestro 快速读取新通知中的验证码",
-      "created": "2026-02-12 21:45",
-      "link": "https://anotherdayu.com/2026/7714/",
-      "author": "Dayu",
-      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
     },
     {
       "title": "梦四十七",
