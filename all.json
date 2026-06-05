@@ -1,12 +1,19 @@
 {
   "statistical_data": {
     "friends_num": 54,
-    "active_num": 43,
-    "error_num": 11,
-    "article_num": 369,
-    "last_updated_time": "2026-06-05 22:54:09"
+    "active_num": 42,
+    "error_num": 12,
+    "article_num": 359,
+    "last_updated_time": "2026-06-06 03:57:01"
   },
   "article_data": [
+    {
+      "title": "",
+      "created": "2026-06-06 01:25",
+      "link": "https://www.ashsilent.com/shuoshuo/8475",
+      "author": "Ashsilent Planet",
+      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
+    },
     {
       "title": "起于易，作于细",
       "created": "2026-06-05 11:08",
@@ -2052,13 +2059,6 @@
       "avatar": "https://gravatar.memobbs.app/avatar/f65df4d87240feb1cb247857a621a48f"
     },
     {
-      "title": "博客更新之hexo, EdgeOne以及Apaxy",
-      "created": "2025-07-02 21:02",
-      "link": "https://www.jiangyu.org/hexo-edgeone-apaxy/",
-      "author": "天一生水",
-      "avatar": "https://www.jiangyu.org/images/icon.svg"
-    },
-    {
       "title": "少儿 TED - 时间管理大师",
       "created": "2025-06-27 11:49",
       "link": "https://www.eallion.com/ted-master-of-time-management/",
@@ -2071,13 +2071,6 @@
       "link": "https://www.eallion.com/n8n-sync-blog-to-mastodon/",
       "author": "大大的小蜗牛",
       "avatar": "https://gravatar.memobbs.app/avatar/171e4c30959e8c077a6c58b958624b31"
-    },
-    {
-      "title": "《梵高手稿》读书笔记",
-      "created": "2025-06-12 21:30",
-      "link": "https://www.jiangyu.org/van-gogh/",
-      "author": "天一生水",
-      "avatar": "https://www.jiangyu.org/images/icon.svg"
     },
     {
       "title": "旅行日记·大连",
@@ -2115,25 +2108,11 @@
       "avatar": "https://atpx.com/favicon-32x32.png"
     },
     {
-      "title": "惊艳的Google NotebookLM输出的中文音频读书笔记",
-      "created": "2025-05-01 17:50",
-      "link": "https://www.jiangyu.org/chinese-audio-overview/",
-      "author": "天一生水",
-      "avatar": "https://www.jiangyu.org/images/icon.svg"
-    },
-    {
       "title": "Google「提示词工程」白皮书阅读总结",
       "created": "2025-04-21 22:45",
       "link": "https://moreality.net/posts/6318/",
       "author": "Moreality's Blog",
       "avatar": "https://youpai.roccoshi.top/img/avatar.jpg"
-    },
-    {
-      "title": "《叫魂：1768年中国妖术大恐慌》读书笔记",
-      "created": "2025-04-16 20:40",
-      "link": "https://www.jiangyu.org/jiao-hun/",
-      "author": "天一生水",
-      "avatar": "https://www.jiangyu.org/images/icon.svg"
     },
     {
       "title": "沉迷“吉卜力”中……",
@@ -2150,34 +2129,6 @@
       "avatar": "https://gravatar.memobbs.app/avatar/42542189ddb33064599dc88a5149bea7"
     },
     {
-      "title": "《清画全集》及其目录索引",
-      "created": "2025-04-09 13:54",
-      "link": "https://www.jiangyu.org/qing-hua-quan-ji/",
-      "author": "天一生水",
-      "avatar": "https://www.jiangyu.org/images/icon.svg"
-    },
-    {
-      "title": "《先秦汉唐画全集》及其目录索引",
-      "created": "2025-04-09 13:50",
-      "link": "https://www.jiangyu.org/xian-qin-han-tang-hua-quan-ji/",
-      "author": "天一生水",
-      "avatar": "https://www.jiangyu.org/images/icon.svg"
-    },
-    {
-      "title": "《明画全集》及其目录索引",
-      "created": "2025-04-08 16:11",
-      "link": "https://www.jiangyu.org/ming-hua-quan-ji/",
-      "author": "天一生水",
-      "avatar": "https://www.jiangyu.org/images/icon.svg"
-    },
-    {
-      "title": "长沙天心阁",
-      "created": "2025-04-06 16:44",
-      "link": "https://www.jiangyu.org/tian-xin-ge/",
-      "author": "天一生水",
-      "avatar": "https://www.jiangyu.org/images/icon.svg"
-    },
-    {
       "title": "自建音乐串流服务探索",
       "created": "2025-03-28 04:56",
       "link": "https://atpx.com/blog/selfhosted-music-streaming-server/",
@@ -2192,25 +2143,11 @@
       "avatar": "https://demochen.com/images/avatar.png"
     },
     {
-      "title": "诗圣杜甫",
-      "created": "2025-03-23 14:07",
-      "link": "https://www.jiangyu.org/du-fu/",
-      "author": "天一生水",
-      "avatar": "https://www.jiangyu.org/images/icon.svg"
-    },
-    {
       "title": "搬家带来的漂泊感",
       "created": "2025-03-21 01:30",
       "link": "https://demochen.com/posts/20250320/",
       "author": "特立独行的异类",
       "avatar": "https://demochen.com/images/avatar.png"
-    },
-    {
-      "title": "长沙杜甫江阁",
-      "created": "2025-03-15 20:25",
-      "link": "https://www.jiangyu.org/du-fu-jiang-ge/",
-      "author": "天一生水",
-      "avatar": "https://www.jiangyu.org/images/icon.svg"
     },
     {
       "title": "懒到现在才安上肥羊 allinone",
@@ -2477,13 +2414,6 @@
       "link": "http://www.gexiao.me/2024/06/25/logic-under-power/",
       "author": "默默小屋",
       "avatar": "https://www.gexiao.me/images/apple-touch-icon-next.png"
-    },
-    {
-      "title": "",
-      "created": "2024-06-24 12:07",
-      "link": "https://www.ashsilent.com/shuoshuo/8408",
-      "author": "Ashsilent Planet",
-      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
     },
     {
       "title": "外卖打包费的维权",
