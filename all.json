@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 54,
-    "active_num": 36,
-    "error_num": 18,
-    "article_num": 314,
-    "last_updated_time": "2026-06-11 04:32:16"
+    "active_num": 41,
+    "error_num": 13,
+    "article_num": 349,
+    "last_updated_time": "2026-06-11 12:05:04"
   },
   "article_data": [
     {
@@ -218,6 +218,13 @@
       "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
     },
     {
+      "title": "日常漫步 Vol.24 之漫步前山河",
+      "created": "2026-05-31 22:00",
+      "link": "https://yayu.net/6229.html",
+      "author": "雅余",
+      "avatar": "https://yayu.net/favicon.ico"
+    },
+    {
       "title": "重做 Stream 页面",
       "created": "2026-05-31 18:53",
       "link": "https://justgoidea.com/rebuild-stream-page/",
@@ -274,11 +281,39 @@
       "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
     },
     {
+      "title": "Typecho-Riven主题正式发售啦！！！",
+      "created": "2026-05-28 00:22",
+      "link": "https://zhoutian.com/374.html",
+      "author": "满心记",
+      "avatar": "https://weavatar.com/avatar/9b3a681168a25e910954372e468fbc91"
+    },
+    {
+      "title": "Typecho-Riven主题使用教程",
+      "created": "2026-05-27 23:10",
+      "link": "https://zhoutian.com/380.html",
+      "author": "满心记",
+      "avatar": "https://weavatar.com/avatar/9b3a681168a25e910954372e468fbc91"
+    },
+    {
       "title": "意义",
       "created": "2026-05-27 15:59",
       "link": "https://zhongxiaojie.cn/2026/05/1316/",
       "author": "obaby",
       "avatar": "https://cdn.qyliu.top/i/2024/04/15/661d443b5359c.png"
+    },
+    {
+      "title": "Typecho-Riven主题功能演示",
+      "created": "2026-05-27 01:38",
+      "link": "https://zhoutian.com/381.html",
+      "author": "满心记",
+      "avatar": "https://weavatar.com/avatar/9b3a681168a25e910954372e468fbc91"
+    },
+    {
+      "title": "一款简约易用的防御插件SafeManage",
+      "created": "2026-05-26 22:16",
+      "link": "https://zhoutian.com/375.html",
+      "author": "满心记",
+      "avatar": "https://weavatar.com/avatar/9b3a681168a25e910954372e468fbc91"
     },
     {
       "title": "小加油站便宜",
@@ -293,6 +328,13 @@
       "link": "https://zhongxiaojie.cn/2026/05/1304/",
       "author": "obaby",
       "avatar": "https://cdn.qyliu.top/i/2024/04/15/661d443b5359c.png"
+    },
+    {
+      "title": "我的生日，一家人的快乐",
+      "created": "2026-05-26 01:15",
+      "link": "https://zhoutian.com/354.html",
+      "author": "满心记",
+      "avatar": "https://weavatar.com/avatar/9b3a681168a25e910954372e468fbc91"
     },
     {
       "title": "一个月Vibe Coding：我写了什么，又学到了什么",
@@ -356,6 +398,27 @@
       "link": "https://lms.im/story/received-threatening-ransomware-emails/",
       "author": "不亦乐乎",
       "avatar": "https://gravatar.memobbs.app/avatar/d9cc49ea0301640d7a19b6a1e77012dd"
+    },
+    {
+      "title": "碎碎念2026D141",
+      "created": "2026-05-21 22:33",
+      "link": "https://hisherry.com/%e5%8a%a0%e5%9b%bd%e7%94%9f%e6%b4%bb/4981/",
+      "author": "燕渡寒潭",
+      "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
+    },
+    {
+      "title": "关于Riven主题开售的一些想法",
+      "created": "2026-05-21 18:50",
+      "link": "https://zhoutian.com/373.html",
+      "author": "满心记",
+      "avatar": "https://weavatar.com/avatar/9b3a681168a25e910954372e468fbc91"
+    },
+    {
+      "title": "一款精美雅致的邮箱通知插件CommentNotifier",
+      "created": "2026-05-21 18:24",
+      "link": "https://zhoutian.com/372.html",
+      "author": "满心记",
+      "avatar": "https://weavatar.com/avatar/9b3a681168a25e910954372e468fbc91"
     },
     {
       "title": "284、小满",
@@ -442,6 +505,13 @@
       "avatar": "https://gravatar.loli.net/avatar/c3fb4bb4d5101284ddd672fb722cdd7d"
     },
     {
+      "title": "私有部署Sub2API + OpenWebUI实现chatgpt调用自由",
+      "created": "2026-05-15 19:01",
+      "link": "https://zhoutian.com/370.html",
+      "author": "满心记",
+      "avatar": "https://weavatar.com/avatar/9b3a681168a25e910954372e468fbc91"
+    },
+    {
       "title": "UniAdmin Invalid uni-id config file",
       "created": "2026-05-15 15:56",
       "link": "https://zhongxiaojie.cn/2026/05/1268/",
@@ -519,6 +589,13 @@
       "avatar": "https://gravatar.memobbs.app/avatar/42542189ddb33064599dc88a5149bea7"
     },
     {
+      "title": "周天记正式更换主题Riven",
+      "created": "2026-05-09 22:03",
+      "link": "https://zhoutian.com/369.html",
+      "author": "满心记",
+      "avatar": "https://weavatar.com/avatar/9b3a681168a25e910954372e468fbc91"
+    },
+    {
       "title": "梦四十八",
       "created": "2026-05-09 18:27",
       "link": "https://pewae.com/2026/05/dream_48.html",
@@ -545,6 +622,13 @@
       "link": "https://www.leolin86.com/archives/509/",
       "author": "拾风草堂",
       "avatar": "https://www.leolin86.com/wp-content/themes/Readd/images/favicon.ico"
+    },
+    {
+      "title": "一款typecho-riven主题问世了",
+      "created": "2026-05-07 00:27",
+      "link": "https://zhoutian.com/368.html",
+      "author": "满心记",
+      "avatar": "https://weavatar.com/avatar/9b3a681168a25e910954372e468fbc91"
     },
     {
       "title": "利息与个税",
@@ -638,6 +722,13 @@
       "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
     },
     {
+      "title": "动物朋友",
+      "created": "2026-04-30 22:13",
+      "link": "https://yayu.net/6218.html",
+      "author": "雅余",
+      "avatar": "https://yayu.net/favicon.ico"
+    },
+    {
       "title": "超级马里奥全明星",
       "created": "2026-04-29 23:28",
       "link": "https://pewae.com/2026/04/super-mario-all-stars.html",
@@ -692,6 +783,13 @@
       "link": "https://ihaihe.cn/3633.htm",
       "author": "三十里海河",
       "avatar": "https://gravatar.memobbs.app/avatar/40c46b2a6ef05464946a7e3f5230bdfa16b5d4e861c7b69977ef77efde66638a"
+    },
+    {
+      "title": "包法利夫人的悲剧",
+      "created": "2026-04-23 09:11",
+      "link": "https://hisherry.com/iread/4974/",
+      "author": "燕渡寒潭",
+      "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
     },
     {
       "title": "再也不会去的“窑湾古镇”",
@@ -869,6 +967,13 @@
       "avatar": "https://zhou.ge/favicon.ico"
     },
     {
+      "title": "碎碎念2026D96",
+      "created": "2026-04-08 03:28",
+      "link": "https://hisherry.com/%e5%8a%a0%e5%9b%bd%e7%94%9f%e6%b4%bb/4967/",
+      "author": "燕渡寒潭",
+      "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
+    },
+    {
       "title": "春假清明自驾游",
       "created": "2026-04-07 21:17",
       "link": "https://www.eallion.com/qingming-road-trip-2026/",
@@ -946,6 +1051,13 @@
       "avatar": "https://justgoidea.com/favicon.svg"
     },
     {
+      "title": "欧文再婚了",
+      "created": "2026-04-01 23:29",
+      "link": "https://hisherry.com/iramblings/4962/",
+      "author": "燕渡寒潭",
+      "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
+    },
+    {
       "title": "房子卖出去了",
       "created": "2026-04-01 21:14",
       "link": "https://ihaihe.cn/3602.htm",
@@ -1016,6 +1128,13 @@
       "avatar": "https://gravatar.memobbs.app/avatar/40c46b2a6ef05464946a7e3f5230bdfa16b5d4e861c7b69977ef77efde66638a"
     },
     {
+      "title": "黑白练习",
+      "created": "2026-03-29 20:34",
+      "link": "https://yayu.net/6213.html",
+      "author": "雅余",
+      "avatar": "https://yayu.net/favicon.ico"
+    },
+    {
       "title": "松声｜廿六年·三月花·海棠开",
       "created": "2026-03-29 11:32",
       "link": "https://xyzbz.cn/archives/1523/",
@@ -1028,6 +1147,13 @@
       "link": "https://1900.live/huan-shi-cheng-pin-nashao-tu-bu-san-xin/",
       "author": "1900'blog",
       "avatar": "https://cdn.1900.live/20190640/ico.png"
+    },
+    {
+      "title": "密码保护：桃林镇（2）",
+      "created": "2026-03-29 07:16",
+      "link": "https://hisherry.com/storytime/4959/",
+      "author": "燕渡寒潭",
+      "avatar": "https://pewae.com/wp-content/uploads/cropped-logo-20231231-1-180x180.png"
     },
     {
       "title": "眼不见心不烦的设置",
@@ -1352,6 +1478,13 @@
       "avatar": "https://b.storyo.cn/upload/logo.png"
     },
     {
+      "title": "访澳门国父纪念馆",
+      "created": "2026-02-03 21:00",
+      "link": "https://yayu.net/6192.html",
+      "author": "雅余",
+      "avatar": "https://yayu.net/favicon.ico"
+    },
+    {
       "title": "听风的歌",
       "created": "2026-02-01 23:03",
       "link": "https://atpx.com/blog/hear-the-wind-sing/",
@@ -1380,6 +1513,13 @@
       "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
     },
     {
+      "title": "澳门东望洋炮台与大炮台",
+      "created": "2026-01-28 22:10",
+      "link": "https://yayu.net/6171.html",
+      "author": "雅余",
+      "avatar": "https://yayu.net/favicon.ico"
+    },
+    {
       "title": "COC 跑团初体验",
       "created": "2026-01-25 20:42",
       "link": "https://veryjack.com/life/coc_trpg/",
@@ -1394,11 +1534,25 @@
       "avatar": "https://immmmm.com/favicon.ico"
     },
     {
+      "title": "日常漫步 Vol.23 之澳门街头",
+      "created": "2026-01-24 20:38",
+      "link": "https://yayu.net/6158.html",
+      "author": "雅余",
+      "avatar": "https://yayu.net/favicon.ico"
+    },
+    {
       "title": "项目驻场",
       "created": "2026-01-24 19:31",
       "link": "https://itlu.net/articles/2849.html",
       "author": "挨踢路",
       "avatar": "https://digu.plus/usr/theme/ghost/images/favicon/64x64.png"
+    },
+    {
+      "title": "日常漫步 Vol.22 之澳门走街串巷",
+      "created": "2026-01-19 21:49",
+      "link": "https://yayu.net/6117.html",
+      "author": "雅余",
+      "avatar": "https://yayu.net/favicon.ico"
     },
     {
       "title": "AI浪潮下我的些许变化",
@@ -1436,6 +1590,13 @@
       "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
     },
     {
+      "title": "中山金钟水库10公里环湖漫步",
+      "created": "2026-01-07 23:26",
+      "link": "https://yayu.net/6086.html",
+      "author": "雅余",
+      "avatar": "https://yayu.net/favicon.ico"
+    },
+    {
       "title": "哪怕没人看，也要给毛孩子开个账号",
       "created": "2026-01-07 00:16",
       "link": "https://veryjack.com/life/media_for_pets/",
@@ -1443,11 +1604,25 @@
       "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
     },
     {
+      "title": "2026 万事皆可期",
+      "created": "2026-01-01 12:45",
+      "link": "https://yayu.net/6081.html",
+      "author": "雅余",
+      "avatar": "https://yayu.net/favicon.ico"
+    },
+    {
       "title": "注册美区 Apple ID 越来越难，不到 48 小时就“翻车”",
       "created": "2026-01-01 00:47",
       "link": "https://veryjack.com/technique/apple_id_register/",
       "author": "Jack's Space",
       "avatar": "https://gravatar.memobbs.app/avatar/7a41a0e8e1df8e964fa1268193b03508"
+    },
+    {
+      "title": "2025年的已读书单+观影记录",
+      "created": "2025-12-31 20:28",
+      "link": "https://yayu.net/6077.html",
+      "author": "雅余",
+      "avatar": "https://yayu.net/favicon.ico"
     },
     {
       "title": "2025年概览",
@@ -1581,6 +1756,13 @@
       "link": "https://www.eallion.com/holiday-in-autumn/",
       "author": "大大的小蜗牛",
       "avatar": "https://gravatar.memobbs.app/avatar/171e4c30959e8c077a6c58b958624b31"
+    },
+    {
+      "title": "老婆被家长投诉",
+      "created": "2025-10-30 11:58",
+      "link": "https://digu.plus/post/c6f824c866a6456697917919c5c373e5/",
+      "author": "嘀咕",
+      "avatar": "https://digu.plus/usr/themes/ghost/images/favicon/64x64.png"
     },
     {
       "title": "使用工具为博客做一个体检 看看可以得几分？",
@@ -1728,6 +1910,13 @@
       "link": "https://www.jeffer.xyz/cid/3087.html",
       "author": "Jeffer.Z的博客",
       "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
+    },
+    {
+      "title": "记一次闲鱼维权经历",
+      "created": "2025-07-29 22:20",
+      "link": "https://digu.plus/post/a8e397db7c7745008bf973a4b53e54b3/",
+      "author": "嘀咕",
+      "avatar": "https://digu.plus/usr/themes/ghost/images/favicon/64x64.png"
     },
     {
       "title": "深夜发嗤（40）",
@@ -1912,6 +2101,13 @@
       "avatar": "https://youpai.roccoshi.top/img/avatar.jpg"
     },
     {
+      "title": "江湖不远，就在燕云十六声",
+      "created": "2025-02-26 12:46",
+      "link": "https://digu.plus/post/27f23108688448890a3052cef186cd9a/",
+      "author": "嘀咕",
+      "avatar": "https://digu.plus/usr/themes/ghost/images/favicon/64x64.png"
+    },
+    {
       "title": "我停止了探索 Fediverse",
       "created": "2025-02-23 20:50",
       "link": "https://atpx.com/blog/i-stopped-exploring-the-fediverse/",
@@ -1982,6 +2178,13 @@
       "avatar": "https://gravatar.memobbs.app/avatar/f65df4d87240feb1cb247857a621a48f"
     },
     {
+      "title": "新手机，旧手机",
+      "created": "2024-12-31 22:57",
+      "link": "https://digu.plus/post/38a43b4de4b64b4e8f452410c404338a/",
+      "author": "嘀咕",
+      "avatar": "https://digu.plus/usr/themes/ghost/images/favicon/64x64.png"
+    },
+    {
       "title": "互联网背景噪音",
       "created": "2024-12-30 17:29",
       "link": "https://atpx.com/blog/the-internet-background-noise/",
@@ -2024,6 +2227,20 @@
       "avatar": "https://gravatar.memobbs.app/avatar/f65df4d87240feb1cb247857a621a48f"
     },
     {
+      "title": "利用 Github Actions 备份数据库",
+      "created": "2024-12-04 16:46",
+      "link": "https://digu.plus/post/70a2e24a962c4dad86af986827423781/",
+      "author": "嘀咕",
+      "avatar": "https://digu.plus/usr/themes/ghost/images/favicon/64x64.png"
+    },
+    {
+      "title": "补上了这几年的双11",
+      "created": "2024-11-13 23:10",
+      "link": "https://digu.plus/post/6c4531a823034f0f944a314127d620b8/",
+      "author": "嘀咕",
+      "avatar": "https://digu.plus/usr/themes/ghost/images/favicon/64x64.png"
+    },
+    {
       "title": "谷歌的珍珠港时刻",
       "created": "2024-11-13 00:08",
       "link": "https://dongjunke.cn/posts/2024/11/13/23745.html",
@@ -2064,6 +2281,20 @@
       "link": "https://dongjunke.cn/posts/2024/10/22/20584.html",
       "author": "东评西就",
       "avatar": "https://gravatar.memobbs.app/avatar/42542189ddb33064599dc88a5149bea7"
+    },
+    {
+      "title": "莫名的限我额度？硬杠到底",
+      "created": "2024-10-18 22:20",
+      "link": "https://digu.plus/post/2abdb68840a54b8abbc7b5671de22db6/",
+      "author": "嘀咕",
+      "avatar": "https://digu.plus/usr/themes/ghost/images/favicon/64x64.png"
+    },
+    {
+      "title": "国庆三日游",
+      "created": "2024-10-08 18:56",
+      "link": "https://digu.plus/post/d2f0d8e34a3a42bcabc7129c714e2c1f/",
+      "author": "嘀咕",
+      "avatar": "https://digu.plus/usr/themes/ghost/images/favicon/64x64.png"
     },
     {
       "title": "杭州出差见闻",
@@ -2113,6 +2344,20 @@
       "link": "http://www.gexiao.me/2024/06/25/logic-under-power/",
       "author": "默默小屋",
       "avatar": "https://www.gexiao.me/images/apple-touch-icon-next.png"
+    },
+    {
+      "title": "外卖打包费的维权",
+      "created": "2024-06-22 19:18",
+      "link": "https://digu.plus/post/83a842a85e9d06266d7fa66d1d957594/",
+      "author": "嘀咕",
+      "avatar": "https://digu.plus/usr/themes/ghost/images/favicon/64x64.png"
+    },
+    {
+      "title": "“苕”萝卜快跑",
+      "created": "2024-06-18 22:00",
+      "link": "https://digu.plus/post/5964404014dbf39e1a44da6da0c60bad/",
+      "author": "嘀咕",
+      "avatar": "https://digu.plus/usr/themes/ghost/images/favicon/64x64.png"
     },
     {
       "title": "顺风车的一些记录",
