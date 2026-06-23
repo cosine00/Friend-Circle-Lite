@@ -4,9 +4,16 @@
     "active_num": 43,
     "error_num": 11,
     "article_num": 359,
-    "last_updated_time": "2026-06-23 04:50:31"
+    "last_updated_time": "2026-06-23 11:40:17"
   },
   "article_data": [
+    {
+      "title": "尖塔之外的教堂",
+      "created": "2026-06-23 06:44",
+      "link": "https://anotherdayu.com/beyond-the-spire/",
+      "author": "Dayu",
+      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
+    },
     {
       "title": "WordPress-Riven主题正式发售了！！！",
       "created": "2026-06-22 22:37",
@@ -1460,13 +1467,6 @@
       "title": "Plog 6 搬家啦",
       "created": "2026-03-06 20:37",
       "link": "https://anotherdayu.com/plog-6/",
-      "author": "Dayu",
-      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
-    },
-    {
-      "title": "A Feature Image Generator For Bear Blog",
-      "created": "2026-03-06 06:45",
-      "link": "https://anotherdayu.com/a-feature-image-generator-for-bear-blog/",
       "author": "Dayu",
       "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
     },
