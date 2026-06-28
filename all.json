@@ -1,12 +1,26 @@
 {
   "statistical_data": {
     "friends_num": 54,
-    "active_num": 43,
-    "error_num": 11,
-    "article_num": 359,
-    "last_updated_time": "2026-06-28 16:54:17"
+    "active_num": 42,
+    "error_num": 12,
+    "article_num": 349,
+    "last_updated_time": "2026-06-28 21:48:59"
   },
   "article_data": [
+    {
+      "title": "vibe coding上瘾，真上瘾",
+      "created": "2026-06-28 21:12",
+      "link": "https://www.skyue.com/26062821.html",
+      "author": "拾月",
+      "avatar": "https://gravatar.loli.net/avatar/c3fb4bb4d5101284ddd672fb722cdd7d"
+    },
+    {
+      "title": "旅行日记·葫芦岛-兴城",
+      "created": "2026-06-28 20:31",
+      "link": "https://moreality.net/posts/34210/",
+      "author": "Moreality's Blog",
+      "avatar": "https://youpai.roccoshi.top/img/avatar.jpg"
+    },
     {
       "title": "火锅自助没去",
       "created": "2026-06-28 15:49",
@@ -178,7 +192,7 @@
     {
       "title": "对抗无聊ing",
       "created": "2026-06-21 18:18",
-      "link": "https://wangyunzi.com/posts/167/",
+      "link": "https://asky.0tz.top/posts/167/",
       "author": "长街短梦",
       "avatar": "https://gravatar.memobbs.app/avatar/c1b204bab687a23c8b6d7c8de11c7c59"
     },
@@ -899,14 +913,14 @@
     {
       "title": "又被攻击了",
       "created": "2026-05-12 21:59",
-      "link": "https://wangyunzi.com/posts/166/",
+      "link": "https://asky.0tz.top/posts/166/",
       "author": "长街短梦",
       "avatar": "https://gravatar.memobbs.app/avatar/c1b204bab687a23c8b6d7c8de11c7c59"
     },
     {
       "title": "我真的很討厭競爭",
       "created": "2026-05-11 20:17",
-      "link": "https://wangyunzi.com/posts/165/",
+      "link": "https://asky.0tz.top/posts/165/",
       "author": "长街短梦",
       "avatar": "https://gravatar.memobbs.app/avatar/c1b204bab687a23c8b6d7c8de11c7c59"
     },
@@ -923,13 +937,6 @@
       "link": "https://justgoidea.com/feng-chui-fan-dong/",
       "author": "槿呈Goidea",
       "avatar": "https://justgoidea.com/favicon.svg"
-    },
-    {
-      "title": "草莓百日宴",
-      "created": "2026-05-10 16:46",
-      "link": "https://www.skyue.com/26051016.html",
-      "author": "拾月",
-      "avatar": "https://gravatar.loli.net/avatar/c3fb4bb4d5101284ddd672fb722cdd7d"
     },
     {
       "title": "高铁上花三小时，我部署了全自动SSL证书同步脚本",
@@ -1242,7 +1249,7 @@
     {
       "title": "春天好啊",
       "created": "2026-04-11 20:45",
-      "link": "https://wangyunzi.com/posts/164/",
+      "link": "https://asky.0tz.top/posts/164/",
       "author": "长街短梦",
       "avatar": "https://gravatar.memobbs.app/avatar/c1b204bab687a23c8b6d7c8de11c7c59"
     },
@@ -1452,7 +1459,7 @@
     {
       "title": "三月多雨",
       "created": "2026-03-18 19:02",
-      "link": "https://wangyunzi.com/posts/163/",
+      "link": "https://asky.0tz.top/posts/163/",
       "author": "长街短梦",
       "avatar": "https://gravatar.memobbs.app/avatar/c1b204bab687a23c8b6d7c8de11c7c59"
     },
@@ -1606,7 +1613,7 @@
     {
       "title": "或是这是职场霸凌",
       "created": "2026-01-31 00:24",
-      "link": "https://wangyunzi.com/posts/162/",
+      "link": "https://asky.0tz.top/posts/162/",
       "author": "长街短梦",
       "avatar": "https://gravatar.memobbs.app/avatar/c1b204bab687a23c8b6d7c8de11c7c59"
     },
@@ -1753,7 +1760,7 @@
     {
       "title": "2025年记念",
       "created": "2025-12-27 09:41",
-      "link": "https://wangyunzi.com/posts/161/",
+      "link": "https://asky.0tz.top/posts/161/",
       "author": "长街短梦",
       "avatar": "https://gravatar.memobbs.app/avatar/c1b204bab687a23c8b6d7c8de11c7c59"
     },
@@ -1851,7 +1858,7 @@
     {
       "title": "渐觉社会包容度走低",
       "created": "2025-11-09 11:44",
-      "link": "https://wangyunzi.com/posts/160/",
+      "link": "https://asky.0tz.top/posts/160/",
       "author": "长街短梦",
       "avatar": "https://gravatar.memobbs.app/avatar/c1b204bab687a23c8b6d7c8de11c7c59"
     },
@@ -1921,7 +1928,7 @@
     {
       "title": "感受当下的力量",
       "created": "2025-10-07 16:13",
-      "link": "https://wangyunzi.com/posts/159/",
+      "link": "https://asky.0tz.top/posts/159/",
       "author": "长街短梦",
       "avatar": "https://gravatar.memobbs.app/avatar/c1b204bab687a23c8b6d7c8de11c7c59"
     },
@@ -1949,7 +1956,7 @@
     {
       "title": "苏州游记",
       "created": "2025-09-20 20:42",
-      "link": "https://wangyunzi.com/posts/158/",
+      "link": "https://asky.0tz.top/posts/158/",
       "author": "长街短梦",
       "avatar": "https://gravatar.memobbs.app/avatar/c1b204bab687a23c8b6d7c8de11c7c59"
     },
@@ -2017,13 +2024,6 @@
       "avatar": "https://gravatar.memobbs.app/avatar/f65df4d87240feb1cb247857a621a48f"
     },
     {
-      "title": "博客更新之hexo, EdgeOne以及Apaxy",
-      "created": "2025-07-02 21:02",
-      "link": "https://www.jiangyu.org/hexo-edgeone-apaxy/",
-      "author": "天一生水",
-      "avatar": "https://www.jiangyu.org/images/icon.svg"
-    },
-    {
       "title": "少儿 TED - 时间管理大师",
       "created": "2025-06-27 11:49",
       "link": "https://www.eallion.com/ted-master-of-time-management/",
@@ -2036,13 +2036,6 @@
       "link": "https://www.eallion.com/n8n-sync-blog-to-mastodon/",
       "author": "大大的小蜗牛",
       "avatar": "https://gravatar.memobbs.app/avatar/171e4c30959e8c077a6c58b958624b31"
-    },
-    {
-      "title": "《梵高手稿》读书笔记",
-      "created": "2025-06-12 21:30",
-      "link": "https://www.jiangyu.org/van-gogh/",
-      "author": "天一生水",
-      "avatar": "https://www.jiangyu.org/images/icon.svg"
     },
     {
       "title": "旅行日记·大连",
@@ -2080,25 +2073,11 @@
       "avatar": "https://atpx.com/favicon-32x32.png"
     },
     {
-      "title": "惊艳的Google NotebookLM输出的中文音频读书笔记",
-      "created": "2025-05-01 17:50",
-      "link": "https://www.jiangyu.org/chinese-audio-overview/",
-      "author": "天一生水",
-      "avatar": "https://www.jiangyu.org/images/icon.svg"
-    },
-    {
       "title": "Google「提示词工程」白皮书阅读总结",
       "created": "2025-04-21 22:45",
       "link": "https://moreality.net/posts/6318/",
       "author": "Moreality's Blog",
       "avatar": "https://youpai.roccoshi.top/img/avatar.jpg"
-    },
-    {
-      "title": "《叫魂：1768年中国妖术大恐慌》读书笔记",
-      "created": "2025-04-16 20:40",
-      "link": "https://www.jiangyu.org/jiao-hun/",
-      "author": "天一生水",
-      "avatar": "https://www.jiangyu.org/images/icon.svg"
     },
     {
       "title": "沉迷“吉卜力”中……",
@@ -2115,34 +2094,6 @@
       "avatar": "https://gravatar.memobbs.app/avatar/42542189ddb33064599dc88a5149bea7"
     },
     {
-      "title": "《清画全集》及其目录索引",
-      "created": "2025-04-09 13:54",
-      "link": "https://www.jiangyu.org/qing-hua-quan-ji/",
-      "author": "天一生水",
-      "avatar": "https://www.jiangyu.org/images/icon.svg"
-    },
-    {
-      "title": "《先秦汉唐画全集》及其目录索引",
-      "created": "2025-04-09 13:50",
-      "link": "https://www.jiangyu.org/xian-qin-han-tang-hua-quan-ji/",
-      "author": "天一生水",
-      "avatar": "https://www.jiangyu.org/images/icon.svg"
-    },
-    {
-      "title": "《明画全集》及其目录索引",
-      "created": "2025-04-08 16:11",
-      "link": "https://www.jiangyu.org/ming-hua-quan-ji/",
-      "author": "天一生水",
-      "avatar": "https://www.jiangyu.org/images/icon.svg"
-    },
-    {
-      "title": "长沙天心阁",
-      "created": "2025-04-06 16:44",
-      "link": "https://www.jiangyu.org/tian-xin-ge/",
-      "author": "天一生水",
-      "avatar": "https://www.jiangyu.org/images/icon.svg"
-    },
-    {
       "title": "自建音乐串流服务探索",
       "created": "2025-03-28 04:56",
       "link": "https://atpx.com/blog/selfhosted-music-streaming-server/",
@@ -2157,25 +2108,11 @@
       "avatar": "https://demochen.com/images/avatar.png"
     },
     {
-      "title": "诗圣杜甫",
-      "created": "2025-03-23 14:07",
-      "link": "https://www.jiangyu.org/du-fu/",
-      "author": "天一生水",
-      "avatar": "https://www.jiangyu.org/images/icon.svg"
-    },
-    {
       "title": "搬家带来的漂泊感",
       "created": "2025-03-21 01:30",
       "link": "https://demochen.com/posts/20250320/",
       "author": "特立独行的异类",
       "avatar": "https://demochen.com/images/avatar.png"
-    },
-    {
-      "title": "长沙杜甫江阁",
-      "created": "2025-03-15 20:25",
-      "link": "https://www.jiangyu.org/du-fu-jiang-ge/",
-      "author": "天一生水",
-      "avatar": "https://www.jiangyu.org/images/icon.svg"
     },
     {
       "title": "懒到现在才安上肥羊 allinone",
@@ -2295,13 +2232,6 @@
       "link": "https://elizen.me/posts/2024/12/2024-end/",
       "author": "Elizen",
       "avatar": "https://gravatar.memobbs.app/avatar/f65df4d87240feb1cb247857a621a48f"
-    },
-    {
-      "title": "2024 年度订阅总结: 降本增效",
-      "created": "2024-12-25 09:29",
-      "link": "https://moreality.net/posts/16459/",
-      "author": "Moreality's Blog",
-      "avatar": "https://youpai.roccoshi.top/img/avatar.jpg"
     },
     {
       "title": "突然就起风了",
