@@ -4,9 +4,16 @@
     "active_num": 42,
     "error_num": 12,
     "article_num": 360,
-    "last_updated_time": "2026-07-05 03:15:42"
+    "last_updated_time": "2026-07-05 11:31:26"
   },
   "article_data": [
+    {
+      "title": "Bear Blog Theme: Vermilion",
+      "created": "2026-07-05 05:47",
+      "link": "https://anotherdayu.com/vermilion/",
+      "author": "Dayu",
+      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
+    },
     {
       "title": "于日常处 · 七月记",
       "created": "2026-07-05 03:32",
@@ -1301,13 +1308,6 @@
       "link": "https://justgoidea.com/du-tao-an-meng-yi-zhong-shan/",
       "author": "槿呈Goidea",
       "avatar": "https://justgoidea.com/favicon.svg"
-    },
-    {
-      "title": "Cloud gaming: Shadow vs GeForce Now",
-      "created": "2026-04-18 00:26",
-      "link": "https://anotherdayu.com/shadow-vs-geforcenow/",
-      "author": "Dayu",
-      "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
     },
     {
       "title": "松声｜廿六年·四月中·桐花开",
