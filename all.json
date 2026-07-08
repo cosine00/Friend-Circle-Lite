@@ -1,12 +1,19 @@
 {
   "statistical_data": {
     "friends_num": 54,
-    "active_num": 41,
-    "error_num": 13,
-    "article_num": 350,
-    "last_updated_time": "2026-07-08 03:57:17"
+    "active_num": 43,
+    "error_num": 11,
+    "article_num": 369,
+    "last_updated_time": "2026-07-08 10:46:58"
   },
   "article_data": [
+    {
+      "title": "七月七日",
+      "created": "2026-07-08 10:35",
+      "link": "https://zhongxiaojie.cn/2026/07/1611/",
+      "author": "obaby",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/15/661d443b5359c.png"
+    },
     {
       "title": "Typecho 升级1.3版本出现500错误信息",
       "created": "2026-07-07 20:59",
@@ -85,6 +92,13 @@
       "avatar": "https://bluehe.cn/usr/uploads/2024/03/1678458078.png"
     },
     {
+      "title": "",
+      "created": "2026-07-05 00:51",
+      "link": "https://www.ashsilent.com/shuoshuo/8497",
+      "author": "Ashsilent Planet",
+      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
+    },
+    {
       "title": "粤通卡如何取消ETC停车自动扣费",
       "created": "2026-07-04 22:56",
       "link": "https://itlu.net/articles/2857.html",
@@ -146,6 +160,13 @@
       "link": "https://zhongxiaojie.cn/2026/07/1589/",
       "author": "obaby",
       "avatar": "https://cdn.qyliu.top/i/2024/04/15/661d443b5359c.png"
+    },
+    {
+      "title": "",
+      "created": "2026-07-03 03:33",
+      "link": "https://www.ashsilent.com/shuoshuo/8495",
+      "author": "Ashsilent Planet",
+      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
     },
     {
       "title": "AI，还是AI",
@@ -218,6 +239,13 @@
       "avatar": "https://bluehe.cn/usr/uploads/2024/03/1678458078.png"
     },
     {
+      "title": "",
+      "created": "2026-06-29 23:42",
+      "link": "https://www.ashsilent.com/shuoshuo/8494",
+      "author": "Ashsilent Planet",
+      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
+    },
+    {
       "title": "打针💉",
       "created": "2026-06-29 22:21",
       "link": "https://zhongxiaojie.cn/2026/06/1567/",
@@ -265,6 +293,13 @@
       "link": "https://dongjunke.cn/posts/2026/06/28/11833.html",
       "author": "东评西就",
       "avatar": "https://gravatar.memobbs.app/avatar/42542189ddb33064599dc88a5149bea7"
+    },
+    {
+      "title": "",
+      "created": "2026-06-28 01:34",
+      "link": "https://www.ashsilent.com/shuoshuo/8492",
+      "author": "Ashsilent Planet",
+      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
     },
     {
       "title": "初夏荷花开-2026",
@@ -449,6 +484,20 @@
       "avatar": "https://zhou.ge/favicon.ico"
     },
     {
+      "title": "",
+      "created": "2026-06-17 23:51",
+      "link": "https://www.ashsilent.com/shuoshuo/8488",
+      "author": "Ashsilent Planet",
+      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
+    },
+    {
+      "title": "",
+      "created": "2026-06-17 23:31",
+      "link": "https://www.ashsilent.com/shuoshuo/8486",
+      "author": "Ashsilent Planet",
+      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
+    },
+    {
       "title": "4S店靠啥赚钱",
       "created": "2026-06-17 19:54",
       "link": "https://hux.ink/posts/4s-business-model/",
@@ -461,6 +510,20 @@
       "link": "https://zhoutian.com/384.html",
       "author": "满心记",
       "avatar": "https://weavatar.com/avatar/9b3a681168a25e910954372e468fbc91"
+    },
+    {
+      "title": "",
+      "created": "2026-06-17 00:53",
+      "link": "https://www.ashsilent.com/shuoshuo/8485",
+      "author": "Ashsilent Planet",
+      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
+    },
+    {
+      "title": "",
+      "created": "2026-06-17 00:08",
+      "link": "https://www.ashsilent.com/shuoshuo/8480",
+      "author": "Ashsilent Planet",
+      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
     },
     {
       "title": "[推广]酷鸭数据端午活动6.16开启！限时4天！",
@@ -652,18 +715,18 @@
       "avatar": "https://zhou.ge/favicon.ico"
     },
     {
+      "title": "",
+      "created": "2026-06-06 01:25",
+      "link": "https://www.ashsilent.com/shuoshuo/8475",
+      "author": "Ashsilent Planet",
+      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
+    },
+    {
       "title": "285、芒种",
       "created": "2026-06-05 10:52",
       "link": "https://1900.live/285-mang-chong/",
       "author": "1900'blog",
       "avatar": "https://cdn.1900.live/20190640/ico.png"
-    },
-    {
-      "title": "你来啦！ — 半正式上线",
-      "created": "2026-06-04 15:06",
-      "link": "https://zhongxiaojie.cn/2026/06/1379/",
-      "author": "obaby",
-      "avatar": "https://cdn.qyliu.top/i/2024/04/15/661d443b5359c.png"
     },
     {
       "title": "WordPress首页调用typecho教程（1.3.0版）",
@@ -706,6 +769,13 @@
       "link": "https://anotherdayu.com/ukboardgame/",
       "author": "Dayu",
       "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
+    },
+    {
+      "title": "",
+      "created": "2026-06-01 02:35",
+      "link": "https://www.ashsilent.com/shuoshuo/8474",
+      "author": "Ashsilent Planet",
+      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
     },
     {
       "title": "日常漫步 Vol.24 之漫步前山河",
@@ -1408,6 +1478,13 @@
       "avatar": "https://gravatar.memobbs.app/avatar/40c46b2a6ef05464946a7e3f5230bdfa16b5d4e861c7b69977ef77efde66638a"
     },
     {
+      "title": "2026杂乱的第一季度",
+      "created": "2026-04-01 12:42",
+      "link": "https://www.jeffer.xyz/cid/3304.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
+    },
+    {
       "title": "Notion同步测试",
       "created": "2026-03-31 22:27",
       "link": "https://hux.ink/posts/notion-test/",
@@ -1602,6 +1679,13 @@
       "link": "https://demochen.com/posts/20260207/",
       "author": "特立独行的异类",
       "avatar": "https://demochen.com/images/avatar.png"
+    },
+    {
+      "title": "丙火暖身，戊土稳心",
+      "created": "2026-02-04 22:17",
+      "link": "https://www.jeffer.xyz/cid/3284.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
     },
     {
       "title": "第1封信：脑袋空空",
@@ -1814,11 +1898,25 @@
       "avatar": "https://img.imsun.org/avatar.jpg"
     },
     {
+      "title": "博客年终总结 ：2025 Ai贯穿工作生活",
+      "created": "2025-12-02 16:18",
+      "link": "https://www.jeffer.xyz/cid/3256.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
+    },
+    {
       "title": "修复Typecho UploadPlugin插件在1.3.0中的上传问题",
       "created": "2025-11-24 17:20",
       "link": "https://www.imsun.org/archives/1762.html",
       "author": "老孙博客",
       "avatar": "https://img.imsun.org/avatar.jpg"
+    },
+    {
+      "title": "极简统计 支持本地部署PHP网站统计系统",
+      "created": "2025-11-18 17:13",
+      "link": "https://www.jeffer.xyz/cid/3221.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
     },
     {
       "title": "规则",
@@ -1842,6 +1940,13 @@
       "avatar": "https://gravatar.memobbs.app/avatar/c1b204bab687a23c8b6d7c8de11c7c59"
     },
     {
+      "title": "爸爸厨房：简单版糖炒栗子",
+      "created": "2025-11-06 12:31",
+      "link": "https://www.jeffer.xyz/cid/3207.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
+    },
+    {
       "title": "秋假",
       "created": "2025-11-01 08:00",
       "link": "https://www.eallion.com/holiday-in-autumn/",
@@ -1856,6 +1961,13 @@
       "avatar": "https://digu.plus/usr/themes/ghost/images/favicon/64x64.png"
     },
     {
+      "title": "使用工具为博客做一个体检 看看可以得几分？",
+      "created": "2025-10-22 16:21",
+      "link": "https://www.jeffer.xyz/cid/3188.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
+    },
+    {
       "title": "记一次痛不欲生的肾结石经历",
       "created": "2025-10-20 07:24",
       "link": "https://joyqi.com/life/a-painful-kidney-stone-experience.html",
@@ -1868,6 +1980,20 @@
       "link": "https://atpx.com/blog/sometimes-midnight-is-enough/",
       "author": "atpX",
       "avatar": "https://atpx.com/favicon-32x32.png"
+    },
+    {
+      "title": "喜提浓密黑发 萎靡不振恢复好多",
+      "created": "2025-10-17 18:06",
+      "link": "https://www.jeffer.xyz/cid/3172.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
+    },
+    {
+      "title": "零后端搭建”博友圈”：用 FindBLOG.Net 的 rss.json 直接渲染友链时间线",
+      "created": "2025-10-17 17:08",
+      "link": "https://www.jeffer.xyz/cid/3169.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
     },
     {
       "title": "食草堂",
@@ -1952,6 +2078,13 @@
       "link": "https://joyqi.com/photography/photos-from-summer-2025.html",
       "author": "JoyQi",
       "avatar": "https://joyqi.com/apple-touch-icon.png"
+    },
+    {
+      "title": "艰难前进的痛苦",
+      "created": "2025-08-11 00:55",
+      "link": "https://www.jeffer.xyz/cid/3087.html",
+      "author": "Jeffer.Z的博客",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
     },
     {
       "title": "记一次闲鱼维权经历",
