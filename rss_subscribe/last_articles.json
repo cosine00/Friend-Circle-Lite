@@ -1,6 +1,14 @@
 {
     "articles": [
         {
+            "title": "Cloudflare/Vercel项目推荐(6)",
+            "author": "LiuShen",
+            "link": "https://blog.liushen.fun/posts/e4a369fc/",
+            "published": "2026-07-13 00:12",
+            "summary": "这里是清羽AI，这篇文章是 Cloudflare/Vercel 项目推荐系列第六期，推荐了 edgeever、EdgeMirror、edgeone-status、nodewarden、MiSub 和 How-To-Ask-Questions-The-Smart-Way 六个项目。文章从个人站长折腾和低成本部署的角度，介绍了在线笔记、边缘反代、EdgeOne 流量数据展示、无服务器密码库、订阅管理器以及提问指南页面的使用场景，并提醒读者注意平台规则、数据安全和个人自用边界。",
+            "content": "<p><img alt=\"Cloudflare/Vercel项目推荐(6)\" src=\"https://p.liiiu.cn/i/2026/07/12/6a53501d142f0.webp\" /></p><p>这里是清羽AI，这篇文章是 Cloudflare/Vercel 项目推荐系列第六期，推荐了 edgeever、EdgeMirror、edgeone-status、nodewarden、MiSub 和 How-To-Ask-Questions-The-Smart-Way 六个项目。文章从个人站长折腾和低成本部署的角度，介绍了在线笔记、边缘反代、EdgeOne 流量数据展示、无服务器密码库、订阅管理器以及提问指南页面的使用场景，并提醒读者注意平台规则、数据安全和个人自用边界。</p>"
+        },
+        {
             "title": "vibe-coding个人实践",
             "author": "LiuShen",
             "link": "https://blog.liushen.fun/posts/67261b47/",
@@ -31,14 +39,6 @@
             "published": "2026-04-05 00:00",
             "summary": "这里是清羽AI，这篇文章由清羽飞扬介绍了一款名为ChronoFrame的开源瀑布流相册系统。该项目灵感源自Afilmory，但与之不同的是，ChronoFrame是一个可在线管理的动态照片系统，支持自动解析EXIF信息、展示拍摄位置、地图足迹回溯以及自动生成缩略图等功能，相比静态相册更具交互性。作者柳神对比了TimePlus、PicImpact等竞品，认为ChronoFrame在长期使用体验和视觉呈现上更符合个人需求。文章还提供了Docker部署方案和存储配置建议，六神分享了自己使用天翼云盘结合OpenList和CDN的免存储桶方案以降低成本。全文详细阐述了从静态主题到动态系统的相册搭建历程，为读者提供了完整的项目评估和部署参考。",
             "content": "<p><img alt=\"ChronoFrame - 一款优雅的瀑布流相册系统\" src=\"https://p.liiiu.cn/i/2026/03/29/69c944a89c8f3.webp\" /></p><p>这里是清羽AI，这篇文章由清羽飞扬介绍了一款名为ChronoFrame的开源瀑布流相册系统。该项目灵感源自Afilmory，但与之不同的是，ChronoFrame是一个可在线管理的动态照片系统，支持自动解析EXIF信息、展示拍摄位置、地图足迹回溯以及自动生成缩略图等功能，相比静态相册更具交互性。作者柳神对比了TimePlus、PicImpact等竞品，认为ChronoFrame在长期使用体验和视觉呈现上更符合个人需求。文章还提供了Docker部署方案和存储配置建议，六神分享了自己使用天翼云盘结合OpenList和CDN的免存储桶方案以降低成本。全文详细阐述了从静态主题到动态系统的相册搭建历程，为读者提供了完整的项目评估和部署参考。</p>"
-        },
-        {
-            "title": "兰空图床深度美化",
-            "author": "LiuShen",
-            "link": "https://blog.liushen.fun/posts/eabede01/",
-            "published": "2026-03-01 20:40",
-            "summary": "这里是清羽AI，这篇文章记录了LiuShen利用GitHub Copilot与AI工具，对停更的兰空图床v2进行深度UI美化的全过程：重写登录页、上传组件、控制台与仪表盘，统一圆角扁平轻量风格，保留绿色主调并适配浅色模式；提供源码与Docker两种覆盖部署方案，强调先备份再替换，附完整仓库地址及镜像willowgod/lsky-liushen，支持一键全新容器部署，无需改动核心逻辑即可体验升级后的视觉与交互。",
-            "content": "<p><img alt=\"兰空图床深度美化\" src=\"https://p.liiiu.cn/i/2026/03/01/69a431100a060.webp\" /></p><p>这里是清羽AI，这篇文章记录了LiuShen利用GitHub Copilot与AI工具，对停更的兰空图床v2进行深度UI美化的全过程：重写登录页、上传组件、控制台与仪表盘，统一圆角扁平轻量风格，保留绿色主调并适配浅色模式；提供源码与Docker两种覆盖部署方案，强调先备份再替换，附完整仓库地址及镜像willowgod/lsky-liushen，支持一键全新容器部署，无需改动核心逻辑即可体验升级后的视觉与交互。</p>"
         }
     ]
 }
