@@ -1,12 +1,19 @@
 {
   "statistical_data": {
     "friends_num": 54,
-    "active_num": 42,
-    "error_num": 12,
-    "article_num": 359,
-    "last_updated_time": "2026-07-25 16:07:52"
+    "active_num": 43,
+    "error_num": 11,
+    "article_num": 369,
+    "last_updated_time": "2026-07-25 21:28:44"
   },
   "article_data": [
+    {
+      "title": "山丘之王",
+      "created": "2026-07-25 16:10",
+      "link": "https://acevs.com/5126/",
+      "author": "ACEVS",
+      "avatar": "https://weavatar.com/avatar/ffc1ac2ecde17b2eb1caff3e94c119fdaea4dc1a947a08a3092b388bf9b454d0"
+    },
     {
       "title": "火箭被闪电击中，会发生什么？",
       "created": "2026-07-24 19:21",
@@ -41,6 +48,13 @@
       "link": "https://www.leolin86.com/archives/563/",
       "author": "拾风草堂",
       "avatar": "https://www.leolin86.com/wp-content/themes/Readd/images/favicon.ico"
+    },
+    {
+      "title": "288、大暑",
+      "created": "2026-07-23 15:55",
+      "link": "https://1900.live/288-da-shu/",
+      "author": "1900'blog",
+      "avatar": "https://cdn.1900.live/20190640/ico.png"
     },
     {
       "title": "碎片2026年7月23日",
@@ -127,6 +141,13 @@
       "avatar": "https://img.imsun.org/avatar.jpg"
     },
     {
+      "title": "",
+      "created": "2026-07-20 16:44",
+      "link": "https://www.ashsilent.com/shuoshuo/8510",
+      "author": "Ashsilent Planet",
+      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
+    },
+    {
       "title": "杂记2026年7月20日",
       "created": "2026-07-20 13:55",
       "link": "https://acevs.com/5115/",
@@ -153,6 +174,13 @@
       "link": "https://www.jeffer.xyz/cid/3344.html",
       "author": "Jeffer.Z的博客",
       "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
+    },
+    {
+      "title": "",
+      "created": "2026-07-18 23:01",
+      "link": "https://www.ashsilent.com/shuoshuo/8508",
+      "author": "Ashsilent Planet",
+      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
     },
     {
       "title": "杂记2026年7月18日",
@@ -204,13 +232,6 @@
       "avatar": "https://anotherdayu.com/wp-content/uploads/2022/06/cropped-photo_2022-06-16-10.08.51-180x180.jpeg"
     },
     {
-      "title": "欧姆龙 D2FC-F-7N 相似的微动",
-      "created": "2026-07-15 12:58",
-      "link": "https://acevs.com/5103/",
-      "author": "ACEVS",
-      "avatar": "https://weavatar.com/avatar/ffc1ac2ecde17b2eb1caff3e94c119fdaea4dc1a947a08a3092b388bf9b454d0"
-    },
-    {
       "title": "很忙的2026第二季度",
       "created": "2026-07-15 09:45",
       "link": "https://www.jeffer.xyz/cid/3336.html",
@@ -251,6 +272,13 @@
       "link": "https://zhoutian.com/386.html",
       "author": "满心记",
       "avatar": "https://weavatar.com/avatar/9b3a681168a25e910954372e468fbc91"
+    },
+    {
+      "title": "",
+      "created": "2026-07-13 19:57",
+      "link": "https://www.ashsilent.com/shuoshuo/8501",
+      "author": "Ashsilent Planet",
+      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
     },
     {
       "title": "一些琐事",
@@ -351,6 +379,13 @@
       "avatar": "https://bluehe.cn/usr/uploads/2024/03/1678458078.png"
     },
     {
+      "title": "",
+      "created": "2026-07-05 00:51",
+      "link": "https://www.ashsilent.com/shuoshuo/8497",
+      "author": "Ashsilent Planet",
+      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
+    },
+    {
       "title": "粤通卡如何取消ETC停车自动扣费",
       "created": "2026-07-04 22:56",
       "link": "https://itlu.net/articles/2857.html",
@@ -398,6 +433,13 @@
       "link": "https://zhongxiaojie.cn/2026/07/1589/",
       "author": "obaby",
       "avatar": "https://cdn.qyliu.top/i/2024/04/15/661d443b5359c.png"
+    },
+    {
+      "title": "",
+      "created": "2026-07-03 03:33",
+      "link": "https://www.ashsilent.com/shuoshuo/8495",
+      "author": "Ashsilent Planet",
+      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
     },
     {
       "title": "AI，还是AI",
@@ -449,6 +491,13 @@
       "avatar": "https://bluehe.cn/usr/uploads/2024/03/1678458078.png"
     },
     {
+      "title": "",
+      "created": "2026-06-29 23:42",
+      "link": "https://www.ashsilent.com/shuoshuo/8494",
+      "author": "Ashsilent Planet",
+      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
+    },
+    {
       "title": "打针💉",
       "created": "2026-06-29 22:21",
       "link": "https://zhongxiaojie.cn/2026/06/1567/",
@@ -482,6 +531,13 @@
       "link": "https://dongjunke.cn/posts/2026/06/28/11833.html",
       "author": "东评西就",
       "avatar": "https://gravatar.memobbs.app/avatar/42542189ddb33064599dc88a5149bea7"
+    },
+    {
+      "title": "",
+      "created": "2026-06-28 01:34",
+      "link": "https://www.ashsilent.com/shuoshuo/8492",
+      "author": "Ashsilent Planet",
+      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
     },
     {
       "title": "初夏荷花开-2026",
@@ -645,6 +701,20 @@
       "avatar": "https://zhou.ge/favicon.ico"
     },
     {
+      "title": "",
+      "created": "2026-06-17 23:51",
+      "link": "https://www.ashsilent.com/shuoshuo/8488",
+      "author": "Ashsilent Planet",
+      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
+    },
+    {
+      "title": "",
+      "created": "2026-06-17 23:31",
+      "link": "https://www.ashsilent.com/shuoshuo/8486",
+      "author": "Ashsilent Planet",
+      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
+    },
+    {
       "title": "4S店靠啥赚钱",
       "created": "2026-06-17 19:54",
       "link": "https://hux.ink/posts/4s-business-model/",
@@ -657,6 +727,13 @@
       "link": "https://zhoutian.com/384.html",
       "author": "满心记",
       "avatar": "https://weavatar.com/avatar/9b3a681168a25e910954372e468fbc91"
+    },
+    {
+      "title": "",
+      "created": "2026-06-17 00:53",
+      "link": "https://www.ashsilent.com/shuoshuo/8485",
+      "author": "Ashsilent Planet",
+      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
     },
     {
       "title": "[推广]酷鸭数据端午活动6.16开启！限时4天！",
@@ -1455,13 +1532,6 @@
       "link": "https://hux.ink/posts/cost-of-ebike-dui/",
       "author": "落落vici",
       "avatar": "https://cravatar.cn/avatar/bb78cd69edd84cdbdb99a491ea2dc6c8"
-    },
-    {
-      "title": "281、清明",
-      "created": "2026-04-05 09:49",
-      "link": "https://1900.live/281-qing-ming/",
-      "author": "1900'blog",
-      "avatar": "https://cdn.1900.live/20190640/ico.png"
     },
     {
       "title": "习惯了语音输入后，再也不想打字了",
