@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 52,
-    "active_num": 44,
-    "error_num": 8,
-    "article_num": 369,
-    "last_updated_time": "2026-07-29 16:41:25"
+    "active_num": 45,
+    "error_num": 7,
+    "article_num": 379,
+    "last_updated_time": "2026-07-29 22:11:08"
   },
   "article_data": [
     {
@@ -64,6 +64,20 @@
       "avatar": "https://weavatar.com/avatar/ffc1ac2ecde17b2eb1caff3e94c119fdaea4dc1a947a08a3092b388bf9b454d0"
     },
     {
+      "title": "How to Do Great Work",
+      "created": "2026-07-25 08:00",
+      "link": "https://jefftay.com/how-to-do-great-work",
+      "author": "陈仓颉",
+      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
+    },
+    {
+      "title": "Turning Big Fears into Tiny Experiments",
+      "created": "2026-07-25 08:00",
+      "link": "https://jefftay.com/tuning-big-fears-into-tiny-experiments",
+      "author": "陈仓颉",
+      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
+    },
+    {
       "title": "火箭被闪电击中，会发生什么？",
       "created": "2026-07-24 19:21",
       "link": "https://acevs.com/5123/",
@@ -83,6 +97,20 @@
       "link": "https://zhongxiaojie.cn/2026/07/1703/",
       "author": "obaby",
       "avatar": "https://icon.horse/icon/h4ck.org.cn"
+    },
+    {
+      "title": "内存危机、刚需与购买决策",
+      "created": "2026-07-24 08:00",
+      "link": "https://jefftay.com/blog-posts/memory-crisis",
+      "author": "陈仓颉",
+      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
+    },
+    {
+      "title": "机动杀人",
+      "created": "2026-07-24 08:00",
+      "link": "https://jefftay.com/movies/taking-lives",
+      "author": "陈仓颉",
+      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
     },
     {
       "title": "家长会之暗人不说明话",
@@ -211,6 +239,13 @@
       "avatar": "https://icon.horse/icon/h4ck.org.cn"
     },
     {
+      "title": "《逃学神探》和《卧底神探》",
+      "created": "2026-07-20 08:00",
+      "link": "https://jefftay.com/movies/detective-chen-series",
+      "author": "陈仓颉",
+      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
+    },
+    {
       "title": "多向成功的前辈学习",
       "created": "2026-07-19 07:54",
       "link": "https://www.jeffer.xyz/cid/3344.html",
@@ -323,6 +358,13 @@
       "avatar": "https://icon.horse/icon/dongjunke.cn"
     },
     {
+      "title": "万米危机",
+      "created": "2026-07-10 08:00",
+      "link": "https://jefftay.com/movies/wings-of-dread",
+      "author": "陈仓颉",
+      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
+    },
+    {
       "title": "大雨",
       "created": "2026-07-08 13:22",
       "link": "https://ihaihe.cn/3664.htm",
@@ -377,6 +419,13 @@
       "link": "https://zhongxiaojie.cn/2026/07/1597/",
       "author": "obaby",
       "avatar": "https://icon.horse/icon/h4ck.org.cn"
+    },
+    {
+      "title": "镖人：风起大漠",
+      "created": "2026-07-06 08:00",
+      "link": "https://jefftay.com/movies/blades-of-the-guardians",
+      "author": "陈仓颉",
+      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
     },
     {
       "title": "Plog 7 乱序生活",
@@ -526,6 +575,13 @@
       "avatar": "https://icon.horse/icon/h4ck.org.cn"
     },
     {
+      "title": "暗夜情报员第三季",
+      "created": "2026-06-29 08:00",
+      "link": "https://jefftay.com/movies/the-night-agent-season-3",
+      "author": "陈仓颉",
+      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
+    },
+    {
       "title": "vibe coding上瘾，真上瘾",
       "created": "2026-06-28 21:12",
       "link": "https://www.skyue.com/26062821.html",
@@ -615,6 +671,13 @@
       "link": "https://anotherdayu.com/4-photograph/",
       "author": "Dayu",
       "avatar": "https://icon.horse/icon/anotherdayu.com"
+    },
+    {
+      "title": "anchor",
+      "created": "2026-06-23 08:00",
+      "link": "https://jefftay.com/anchor",
+      "author": "陈仓颉",
+      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
     },
     {
       "title": "尖塔之外的教堂",
@@ -825,6 +888,13 @@
       "link": "https://zhou.ge/2026-06-13.html",
       "author": "忆往事",
       "avatar": "https://zhou.ge/favicon.ico"
+    },
+    {
+      "title": "火遮眼",
+      "created": "2026-06-13 08:00",
+      "link": "https://jefftay.com/movies/the-furious",
+      "author": "陈仓颉",
+      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
     },
     {
       "title": "未曾离去",
