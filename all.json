@@ -1,12 +1,19 @@
 {
   "statistical_data": {
     "friends_num": 53,
-    "active_num": 46,
-    "error_num": 7,
-    "article_num": 389,
-    "last_updated_time": "2026-08-01 21:22:29"
+    "active_num": 45,
+    "error_num": 8,
+    "article_num": 379,
+    "last_updated_time": "2026-08-02 03:10:03"
   },
   "article_data": [
+    {
+      "title": "从免费的地铁说起",
+      "created": "2026-08-01 23:48",
+      "link": "https://yinji.org/starting-with-a-free-metro-ride.html",
+      "author": "印记",
+      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
+    },
     {
       "title": "阿里云99元又续一年",
       "created": "2026-08-01 18:15",
@@ -92,13 +99,6 @@
       "avatar": "https://weavatar.com/avatar/ffc1ac2ecde17b2eb1caff3e94c119fdaea4dc1a947a08a3092b388bf9b454d0"
     },
     {
-      "title": "每夫吐槽（118）",
-      "created": "2026-07-27 21:42",
-      "link": "https://pewae.com/2026/07/random_kuso_118.html",
-      "author": "破袜子",
-      "avatar": "https://icon.horse/icon/pewae.com"
-    },
-    {
       "title": "洗衣机进水管龙头坏了",
       "created": "2026-07-27 13:02",
       "link": "https://acevs.com/5130/",
@@ -176,13 +176,6 @@
       "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
     },
     {
-      "title": "家长会之暗人不说明话",
-      "created": "2026-07-23 22:57",
-      "link": "https://pewae.com/2026/07/twenty-second-parents-and-teachers-committee.html",
-      "author": "破袜子",
-      "avatar": "https://icon.horse/icon/pewae.com"
-    },
-    {
       "title": "云南大理",
       "created": "2026-07-23 17:12",
       "link": "https://www.leolin86.com/archives/563/",
@@ -251,13 +244,6 @@
       "link": "https://zhoutian.com/388.html",
       "author": "满心记",
       "avatar": "https://weavatar.com/avatar/9b3a681168a25e910954372e468fbc91"
-    },
-    {
-      "title": "世界杯瞎话第六季——好球",
-      "created": "2026-07-20 18:46",
-      "link": "https://pewae.com/2026/07/6th-world-cup-diray-4.html",
-      "author": "破袜子",
-      "avatar": "https://icon.horse/icon/pewae.com"
     },
     {
       "title": "听风就是雨与先射箭后画靶",
@@ -610,13 +596,6 @@
       "avatar": "https://icon.horse/icon/xyzbz.cn"
     },
     {
-      "title": "世界杯瞎话第六季——滚滚滚滚滚滚长江东逝水",
-      "created": "2026-06-30 15:41",
-      "link": "https://pewae.com/2026/06/6th-world-cup-diray-3.html",
-      "author": "破袜子",
-      "avatar": "https://icon.horse/icon/pewae.com"
-    },
-    {
       "title": "微信限额之迷雾",
       "created": "2026-06-30 07:14",
       "link": "https://itlu.net/articles/2856.html",
@@ -706,13 +685,6 @@
       "link": "https://www.leolin86.com/archives/554/",
       "author": "拾风草堂",
       "avatar": "https://icon.horse/icon/www.leolin86.com"
-    },
-    {
-      "title": "世界杯瞎话第六季——鸿雁飞啊一双双",
-      "created": "2026-06-25 15:51",
-      "link": "https://pewae.com/2026/06/6th-world-cup-diray-2.html",
-      "author": "破袜子",
-      "avatar": "https://icon.horse/icon/pewae.com"
     },
     {
       "title": "我的背包",
@@ -848,25 +820,11 @@
       "avatar": "https://icon.horse/icon/www.winegrower.cn"
     },
     {
-      "title": "每夫吐槽（117）",
-      "created": "2026-06-19 20:24",
-      "link": "https://pewae.com/2026/06/random_kuso_117.html",
-      "author": "破袜子",
-      "avatar": "https://icon.horse/icon/pewae.com"
-    },
-    {
       "title": "戒烟失败第一天",
       "created": "2026-06-19 15:32",
       "link": "https://ihaihe.cn/3658.htm",
       "author": "三十里海河",
       "avatar": "https://icon.horse/icon/ihaihe.cn"
-    },
-    {
-      "title": "终结者2：审判日",
-      "created": "2026-06-18 20:14",
-      "link": "https://pewae.com/2026/06/terminator-2-judgment-day.html",
-      "author": "破袜子",
-      "avatar": "https://icon.horse/icon/pewae.com"
     },
     {
       "title": "蓄意碰瓷",
@@ -923,13 +881,6 @@
       "link": "https://www.leolin86.com/archives/547/",
       "author": "拾风草堂",
       "avatar": "https://icon.horse/icon/www.leolin86.com"
-    },
-    {
-      "title": "世界杯瞎话第六季——苟死以利国家生",
-      "created": "2026-06-16 15:30",
-      "link": "https://pewae.com/2026/06/6th-world-cup-diray-1.html",
-      "author": "破袜子",
-      "avatar": "https://icon.horse/icon/pewae.com"
     },
     {
       "title": "人有多大胆，AI有多大产！",
@@ -1042,13 +993,6 @@
       "link": "https://www.leolin86.com/archives/536/",
       "author": "拾风草堂",
       "avatar": "https://icon.horse/icon/www.leolin86.com"
-    },
-    {
-      "title": "魍魉战记",
-      "created": "2026-06-10 09:41",
-      "link": "https://pewae.com/2026/06/mouryou-senki-madara.html",
-      "author": "破袜子",
-      "avatar": "https://icon.horse/icon/pewae.com"
     },
     {
       "title": "2026年 激战2 常用网站和工具 #Guild wars 2",
@@ -1182,13 +1126,6 @@
       "link": "https://dongjunke.cn/posts/2026/05/30/47945.html",
       "author": "东评西就",
       "avatar": "https://icon.horse/icon/dongjunke.cn"
-    },
-    {
-      "title": "为什么不用相机把屏幕上的接关密码拍下来？",
-      "created": "2026-05-29 12:14",
-      "link": "https://pewae.com/2026/05/why-not-use-a-camera-to-take-a-photo-of-the-password-on-the-tv-screen.html",
-      "author": "破袜子",
-      "avatar": "https://icon.horse/icon/pewae.com"
     },
     {
       "title": "松声｜廿六年·五月行·小商桥",
@@ -1931,13 +1868,6 @@
       "link": "https://wangyunzi.com/posts/162/",
       "author": "长街短梦",
       "avatar": "https://icon.horse/icon/wangyunzi.com"
-    },
-    {
-      "title": "海口出差随记",
-      "created": "2026-01-30 00:21",
-      "link": "https://yinji.org/haikou.html",
-      "author": "印记",
-      "avatar": "https://huhexian.s3.bitiful.net/1680832936501.png"
     },
     {
       "title": "7 刀 VPS 照样玩转 Clawdbot (Moltbot)",
