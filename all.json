@@ -1,12 +1,19 @@
 {
   "statistical_data": {
     "friends_num": 53,
-    "active_num": 45,
-    "error_num": 8,
+    "active_num": 47,
+    "error_num": 6,
     "article_num": 379,
-    "last_updated_time": "2026-08-02 03:10:03"
+    "last_updated_time": "2026-08-02 10:50:35"
   },
   "article_data": [
+    {
+      "title": "人生新阶段",
+      "created": "2026-08-02 06:55",
+      "link": "https://hisherry.com/%e5%8a%a0%e5%9b%bd%e7%94%9f%e6%b4%bb/5000/",
+      "author": "燕渡寒潭",
+      "avatar": "https://icon.horse/icon/hisherry.com"
+    },
     {
       "title": "从免费的地铁说起",
       "created": "2026-08-01 23:48",
@@ -99,6 +106,13 @@
       "avatar": "https://weavatar.com/avatar/ffc1ac2ecde17b2eb1caff3e94c119fdaea4dc1a947a08a3092b388bf9b454d0"
     },
     {
+      "title": "每夫吐槽（118）",
+      "created": "2026-07-27 21:42",
+      "link": "https://pewae.com/2026/07/random_kuso_118.html",
+      "author": "破袜子",
+      "avatar": "https://icon.horse/icon/pewae.com"
+    },
+    {
       "title": "洗衣机进水管龙头坏了",
       "created": "2026-07-27 13:02",
       "link": "https://acevs.com/5130/",
@@ -176,6 +190,13 @@
       "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
     },
     {
+      "title": "家长会之暗人不说明话",
+      "created": "2026-07-23 22:57",
+      "link": "https://pewae.com/2026/07/twenty-second-parents-and-teachers-committee.html",
+      "author": "破袜子",
+      "avatar": "https://icon.horse/icon/pewae.com"
+    },
+    {
       "title": "云南大理",
       "created": "2026-07-23 17:12",
       "link": "https://www.leolin86.com/archives/563/",
@@ -246,18 +267,18 @@
       "avatar": "https://weavatar.com/avatar/9b3a681168a25e910954372e468fbc91"
     },
     {
+      "title": "世界杯瞎话第六季——好球",
+      "created": "2026-07-20 18:46",
+      "link": "https://pewae.com/2026/07/6th-world-cup-diray-4.html",
+      "author": "破袜子",
+      "avatar": "https://icon.horse/icon/pewae.com"
+    },
+    {
       "title": "听风就是雨与先射箭后画靶",
       "created": "2026-07-20 18:29",
       "link": "https://www.imsun.org/archives/1795.html",
       "author": "老孙博客",
       "avatar": "https://img.imsun.org/avatar.jpg"
-    },
-    {
-      "title": "",
-      "created": "2026-07-20 16:44",
-      "link": "https://www.ashsilent.com/shuoshuo/8510",
-      "author": "Ashsilent Planet",
-      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
     },
     {
       "title": "北九水",
@@ -279,13 +300,6 @@
       "link": "https://www.jeffer.xyz/cid/3344.html",
       "author": "Jeffer.Z的博客",
       "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112-250x250.jpg"
-    },
-    {
-      "title": "",
-      "created": "2026-07-18 23:01",
-      "link": "https://www.ashsilent.com/shuoshuo/8508",
-      "author": "Ashsilent Planet",
-      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
     },
     {
       "title": "be water",
@@ -370,13 +384,6 @@
       "link": "https://zhoutian.com/386.html",
       "author": "满心记",
       "avatar": "https://weavatar.com/avatar/9b3a681168a25e910954372e468fbc91"
-    },
-    {
-      "title": "",
-      "created": "2026-07-13 19:57",
-      "link": "https://www.ashsilent.com/shuoshuo/8501",
-      "author": "Ashsilent Planet",
-      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
     },
     {
       "title": "一些琐事",
@@ -512,13 +519,6 @@
       "avatar": "https://bluehe.cn/usr/uploads/2024/03/1678458078.png"
     },
     {
-      "title": "",
-      "created": "2026-07-05 00:51",
-      "link": "https://www.ashsilent.com/shuoshuo/8497",
-      "author": "Ashsilent Planet",
-      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
-    },
-    {
       "title": "粤通卡如何取消ETC停车自动扣费",
       "created": "2026-07-04 22:56",
       "link": "https://itlu.net/articles/2857.html",
@@ -568,13 +568,6 @@
       "avatar": "https://icon.horse/icon/h4ck.org.cn"
     },
     {
-      "title": "",
-      "created": "2026-07-03 03:33",
-      "link": "https://www.ashsilent.com/shuoshuo/8495",
-      "author": "Ashsilent Planet",
-      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
-    },
-    {
       "title": "AI，还是AI",
       "created": "2026-07-02 19:08",
       "link": "https://zhongxiaojie.cn/2026/07/1580/",
@@ -596,6 +589,13 @@
       "avatar": "https://icon.horse/icon/xyzbz.cn"
     },
     {
+      "title": "世界杯瞎话第六季——滚滚滚滚滚滚长江东逝水",
+      "created": "2026-06-30 15:41",
+      "link": "https://pewae.com/2026/06/6th-world-cup-diray-3.html",
+      "author": "破袜子",
+      "avatar": "https://icon.horse/icon/pewae.com"
+    },
+    {
       "title": "微信限额之迷雾",
       "created": "2026-06-30 07:14",
       "link": "https://itlu.net/articles/2856.html",
@@ -615,13 +615,6 @@
       "link": "https://bluehe.cn/archives/2026-CC",
       "author": "云心怀鹤",
       "avatar": "https://bluehe.cn/usr/uploads/2024/03/1678458078.png"
-    },
-    {
-      "title": "",
-      "created": "2026-06-29 23:42",
-      "link": "https://www.ashsilent.com/shuoshuo/8494",
-      "author": "Ashsilent Planet",
-      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
     },
     {
       "title": "打针💉",
@@ -666,13 +659,6 @@
       "avatar": "https://icon.horse/icon/dongjunke.cn"
     },
     {
-      "title": "",
-      "created": "2026-06-28 01:34",
-      "link": "https://www.ashsilent.com/shuoshuo/8492",
-      "author": "Ashsilent Planet",
-      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
-    },
-    {
       "title": "初夏荷花开-2026",
       "created": "2026-06-27 07:07",
       "link": "https://xyzbz.cn/archives/1553/",
@@ -685,6 +671,13 @@
       "link": "https://www.leolin86.com/archives/554/",
       "author": "拾风草堂",
       "avatar": "https://icon.horse/icon/www.leolin86.com"
+    },
+    {
+      "title": "世界杯瞎话第六季——鸿雁飞啊一双双",
+      "created": "2026-06-25 15:51",
+      "link": "https://pewae.com/2026/06/6th-world-cup-diray-2.html",
+      "author": "破袜子",
+      "avatar": "https://icon.horse/icon/pewae.com"
     },
     {
       "title": "我的背包",
@@ -820,6 +813,13 @@
       "avatar": "https://icon.horse/icon/www.winegrower.cn"
     },
     {
+      "title": "每夫吐槽（117）",
+      "created": "2026-06-19 20:24",
+      "link": "https://pewae.com/2026/06/random_kuso_117.html",
+      "author": "破袜子",
+      "avatar": "https://icon.horse/icon/pewae.com"
+    },
+    {
       "title": "戒烟失败第一天",
       "created": "2026-06-19 15:32",
       "link": "https://ihaihe.cn/3658.htm",
@@ -827,25 +827,18 @@
       "avatar": "https://icon.horse/icon/ihaihe.cn"
     },
     {
+      "title": "终结者2：审判日",
+      "created": "2026-06-18 20:14",
+      "link": "https://pewae.com/2026/06/terminator-2-judgment-day.html",
+      "author": "破袜子",
+      "avatar": "https://icon.horse/icon/pewae.com"
+    },
+    {
       "title": "蓄意碰瓷",
       "created": "2026-06-18 00:26",
       "link": "https://zhou.ge/2026-06-17.html",
       "author": "忆往事",
       "avatar": "https://zhou.ge/favicon.ico"
-    },
-    {
-      "title": "",
-      "created": "2026-06-17 23:51",
-      "link": "https://www.ashsilent.com/shuoshuo/8488",
-      "author": "Ashsilent Planet",
-      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
-    },
-    {
-      "title": "",
-      "created": "2026-06-17 23:31",
-      "link": "https://www.ashsilent.com/shuoshuo/8486",
-      "author": "Ashsilent Planet",
-      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
     },
     {
       "title": "4S店靠啥赚钱",
@@ -862,13 +855,6 @@
       "avatar": "https://weavatar.com/avatar/9b3a681168a25e910954372e468fbc91"
     },
     {
-      "title": "",
-      "created": "2026-06-17 00:53",
-      "link": "https://www.ashsilent.com/shuoshuo/8485",
-      "author": "Ashsilent Planet",
-      "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
-    },
-    {
       "title": "[推广]酷鸭数据端午活动6.16开启！限时4天！",
       "created": "2026-06-16 22:11",
       "link": "https://laozhang.org/archives/4154.html",
@@ -881,6 +867,13 @@
       "link": "https://www.leolin86.com/archives/547/",
       "author": "拾风草堂",
       "avatar": "https://icon.horse/icon/www.leolin86.com"
+    },
+    {
+      "title": "世界杯瞎话第六季——苟死以利国家生",
+      "created": "2026-06-16 15:30",
+      "link": "https://pewae.com/2026/06/6th-world-cup-diray-1.html",
+      "author": "破袜子",
+      "avatar": "https://icon.horse/icon/pewae.com"
     },
     {
       "title": "人有多大胆，AI有多大产！",
@@ -993,6 +986,13 @@
       "link": "https://www.leolin86.com/archives/536/",
       "author": "拾风草堂",
       "avatar": "https://icon.horse/icon/www.leolin86.com"
+    },
+    {
+      "title": "魍魉战记",
+      "created": "2026-06-10 09:41",
+      "link": "https://pewae.com/2026/06/mouryou-senki-madara.html",
+      "author": "破袜子",
+      "avatar": "https://icon.horse/icon/pewae.com"
     },
     {
       "title": "2026年 激战2 常用网站和工具 #Guild wars 2",
@@ -1126,6 +1126,13 @@
       "link": "https://dongjunke.cn/posts/2026/05/30/47945.html",
       "author": "东评西就",
       "avatar": "https://icon.horse/icon/dongjunke.cn"
+    },
+    {
+      "title": "为什么不用相机把屏幕上的接关密码拍下来？",
+      "created": "2026-05-29 12:14",
+      "link": "https://pewae.com/2026/05/why-not-use-a-camera-to-take-a-photo-of-the-password-on-the-tv-screen.html",
+      "author": "破袜子",
+      "avatar": "https://icon.horse/icon/pewae.com"
     },
     {
       "title": "松声｜廿六年·五月行·小商桥",
@@ -1637,13 +1644,6 @@
       "link": "https://justgoidea.com/lisbon-spring/",
       "author": "槿呈Goidea",
       "avatar": "https://icon.horse/icon/justgoidea.com"
-    },
-    {
-      "title": "欧文再婚了",
-      "created": "2026-04-01 23:29",
-      "link": "https://hisherry.com/iramblings/4962/",
-      "author": "燕渡寒潭",
-      "avatar": "https://icon.horse/icon/hisherry.com"
     },
     {
       "title": "房子卖出去了",
