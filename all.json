@@ -1,10 +1,10 @@
 {
   "statistical_data": {
-    "friends_num": 54,
+    "friends_num": 55,
     "active_num": 47,
-    "error_num": 7,
+    "error_num": 8,
     "article_num": 399,
-    "last_updated_time": "2026-08-03 17:46:35"
+    "last_updated_time": "2026-08-03 22:40:12"
   },
   "article_data": [
     {
@@ -2556,6 +2556,13 @@
       "avatar": "https://icon.horse/icon/elizen.me"
     },
     {
+      "title": "2025 Biweekly Journal (0)",
+      "created": "2025-01-13 08:00",
+      "link": "https://elizen.me/posts/2025/01/2025-week1-and-week2.en.md/",
+      "author": "Elizen",
+      "avatar": "https://icon.horse/icon/elizen.me"
+    },
+    {
       "title": "2025 年双周记（〇）",
       "created": "2025-01-13 08:00",
       "link": "https://elizen.me/posts/2025/01/2025-week1-and-week2.zh.md/",
@@ -2659,13 +2666,6 @@
       "link": "https://demochen.com/posts/20240906/",
       "author": "特立独行的异类",
       "avatar": "https://demochen.com/images/avatar.png"
-    },
-    {
-      "title": "叁拾周刊#002",
-      "created": "2024-08-23 08:00",
-      "link": "https://elizen.me/posts/2024/08/weekly-review-002/",
-      "author": "Elizen",
-      "avatar": "https://icon.horse/icon/elizen.me"
     },
     {
       "title": "最难的事情是做选择",
