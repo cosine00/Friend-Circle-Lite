@@ -1,12 +1,19 @@
 {
   "statistical_data": {
-    "friends_num": 55,
-    "active_num": 46,
+    "friends_num": 56,
+    "active_num": 47,
     "error_num": 9,
-    "article_num": 379,
-    "last_updated_time": "2026-08-04 16:37:27"
+    "article_num": 399,
+    "last_updated_time": "2026-08-04 22:12:53"
   },
   "article_data": [
+    {
+      "title": "又一款Typecho主题 Nebula",
+      "created": "2026-08-04 18:49",
+      "link": "https://www.imsun.org/archives/1797.html",
+      "author": "老孙博客",
+      "avatar": "https://img.imsun.org/avatar.jpg"
+    },
     {
       "title": "一个令我印象深刻的小故事",
       "created": "2026-08-04 15:29",
@@ -20,6 +27,13 @@
       "link": "https://acevs.com/5147/",
       "author": "ACEVS",
       "avatar": "https://weavatar.com/avatar/ffc1ac2ecde17b2eb1caff3e94c119fdaea4dc1a947a08a3092b388bf9b454d0"
+    },
+    {
+      "title": "禅意红茶",
+      "created": "2026-08-04 08:00",
+      "link": "https://www.winegrower.cn/posts/1570-tea/",
+      "author": "winegrower",
+      "avatar": "https://icon.horse/icon/www.winegrower.cn"
     },
     {
       "title": "魔兽争霸思路",
@@ -589,6 +603,13 @@
       "avatar": "https://icon.horse/icon/anotherdayu.com"
     },
     {
+      "title": "于日常处 · 七月记",
+      "created": "2026-07-05 03:32",
+      "link": "https://bluehe.cn/archives/2026-diary",
+      "author": "云心怀鹤",
+      "avatar": "https://bluehe.cn/usr/uploads/2024/03/1678458078.png"
+    },
+    {
       "title": "",
       "created": "2026-07-05 00:51",
       "link": "https://www.ashsilent.com/shuoshuo/8497",
@@ -601,6 +622,13 @@
       "link": "https://itlu.net/articles/2857.html",
       "author": "挨踢路",
       "avatar": "https://icon.horse/icon/itlu.net"
+    },
+    {
+      "title": "腾讯云API接口自动快照教程",
+      "created": "2026-07-04 22:10",
+      "link": "https://bluehe.cn/archives/snapshot_backup",
+      "author": "云心怀鹤",
+      "avatar": "https://bluehe.cn/usr/uploads/2024/03/1678458078.png"
     },
     {
       "title": "日记本‌diary主题for Typecho",
@@ -692,6 +720,13 @@
       "link": "https://hux.ink/posts/013171/",
       "author": "落落vici",
       "avatar": "https://cravatar.cn/avatar/bb78cd69edd84cdbdb99a491ea2dc6c8"
+    },
+    {
+      "title": "从2022年建站至今，一次莫名其妙的CC攻击",
+      "created": "2026-06-30 02:28",
+      "link": "https://bluehe.cn/archives/2026-CC",
+      "author": "云心怀鹤",
+      "avatar": "https://bluehe.cn/usr/uploads/2024/03/1678458078.png"
     },
     {
       "title": "",
@@ -1331,6 +1366,13 @@
       "avatar": "https://icon.horse/icon/ihaihe.cn"
     },
     {
+      "title": "五一游记：走理小路，逛三星堆",
+      "created": "2026-05-24 02:44",
+      "link": "https://bluehe.cn/archives/sanxingdui-guide",
+      "author": "云心怀鹤",
+      "avatar": "https://bluehe.cn/usr/uploads/2024/03/1678458078.png"
+    },
+    {
       "title": "我的车",
       "created": "2026-05-23 22:59",
       "link": "https://hux.ink/posts/easy-go/",
@@ -1427,6 +1469,13 @@
       "link": "https://wangyunzi.com/posts/165/",
       "author": "长街短梦",
       "avatar": "https://icon.horse/icon/wangyunzi.com"
+    },
+    {
+      "title": "五一去川西：逛了四姑娘山双桥沟",
+      "created": "2026-05-11 06:13",
+      "link": "https://bluehe.cn/archives/chuanxi-selfdrive-route",
+      "author": "云心怀鹤",
+      "avatar": "https://bluehe.cn/usr/uploads/2024/03/1678458078.png"
     },
     {
       "title": "旗山湖公园",
@@ -1548,6 +1597,13 @@
       "avatar": "https://img.imsun.org/avatar.jpg"
     },
     {
+      "title": "下一代人有可能是人类演化的又一次分叉：论 AI 对教育和人性的威胁",
+      "created": "2026-04-26 12:25",
+      "link": "https://pathos.page/blog/ai-education-humanity/",
+      "author": "揆机",
+      "avatar": "https://icon.horse/icon/pathos.page"
+    },
+    {
       "title": "和H小姐的约会",
       "created": "2026-04-26 11:57",
       "link": "https://1900.live/he-hxiao-jie-de-yue-hui/",
@@ -1576,18 +1632,18 @@
       "avatar": "https://icon.horse/icon/hisherry.com"
     },
     {
-      "title": "最近在折腾电脑",
-      "created": "2026-04-23 01:22",
-      "link": "https://www.winegrower.cn/posts/1090/",
-      "author": "winegrower",
-      "avatar": "https://icon.horse/icon/www.winegrower.cn"
-    },
-    {
       "title": "2026 年 2-3 月书影音总结",
       "created": "2026-04-20 21:35",
       "link": "https://www.javis.me/2026-0203/",
       "author": "查令十字街84号",
       "avatar": "https://b.storyo.cn/upload/logo.png"
+    },
+    {
+      "title": "广西三月三假期是如何打开的？",
+      "created": "2026-04-20 20:00",
+      "link": "https://bluehe.cn/archives/guangxi-sanyuesan",
+      "author": "云心怀鹤",
+      "avatar": "https://bluehe.cn/usr/uploads/2024/03/1678458078.png"
     },
     {
       "title": "282、谷雨",
@@ -1623,6 +1679,13 @@
       "link": "https://1900.live/ye-ye/",
       "author": "1900'blog",
       "avatar": "https://cdn.1900.live/20190640/ico.png"
+    },
+    {
+      "title": "2026 春节叙事",
+      "created": "2026-04-13 06:25",
+      "link": "https://bluehe.cn/archives/spring-festival-2026",
+      "author": "云心怀鹤",
+      "avatar": "https://bluehe.cn/usr/uploads/2024/03/1678458078.png"
     },
     {
       "title": "春天好啊",
@@ -1665,6 +1728,13 @@
       "link": "https://ihaihe.cn/3619.htm",
       "author": "三十里海河",
       "avatar": "https://icon.horse/icon/ihaihe.cn"
+    },
+    {
+      "title": "论日本政治问题的根源",
+      "created": "2026-04-06 06:14",
+      "link": "https://pathos.page/blog/problem-of-japan/",
+      "author": "揆机",
+      "avatar": "https://icon.horse/icon/pathos.page"
     },
     {
       "title": "旅行日记·青岛",
@@ -1744,6 +1814,13 @@
       "avatar": "https://icon.horse/icon/veryjack.com"
     },
     {
+      "title": "Typecho优化： Mysql添加索引提高查询速度",
+      "created": "2026-03-28 06:50",
+      "link": "https://bluehe.cn/archives/mysql-typecho",
+      "author": "云心怀鹤",
+      "avatar": "https://bluehe.cn/usr/uploads/2024/03/1678458078.png"
+    },
+    {
       "title": "第3 封信：和小夏的特殊时刻",
       "created": "2026-03-25 21:16",
       "link": "https://www.javis.me/specialmomentswithmom/",
@@ -1758,6 +1835,20 @@
       "avatar": "https://zhou.ge/favicon.ico"
     },
     {
+      "title": "未进入哲学语境的学术翻译一例：关于格林伯格“How facts make law”的翻译",
+      "created": "2026-03-25 10:33",
+      "link": "https://pathos.page/blog/comment-on-a-translation/",
+      "author": "揆机",
+      "avatar": "https://icon.horse/icon/pathos.page"
+    },
+    {
+      "title": "盛世修典：广西美术馆特展",
+      "created": "2026-03-24 06:50",
+      "link": "https://bluehe.cn/archives/shengshi-xiudian-guangxi",
+      "author": "云心怀鹤",
+      "avatar": "https://bluehe.cn/usr/uploads/2024/03/1678458078.png"
+    },
+    {
       "title": "第2封信：考古过去",
       "created": "2026-03-23 22:30",
       "link": "https://www.javis.me/make-up-stories-of-past/",
@@ -1765,11 +1856,25 @@
       "avatar": "https://b.storyo.cn/upload/logo.png"
     },
     {
+      "title": "元宇宙已经破裂，但人形宠物即将到来",
+      "created": "2026-03-22 11:28",
+      "link": "https://pathos.page/blog/human-pet/",
+      "author": "揆机",
+      "avatar": "https://icon.horse/icon/pathos.page"
+    },
+    {
       "title": "三月多雨",
       "created": "2026-03-18 19:02",
       "link": "https://wangyunzi.com/posts/163/",
       "author": "长街短梦",
       "avatar": "https://icon.horse/icon/wangyunzi.com"
+    },
+    {
+      "title": "青秀山黄花风铃木：属于南宁绿城三月独有的浪漫",
+      "created": "2026-03-15 18:47",
+      "link": "https://bluehe.cn/archives/qingxiushan-fenglingmu-guide",
+      "author": "云心怀鹤",
+      "avatar": "https://bluehe.cn/usr/uploads/2024/03/1678458078.png"
     },
     {
       "title": "填不满的锚点",
@@ -1940,6 +2045,13 @@
       "avatar": "https://demochen.com/images/avatar.png"
     },
     {
+      "title": "哲学家如何度过一生",
+      "created": "2026-01-17 10:23",
+      "link": "https://pathos.page/blog/philosophy-declare/",
+      "author": "揆机",
+      "avatar": "https://icon.horse/icon/pathos.page"
+    },
+    {
       "title": "2025年终总结 | 糊弄又一年",
       "created": "2026-01-16 23:34",
       "link": "https://www.javis.me/hunong/",
@@ -1952,6 +2064,13 @@
       "link": "https://www.javis.me/4059/",
       "author": "查令十字街84号",
       "avatar": "https://b.storyo.cn/upload/logo.png"
+    },
+    {
+      "title": "中场叙事：对道德起源的想象",
+      "created": "2026-01-14 08:22",
+      "link": "https://pathos.page/blog/in-medias-res-narrative/",
+      "author": "揆机",
+      "avatar": "https://icon.horse/icon/pathos.page"
     },
     {
       "title": "AI翻译这么强，我为什么还在学英语？",
@@ -2003,6 +2122,13 @@
       "avatar": "https://icon.horse/icon/elizen.me"
     },
     {
+      "title": "宇宙坟场或梦与醒：对永生与轮回的想象",
+      "created": "2025-12-27 20:00",
+      "link": "https://pathos.page/blog/immortality-and-reincarnation/",
+      "author": "揆机",
+      "avatar": "https://icon.horse/icon/pathos.page"
+    },
+    {
       "title": "2025年记念",
       "created": "2025-12-27 09:41",
       "link": "https://wangyunzi.com/posts/161/",
@@ -2024,11 +2150,25 @@
       "avatar": "https://img.imsun.org/avatar.jpg"
     },
     {
+      "title": "AI 迫使我们重新思考资本主义",
+      "created": "2025-12-20 09:00",
+      "link": "https://pathos.page/blog/ai-and-capitalism/",
+      "author": "揆机",
+      "avatar": "https://icon.horse/icon/pathos.page"
+    },
+    {
       "title": "2025 年度幸福感好物分享",
       "created": "2025-12-15 23:35",
       "link": "https://veryjack.com/life/happiness_bringing_items_2025/",
       "author": "Jack's Space",
       "avatar": "https://icon.horse/icon/veryjack.com"
+    },
+    {
+      "title": "视角变换与类型变化：检讨哈特对奥斯丁的批评",
+      "created": "2025-12-13 08:47",
+      "link": "https://pathos.page/blog/hart-austin-1/",
+      "author": "揆机",
+      "avatar": "https://icon.horse/icon/pathos.page"
     },
     {
       "title": "彻底放弃收费 SSL 证书",
@@ -2038,11 +2178,11 @@
       "avatar": "https://joyqi.com/apple-touch-icon.png"
     },
     {
-      "title": "一个基于AI的Typecho辅助生成插件 AIHelper",
-      "created": "2025-12-03 11:50",
-      "link": "https://www.imsun.org/archives/1763.html",
-      "author": "老孙博客",
-      "avatar": "https://img.imsun.org/avatar.jpg"
+      "title": "道德判断中“第二通道”问题",
+      "created": "2025-12-10 08:40",
+      "link": "https://pathos.page/blog/second-channel/",
+      "author": "揆机",
+      "avatar": "https://icon.horse/icon/pathos.page"
     },
     {
       "title": "博客年终总结 ：2025 Ai贯穿工作生活",
