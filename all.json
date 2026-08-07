@@ -1,18 +1,39 @@
 {
   "statistical_data": {
-    "friends_num": 56,
+    "friends_num": 57,
     "active_num": 47,
-    "error_num": 9,
+    "error_num": 10,
     "article_num": 399,
-    "last_updated_time": "2026-08-07 15:16:18"
+    "last_updated_time": "2026-08-07 21:04:20"
   },
   "article_data": [
+    {
+      "title": "休止符",
+      "created": "2026-08-07 16:19",
+      "link": "https://zhongxiaojie.cn/2026/08/1718/",
+      "author": "obaby",
+      "avatar": "https://icon.horse/icon/h4ck.org.cn"
+    },
+    {
+      "title": "竹知了玩具视频下架",
+      "created": "2026-08-07 15:40",
+      "link": "https://acevs.com/5153/",
+      "author": "ACEVS",
+      "avatar": "https://weavatar.com/avatar/ffc1ac2ecde17b2eb1caff3e94c119fdaea4dc1a947a08a3092b388bf9b454d0"
+    },
     {
       "title": "289、立秋",
       "created": "2026-08-07 12:20",
       "link": "https://1900.live/289-li-qiu/",
       "author": "1900'blog",
       "avatar": "https://cdn.1900.live/20190640/ico.png"
+    },
+    {
+      "title": "只是忘了",
+      "created": "2026-08-07 07:00",
+      "link": "https://justgoidea.com/zhi-shi-wang-le/",
+      "author": "槿呈Goidea",
+      "avatar": "https://icon.horse/icon/justgoidea.com"
     },
     {
       "title": "Hello，未来世界的代理人们",
@@ -34,6 +55,13 @@
       "link": "https://www.javis.me/2026-07/",
       "author": "查令十字街84号",
       "avatar": "https://b.storyo.cn/upload/logo.png"
+    },
+    {
+      "title": "关于世界",
+      "created": "2026-08-05 17:47",
+      "link": "https://www.seis-jun.xyz/blog/2026-08-05-about-the-world.html",
+      "author": "SEISAMUSE",
+      "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
     },
     {
       "title": "几个软件测试",
@@ -71,6 +99,13 @@
       "avatar": "https://icon.horse/icon/www.winegrower.cn"
     },
     {
+      "title": "Paper Reading (65)",
+      "created": "2026-08-03 22:04",
+      "link": "https://www.seis-jun.xyz/blog/2026-08-03-paper-reading-65.html",
+      "author": "SEISAMUSE",
+      "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
+    },
+    {
       "title": "魔兽争霸思路",
       "created": "2026-08-03 14:01",
       "link": "https://acevs.com/5144/",
@@ -78,11 +113,11 @@
       "avatar": "https://weavatar.com/avatar/ffc1ac2ecde17b2eb1caff3e94c119fdaea4dc1a947a08a3092b388bf9b454d0"
     },
     {
-      "title": "寻求家庭最佳无线网络方案",
-      "created": "2026-08-03 06:09",
-      "link": "https://laozhang.org/archives/4262.html",
-      "author": "老张博客",
-      "avatar": "https://icon.horse/icon/laozhang.org"
+      "title": "Paper Reading (64)",
+      "created": "2026-08-03 05:28",
+      "link": "https://www.seis-jun.xyz/blog/2026-08-02-paper-reading-64.html",
+      "author": "SEISAMUSE",
+      "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
     },
     {
       "title": "马虎大意险酿错",
@@ -120,6 +155,13 @@
       "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
     },
     {
+      "title": "关于博客写作",
+      "created": "2026-08-01 18:03",
+      "link": "https://www.seis-jun.xyz/blog/2026-08-01-about-writing.html",
+      "author": "SEISAMUSE",
+      "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
+    },
+    {
       "title": "碎片2026年8月1日",
       "created": "2026-08-01 16:39",
       "link": "https://acevs.com/5140/",
@@ -132,6 +174,13 @@
       "link": "https://leoreo.me/p/141.html",
       "author": "子夜集",
       "avatar": "https://icon.horse/icon/leoreo.me"
+    },
+    {
+      "title": "Stay Foolish",
+      "created": "2026-08-01 06:08",
+      "link": "https://www.seis-jun.xyz/blog/2026-07-31-stay-foolish.html",
+      "author": "SEISAMUSE",
+      "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
     },
     {
       "title": "Hugo 静态博客管理的姿势",
@@ -155,13 +204,6 @@
       "avatar": "https://weavatar.com/avatar/ffc1ac2ecde17b2eb1caff3e94c119fdaea4dc1a947a08a3092b388bf9b454d0"
     },
     {
-      "title": "隔行如隔山，放弃吧！",
-      "created": "2026-07-31 09:25",
-      "link": "https://laozhang.org/archives/4242.html",
-      "author": "老张博客",
-      "avatar": "https://icon.horse/icon/laozhang.org"
-    },
-    {
       "title": "思考就像虫洞",
       "created": "2026-07-31 08:00",
       "link": "https://elizen.me/posts/2026/07/thinking-is-like-a-wormhole/",
@@ -174,6 +216,20 @@
       "link": "https://acevs.com/5136/",
       "author": "ACEVS",
       "avatar": "https://weavatar.com/avatar/ffc1ac2ecde17b2eb1caff3e94c119fdaea4dc1a947a08a3092b388bf9b454d0"
+    },
+    {
+      "title": "关于论文（2）",
+      "created": "2026-07-30 06:45",
+      "link": "https://www.seis-jun.xyz/blog/2026-07-29-about-paper2.html",
+      "author": "SEISAMUSE",
+      "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
+    },
+    {
+      "title": "关于科研",
+      "created": "2026-07-30 04:57",
+      "link": "https://www.seis-jun.xyz/blog/2026-07-29-about-research.html",
+      "author": "SEISAMUSE",
+      "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
     },
     {
       "title": "从置物架说起",
@@ -197,6 +253,13 @@
       "avatar": "https://icon.horse/icon/www.winegrower.cn"
     },
     {
+      "title": "YOLO图片检测怎么整",
+      "created": "2026-07-29 06:02",
+      "link": "https://www.seis-jun.xyz/blog/2026-07-28-yolo-training-on-gpu1.html",
+      "author": "SEISAMUSE",
+      "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
+    },
+    {
       "title": "聊聊Riven主题后续",
       "created": "2026-07-28 18:59",
       "link": "https://zhoutian.com/391.html",
@@ -204,18 +267,18 @@
       "avatar": "https://weavatar.com/avatar/9b3a681168a25e910954372e468fbc91"
     },
     {
-      "title": "热的开空调了",
-      "created": "2026-07-28 12:49",
-      "link": "https://acevs.com/5132/",
-      "author": "ACEVS",
-      "avatar": "https://weavatar.com/avatar/ffc1ac2ecde17b2eb1caff3e94c119fdaea4dc1a947a08a3092b388bf9b454d0"
-    },
-    {
       "title": "每夫吐槽（118）",
       "created": "2026-07-27 21:42",
       "link": "https://pewae.com/2026/07/random_kuso_118.html",
       "author": "破袜子",
       "avatar": "https://icon.horse/icon/pewae.com"
+    },
+    {
+      "title": "花钱买了票看了电影也来评《八仙！》",
+      "created": "2026-07-27 18:00",
+      "link": "https://www.seis-jun.xyz/blog/2026-07-27-about-ba-xian.html",
+      "author": "SEISAMUSE",
+      "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
     },
     {
       "title": "复刻足迹页面",
@@ -314,6 +377,13 @@
       "link": "https://hux.ink/posts/yu-yi-zhi-xia/",
       "author": "落落vici",
       "avatar": "https://cravatar.cn/avatar/bb78cd69edd84cdbdb99a491ea2dc6c8"
+    },
+    {
+      "title": "关于认知",
+      "created": "2026-07-21 16:13",
+      "link": "https://www.seis-jun.xyz/blog/2026-07-21-about-cognition.html",
+      "author": "SEISAMUSE",
+      "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
     },
     {
       "title": "会后悔吗",
@@ -461,13 +531,6 @@
       "link": "https://www.winegrower.cn/posts/1393/",
       "author": "winegrower",
       "avatar": "https://icon.horse/icon/www.winegrower.cn"
-    },
-    {
-      "title": "“暑假综合症”犯了，得“治”！",
-      "created": "2026-07-14 15:20",
-      "link": "https://laozhang.org/archives/4230.html",
-      "author": "老张博客",
-      "avatar": "https://icon.horse/icon/laozhang.org"
     },
     {
       "title": "Baby APP备案辅助工具",
@@ -652,13 +715,6 @@
       "avatar": "https://bluehe.cn/usr/uploads/2024/03/1678458078.png"
     },
     {
-      "title": "日记本‌diary主题for Typecho",
-      "created": "2026-07-04 16:18",
-      "link": "https://laozhang.org/archives/4211.html",
-      "author": "老张博客",
-      "avatar": "https://icon.horse/icon/laozhang.org"
-    },
-    {
       "title": "两个 2-1 之间",
       "created": "2026-07-04 06:40",
       "link": "https://justgoidea.com/between-two-2-1s/",
@@ -757,13 +813,6 @@
       "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
     },
     {
-      "title": "打针💉",
-      "created": "2026-06-29 22:21",
-      "link": "https://zhongxiaojie.cn/2026/06/1567/",
-      "author": "obaby",
-      "avatar": "https://icon.horse/icon/h4ck.org.cn"
-    },
-    {
       "title": "暗夜情报员第三季",
       "created": "2026-06-29 08:00",
       "link": "https://jefftay.com/movies/the-night-agent-season-3",
@@ -839,13 +888,6 @@
       "link": "https://anotherdayu.com/my-backpack/",
       "author": "Dayu",
       "avatar": "https://icon.horse/icon/anotherdayu.com"
-    },
-    {
-      "title": "Telegram群抽奖机器人，开源了！",
-      "created": "2026-06-24 10:15",
-      "link": "https://laozhang.org/archives/4173.html",
-      "author": "老张博客",
-      "avatar": "https://icon.horse/icon/laozhang.org"
     },
     {
       "title": "周氏祠堂上梁",
@@ -1044,13 +1086,6 @@
       "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
     },
     {
-      "title": "[推广]酷鸭数据端午活动6.16开启！限时4天！",
-      "created": "2026-06-16 22:11",
-      "link": "https://laozhang.org/archives/4154.html",
-      "author": "老张博客",
-      "avatar": "https://icon.horse/icon/laozhang.org"
-    },
-    {
       "title": "杂记-20260616",
       "created": "2026-06-16 21:45",
       "link": "https://www.leolin86.com/archives/547/",
@@ -1063,13 +1098,6 @@
       "link": "https://pewae.com/2026/06/6th-world-cup-diray-1.html",
       "author": "破袜子",
       "avatar": "https://icon.horse/icon/pewae.com"
-    },
-    {
-      "title": "人有多大胆，AI有多大产！",
-      "created": "2026-06-16 13:58",
-      "link": "https://laozhang.org/archives/4122.html",
-      "author": "老张博客",
-      "avatar": "https://icon.horse/icon/laozhang.org"
     },
     {
       "title": "Beren 与 Lúthien 长眠处",
@@ -1156,13 +1184,6 @@
       "avatar": "https://icon.horse/icon/dongjunke.cn"
     },
     {
-      "title": "老张博客更换Riven主题了！",
-      "created": "2026-06-11 16:22",
-      "link": "https://laozhang.org/archives/4096.html",
-      "author": "老张博客",
-      "avatar": "https://icon.horse/icon/laozhang.org"
-    },
-    {
       "title": "现在的孩子都怎么了",
       "created": "2026-06-11 07:45",
       "link": "https://itlu.net/articles/2854.html",
@@ -1212,13 +1233,6 @@
       "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
     },
     {
-      "title": "wordpress兰空图床插件V2版",
-      "created": "2026-06-08 21:51",
-      "link": "https://laozhang.org/archives/4070.html",
-      "author": "老张博客",
-      "avatar": "https://icon.horse/icon/laozhang.org"
-    },
-    {
       "title": "换Riven主题",
       "created": "2026-06-08 05:06",
       "link": "https://www.leolin86.com/archives/531/",
@@ -1245,13 +1259,6 @@
       "link": "https://1900.live/285-mang-chong/",
       "author": "1900'blog",
       "avatar": "https://cdn.1900.live/20190640/ico.png"
-    },
-    {
-      "title": "WordPress首页调用typecho教程（1.3.0版）",
-      "created": "2026-06-04 14:02",
-      "link": "https://laozhang.org/archives/4067.html",
-      "author": "老张博客",
-      "avatar": "https://icon.horse/icon/laozhang.org"
     },
     {
       "title": "异乡的乡音",
@@ -1882,13 +1889,6 @@
       "link": "https://bluehe.cn/archives/qingxiushan-fenglingmu-guide",
       "author": "云心怀鹤",
       "avatar": "https://bluehe.cn/usr/uploads/2024/03/1678458078.png"
-    },
-    {
-      "title": "填不满的锚点",
-      "created": "2026-03-15 04:40",
-      "link": "https://justgoidea.com/tian-bu-man-de-mao-dian/",
-      "author": "槿呈Goidea",
-      "avatar": "https://icon.horse/icon/justgoidea.com"
     },
     {
       "title": "过期牛奶还能不能喝？",
