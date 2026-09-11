@@ -149,7 +149,10 @@ def parse_feed(url, session, count=5):
             if i >= count:
                 break
             
-            published = format_published_time(entry.published) if 'published' in entry else ''
+            # 优先使用 published；部分 Feed 只提供 updated。都没有时保留为空，
+            # 后续排序函数会将无时间文章放到末尾，避免整个任务因空时间中断。
+            raw_published = entry.get('published') or entry.get('updated') or ''
+            published = format_published_time(raw_published) if raw_published else ''
             article = {
                 'title': entry.title if 'title' in entry else '',
                 'author': entry.author if 'author' in entry else '',
@@ -182,8 +185,21 @@ def process_friend(friend, session, count):
     返回：
     dict: 包含朋友博客信息的字典。
     """
-    name, blog_url, avatar = friend
-    feed_type, feed_url = check_feed(blog_url, session)
+    # 兼容两种友链格式：
+    # [name, blog_url, avatar]
+    # [name, blog_url, avatar, feed_url]
+    # 如果配置中已经显式提供 feed_url，就直接使用，避免 4 个字段解包报错。
+    if len(friend) < 3:
+        raise ValueError(f"友链配置字段不足，至少需要 name、blog_url、avatar：{friend}")
+
+    name, blog_url, avatar = friend[:3]
+    custom_feed_url = friend[3] if len(friend) >= 4 and friend[3] else None
+
+    if custom_feed_url:
+        feed_type, feed_url = 'custom', custom_feed_url
+    else:
+        feed_type, feed_url = check_feed(blog_url, session)
+
     print(f"========“{name}”的博客“{blog_url}”的feed类型为“{feed_type}”========")
 
     if feed_type != 'none':
@@ -291,9 +307,21 @@ def sort_articles_by_time(data):
     dict: 按时间排序后的文章信息字典
     """
     if 'article_data' in data:
+        def parse_created(article):
+            """将文章时间转换为 datetime；缺失或异常时间统一排到最后。"""
+            created = (article.get('created') or '').strip()
+            if not created:
+                return datetime.min
+
+            try:
+                return datetime.strptime(created, '%Y-%m-%d %H:%M')
+            except (ValueError, TypeError):
+                print(f"文章时间格式异常，已排到末尾：{article.get('title', '')}，时间：{created}")
+                return datetime.min
+
         sorted_articles = sorted(
             data['article_data'],
-            key=lambda x: datetime.strptime(x['created'], '%Y-%m-%d %H:%M'),
+            key=parse_created,
             reverse=True
         )
         data['article_data'] = sorted_articles
