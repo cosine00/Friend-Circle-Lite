@@ -1,12 +1,26 @@
 {
   "statistical_data": {
     "friends_num": 64,
-    "active_num": 53,
-    "error_num": 11,
+    "active_num": 52,
+    "error_num": 12,
     "article_num": 459,
-    "last_updated_time": "2026-09-14 11:50:43"
+    "last_updated_time": "2026-09-14 20:05:14"
   },
   "article_data": [
+    {
+      "title": "从Fedora40 升级到 Fedora44",
+      "created": "2026-09-14 23:32",
+      "link": "https://www.seis-jun.xyz/blog/2026-09-14-upgrade-fedora40-to-feodra44.html",
+      "author": "SEISAMUSE",
+      "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
+    },
+    {
+      "title": "随笔",
+      "created": "2026-09-14 20:27",
+      "link": "https://www.seis-jun.xyz/blog/2026-09-14-suibi.html",
+      "author": "SEISAMUSE",
+      "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
+    },
     {
       "title": "「存货」在青岛中山路的一次简单记录",
       "created": "2026-09-14 16:35",
@@ -27,6 +41,13 @@
       "link": "https://www.seis-jun.xyz/blog/2026-09-14-my-view-of-raising-child.html",
       "author": "SEISAMUSE",
       "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
+    },
+    {
+      "title": "你可以从大学带走什么（转载）",
+      "created": "2026-09-14 12:33",
+      "link": "https://acevs.com/5231/",
+      "author": "ACEVS",
+      "avatar": "https://weavatar.com/avatar/ffc1ac2ecde17b2eb1caff3e94c119fdaea4dc1a947a08a3092b388bf9b454d0"
     },
     {
       "title": "奇异莓",
@@ -111,6 +132,20 @@
       "link": "https://acevs.com/5229/",
       "author": "ACEVS",
       "avatar": "https://weavatar.com/avatar/ffc1ac2ecde17b2eb1caff3e94c119fdaea4dc1a947a08a3092b388bf9b454d0"
+    },
+    {
+      "title": "大疆 Pocket 4P",
+      "created": "2026-09-13 08:00",
+      "link": "https://spark.hux.ink/tools/osmo-pocket-4p",
+      "author": "迷途未远",
+      "avatar": "https://icon.horse/icon/spark.hux.ink"
+    },
+    {
+      "title": "利器",
+      "created": "2026-09-13 08:00",
+      "link": "https://spark.hux.ink/tools/",
+      "author": "迷途未远",
+      "avatar": "https://icon.horse/icon/spark.hux.ink"
     },
     {
       "title": "周末流水账 0912",
@@ -211,25 +246,11 @@
       "avatar": "https://icon.horse/icon/9sb.net"
     },
     {
-      "title": "风骚律师第二集",
-      "created": "2026-09-11 04:55",
-      "link": "https://www.seis-jun.xyz/blog/2026-09-10-better-call-saul2.html",
-      "author": "SEISAMUSE",
-      "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
-    },
-    {
       "title": "爹味人的自由",
       "created": "2026-09-10 20:00",
       "link": "https://blog.solazy.me/20260910/",
       "author": "So!azy",
       "avatar": "https://icon.horse/icon/blog.solazy.me"
-    },
-    {
-      "title": "我的邻居",
-      "created": "2026-09-10 16:23",
-      "link": "https://www.seis-jun.xyz/blog/2026-09-10-my-neighbour.html",
-      "author": "SEISAMUSE",
-      "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
     },
     {
       "title": "伞绳绳结学习记录",
@@ -407,13 +428,6 @@
       "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
     },
     {
-      "title": "建设性放纵",
-      "created": "2026-09-06 08:00",
-      "link": "https://spark.hux.ink/constructive-indulgence",
-      "author": "迷途未远",
-      "avatar": "https://icon.horse/icon/spark.hux.ink"
-    },
-    {
       "title": "又拍云联盟下架，没有羊毛可薅",
       "created": "2026-09-06 06:40",
       "link": "https://itlu.net/articles/2859.html",
@@ -477,13 +491,6 @@
       "avatar": "https://icon.horse/icon/www.winegrower.cn"
     },
     {
-      "title": "碎片2026-09-04",
-      "created": "2026-09-04 15:30",
-      "link": "https://acevs.com/5211/",
-      "author": "ACEVS",
-      "avatar": "https://weavatar.com/avatar/ffc1ac2ecde17b2eb1caff3e94c119fdaea4dc1a947a08a3092b388bf9b454d0"
-    },
-    {
       "title": "罩亮前程👙",
       "created": "2026-09-04 15:12",
       "link": "https://zhongxiaojie.cn/2026/09/1840/",
@@ -517,13 +524,6 @@
       "link": "https://laozhang.org/archives/4327.html",
       "author": "老张博客",
       "avatar": "https://icon.horse/icon/laozhang.org"
-    },
-    {
-      "title": "如此鲁达",
-      "created": "2026-09-03 08:00",
-      "link": "https://spark.hux.ink/log/zhishen-lu",
-      "author": "迷途未远",
-      "avatar": "https://icon.horse/icon/spark.hux.ink"
     },
     {
       "title": "人人都能玩的 AI 玩具 —— AI Passport",
