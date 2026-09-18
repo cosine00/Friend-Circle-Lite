@@ -1,12 +1,33 @@
 {
   "statistical_data": {
     "friends_num": 63,
-    "active_num": 52,
-    "error_num": 11,
-    "article_num": 449,
-    "last_updated_time": "2026-09-18 05:03:25"
+    "active_num": 51,
+    "error_num": 12,
+    "article_num": 439,
+    "last_updated_time": "2026-09-18 11:38:07"
   },
   "article_data": [
+    {
+      "title": "爱睡觉的鸟",
+      "created": "2026-09-18 15:42",
+      "link": "https://www.seis-jun.xyz/blog/2026-09-18-jotting.html",
+      "author": "SEISAMUSE",
+      "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
+    },
+    {
+      "title": "夜跑",
+      "created": "2026-09-18 11:10",
+      "link": "https://zhongxiaojie.cn/2026/09/1936/",
+      "author": "obaby",
+      "avatar": "https://icon.horse/icon/h4ck.org.cn"
+    },
+    {
+      "title": "碎片2026-09-18",
+      "created": "2026-09-18 10:10",
+      "link": "https://acevs.com/5239/",
+      "author": "ACEVS",
+      "avatar": "https://weavatar.com/avatar/ffc1ac2ecde17b2eb1caff3e94c119fdaea4dc1a947a08a3092b388bf9b454d0"
+    },
     {
       "title": "大数据杀熟真可恶",
       "created": "2026-09-18 03:47",
@@ -232,13 +253,6 @@
       "avatar": "https://cravatar.cn/avatar/bb78cd69edd84cdbdb99a491ea2dc6c8"
     },
     {
-      "title": "我的育儿理念",
-      "created": "2026-09-14 15:32",
-      "link": "https://www.seis-jun.xyz/blog/2026-09-14-my-view-of-raising-child.html",
-      "author": "SEISAMUSE",
-      "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
-    },
-    {
       "title": "你可以从大学带走什么（转载）",
       "created": "2026-09-14 12:33",
       "link": "https://acevs.com/5231/",
@@ -258,13 +272,6 @@
       "link": "https://blog.solazy.me/20260913/",
       "author": "So!azy",
       "avatar": "https://icon.horse/icon/blog.solazy.me"
-    },
-    {
-      "title": "喜力星银·2026大连草莓音乐节第一场",
-      "created": "2026-09-13 19:03",
-      "link": "https://pewae.com/2026/09/heineken-silver-c2b7-20-26-dalian-strawberry-festival-first-race.html",
-      "author": "破袜子",
-      "avatar": "https://icon.horse/icon/pewae.com"
     },
     {
       "title": "大疆 Pocket 4P",
@@ -407,13 +414,6 @@
       "avatar": "https://icon.horse/icon/h4ck.org.cn"
     },
     {
-      "title": "tplink44an双摄同时加入sa6400",
-      "created": "2026-09-08 10:44",
-      "link": "https://acevs.com/5219/",
-      "author": "ACEVS",
-      "avatar": "https://weavatar.com/avatar/ffc1ac2ecde17b2eb1caff3e94c119fdaea4dc1a947a08a3092b388bf9b454d0"
-    },
-    {
       "title": "终究还是要搬家了",
       "created": "2026-09-07 23:00",
       "link": "https://blog.solazy.me/20260907/",
@@ -505,13 +505,6 @@
       "avatar": "https://weavatar.com/avatar/9b3a681168a25e910954372e468fbc91"
     },
     {
-      "title": "水中的荷花它的叶子已残",
-      "created": "2026-09-04 20:34",
-      "link": "https://pewae.com/2026/09/farewell-the-son-of-qilin.html",
-      "author": "破袜子",
-      "avatar": "https://icon.horse/icon/pewae.com"
-    },
-    {
       "title": "以后就不麻烦您了",
       "created": "2026-09-04 19:58",
       "link": "https://hux.ink/posts/leave-me-alone/",
@@ -601,13 +594,6 @@
       "link": "https://zhongxiaojie.cn/2026/08/1798/",
       "author": "obaby",
       "avatar": "https://icon.horse/icon/h4ck.org.cn"
-    },
-    {
-      "title": "每夫吐槽（119）",
-      "created": "2026-08-31 15:10",
-      "link": "https://pewae.com/2026/08/random_kuso_119.html",
-      "author": "破袜子",
-      "avatar": "https://icon.horse/icon/pewae.com"
     },
     {
       "title": "神兽归笼",
@@ -806,32 +792,11 @@
       "avatar": "https://icon.horse/icon/ihaihe.cn"
     },
     {
-      "title": "acme.sh 从Webroot改为 NameSilo DNS 申请通配符证书踩坑记",
-      "created": "2026-08-21 12:18",
-      "link": "https://pewae.com/2026/08/migrating-acme-sh-from-webroot-validation-to-namesilo-dns-for-lets-encrypt-wildcard-certificates.html",
-      "author": "破袜子",
-      "avatar": "https://icon.horse/icon/pewae.com"
-    },
-    {
-      "title": "Portable Claw – 手机龙虾客户端",
-      "created": "2026-08-20 09:19",
-      "link": "https://zhongxiaojie.cn/2026/08/1631/",
-      "author": "obaby",
-      "avatar": "https://icon.horse/icon/h4ck.org.cn"
-    },
-    {
       "title": "二十年前的礼物",
       "created": "2026-08-20 04:42",
       "link": "https://www.winegrower.cn/posts/1574-qixi/",
       "author": "winegrower",
       "avatar": "https://icon.horse/icon/www.winegrower.cn"
-    },
-    {
-      "title": "看图不说话20260819",
-      "created": "2026-08-19 22:22",
-      "link": "https://pewae.com/2026/08/picture-without-description-20260819.html",
-      "author": "破袜子",
-      "avatar": "https://icon.horse/icon/pewae.com"
     },
     {
       "title": "复议&amp;老宅",
@@ -1016,13 +981,6 @@
       "avatar": "https://icon.horse/icon/laozhang.org"
     },
     {
-      "title": "长安二十时辰",
-      "created": "2026-08-07 23:56",
-      "link": "https://pewae.com/2026/08/changan-twenty-hours.html",
-      "author": "破袜子",
-      "avatar": "https://icon.horse/icon/pewae.com"
-    },
-    {
       "title": "羡慕",
       "created": "2026-08-07 23:14",
       "link": "https://ihaihe.cn/3678.htm",
@@ -1177,13 +1135,6 @@
       "avatar": "https://icon.horse/icon/www.pelayoarbues.com"
     },
     {
-      "title": "每夫吐槽（118）",
-      "created": "2026-07-27 21:42",
-      "link": "https://pewae.com/2026/07/random_kuso_118.html",
-      "author": "破袜子",
-      "avatar": "https://icon.horse/icon/pewae.com"
-    },
-    {
       "title": "邓煜、王虹：获奖理由、人物短片与记者问答翻译",
       "created": "2026-07-27 17:58",
       "link": "https://yipai.me/post/2542.html",
@@ -1196,13 +1147,6 @@
       "link": "https://zhoutian.com/389.html",
       "author": "满心记",
       "avatar": "https://weavatar.com/avatar/9b3a681168a25e910954372e468fbc91"
-    },
-    {
-      "title": "家长会之暗人不说明话",
-      "created": "2026-07-23 22:57",
-      "link": "https://pewae.com/2026/07/twenty-second-parents-and-teachers-committee.html",
-      "author": "破袜子",
-      "avatar": "https://icon.horse/icon/pewae.com"
     },
     {
       "title": "云南大理",
@@ -1266,13 +1210,6 @@
       "link": "https://zhoutian.com/388.html",
       "author": "满心记",
       "avatar": "https://weavatar.com/avatar/9b3a681168a25e910954372e468fbc91"
-    },
-    {
-      "title": "世界杯瞎话第六季——好球",
-      "created": "2026-07-20 18:46",
-      "link": "https://pewae.com/2026/07/6th-world-cup-diray-4.html",
-      "author": "破袜子",
-      "avatar": "https://icon.horse/icon/pewae.com"
     },
     {
       "title": "听风就是雨与先射箭后画靶",
@@ -1539,13 +1476,6 @@
       "link": "https://xyzbz.cn/archives/1557/",
       "author": "网友小宋",
       "avatar": "https://icon.horse/icon/xyzbz.cn"
-    },
-    {
-      "title": "世界杯瞎话第六季——滚滚滚滚滚滚长江东逝水",
-      "created": "2026-06-30 15:41",
-      "link": "https://pewae.com/2026/06/6th-world-cup-diray-3.html",
-      "author": "破袜子",
-      "avatar": "https://icon.horse/icon/pewae.com"
     },
     {
       "title": "Louie Wang：来之不易的教训",
