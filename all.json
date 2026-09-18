@@ -1,12 +1,19 @@
 {
   "statistical_data": {
     "friends_num": 63,
-    "active_num": 51,
-    "error_num": 12,
+    "active_num": 50,
+    "error_num": 13,
     "article_num": 439,
-    "last_updated_time": "2026-09-19 00:00:42"
+    "last_updated_time": "2026-09-19 04:34:12"
   },
   "article_data": [
+    {
+      "title": "侠探杰克第四季",
+      "created": "2026-09-19 08:00",
+      "link": "https://jefftay.com/movies/reacher-season-4",
+      "author": "陈仓颉",
+      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
+    },
     {
       "title": "什么是懂了？",
       "created": "2026-09-18 20:35",
@@ -853,13 +860,6 @@
       "link": "https://hjyl.org/geely-first-maintenance/",
       "author": "皇家园林",
       "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
-    },
-    {
-      "title": "一手遮天",
-      "created": "2026-08-16 08:00",
-      "link": "https://jefftay.com/movies/the-butchers-blade",
-      "author": "陈仓颉",
-      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
     },
     {
       "title": "松声｜廿六年·八月中·秋意近",
