@@ -1,12 +1,19 @@
 {
   "statistical_data": {
     "friends_num": 63,
-    "active_num": 50,
-    "error_num": 13,
+    "active_num": 51,
+    "error_num": 12,
     "article_num": 439,
-    "last_updated_time": "2026-09-19 11:35:13"
+    "last_updated_time": "2026-09-19 18:29:06"
   },
   "article_data": [
+    {
+      "title": "桂花还没有醒",
+      "created": "2026-09-19 20:49",
+      "link": "https://www.seis-jun.xyz/blog/2026-09-19-sleeping-osmanthus.html",
+      "author": "SEISAMUSE",
+      "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
+    },
     {
       "title": "庖细解鹅",
       "created": "2026-09-19 16:57",
@@ -237,13 +244,6 @@
       "link": "https://itlu.net/articles/2860.html",
       "author": "挨踢路",
       "avatar": "https://icon.horse/icon/itlu.net"
-    },
-    {
-      "title": "AI是一个太监？",
-      "created": "2026-09-15 03:01",
-      "link": "https://www.seis-jun.xyz/blog/2026-09-14-ai-is-eunuch.html",
-      "author": "SEISAMUSE",
-      "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
     },
     {
       "title": "细数一下我所有的离职瞬间",
