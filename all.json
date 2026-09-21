@@ -1,12 +1,26 @@
 {
   "statistical_data": {
     "friends_num": 63,
-    "active_num": 50,
-    "error_num": 13,
-    "article_num": 429,
-    "last_updated_time": "2026-09-21 11:47:19"
+    "active_num": 51,
+    "error_num": 12,
+    "article_num": 439,
+    "last_updated_time": "2026-09-21 20:14:02"
   },
   "article_data": [
+    {
+      "title": "文献每日一读",
+      "created": "2026-09-22 00:00",
+      "link": "https://www.seis-jun.xyz/blog/2026-09-21-paper-read.html",
+      "author": "SEISAMUSE",
+      "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
+    },
+    {
+      "title": "我们每个人都在演II",
+      "created": "2026-09-21 20:28",
+      "link": "https://www.seis-jun.xyz/blog/2026-09-21-every-body-is-actingII.html",
+      "author": "SEISAMUSE",
+      "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
+    },
     {
       "title": "抢到腾讯新输入法 Chatterfly 内测，说说我的试用感受",
       "created": "2026-09-21 17:26",
@@ -20,6 +34,13 @@
       "link": "https://www.seis-jun.xyz/blog/2026-09-21-invisible-glasses.html",
       "author": "SEISAMUSE",
       "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
+    },
+    {
+      "title": "写在两份工作的 Gap 之时",
+      "created": "2026-09-21 14:00",
+      "link": "https://blog.solazy.me/20260921/",
+      "author": "So!azy",
+      "avatar": "https://icon.horse/icon/blog.solazy.me"
     },
     {
       "title": "学习英雄无敌3玩法",
@@ -69,6 +90,13 @@
       "link": "https://sheep5.net/archives/79917/",
       "author": "Sheep5的博客",
       "avatar": "https://icon.horse/icon/sheep5.net"
+    },
+    {
+      "title": "或许没人关心的细节",
+      "created": "2026-09-20 23:00",
+      "link": "https://blog.solazy.me/20260920/",
+      "author": "So!azy",
+      "avatar": "https://icon.horse/icon/blog.solazy.me"
     },
     {
       "title": "一杯一杯，喝到冰雪王",
@@ -225,13 +253,6 @@
       "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
     },
     {
-      "title": "童年阴影",
-      "created": "2026-09-17 15:08",
-      "link": "https://www.seis-jun.xyz/blog/2026-09-17-childhood-trauma.html",
-      "author": "SEISAMUSE",
-      "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
-    },
-    {
       "title": "之前新办的手机号问题",
       "created": "2026-09-17 09:44",
       "link": "https://acevs.com/5237/",
@@ -258,13 +279,6 @@
       "link": "https://9sb.net/archives/microsoft-takes-action-e3-free-space-is-completely-cool.html",
       "author": "Huo",
       "avatar": "https://icon.horse/icon/9sb.net"
-    },
-    {
-      "title": "随笔",
-      "created": "2026-09-16 20:35",
-      "link": "https://www.seis-jun.xyz/blog/2026-09-16-jotting.html",
-      "author": "SEISAMUSE",
-      "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
     },
     {
       "title": "碎片2026-09-16",
@@ -414,6 +428,13 @@
       "avatar": "https://icon.horse/icon/blog.solazy.me"
     },
     {
+      "title": "爱是注意力",
+      "created": "2026-09-11 16:57",
+      "link": "https://leoreo.me/p/148.html",
+      "author": "子夜集",
+      "avatar": "https://icon.horse/icon/leoreo.me"
+    },
+    {
       "title": "未成年人保护法究竟保护了谁",
       "created": "2026-09-11 09:08",
       "link": "https://www.imsun.org/archives/1798.html",
@@ -442,13 +463,6 @@
       "avatar": "https://cravatar.cn/avatar/bb78cd69edd84cdbdb99a491ea2dc6c8"
     },
     {
-      "title": "放下助人情结，我又辞职了",
-      "created": "2026-09-09 23:00",
-      "link": "https://blog.solazy.me/20260909/",
-      "author": "So!azy",
-      "avatar": "https://icon.horse/icon/blog.solazy.me"
-    },
-    {
       "title": "曾经用过的那些“灯”！",
       "created": "2026-09-09 22:54",
       "link": "https://laozhang.org/archives/4337.html",
@@ -475,13 +489,6 @@
       "link": "https://zhongxiaojie.cn/2026/09/1867/",
       "author": "obaby",
       "avatar": "https://icon.horse/icon/h4ck.org.cn"
-    },
-    {
-      "title": "终究还是要搬家了",
-      "created": "2026-09-07 23:00",
-      "link": "https://blog.solazy.me/20260907/",
-      "author": "So!azy",
-      "avatar": "https://icon.horse/icon/blog.solazy.me"
     },
     {
       "title": "2026 上半年购物总结",
@@ -953,6 +960,13 @@
       "avatar": "https://demochen.com/images/avatar.png"
     },
     {
+      "title": "系列博客：Leo 的交易之路",
+      "created": "2026-08-11 15:34",
+      "link": "https://leoreo.me/p/144.html",
+      "author": "子夜集",
+      "avatar": "https://icon.horse/icon/leoreo.me"
+    },
+    {
       "title": "𝔼𝕟𝕛𝕠𝕪 𝕒 𝕙𝕒𝕡𝕡𝕪 𝕨𝕖𝕖𝕜𝕖𝕟…",
       "created": "2026-08-10 22:26",
       "link": "https://www.winegrower.cn/said/2026-08-10-enjoy-happy-weekend/",
@@ -993,6 +1007,13 @@
       "link": "https://ihaihe.cn/3678.htm",
       "author": "三十里海河",
       "avatar": "https://icon.horse/icon/ihaihe.cn"
+    },
+    {
+      "title": "我的出柜",
+      "created": "2026-08-07 21:52",
+      "link": "https://leoreo.me/p/143.html",
+      "author": "子夜集",
+      "avatar": "https://icon.horse/icon/leoreo.me"
     },
     {
       "title": "289、立秋",
@@ -1070,6 +1091,13 @@
       "link": "https://hjyl.org/renew-aliyun-ecs-99/",
       "author": "皇家园林",
       "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
+    },
+    {
+      "title": "7 月阅读推荐",
+      "created": "2026-08-01 12:47",
+      "link": "https://leoreo.me/p/141.html",
+      "author": "子夜集",
+      "avatar": "https://icon.horse/icon/leoreo.me"
     },
     {
       "title": "松声｜廿六年·七月末·雨滂沱",
@@ -1226,6 +1254,13 @@
       "avatar": "https://icon.horse/icon/yipai.me"
     },
     {
+      "title": "让爱回来",
+      "created": "2026-07-19 19:50",
+      "link": "https://leoreo.me/p/140.html",
+      "author": "子夜集",
+      "avatar": "https://icon.horse/icon/leoreo.me"
+    },
+    {
       "title": "多向成功的前辈学习",
       "created": "2026-07-19 07:54",
       "link": "https://www.jeffer.xyz/cid/3344.html",
@@ -1252,6 +1287,13 @@
       "link": "https://yipai.me/post/2539.html",
       "author": "一派胡言",
       "avatar": "https://icon.horse/icon/yipai.me"
+    },
+    {
+      "title": "密码、键盘与背单词",
+      "created": "2026-07-16 18:19",
+      "link": "https://leoreo.me/p/139.html",
+      "author": "子夜集",
+      "avatar": "https://icon.horse/icon/leoreo.me"
     },
     {
       "title": "松声｜廿六年·七月中·蝉鸣繁",
@@ -1429,6 +1471,13 @@
       "avatar": "https://icon.horse/icon/dongjunke.cn"
     },
     {
+      "title": "向死而生",
+      "created": "2026-07-03 10:02",
+      "link": "https://leoreo.me/p/136.html",
+      "author": "子夜集",
+      "avatar": "https://icon.horse/icon/leoreo.me"
+    },
+    {
       "title": "",
       "created": "2026-07-03 03:33",
       "link": "https://www.ashsilent.com/shuoshuo/8495",
@@ -1448,6 +1497,13 @@
       "link": "https://xyzbz.cn/archives/1557/",
       "author": "网友小宋",
       "avatar": "https://icon.horse/icon/xyzbz.cn"
+    },
+    {
+      "title": "Louie Wang：来之不易的教训",
+      "created": "2026-06-30 15:12",
+      "link": "https://leoreo.me/p/135.html",
+      "author": "子夜集",
+      "avatar": "https://icon.horse/icon/leoreo.me"
     },
     {
       "title": "微信限额之迷雾",
@@ -1476,6 +1532,13 @@
       "link": "https://moreality.net/posts/34210/",
       "author": "Moreality's Blog",
       "avatar": "https://youpai.roccoshi.top/img/avatar.jpg"
+    },
+    {
+      "title": "浅谈十万字",
+      "created": "2026-06-28 15:15",
+      "link": "https://leoreo.me/p/134.html",
+      "author": "子夜集",
+      "avatar": "https://icon.horse/icon/leoreo.me"
     },
     {
       "title": "2026-06 书影音总结",
@@ -1539,6 +1602,13 @@
       "link": "https://anotherdayu.com/beyond-the-spire/",
       "author": "Dayu",
       "avatar": "https://icon.horse/icon/anotherdayu.com"
+    },
+    {
+      "title": "奥利奥工坊",
+      "created": "2026-06-22 22:51",
+      "link": "https://leoreo.me/p/133.html",
+      "author": "子夜集",
+      "avatar": "https://icon.horse/icon/leoreo.me"
     },
     {
       "title": "WordPress-Riven主题正式发售了！！！",
