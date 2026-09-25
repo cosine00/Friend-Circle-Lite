@@ -1,12 +1,19 @@
 {
   "statistical_data": {
     "friends_num": 63,
-    "active_num": 52,
-    "error_num": 11,
+    "active_num": 53,
+    "error_num": 10,
     "article_num": 452,
-    "last_updated_time": "2026-09-25 05:16:34"
+    "last_updated_time": "2026-09-25 11:52:20"
   },
   "article_data": [
+    {
+      "title": "老爸喜欢的笑话两则",
+      "created": "2026-09-25 16:25",
+      "link": "https://www.seis-jun.xyz/blog/2026-09-25-jokes-which-dad-likes.html",
+      "author": "SEISAMUSE",
+      "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
+    },
     {
       "title": "杂记-20260924",
       "created": "2026-09-25 06:11",
@@ -328,13 +335,6 @@
       "link": "https://hux.ink/posts/care-of-you/",
       "author": "落落vici",
       "avatar": "https://cravatar.cn/avatar/bb78cd69edd84cdbdb99a491ea2dc6c8"
-    },
-    {
-      "title": "我们每个人都在演I",
-      "created": "2026-09-20 20:22",
-      "link": "https://www.seis-jun.xyz/blog/2026-09-20-every-body-is-actingI.html",
-      "author": "SEISAMUSE",
-      "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
     },
     {
       "title": "手机可以模拟不少电脑上的游戏了",
