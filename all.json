@@ -4,15 +4,43 @@
     "active_num": 52,
     "error_num": 11,
     "article_num": 452,
-    "last_updated_time": "2026-09-26 11:58:08"
+    "last_updated_time": "2026-09-26 18:59:24"
   },
   "article_data": [
+    {
+      "title": "小K文章被拒了",
+      "created": "2026-09-27 01:16",
+      "link": "https://www.seis-jun.xyz/blog/2026-09-26-Kumas-paper-is-rejected.html",
+      "author": "SEISAMUSE",
+      "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
+    },
+    {
+      "title": "Ubuntu升级后显卡驱动丢失的恢复方法",
+      "created": "2026-09-26 16:12",
+      "link": "https://www.suiyan.cc/blog/20260926161215",
+      "author": "碎言",
+      "avatar": "https://icon.horse/icon/www.suiyan.cc"
+    },
+    {
+      "title": "川菜真的很辣吗？",
+      "created": "2026-09-26 15:53",
+      "link": "https://www.seis-jun.xyz/blog/2026-09-26-sichuan-cusine.html",
+      "author": "SEISAMUSE",
+      "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
+    },
     {
       "title": "隔壁车库的小狗",
       "created": "2026-09-26 15:50",
       "link": "https://sheep5.net/archives/52674/",
       "author": "Sheep5的博客",
       "avatar": "https://icon.horse/icon/sheep5.net"
+    },
+    {
+      "title": "流感小记",
+      "created": "2026-09-26 13:20",
+      "link": "https://acevs.com/5256/",
+      "author": "ACEVS",
+      "avatar": "https://weavatar.com/avatar/ffc1ac2ecde17b2eb1caff3e94c119fdaea4dc1a947a08a3092b388bf9b454d0"
     },
     {
       "title": "打工人为什么被叫牛马？",
@@ -295,25 +323,11 @@
       "avatar": "https://icon.horse/icon/www.leolin86.com"
     },
     {
-      "title": "文献每日一读",
-      "created": "2026-09-22 00:00",
-      "link": "https://www.seis-jun.xyz/blog/2026-09-21-paper-read.html",
-      "author": "SEISAMUSE",
-      "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
-    },
-    {
       "title": "日常漫步 Vol.25 之逛公园",
       "created": "2026-09-21 23:25",
       "link": "https://yayu.net/6247.html",
       "author": "雅余",
       "avatar": "https://yayu.net/favicon.ico"
-    },
-    {
-      "title": "我们每个人都在演II",
-      "created": "2026-09-21 20:28",
-      "link": "https://www.seis-jun.xyz/blog/2026-09-21-every-body-is-actingII.html",
-      "author": "SEISAMUSE",
-      "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
     },
     {
       "title": "写在两份工作的 Gap 之时",
@@ -475,13 +489,6 @@
       "link": "https://9sb.net/archives/microsoft-takes-action-e3-free-space-is-completely-cool.html",
       "author": "Huo",
       "avatar": "https://icon.horse/icon/9sb.net"
-    },
-    {
-      "title": "碎片2026-09-16",
-      "created": "2026-09-16 09:44",
-      "link": "https://acevs.com/5235/",
-      "author": "ACEVS",
-      "avatar": "https://weavatar.com/avatar/ffc1ac2ecde17b2eb1caff3e94c119fdaea4dc1a947a08a3092b388bf9b454d0"
     },
     {
       "title": "松声｜廿六年·九月中·正秋收",
@@ -1119,13 +1126,6 @@
       "link": "https://yayu.net/6237.html",
       "author": "雅余",
       "avatar": "https://yayu.net/favicon.ico"
-    },
-    {
-      "title": "国产大模型开始割韭菜了？",
-      "created": "2026-08-14 18:54",
-      "link": "https://www.suiyan.cc/blog/20260814185411",
-      "author": "碎言",
-      "avatar": "https://icon.horse/icon/www.suiyan.cc"
     },
     {
       "title": "大雨过后的宁静",
