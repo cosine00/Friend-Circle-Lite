@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 63,
-    "active_num": 52,
-    "error_num": 11,
+    "active_num": 53,
+    "error_num": 10,
     "article_num": 452,
-    "last_updated_time": "2026-09-26 18:59:24"
+    "last_updated_time": "2026-09-26 23:59:03"
   },
   "article_data": [
     {
@@ -13,6 +13,13 @@
       "link": "https://www.seis-jun.xyz/blog/2026-09-26-Kumas-paper-is-rejected.html",
       "author": "SEISAMUSE",
       "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
+    },
+    {
+      "title": "重温老片《烈火金钢》",
+      "created": "2026-09-26 19:18",
+      "link": "https://pewae.com/2026/09/review-steel-meets-fire.html",
+      "author": "破袜子",
+      "avatar": "https://icon.horse/icon/pewae.com"
     },
     {
       "title": "Ubuntu升级后显卡驱动丢失的恢复方法",
@@ -1721,13 +1728,6 @@
       "link": "https://xyzbz.cn/archives/1557/",
       "author": "网友小宋",
       "avatar": "https://icon.horse/icon/xyzbz.cn"
-    },
-    {
-      "title": "世界杯瞎话第六季——滚滚滚滚滚滚长江东逝水",
-      "created": "2026-06-30 15:41",
-      "link": "https://pewae.com/2026/06/6th-world-cup-diray-3.html",
-      "author": "破袜子",
-      "avatar": "https://icon.horse/icon/pewae.com"
     },
     {
       "title": "Louie Wang：来之不易的教训",
