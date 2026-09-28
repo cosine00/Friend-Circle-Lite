@@ -1,12 +1,19 @@
 {
   "statistical_data": {
     "friends_num": 63,
-    "active_num": 52,
-    "error_num": 11,
+    "active_num": 51,
+    "error_num": 12,
     "article_num": 445,
-    "last_updated_time": "2026-09-28 05:02:31"
+    "last_updated_time": "2026-09-28 12:09:28"
   },
   "article_data": [
+    {
+      "title": "范老师",
+      "created": "2026-09-28 15:03",
+      "link": "https://www.seis-jun.xyz/blog/2026-09-28-Teacher-Fan.html",
+      "author": "SEISAMUSE",
+      "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
+    },
     {
       "title": "臭豆腐",
       "created": "2026-09-28 03:29",
@@ -246,11 +253,11 @@
       "avatar": "https://icon.horse/icon/h4ck.org.cn"
     },
     {
-      "title": "未雨绸缪",
-      "created": "2026-09-23 15:23",
-      "link": "https://www.seis-jun.xyz/blog/2026-09-23-business.html",
-      "author": "SEISAMUSE",
-      "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
+      "title": "291、秋分",
+      "created": "2026-09-23 11:52",
+      "link": "https://1900.live/290-bai-lu-2/",
+      "author": "1900'blog",
+      "avatar": "https://cdn.1900.live/20190640/ico.png"
     },
     {
       "title": "好好运动",
@@ -2148,13 +2155,6 @@
       "link": "https://pathos.page/blog/ai-education-humanity/",
       "author": "揆机",
       "avatar": "https://icon.horse/icon/pathos.page"
-    },
-    {
-      "title": "和H小姐的约会",
-      "created": "2026-04-26 11:57",
-      "link": "https://1900.live/he-hxiao-jie-de-yue-hui/",
-      "author": "1900'blog",
-      "avatar": "https://cdn.1900.live/20190640/ico.png"
     },
     {
       "title": "高烧",
