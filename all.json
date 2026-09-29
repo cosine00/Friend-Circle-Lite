@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 63,
-    "active_num": 52,
-    "error_num": 11,
-    "article_num": 445,
-    "last_updated_time": "2026-09-29 12:42:12"
+    "active_num": 50,
+    "error_num": 13,
+    "article_num": 425,
+    "last_updated_time": "2026-09-29 20:19:25"
   },
   "article_data": [
     {
@@ -20,6 +20,13 @@
       "link": "https://www.seis-jun.xyz/blog/2026-09-29-personality-can.html",
       "author": "SEISAMUSE",
       "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
+    },
+    {
+      "title": "年轻人不大喝白酒",
+      "created": "2026-09-29 13:49",
+      "link": "https://acevs.com/5262/",
+      "author": "ACEVS",
+      "avatar": "https://weavatar.com/avatar/ffc1ac2ecde17b2eb1caff3e94c119fdaea4dc1a947a08a3092b388bf9b454d0"
     },
     {
       "title": "那片荷塘",
@@ -447,20 +454,6 @@
       "link": "https://blog.solazy.me/20260919/",
       "author": "So!azy",
       "avatar": "https://icon.horse/icon/blog.solazy.me"
-    },
-    {
-      "title": "能修则修",
-      "created": "2026-09-19 16:21",
-      "link": "https://zhou.ge/2026-09-19.html",
-      "author": "忆往事",
-      "avatar": "https://zhou.ge/favicon.ico"
-    },
-    {
-      "title": "魔兽争霸游戏近况",
-      "created": "2026-09-19 09:26",
-      "link": "https://acevs.com/5242/",
-      "author": "ACEVS",
-      "avatar": "https://weavatar.com/avatar/ffc1ac2ecde17b2eb1caff3e94c119fdaea4dc1a947a08a3092b388bf9b454d0"
     },
     {
       "title": "侠探杰克第四季",
@@ -911,13 +904,6 @@
       "avatar": "https://gravatar.loli.net/avatar/c3fb4bb4d5101284ddd672fb722cdd7d"
     },
     {
-      "title": "配匙糟心经历",
-      "created": "2026-08-26 23:51",
-      "link": "https://zhou.ge/2026-08-26.html",
-      "author": "忆往事",
-      "avatar": "https://zhou.ge/favicon.ico"
-    },
-    {
       "title": "",
       "created": "2026-08-24 23:49",
       "link": "https://www.ashsilent.com/shuoshuo/8529",
@@ -1049,13 +1035,6 @@
       "link": "https://pewae.com/2026/08/picture-without-description-20260819.html",
       "author": "破袜子",
       "avatar": "https://icon.horse/icon/pewae.com"
-    },
-    {
-      "title": "复议&amp;老宅",
-      "created": "2026-08-19 19:16",
-      "link": "https://zhou.ge/2026-08-19.html",
-      "author": "忆往事",
-      "avatar": "https://zhou.ge/favicon.ico"
     },
     {
       "title": "杂记-20260819",
@@ -1499,13 +1478,6 @@
       "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
     },
     {
-      "title": "老宅即将完工",
-      "created": "2026-07-17 02:00",
-      "link": "https://zhou.ge/2026-07-16.html",
-      "author": "忆往事",
-      "avatar": "https://zhou.ge/favicon.ico"
-    },
-    {
       "title": "最近够闲的，开发了新网站",
       "created": "2026-07-16 21:04",
       "link": "https://yipai.me/post/2539.html",
@@ -1765,13 +1737,6 @@
       "avatar": "https://icon.horse/icon/anotherdayu.com"
     },
     {
-      "title": "周氏祠堂上梁",
-      "created": "2026-06-24 05:07",
-      "link": "https://zhou.ge/2026-06-23.html",
-      "author": "忆往事",
-      "avatar": "https://zhou.ge/favicon.ico"
-    },
-    {
       "title": "告别摄影",
       "created": "2026-06-24 01:08",
       "link": "https://anotherdayu.com/bye-photograph/",
@@ -1828,13 +1793,6 @@
       "avatar": "https://icon.horse/icon/ihaihe.cn"
     },
     {
-      "title": "蓄意碰瓷",
-      "created": "2026-06-18 00:26",
-      "link": "https://zhou.ge/2026-06-17.html",
-      "author": "忆往事",
-      "avatar": "https://zhou.ge/favicon.ico"
-    },
-    {
       "title": "车子又到了要续保的日子了",
       "created": "2026-06-17 18:45",
       "link": "https://zhoutian.com/384.html",
@@ -1849,25 +1807,11 @@
       "avatar": "https://icon.horse/icon/xyzbz.cn"
     },
     {
-      "title": "配镜&amp;手表",
-      "created": "2026-06-15 19:01",
-      "link": "https://zhou.ge/2026-06-15.html",
-      "author": "忆往事",
-      "avatar": "https://zhou.ge/favicon.ico"
-    },
-    {
       "title": "从学校到公司，从上海到成都",
       "created": "2026-06-14 16:48",
       "link": "https://veryjack.com/life/university_to_company/",
       "author": "Jack's Space",
       "avatar": "https://icon.horse/icon/veryjack.com"
-    },
-    {
-      "title": "Up Typecho1.3",
-      "created": "2026-06-13 20:23",
-      "link": "https://zhou.ge/2026-06-13.html",
-      "author": "忆往事",
-      "avatar": "https://zhou.ge/favicon.ico"
     },
     {
       "title": "未曾离去",
@@ -1926,13 +1870,6 @@
       "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
     },
     {
-      "title": "小黄狗",
-      "created": "2026-06-06 16:57",
-      "link": "https://zhou.ge/2026-06-06.html",
-      "author": "忆往事",
-      "avatar": "https://zhou.ge/favicon.ico"
-    },
-    {
       "title": "我允许朋友查看朋友圈的范围是半年",
       "created": "2026-06-06 06:22",
       "link": "https://demochen.com/posts/20260605/",
@@ -1952,13 +1889,6 @@
       "link": "https://justgoidea.com/yi-xiang-de-xiang-yin/",
       "author": "槿呈Goidea",
       "avatar": "https://icon.horse/icon/justgoidea.com"
-    },
-    {
-      "title": "手机&amp;吃胎",
-      "created": "2026-06-02 06:45",
-      "link": "https://zhou.ge/2026-06-01.html",
-      "author": "忆往事",
-      "avatar": "https://zhou.ge/favicon.ico"
     },
     {
       "title": "松声｜廿六年·五月末·麦黄收",
@@ -2598,13 +2528,6 @@
       "avatar": "https://icon.horse/icon/www.eallion.com"
     },
     {
-      "title": "老婆被家长投诉",
-      "created": "2025-10-30 11:58",
-      "link": "https://digu.plus/post/c6f824c866a6456697917919c5c373e5/",
-      "author": "嘀咕",
-      "avatar": "https://icon.horse/icon/digu.plus"
-    },
-    {
       "title": "My failure resume",
       "created": "2025-10-25 08:00",
       "link": "https://pelayoarbues.com/notes/my-failure-resume",
@@ -2701,13 +2624,6 @@
       "link": "https://pelayoarbues.com/notes/learning-to-read-the-maps-ai-gives-us",
       "author": "Pelayo Arbués",
       "avatar": "https://icon.horse/icon/www.pelayoarbues.com"
-    },
-    {
-      "title": "记一次闲鱼维权经历",
-      "created": "2025-07-29 22:20",
-      "link": "https://digu.plus/post/a8e397db7c7745008bf973a4b53e54b3/",
-      "author": "嘀咕",
-      "avatar": "https://icon.horse/icon/digu.plus"
     },
     {
       "title": "深夜发嗤（40）",
@@ -2850,13 +2766,6 @@
       "avatar": "https://youpai.roccoshi.top/img/avatar.jpg"
     },
     {
-      "title": "江湖不远，就在燕云十六声",
-      "created": "2025-02-26 12:46",
-      "link": "https://digu.plus/post/27f23108688448890a3052cef186cd9a/",
-      "author": "嘀咕",
-      "avatar": "https://icon.horse/icon/digu.plus"
-    },
-    {
       "title": "我停止了探索 Fediverse",
       "created": "2025-02-23 20:50",
       "link": "https://atpx.com/blog/i-stopped-exploring-the-fediverse/",
@@ -2920,13 +2829,6 @@
       "avatar": "https://icon.horse/icon/elizen.me"
     },
     {
-      "title": "新手机，旧手机",
-      "created": "2024-12-31 22:57",
-      "link": "https://digu.plus/post/38a43b4de4b64b4e8f452410c404338a/",
-      "author": "嘀咕",
-      "avatar": "https://icon.horse/icon/digu.plus"
-    },
-    {
       "title": "互联网背景噪音",
       "created": "2024-12-30 17:29",
       "link": "https://atpx.com/blog/the-internet-background-noise/",
@@ -2946,20 +2848,6 @@
       "link": "https://elizen.me/posts/2024/12/2024-end/",
       "author": "Elizen",
       "avatar": "https://icon.horse/icon/elizen.me"
-    },
-    {
-      "title": "利用 Github Actions 备份数据库",
-      "created": "2024-12-04 16:46",
-      "link": "https://digu.plus/post/70a2e24a962c4dad86af986827423781/",
-      "author": "嘀咕",
-      "avatar": "https://icon.horse/icon/digu.plus"
-    },
-    {
-      "title": "补上了这几年的双11",
-      "created": "2024-11-13 23:10",
-      "link": "https://digu.plus/post/6c4531a823034f0f944a314127d620b8/",
-      "author": "嘀咕",
-      "avatar": "https://icon.horse/icon/digu.plus"
     },
     {
       "title": "尿闭了2次的公猫近况",
@@ -2990,20 +2878,6 @@
       "avatar": "https://cravatar.cn/avatar/441e67d84e8b2d1961c0b56f74fef186?d=identicon"
     },
     {
-      "title": "莫名的限我额度？硬杠到底",
-      "created": "2024-10-18 22:20",
-      "link": "https://digu.plus/post/2abdb68840a54b8abbc7b5671de22db6/",
-      "author": "嘀咕",
-      "avatar": "https://icon.horse/icon/digu.plus"
-    },
-    {
-      "title": "国庆三日游",
-      "created": "2024-10-08 18:56",
-      "link": "https://digu.plus/post/d2f0d8e34a3a42bcabc7129c714e2c1f/",
-      "author": "嘀咕",
-      "avatar": "https://icon.horse/icon/digu.plus"
-    },
-    {
       "title": "再见了 Kindle",
       "created": "2024-08-07 00:16",
       "link": "https://joyqi.com/funny/goodbye-kindle.html",
@@ -3023,20 +2897,6 @@
       "link": "http://www.gexiao.me/2024/06/25/logic-under-power/",
       "author": "默默小屋",
       "avatar": "https://www.gexiao.me/images/apple-touch-icon-next.png"
-    },
-    {
-      "title": "外卖打包费的维权",
-      "created": "2024-06-22 19:18",
-      "link": "https://digu.plus/post/83a842a85e9d06266d7fa66d1d957594/",
-      "author": "嘀咕",
-      "avatar": "https://icon.horse/icon/digu.plus"
-    },
-    {
-      "title": "“苕”萝卜快跑",
-      "created": "2024-06-18 22:00",
-      "link": "https://digu.plus/post/5964404014dbf39e1a44da6da0c60bad/",
-      "author": "嘀咕",
-      "avatar": "https://icon.horse/icon/digu.plus"
     },
     {
       "title": "顺风车的一些记录",
