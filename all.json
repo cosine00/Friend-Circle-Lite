@@ -1,12 +1,33 @@
 {
   "statistical_data": {
     "friends_num": 63,
-    "active_num": 50,
-    "error_num": 13,
+    "active_num": 51,
+    "error_num": 12,
     "article_num": 425,
-    "last_updated_time": "2026-09-29 20:19:25"
+    "last_updated_time": "2026-09-30 06:00:42"
   },
   "article_data": [
+    {
+      "title": "自建音乐服务，浏览器直接听歌还支持多源搜索",
+      "created": "2026-09-30 11:10",
+      "link": "https://9sb.net/archives/self-built-music-service-allowing-direct-listening-to-music-through-the-browser-and-supporting-multisource-search.html",
+      "author": "Huo",
+      "avatar": "https://icon.horse/icon/9sb.net"
+    },
+    {
+      "title": "痛苦可不可以用求不得来解释",
+      "created": "2026-09-30 02:06",
+      "link": "https://www.seis-jun.xyz/blog/2026-09-29-can-we-interpret-pain-with-unsatisfication.html",
+      "author": "SEISAMUSE",
+      "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
+    },
+    {
+      "title": "让人运气变好的秘诀",
+      "created": "2026-09-29 22:00",
+      "link": "https://blog.solazy.me/20260929/",
+      "author": "So!azy",
+      "avatar": "https://icon.horse/icon/blog.solazy.me"
+    },
     {
       "title": "挨踢路十八年纪念",
       "created": "2026-09-29 17:22",
@@ -202,13 +223,6 @@
       "link": "https://www.leolin86.com/archives/602/",
       "author": "拾风草堂",
       "avatar": "https://icon.horse/icon/www.leolin86.com"
-    },
-    {
-      "title": "为什么老阿姨喜欢我？II",
-      "created": "2026-09-25 05:24",
-      "link": "https://www.seis-jun.xyz/blog/2026-09-24-why-old-granny-likes-me.html",
-      "author": "SEISAMUSE",
-      "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
     },
     {
       "title": "青甘行 序曲",
@@ -510,13 +524,6 @@
       "link": "https://xyzbz.cn/archives/1570/",
       "author": "网友小宋",
       "avatar": "https://icon.horse/icon/xyzbz.cn"
-    },
-    {
-      "title": "敬畏之心",
-      "created": "2026-09-15 23:00",
-      "link": "https://blog.solazy.me/20260915/",
-      "author": "So!azy",
-      "avatar": "https://icon.horse/icon/blog.solazy.me"
     },
     {
       "title": "我用的Obsidian插件",
@@ -923,13 +930,6 @@
       "link": "https://jefftay.com/blog-posts/from-wordpress-to-quartz",
       "author": "陈仓颉",
       "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
-    },
-    {
-      "title": "享受 AI 给的错觉，也别丢了清醒",
-      "created": "2026-08-24 08:00",
-      "link": "https://9sb.net/archives/enjoy-the-illusion-given-by-ai-and-dont-lose-your-clarity.html",
-      "author": "Huo",
-      "avatar": "https://icon.horse/icon/9sb.net"
     },
     {
       "title": "试戴 Looki 一周：我很喜欢，最后还是决定退货",
