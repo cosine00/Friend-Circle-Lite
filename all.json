@@ -1,12 +1,26 @@
 {
   "statistical_data": {
     "friends_num": 63,
-    "active_num": 51,
-    "error_num": 12,
+    "active_num": 50,
+    "error_num": 13,
     "article_num": 425,
-    "last_updated_time": "2026-09-30 06:00:42"
+    "last_updated_time": "2026-09-30 12:26:28"
   },
   "article_data": [
+    {
+      "title": "LlmsTxt 一个零依赖插件，让所有 AI 都能通读你全部文章",
+      "created": "2026-09-30 16:00",
+      "link": "https://9sb.net/archives/llmstxt-is-a-zero-dependency-plugin-that-allows-all-ai-to-read-through-all-your-articles.html",
+      "author": "Huo",
+      "avatar": "https://icon.horse/icon/9sb.net"
+    },
+    {
+      "title": "写得出来，自己却未必做得到",
+      "created": "2026-09-30 15:37",
+      "link": "https://www.seis-jun.xyz/blog/2026-09-30-easy-said-than-done.html",
+      "author": "SEISAMUSE",
+      "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
+    },
     {
       "title": "自建音乐服务，浏览器直接听歌还支持多源搜索",
       "created": "2026-09-30 11:10",
@@ -202,13 +216,6 @@
       "link": "https://blog.solazy.me/20260925/",
       "author": "So!azy",
       "avatar": "https://icon.horse/icon/blog.solazy.me"
-    },
-    {
-      "title": "老爸喜欢的笑话两则",
-      "created": "2026-09-25 16:25",
-      "link": "https://www.seis-jun.xyz/blog/2026-09-25-jokes-which-dad-likes.html",
-      "author": "SEISAMUSE",
-      "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
     },
     {
       "title": "深渊号角海盗第一关通关",
@@ -846,13 +853,6 @@
       "link": "https://www.leolin86.com/archives/583/",
       "author": "拾风草堂",
       "avatar": "https://icon.horse/icon/www.leolin86.com"
-    },
-    {
-      "title": "周末骑行日记：风景挺好，状态不行，好在有碗面",
-      "created": "2026-08-31 02:11",
-      "link": "https://9sb.net/archives/weekend-cycling-diary-the-scenery-is-great-but-the-condition-is-not-good-fortunately-there-is-a-bowl-of-noodles.html",
-      "author": "Huo",
-      "avatar": "https://icon.horse/icon/9sb.net"
     },
     {
       "title": "超级礼物",
