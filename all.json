@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 63,
-    "active_num": 51,
-    "error_num": 12,
+    "active_num": 50,
+    "error_num": 13,
     "article_num": 425,
-    "last_updated_time": "2026-10-02 12:30:25"
+    "last_updated_time": "2026-10-02 20:02:51"
   },
   "article_data": [
     {
@@ -13,6 +13,27 @@
       "link": "https://www.seis-jun.xyz/blog/2026-10-02-yellow-mountain.html",
       "author": "SEISAMUSE",
       "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
+    },
+    {
+      "title": "博客主题与写作编辑",
+      "created": "2026-10-02 17:25",
+      "link": "https://leoreo.me/p/150.html",
+      "author": "子夜集",
+      "avatar": "https://icon.horse/icon/leoreo.me"
+    },
+    {
+      "title": "脸上的黄褐斑",
+      "created": "2026-10-02 17:14",
+      "link": "https://acevs.com/5268/",
+      "author": "ACEVS",
+      "avatar": "https://weavatar.com/avatar/ffc1ac2ecde17b2eb1caff3e94c119fdaea4dc1a947a08a3092b388bf9b454d0"
+    },
+    {
+      "title": "西北三日游",
+      "created": "2026-10-02 16:36",
+      "link": "https://atpx.com/blog/northwest-china-tour/",
+      "author": "atpX",
+      "avatar": "https://icon.horse/icon/atpx.com"
     },
     {
       "title": "国庆节旅行第一天",
@@ -398,13 +419,6 @@
       "link": "https://zhongxiaojie.cn/2026/09/1959/",
       "author": "obaby",
       "avatar": "https://icon.horse/icon/h4ck.org.cn"
-    },
-    {
-      "title": "英雄无敌3一些资源 还有一个让我惊讶的视频",
-      "created": "2026-09-22 13:06",
-      "link": "https://acevs.com/5248/",
-      "author": "ACEVS",
-      "avatar": "https://weavatar.com/avatar/ffc1ac2ecde17b2eb1caff3e94c119fdaea4dc1a947a08a3092b388bf9b454d0"
     },
     {
       "title": "写作与执着",
@@ -1709,13 +1723,6 @@
       "avatar": "https://youpai.roccoshi.top/img/avatar.jpg"
     },
     {
-      "title": "浅谈十万字",
-      "created": "2026-06-28 15:15",
-      "link": "https://leoreo.me/p/134.html",
-      "author": "子夜集",
-      "avatar": "https://icon.horse/icon/leoreo.me"
-    },
-    {
       "title": "2026-06 书影音总结",
       "created": "2026-06-28 14:43",
       "link": "https://www.javis.me/2026-06/",
@@ -2827,13 +2834,6 @@
       "link": "https://elizen.me/posts/2025/01/2025-week1-and-week2.zh.md/",
       "author": "Elizen",
       "avatar": "https://icon.horse/icon/elizen.me"
-    },
-    {
-      "title": "互联网背景噪音",
-      "created": "2024-12-30 17:29",
-      "link": "https://atpx.com/blog/the-internet-background-noise/",
-      "author": "atpX",
-      "avatar": "https://icon.horse/icon/atpx.com"
     },
     {
       "title": "今天对我来说就是最后一天",
