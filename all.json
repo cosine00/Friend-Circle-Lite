@@ -1,12 +1,19 @@
 {
   "statistical_data": {
     "friends_num": 63,
-    "active_num": 50,
-    "error_num": 13,
+    "active_num": 51,
+    "error_num": 12,
     "article_num": 425,
-    "last_updated_time": "2026-10-02 06:27:08"
+    "last_updated_time": "2026-10-02 12:30:25"
   },
   "article_data": [
+    {
+      "title": "黄山之行",
+      "created": "2026-10-02 18:05",
+      "link": "https://www.seis-jun.xyz/blog/2026-10-02-yellow-mountain.html",
+      "author": "SEISAMUSE",
+      "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
+    },
     {
       "title": "国庆节旅行第一天",
       "created": "2026-10-02 03:42",
@@ -193,13 +200,6 @@
       "title": "参照物",
       "created": "2026-09-27 16:04",
       "link": "https://www.seis-jun.xyz/blog/2026-09-27-reference.html",
-      "author": "SEISAMUSE",
-      "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
-    },
-    {
-      "title": "小K文章被拒了",
-      "created": "2026-09-27 01:16",
-      "link": "https://www.seis-jun.xyz/blog/2026-09-26-Kumas-paper-is-rejected.html",
       "author": "SEISAMUSE",
       "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
     },
