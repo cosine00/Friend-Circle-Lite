@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 63,
-    "active_num": 51,
-    "error_num": 12,
+    "active_num": 50,
+    "error_num": 13,
     "article_num": 425,
-    "last_updated_time": "2026-10-04 04:43:35"
+    "last_updated_time": "2026-10-04 12:45:12"
   },
   "article_data": [
     {
@@ -20,6 +20,13 @@
       "link": "https://hjyl.org/netease-music-3-months-vip/",
       "author": "皇家园林",
       "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
+    },
+    {
+      "title": "莫名其妙的优越感",
+      "created": "2026-10-03 23:00",
+      "link": "https://blog.solazy.me/20261003/",
+      "author": "So!azy",
+      "avatar": "https://icon.horse/icon/blog.solazy.me"
     },
     {
       "title": "中秋国庆双节快乐",
@@ -48,6 +55,13 @@
       "link": "https://www.ashsilent.com/shuoshuo/8540",
       "author": "Ashsilent Planet",
       "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
+    },
+    {
+      "title": "放弃是需要筹码的",
+      "created": "2026-10-02 23:00",
+      "link": "https://blog.solazy.me/20261002/",
+      "author": "So!azy",
+      "avatar": "https://icon.horse/icon/blog.solazy.me"
     },
     {
       "title": "再谈 Carplay 播放视频",
@@ -484,13 +498,6 @@
       "avatar": "https://yayu.net/favicon.ico"
     },
     {
-      "title": "写在两份工作的 Gap 之时",
-      "created": "2026-09-21 14:00",
-      "link": "https://blog.solazy.me/20260921/",
-      "author": "So!azy",
-      "avatar": "https://icon.horse/icon/blog.solazy.me"
-    },
-    {
       "title": "我做市场调查的方法",
       "created": "2026-09-21 08:00",
       "link": "https://jefftay.com/amazon-market-research",
@@ -517,13 +524,6 @@
       "link": "https://hisherry.com/%e5%8a%a0%e5%9b%bd%e7%94%9f%e6%b4%bb/5014/",
       "author": "燕渡寒潭",
       "avatar": "https://icon.horse/icon/hisherry.com"
-    },
-    {
-      "title": "或许没人关心的细节",
-      "created": "2026-09-20 23:00",
-      "link": "https://blog.solazy.me/20260920/",
-      "author": "So!azy",
-      "avatar": "https://icon.horse/icon/blog.solazy.me"
     },
     {
       "title": "虚无",
