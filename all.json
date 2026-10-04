@@ -3,10 +3,31 @@
     "friends_num": 63,
     "active_num": 50,
     "error_num": 13,
-    "article_num": 425,
-    "last_updated_time": "2026-10-04 12:45:12"
+    "article_num": 426,
+    "last_updated_time": "2026-10-04 19:55:47"
   },
   "article_data": [
+    {
+      "title": "入蜀记day2 pass out",
+      "created": "2026-10-05 01:11",
+      "link": "https://www.seis-jun.xyz/blog/2026-10-04-chengdu-day2-pass-out.html",
+      "author": "SEISAMUSE",
+      "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
+    },
+    {
+      "title": "去打篮球",
+      "created": "2026-10-04 16:09",
+      "link": "https://acevs.com/5272/",
+      "author": "ACEVS",
+      "avatar": "https://weavatar.com/avatar/ffc1ac2ecde17b2eb1caff3e94c119fdaea4dc1a947a08a3092b388bf9b454d0"
+    },
+    {
+      "title": "Mac版Feedglot正式上架Mac App Store",
+      "created": "2026-10-04 14:34",
+      "link": "https://www.skyue.com/26100414.html",
+      "author": "拾月",
+      "avatar": "https://gravatar.loli.net/avatar/c3fb4bb4d5101284ddd672fb722cdd7d"
+    },
     {
       "title": "导航栏做成悬浮还是直接压背景，大家给个意见",
       "created": "2026-10-04 08:40",
@@ -260,13 +281,6 @@
       "avatar": "https://icon.horse/icon/h4ck.org.cn"
     },
     {
-      "title": "臭豆腐",
-      "created": "2026-09-28 03:29",
-      "link": "https://www.seis-jun.xyz/blog/2026-09-27-stinky-toufu.html",
-      "author": "SEISAMUSE",
-      "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
-    },
-    {
       "title": "",
       "created": "2026-09-27 23:35",
       "link": "https://www.ashsilent.com/shuoshuo/8538",
@@ -391,13 +405,6 @@
       "link": "https://hjyl.org/qclaw-will-down/",
       "author": "皇家园林",
       "avatar": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-180x180.png"
-    },
-    {
-      "title": "碎片2026-09-24",
-      "created": "2026-09-24 09:19",
-      "link": "https://acevs.com/5252/",
-      "author": "ACEVS",
-      "avatar": "https://weavatar.com/avatar/ffc1ac2ecde17b2eb1caff3e94c119fdaea4dc1a947a08a3092b388bf9b454d0"
     },
     {
       "title": "聊聊自费上班这件事儿",
