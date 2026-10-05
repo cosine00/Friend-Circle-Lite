@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 63,
-    "active_num": 51,
-    "error_num": 12,
+    "active_num": 50,
+    "error_num": 13,
     "article_num": 426,
-    "last_updated_time": "2026-10-05 21:52:19"
+    "last_updated_time": "2026-10-06 07:51:42"
   },
   "article_data": [
     {
@@ -13,6 +13,13 @@
       "link": "https://www.seis-jun.xyz/blog/2026-10-05-day3-departure.html",
       "author": "SEISAMUSE",
       "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
+    },
+    {
+      "title": "形式熟悉，内容陌生，味道惊喜",
+      "created": "2026-10-05 23:01",
+      "link": "https://anotherdayu.com/9891/",
+      "author": "Dayu",
+      "avatar": "https://icon.horse/icon/anotherdayu.com"
     },
     {
       "title": "厦门出差记：抵达与初印象",
@@ -1775,13 +1782,6 @@
       "title": "我的背包",
       "created": "2026-06-25 05:06",
       "link": "https://anotherdayu.com/my-backpack/",
-      "author": "Dayu",
-      "avatar": "https://icon.horse/icon/anotherdayu.com"
-    },
-    {
-      "title": "告别摄影",
-      "created": "2026-06-24 01:08",
-      "link": "https://anotherdayu.com/bye-photograph/",
       "author": "Dayu",
       "avatar": "https://icon.horse/icon/anotherdayu.com"
     },
