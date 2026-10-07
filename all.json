@@ -1,12 +1,33 @@
 {
   "statistical_data": {
     "friends_num": 63,
-    "active_num": 50,
-    "error_num": 13,
-    "article_num": 426,
-    "last_updated_time": "2026-10-07 20:50:30"
+    "active_num": 51,
+    "error_num": 12,
+    "article_num": 437,
+    "last_updated_time": "2026-10-08 06:52:27"
   },
   "article_data": [
+    {
+      "title": "核心影视，优化后的播放页面长这样，按钮、选集、线路全安排明白",
+      "created": "2026-10-08 08:49",
+      "link": "https://9sb.net/archives/core-movies-and-tv-shows-the-optimized-playback-page-length-is-like-this-with-clear-arrangement-of-buttons-selections-and-routes.html",
+      "author": "Huo",
+      "avatar": "https://icon.horse/icon/9sb.net"
+    },
+    {
+      "title": "侠女内莉第一季",
+      "created": "2026-10-08 08:00",
+      "link": "https://jefftay.com/movies/neagley-season-1",
+      "author": "陈仓颉",
+      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
+    },
+    {
+      "title": "护肝人",
+      "created": "2026-10-08 08:00",
+      "link": "https://jefftay.com/movies/runner",
+      "author": "陈仓颉",
+      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
+    },
     {
       "title": "吃得苦中苦方为人上人",
       "created": "2026-10-08 00:14",
@@ -55,6 +76,13 @@
       "link": "https://www.leolin86.com/archives/615/",
       "author": "拾风草堂",
       "avatar": "https://icon.horse/icon/www.leolin86.com"
+    },
+    {
+      "title": "长广金莲芦犹雪",
+      "created": "2026-10-06 23:48",
+      "link": "https://synyan.cn/117626/",
+      "author": "旅行漫记",
+      "avatar": "https://icon.horse/icon/synyan.cn"
     },
     {
       "title": "我的不想要",
@@ -188,6 +216,13 @@
       "link": "https://www.seis-jun.xyz/blog/2026-10-03-about-traditional-and-modern-medic.html",
       "author": "SEISAMUSE",
       "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
+    },
+    {
+      "title": "路耿下前村花海",
+      "created": "2026-10-03 14:41",
+      "link": "https://synyan.cn/117581/",
+      "author": "旅行漫记",
+      "avatar": "https://icon.horse/icon/synyan.cn"
     },
     {
       "title": "",
@@ -407,6 +442,13 @@
       "avatar": "https://icon.horse/icon/pewae.com"
     },
     {
+      "title": "潮涨云涌贡湖堤",
+      "created": "2026-09-26 18:12",
+      "link": "https://synyan.cn/117398/",
+      "author": "旅行漫记",
+      "avatar": "https://icon.horse/icon/synyan.cn"
+    },
+    {
       "title": "Ubuntu升级后显卡驱动丢失的恢复方法",
       "created": "2026-09-26 16:12",
       "link": "https://www.suiyan.cc/blog/20260926161215",
@@ -426,6 +468,13 @@
       "link": "https://9sb.net/archives/i-was-on-duty-until-noon-during-the-mid-autumn-festival-and-missed-the-hot-meal-at-home.html",
       "author": "Huo",
       "avatar": "https://icon.horse/icon/9sb.net"
+    },
+    {
+      "title": "环秀山庄叠石奇",
+      "created": "2026-09-25 17:39",
+      "link": "https://synyan.cn/117239/",
+      "author": "旅行漫记",
+      "avatar": "https://icon.horse/icon/synyan.cn"
     },
     {
       "title": "杂记-20260924",
@@ -610,6 +659,13 @@
       "avatar": "https://icon.horse/icon/justgoidea.com"
     },
     {
+      "title": "苏超苏州会南京",
+      "created": "2026-09-19 17:39",
+      "link": "https://synyan.cn/117069/",
+      "author": "旅行漫记",
+      "avatar": "https://icon.horse/icon/synyan.cn"
+    },
+    {
       "title": "侠探杰克第四季",
       "created": "2026-09-19 08:00",
       "link": "https://jefftay.com/movies/reacher-season-4",
@@ -729,11 +785,25 @@
       "avatar": "https://icon.horse/icon/www.suiyan.cc"
     },
     {
+      "title": "西园戒幢猫伴禅",
+      "created": "2026-09-12 16:56",
+      "link": "https://synyan.cn/116998/",
+      "author": "旅行漫记",
+      "avatar": "https://icon.horse/icon/synyan.cn"
+    },
+    {
       "title": "9月的旅行",
       "created": "2026-09-12 15:11",
       "link": "https://ihaihe.cn/3688.htm",
       "author": "三十里海河",
       "avatar": "https://icon.horse/icon/ihaihe.cn"
+    },
+    {
+      "title": "御居雅集西园路",
+      "created": "2026-09-12 14:22",
+      "link": "https://synyan.cn/116952/",
+      "author": "旅行漫记",
+      "avatar": "https://icon.horse/icon/synyan.cn"
     },
     {
       "title": "服务器 SSH 老提示 connection is closed by foreign host，原来是这帮 IP 在爆破",
@@ -755,13 +825,6 @@
       "link": "https://www.imsun.org/archives/1798.html",
       "author": "老孙博客",
       "avatar": "https://img.imsun.org/avatar.jpg"
-    },
-    {
-      "title": "彩虹网盘二次开发：更新前台，后台原样保留",
-      "created": "2026-09-11 05:23",
-      "link": "https://9sb.net/archives/rainbow-cloud-secondary-development-update-the-frontend-keep-the-backend-as-it-is.html",
-      "author": "Huo",
-      "avatar": "https://icon.horse/icon/9sb.net"
     },
     {
       "title": "这很苹果",
@@ -841,11 +904,25 @@
       "avatar": "https://icon.horse/icon/itlu.net"
     },
     {
+      "title": "万象城霞生秋水",
+      "created": "2026-09-05 23:29",
+      "link": "https://synyan.cn/116908/",
+      "author": "旅行漫记",
+      "avatar": "https://icon.horse/icon/synyan.cn"
+    },
+    {
       "title": "小神兽终于上幼儿园了",
       "created": "2026-09-05 17:08",
       "link": "https://zhoutian.com/393.html",
       "author": "满心记",
       "avatar": "https://weavatar.com/avatar/9b3a681168a25e910954372e468fbc91"
+    },
+    {
+      "title": "南长夏夜绯云漫",
+      "created": "2026-09-04 22:28",
+      "link": "https://synyan.cn/116773/",
+      "author": "旅行漫记",
+      "avatar": "https://icon.horse/icon/synyan.cn"
     },
     {
       "title": "水中的荷花它的叶子已残",
@@ -974,13 +1051,6 @@
       "avatar": "https://icon.horse/icon/www.suiyan.cc"
     },
     {
-      "title": "刷新",
-      "created": "2026-08-28 08:00",
-      "link": "https://jefftay.com/blog-posts/refresh",
-      "author": "陈仓颉",
-      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
-    },
-    {
       "title": "我为什么要记录自己一天说过的话？",
       "created": "2026-08-28 06:44",
       "link": "https://demochen.com/posts/20260827/",
@@ -1014,13 +1084,6 @@
       "link": "https://www.winegrower.cn/posts/1575-shuilugang/",
       "author": "winegrower",
       "avatar": "https://icon.horse/icon/www.winegrower.cn"
-    },
-    {
-      "title": "从 WordPress 到 Quartz",
-      "created": "2026-08-24 08:00",
-      "link": "https://jefftay.com/blog-posts/from-wordpress-to-quartz",
-      "author": "陈仓颉",
-      "avatar": "https://imzm.im/wp-content/uploads/2023/05/logo50px.png"
     },
     {
       "title": "试戴 Looki 一周：我很喜欢，最后还是决定退货",
@@ -2988,6 +3051,20 @@
       "link": "http://www.gexiao.me/2021/10/03/recommended-tools/",
       "author": "默默小屋",
       "avatar": "https://www.gexiao.me/images/apple-touch-icon-next.png"
+    },
+    {
+      "title": "一个轮回，两种味道",
+      "created": "2011-06-29 23:20",
+      "link": "https://yipai.me/post/2550.html",
+      "author": "一派胡言",
+      "avatar": "https://icon.horse/icon/yipai.me"
+    },
+    {
+      "title": "租房一无所获",
+      "created": "2011-03-19 20:30",
+      "link": "https://yipai.me/post/2551.html",
+      "author": "一派胡言",
+      "avatar": "https://icon.horse/icon/yipai.me"
     }
   ]
 }
