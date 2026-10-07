@@ -1,12 +1,47 @@
 {
   "statistical_data": {
     "friends_num": 63,
-    "active_num": 51,
-    "error_num": 12,
+    "active_num": 50,
+    "error_num": 13,
     "article_num": 426,
-    "last_updated_time": "2026-10-07 12:47:07"
+    "last_updated_time": "2026-10-07 20:50:30"
   },
   "article_data": [
+    {
+      "title": "吃得苦中苦方为人上人",
+      "created": "2026-10-08 00:14",
+      "link": "https://www.seis-jun.xyz/blog/2026-10-07-stand-hardwork-be-outstanding.html",
+      "author": "SEISAMUSE",
+      "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
+    },
+    {
+      "title": "好好吃饭",
+      "created": "2026-10-07 19:40",
+      "link": "https://zhongxiaojie.cn/2026/10/2065/",
+      "author": "obaby",
+      "avatar": "https://icon.horse/icon/h4ck.org.cn"
+    },
+    {
+      "title": "快打旋风3",
+      "created": "2026-10-07 18:31",
+      "link": "https://pewae.com/2026/10/final-fight-3.html",
+      "author": "破袜子",
+      "avatar": "https://icon.horse/icon/pewae.com"
+    },
+    {
+      "title": "价值意义",
+      "created": "2026-10-07 16:51",
+      "link": "https://acevs.com/5278/",
+      "author": "ACEVS",
+      "avatar": "https://weavatar.com/avatar/ffc1ac2ecde17b2eb1caff3e94c119fdaea4dc1a947a08a3092b388bf9b454d0"
+    },
+    {
+      "title": "低配机器也能跑的大模型 qwen3.8-flash-next-iq3_xxs",
+      "created": "2026-10-07 14:09",
+      "link": "https://zhongxiaojie.cn/2026/10/2058/",
+      "author": "obaby",
+      "avatar": "https://icon.horse/icon/h4ck.org.cn"
+    },
     {
       "title": "厦门出差记（二）：从南普陀走到白城沙滩",
       "created": "2026-10-07 09:15",
@@ -302,13 +337,6 @@
       "avatar": "https://icon.horse/icon/itlu.net"
     },
     {
-      "title": "性格罐",
-      "created": "2026-09-29 15:06",
-      "link": "https://www.seis-jun.xyz/blog/2026-09-29-personality-can.html",
-      "author": "SEISAMUSE",
-      "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
-    },
-    {
       "title": "年轻人不大喝白酒",
       "created": "2026-09-29 13:49",
       "link": "https://acevs.com/5262/",
@@ -356,13 +384,6 @@
       "link": "https://www.ashsilent.com/shuoshuo/8538",
       "author": "Ashsilent Planet",
       "avatar": "https://ashsilent.com/wp-content/uploads/2021/03/cropped-e59c86.png"
-    },
-    {
-      "title": "中秋节琐碎",
-      "created": "2026-09-27 17:39",
-      "link": "https://acevs.com/5258/",
-      "author": "ACEVS",
-      "avatar": "https://weavatar.com/avatar/ffc1ac2ecde17b2eb1caff3e94c119fdaea4dc1a947a08a3092b388bf9b454d0"
     },
     {
       "title": "前挡玻璃上的划痕",
@@ -771,25 +792,11 @@
       "avatar": "https://cravatar.cn/avatar/bb78cd69edd84cdbdb99a491ea2dc6c8"
     },
     {
-      "title": "大好人",
-      "created": "2026-09-08 13:25",
-      "link": "https://zhongxiaojie.cn/2026/09/1867/",
-      "author": "obaby",
-      "avatar": "https://icon.horse/icon/h4ck.org.cn"
-    },
-    {
       "title": "2026 上半年购物总结",
       "created": "2026-09-07 20:30",
       "link": "https://www.javis.me/cyber-shopping-2026/",
       "author": "查令十字街84号",
       "avatar": "https://b.storyo.cn/upload/logo.png"
-    },
-    {
-      "title": "重生",
-      "created": "2026-09-07 13:11",
-      "link": "https://zhongxiaojie.cn/2026/09/1857/",
-      "author": "obaby",
-      "avatar": "https://icon.horse/icon/h4ck.org.cn"
     },
     {
       "title": "一些随感和碎言",
@@ -1504,13 +1511,6 @@
       "link": "https://zhoutian.com/388.html",
       "author": "满心记",
       "avatar": "https://weavatar.com/avatar/9b3a681168a25e910954372e468fbc91"
-    },
-    {
-      "title": "世界杯瞎话第六季——好球",
-      "created": "2026-07-20 18:46",
-      "link": "https://pewae.com/2026/07/6th-world-cup-diray-4.html",
-      "author": "破袜子",
-      "avatar": "https://icon.horse/icon/pewae.com"
     },
     {
       "title": "听风就是雨与先射箭后画靶",
