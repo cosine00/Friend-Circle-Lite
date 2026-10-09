@@ -1,12 +1,26 @@
 {
   "statistical_data": {
     "friends_num": 63,
-    "active_num": 51,
-    "error_num": 12,
+    "active_num": 50,
+    "error_num": 13,
     "article_num": 428,
-    "last_updated_time": "2026-10-09 13:00:42"
+    "last_updated_time": "2026-10-09 20:45:29"
   },
   "article_data": [
+    {
+      "title": "到现在还活着真是不容易啊",
+      "created": "2026-10-10 02:36",
+      "link": "https://www.seis-jun.xyz/blog/2026-10-09-lucky-to-be-alive.html",
+      "author": "SEISAMUSE",
+      "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
+    },
+    {
+      "title": "永恒之塔2继续体验",
+      "created": "2026-10-09 16:54",
+      "link": "https://acevs.com/5282/",
+      "author": "ACEVS",
+      "avatar": "https://weavatar.com/avatar/ffc1ac2ecde17b2eb1caff3e94c119fdaea4dc1a947a08a3092b388bf9b454d0"
+    },
     {
       "title": "Findu APP 4.0.5  — 好友定位 位置分享",
       "created": "2026-10-09 10:46",
@@ -400,13 +414,6 @@
       "avatar": "https://icon.horse/icon/9sb.net"
     },
     {
-      "title": "写得出来，自己却未必做得到",
-      "created": "2026-09-30 15:37",
-      "link": "https://www.seis-jun.xyz/blog/2026-09-30-easy-said-than-done.html",
-      "author": "SEISAMUSE",
-      "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
-    },
-    {
       "title": "自建音乐服务，浏览器直接听歌还支持多源搜索",
       "created": "2026-09-30 11:10",
       "link": "https://9sb.net/archives/self-built-music-service-allowing-direct-listening-to-music-through-the-browser-and-supporting-multisource-search.html",
@@ -426,13 +433,6 @@
       "link": "https://itlu.net/articles/2863.html",
       "author": "挨踢路",
       "avatar": "https://icon.horse/icon/itlu.net"
-    },
-    {
-      "title": "年轻人不大喝白酒",
-      "created": "2026-09-29 13:49",
-      "link": "https://acevs.com/5262/",
-      "author": "ACEVS",
-      "avatar": "https://weavatar.com/avatar/ffc1ac2ecde17b2eb1caff3e94c119fdaea4dc1a947a08a3092b388bf9b454d0"
     },
     {
       "title": "这些天，我又折腾了些啥！？",
