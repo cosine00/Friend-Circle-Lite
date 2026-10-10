@@ -1,12 +1,26 @@
 {
   "statistical_data": {
     "friends_num": 63,
-    "active_num": 51,
-    "error_num": 12,
-    "article_num": 428,
-    "last_updated_time": "2026-10-10 06:24:19"
+    "active_num": 52,
+    "error_num": 11,
+    "article_num": 438,
+    "last_updated_time": "2026-10-10 12:46:13"
   },
   "article_data": [
+    {
+      "title": "似乎所有人造物都有广告属性",
+      "created": "2026-10-10 17:25",
+      "link": "https://www.seis-jun.xyz/blog/2026-10-10-every-manmade-stuff-has-the-characteristic-of-advertisement.html",
+      "author": "SEISAMUSE",
+      "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
+    },
+    {
+      "title": "送娃上学冻了一路，让我领教了早晚温差",
+      "created": "2026-10-10 16:11",
+      "link": "https://9sb.net/archives/sending-my-child-to-school-was-frozen-all-the-way-which-taught-me-about-the-temperature-difference-between-morning-and-evening.html",
+      "author": "Huo",
+      "avatar": "https://icon.horse/icon/9sb.net"
+    },
     {
       "title": "到现在还活着真是不容易啊",
       "created": "2026-10-10 02:36",
@@ -55,6 +69,27 @@
       "link": "https://zhongxiaojie.cn/2026/10/2125/",
       "author": "obaby",
       "avatar": "https://icon.horse/icon/h4ck.org.cn"
+    },
+    {
+      "title": "WordAds 使用体验：广告不显示、被拦截与加载失败排查",
+      "created": "2026-10-09 09:00",
+      "link": "https://sheep5.net/archives/hURk4PH4Xe",
+      "author": "Sheep5的博客",
+      "avatar": "https://icon.horse/icon/sheep5.net"
+    },
+    {
+      "title": "个人博客变现方式盘点：Google AdSense、X 创作者计划与 WordAds",
+      "created": "2026-10-09 09:00",
+      "link": "https://sheep5.net/archives/MFSofMWvrL",
+      "author": "Sheep5的博客",
+      "avatar": "https://icon.horse/icon/sheep5.net"
+    },
+    {
+      "title": "如何在 iPhone 和 Mac 上设置 AdGuard Home DNS",
+      "created": "2026-10-09 09:00",
+      "link": "https://sheep5.net/archives/46UDF36pJc",
+      "author": "Sheep5的博客",
+      "avatar": "https://icon.horse/icon/sheep5.net"
     },
     {
       "title": "杂记-20261008",
@@ -111,6 +146,13 @@
       "link": "https://1900.live/292-han-lu/",
       "author": "1900'blog",
       "avatar": "https://cdn.1900.live/20190640/ico.png"
+    },
+    {
+      "title": "购买了半年的AdGuard订阅",
+      "created": "2026-10-08 09:00",
+      "link": "https://sheep5.net/archives/CiXF7Vc6wy",
+      "author": "Sheep5的博客",
+      "avatar": "https://icon.horse/icon/sheep5.net"
     },
     {
       "title": "核心影视，优化后的播放页面长这样，按钮、选集、线路全安排明白",
@@ -204,6 +246,13 @@
       "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
     },
     {
+      "title": "我开发了Chrome一键填表插件 + DeepSeek网页总结",
+      "created": "2026-10-06 09:00",
+      "link": "https://sheep5.net/archives/JZszXLn7Am",
+      "author": "Sheep5的博客",
+      "avatar": "https://icon.horse/icon/sheep5.net"
+    },
+    {
       "title": "入蜀记day3 departure",
       "created": "2026-10-06 00:19",
       "link": "https://www.seis-jun.xyz/blog/2026-10-05-day3-departure.html",
@@ -246,6 +295,13 @@
       "avatar": "https://weavatar.com/avatar/ffc1ac2ecde17b2eb1caff3e94c119fdaea4dc1a947a08a3092b388bf9b454d0"
     },
     {
+      "title": "为了过 Google AdSense，我用 AI 维护了一晚上网站",
+      "created": "2026-10-05 09:00",
+      "link": "https://sheep5.net/archives/hmYRYDwde2",
+      "author": "Sheep5的博客",
+      "avatar": "https://icon.horse/icon/sheep5.net"
+    },
+    {
       "title": "入蜀记day2 pass out",
       "created": "2026-10-05 01:11",
       "link": "https://www.seis-jun.xyz/blog/2026-10-04-chengdu-day2-pass-out.html",
@@ -272,6 +328,13 @@
       "link": "https://www.skyue.com/26100414.html",
       "author": "拾月",
       "avatar": "https://gravatar.loli.net/avatar/c3fb4bb4d5101284ddd672fb722cdd7d"
+    },
+    {
+      "title": "买了一个禁止停车的警示牌",
+      "created": "2026-10-04 09:00",
+      "link": "https://sheep5.net/archives/ExRarFobog",
+      "author": "Sheep5的博客",
+      "avatar": "https://icon.horse/icon/sheep5.net"
     },
     {
       "title": "导航栏做成悬浮还是直接压背景，大家给个意见",
@@ -365,6 +428,20 @@
       "avatar": "https://icon.horse/icon/atpx.com"
     },
     {
+      "title": "30块买了个教训",
+      "created": "2026-10-02 09:00",
+      "link": "https://sheep5.net/archives/Pnr6o9eiev",
+      "author": "Sheep5的博客",
+      "avatar": "https://icon.horse/icon/sheep5.net"
+    },
+    {
+      "title": "体验腾讯轻量云开发的LightVela",
+      "created": "2026-10-02 09:00",
+      "link": "https://sheep5.net/archives/LATaiKN2Wi",
+      "author": "Sheep5的博客",
+      "avatar": "https://icon.horse/icon/sheep5.net"
+    },
+    {
       "title": "国庆节旅行第一天",
       "created": "2026-10-02 03:42",
       "link": "https://www.seis-jun.xyz/blog/2026-10-01-first-day-of-national-day-holiday.html",
@@ -391,13 +468,6 @@
       "link": "https://9sb.net/archives/i-tried-white-tea-all-afternoon-and-slowly-fell-into-a-pit-on-the-way-to-study-with-my-heart-fixed-on-the-narcissus.html",
       "author": "Huo",
       "avatar": "https://icon.horse/icon/9sb.net"
-    },
-    {
-      "title": "我好像很喜欢植物",
-      "created": "2026-10-01 02:16",
-      "link": "https://www.seis-jun.xyz/blog/2026-09-30-I-like-plants.html",
-      "author": "SEISAMUSE",
-      "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
     },
     {
       "title": "松声｜廿六年·九月末·秋雨寒",
@@ -447,6 +517,13 @@
       "link": "https://itlu.net/articles/2863.html",
       "author": "挨踢路",
       "avatar": "https://icon.horse/icon/itlu.net"
+    },
+    {
+      "title": "推荐网站状态监测工具：宝塔定时拨测",
+      "created": "2026-09-29 09:00",
+      "link": "https://sheep5.net/archives/Uz4ydVGFQj",
+      "author": "Sheep5的博客",
+      "avatar": "https://icon.horse/icon/sheep5.net"
     },
     {
       "title": "这些天，我又折腾了些啥！？",
@@ -804,13 +881,6 @@
       "link": "https://ihaihe.cn/3688.htm",
       "author": "三十里海河",
       "avatar": "https://icon.horse/icon/ihaihe.cn"
-    },
-    {
-      "title": "服务器 SSH 老提示 connection is closed by foreign host，原来是这帮 IP 在爆破",
-      "created": "2026-09-12 04:48",
-      "link": "https://9sb.net/archives/server-ssh-old-prompt-connection-is-closed-by-foreign-host-it-turns-out-that-these-ips-are-exploding.html",
-      "author": "Huo",
-      "avatar": "https://icon.horse/icon/9sb.net"
     },
     {
       "title": "爱是注意力",
