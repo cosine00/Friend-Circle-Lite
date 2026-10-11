@@ -1,12 +1,47 @@
 {
   "statistical_data": {
     "friends_num": 63,
-    "active_num": 51,
-    "error_num": 12,
+    "active_num": 50,
+    "error_num": 13,
     "article_num": 428,
-    "last_updated_time": "2026-10-11 12:29:59"
+    "last_updated_time": "2026-10-11 20:15:54"
   },
   "article_data": [
+    {
+      "title": "厦门出差记（三）：轮渡与山海健康步道",
+      "created": "2026-10-12 01:31",
+      "link": "https://bluehe.cn/archives/xiamen-business-trip-3",
+      "author": "云心怀鹤",
+      "avatar": "https://bluehe.cn/usr/uploads/2024/03/1678458078.png"
+    },
+    {
+      "title": "骑在墙上的人",
+      "created": "2026-10-12 00:10",
+      "link": "https://www.seis-jun.xyz/blog/2026-10-11-the-man-sitting-on-the-wall.html",
+      "author": "SEISAMUSE",
+      "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
+    },
+    {
+      "title": "人渣scum游戏测试",
+      "created": "2026-10-11 18:37",
+      "link": "https://acevs.com/5286/",
+      "author": "ACEVS",
+      "avatar": "https://weavatar.com/avatar/ffc1ac2ecde17b2eb1caff3e94c119fdaea4dc1a947a08a3092b388bf9b454d0"
+    },
+    {
+      "title": "人生如赌，而我带了计算器",
+      "created": "2026-10-11 17:03",
+      "link": "https://leoreo.me/p/151.html",
+      "author": "子夜集",
+      "avatar": "https://icon.horse/icon/leoreo.me"
+    },
+    {
+      "title": "初次见面的及格线",
+      "created": "2026-10-10 23:00",
+      "link": "https://blog.solazy.me/20261010/",
+      "author": "So!azy",
+      "avatar": "https://icon.horse/icon/blog.solazy.me"
+    },
     {
       "title": "似乎所有人造物都有广告属性",
       "created": "2026-10-10 17:25",
@@ -400,25 +435,11 @@
       "avatar": "https://icon.horse/icon/atpx.com"
     },
     {
-      "title": "国庆节旅行第一天",
-      "created": "2026-10-02 03:42",
-      "link": "https://www.seis-jun.xyz/blog/2026-10-01-first-day-of-national-day-holiday.html",
-      "author": "SEISAMUSE",
-      "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
-    },
-    {
       "title": "久违的电影日",
       "created": "2026-10-01 23:30",
       "link": "https://blog.solazy.me/20261001/",
       "author": "So!azy",
       "avatar": "https://icon.horse/icon/blog.solazy.me"
-    },
-    {
-      "title": "刷视频",
-      "created": "2026-10-01 18:16",
-      "link": "https://acevs.com/5266/",
-      "author": "ACEVS",
-      "avatar": "https://weavatar.com/avatar/ffc1ac2ecde17b2eb1caff3e94c119fdaea4dc1a947a08a3092b388bf9b454d0"
     },
     {
       "title": "试了一下午白茶，学习途中慢慢入坑，心系水仙",
@@ -454,13 +475,6 @@
       "link": "https://9sb.net/archives/self-built-music-service-allowing-direct-listening-to-music-through-the-browser-and-supporting-multisource-search.html",
       "author": "Huo",
       "avatar": "https://icon.horse/icon/9sb.net"
-    },
-    {
-      "title": "让人运气变好的秘诀",
-      "created": "2026-09-29 22:00",
-      "link": "https://blog.solazy.me/20260929/",
-      "author": "So!azy",
-      "avatar": "https://icon.horse/icon/blog.solazy.me"
     },
     {
       "title": "挨踢路十八年纪念",
@@ -1765,13 +1779,6 @@
       "avatar": "https://icon.horse/icon/xyzbz.cn"
     },
     {
-      "title": "Louie Wang：来之不易的教训",
-      "created": "2026-06-30 15:12",
-      "link": "https://leoreo.me/p/135.html",
-      "author": "子夜集",
-      "avatar": "https://icon.horse/icon/leoreo.me"
-    },
-    {
       "title": "微信限额之迷雾",
       "created": "2026-06-30 07:14",
       "link": "https://itlu.net/articles/2856.html",
@@ -2162,13 +2169,6 @@
       "link": "https://www.javis.me/2026-0203/",
       "author": "查令十字街84号",
       "avatar": "https://b.storyo.cn/upload/logo.png"
-    },
-    {
-      "title": "广西三月三假期是如何打开的？",
-      "created": "2026-04-20 20:00",
-      "link": "https://bluehe.cn/archives/guangxi-sanyuesan",
-      "author": "云心怀鹤",
-      "avatar": "https://bluehe.cn/usr/uploads/2024/03/1678458078.png"
     },
     {
       "title": "我用 AI 做了一个算卦的小程序",
