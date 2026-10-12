@@ -1,12 +1,33 @@
 {
   "statistical_data": {
     "friends_num": 63,
-    "active_num": 50,
-    "error_num": 13,
-    "article_num": 428,
-    "last_updated_time": "2026-10-12 12:45:27"
+    "active_num": 51,
+    "error_num": 12,
+    "article_num": 438,
+    "last_updated_time": "2026-10-12 22:39:28"
   },
   "article_data": [
+    {
+      "title": "从哪吒换到极简探针，移植主题加毛玻璃，准备慢慢全部转过来",
+      "created": "2026-10-13 05:36",
+      "link": "https://9sb.net/archives/switching-from-nezha-to-minimalist-probes-transplanting-themes-with-frosted-glass-preparing-to-gradually-switch-all-over.html",
+      "author": "Huo",
+      "avatar": "https://icon.horse/icon/9sb.net"
+    },
+    {
+      "title": "随笔",
+      "created": "2026-10-13 03:05",
+      "link": "https://www.seis-jun.xyz/blog/2026-10-12-time-goes.html",
+      "author": "SEISAMUSE",
+      "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
+    },
+    {
+      "title": "scum二次测试",
+      "created": "2026-10-12 13:51",
+      "link": "https://acevs.com/5288/",
+      "author": "ACEVS",
+      "avatar": "https://weavatar.com/avatar/ffc1ac2ecde17b2eb1caff3e94c119fdaea4dc1a947a08a3092b388bf9b454d0"
+    },
     {
       "title": "拆东墙补西墙",
       "created": "2026-10-12 10:58",
@@ -41,6 +62,13 @@
       "link": "https://www.skyue.com/26101123.html",
       "author": "拾月",
       "avatar": "https://gravatar.loli.net/avatar/c3fb4bb4d5101284ddd672fb722cdd7d"
+    },
+    {
+      "title": "老何杂记 33",
+      "created": "2026-10-11 22:44",
+      "link": "https://www.mrhe.net/3747.html",
+      "author": "Mr.He",
+      "avatar": "https://cravatar.cn/avatar/d07ff632a5fa1256a69d92e1f9e38ce8?s=96&d=mm&r=g"
     },
     {
       "title": "周末流水账 1011",
@@ -302,6 +330,13 @@
       "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
     },
     {
+      "title": "登天柱得天助",
+      "created": "2026-10-06 09:04",
+      "link": "https://www.mrhe.net/3737.html",
+      "author": "Mr.He",
+      "avatar": "https://cravatar.cn/avatar/d07ff632a5fa1256a69d92e1f9e38ce8?s=96&d=mm&r=g"
+    },
+    {
       "title": "入蜀记day3 departure",
       "created": "2026-10-06 00:19",
       "link": "https://www.seis-jun.xyz/blog/2026-10-05-day3-departure.html",
@@ -356,6 +391,13 @@
       "link": "https://blog.solazy.me/20261004/",
       "author": "So!azy",
       "avatar": "https://icon.horse/icon/blog.solazy.me"
+    },
+    {
+      "title": "Mac Mini M6",
+      "created": "2026-10-04 20:38",
+      "link": "https://www.mrhe.net/3716.html",
+      "author": "Mr.He",
+      "avatar": "https://cravatar.cn/avatar/d07ff632a5fa1256a69d92e1f9e38ce8?s=96&d=mm&r=g"
     },
     {
       "title": "去打篮球",
@@ -428,6 +470,13 @@
       "avatar": "https://icon.horse/icon/blog.solazy.me"
     },
     {
+      "title": "安庆大观亭历史文化街区",
+      "created": "2026-10-02 22:51",
+      "link": "https://www.mrhe.net/3714.html",
+      "author": "Mr.He",
+      "avatar": "https://cravatar.cn/avatar/d07ff632a5fa1256a69d92e1f9e38ce8?s=96&d=mm&r=g"
+    },
+    {
       "title": "再谈 Carplay 播放视频",
       "created": "2026-10-02 21:54",
       "link": "https://zhongxiaojie.cn/2026/10/2029/",
@@ -435,25 +484,11 @@
       "avatar": "https://icon.horse/icon/h4ck.org.cn"
     },
     {
-      "title": "黄山之行",
-      "created": "2026-10-02 18:05",
-      "link": "https://www.seis-jun.xyz/blog/2026-10-02-yellow-mountain.html",
-      "author": "SEISAMUSE",
-      "avatar": "https://icon.horse/icon/www.seis-jun.xyz"
-    },
-    {
       "title": "博客主题与写作编辑",
       "created": "2026-10-02 17:25",
       "link": "https://leoreo.me/p/150.html",
       "author": "子夜集",
       "avatar": "https://icon.horse/icon/leoreo.me"
-    },
-    {
-      "title": "脸上的黄褐斑",
-      "created": "2026-10-02 17:14",
-      "link": "https://acevs.com/5268/",
-      "author": "ACEVS",
-      "avatar": "https://weavatar.com/avatar/ffc1ac2ecde17b2eb1caff3e94c119fdaea4dc1a947a08a3092b388bf9b454d0"
     },
     {
       "title": "西北三日游",
@@ -468,6 +503,13 @@
       "link": "https://blog.solazy.me/20261001/",
       "author": "So!azy",
       "avatar": "https://icon.horse/icon/blog.solazy.me"
+    },
+    {
+      "title": "Ubuntu 安装 Fcitx5 中州韵 Rime 及优化",
+      "created": "2026-10-01 10:01",
+      "link": "https://www.eallion.com/ubuntu-fcitx5-rime/",
+      "author": "大大的小蜗牛",
+      "avatar": "https://icon.horse/icon/www.eallion.com"
     },
     {
       "title": "试了一下午白茶，学习途中慢慢入坑，心系水仙",
@@ -652,13 +694,6 @@
       "avatar": "https://icon.horse/icon/anotherdayu.com"
     },
     {
-      "title": "细抠页面细节，博客接入服务器探针",
-      "created": "2026-09-22 15:25",
-      "link": "https://9sb.net/archives/fine-tune-page-details-blog-access-server-probe.html",
-      "author": "Huo",
-      "avatar": "https://icon.horse/icon/9sb.net"
-    },
-    {
       "title": "小狼毫 万象拼音 + 极点五笔 三方案部署教程",
       "created": "2026-09-22 14:48",
       "link": "https://laozhang.org/archives/4374.html",
@@ -715,6 +750,13 @@
       "avatar": "https://icon.horse/icon/hisherry.com"
     },
     {
+      "title": "黄山行组图之二",
+      "created": "2026-09-20 23:05",
+      "link": "https://www.mrhe.net/3699.html",
+      "author": "Mr.He",
+      "avatar": "https://cravatar.cn/avatar/d07ff632a5fa1256a69d92e1f9e38ce8?s=96&d=mm&r=g"
+    },
+    {
       "title": "虚无",
       "created": "2026-09-20 21:03",
       "link": "https://www.suiyan.cc/blog/20260920210343",
@@ -727,6 +769,20 @@
       "link": "https://hux.ink/posts/care-of-you/",
       "author": "落落vici",
       "avatar": "https://cravatar.cn/avatar/bb78cd69edd84cdbdb99a491ea2dc6c8"
+    },
+    {
+      "title": "近期的一些折腾",
+      "created": "2026-09-20 15:31",
+      "link": "https://www.mrhe.net/3689.html",
+      "author": "Mr.He",
+      "avatar": "https://cravatar.cn/avatar/d07ff632a5fa1256a69d92e1f9e38ce8?s=96&d=mm&r=g"
+    },
+    {
+      "title": "游黄山天下无山",
+      "created": "2026-09-20 08:42",
+      "link": "https://www.mrhe.net/3687.html",
+      "author": "Mr.He",
+      "avatar": "https://cravatar.cn/avatar/d07ff632a5fa1256a69d92e1f9e38ce8?s=96&d=mm&r=g"
     },
     {
       "title": "读《陶庵梦忆》（三、报恩塔）",
@@ -839,6 +895,13 @@
       "link": "https://leoreo.me/p/148.html",
       "author": "子夜集",
       "avatar": "https://icon.horse/icon/leoreo.me"
+    },
+    {
+      "title": "老何杂记 32",
+      "created": "2026-09-11 10:45",
+      "link": "https://www.mrhe.net/3674.html",
+      "author": "Mr.He",
+      "avatar": "https://cravatar.cn/avatar/d07ff632a5fa1256a69d92e1f9e38ce8?s=96&d=mm&r=g"
     },
     {
       "title": "未成年人保护法究竟保护了谁",
@@ -1359,6 +1422,13 @@
       "avatar": "https://cdn.1900.live/20190640/ico.png"
     },
     {
+      "title": "北京一周游",
+      "created": "2026-08-07 12:07",
+      "link": "https://www.eallion.com/beijing/",
+      "author": "大大的小蜗牛",
+      "avatar": "https://icon.horse/icon/www.eallion.com"
+    },
+    {
       "title": "只是忘了",
       "created": "2026-08-07 07:00",
       "link": "https://justgoidea.com/zhi-shi-wang-le/",
@@ -1674,6 +1744,13 @@
       "avatar": "https://icon.horse/icon/dongjunke.cn"
     },
     {
+      "title": "老何杂记 31",
+      "created": "2026-07-11 19:04",
+      "link": "https://www.mrhe.net/3664.html",
+      "author": "Mr.He",
+      "avatar": "https://cravatar.cn/avatar/d07ff632a5fa1256a69d92e1f9e38ce8?s=96&d=mm&r=g"
+    },
+    {
       "title": "大雨",
       "created": "2026-07-08 13:22",
       "link": "https://ihaihe.cn/3664.htm",
@@ -1896,6 +1973,13 @@
       "link": "https://xyzbz.cn/archives/1550/",
       "author": "网友小宋",
       "avatar": "https://icon.horse/icon/xyzbz.cn"
+    },
+    {
+      "title": "[果果作文]我的“自画像”",
+      "created": "2026-06-15 10:10",
+      "link": "https://www.mrhe.net/3662.html",
+      "author": "Mr.He",
+      "avatar": "https://cravatar.cn/avatar/d07ff632a5fa1256a69d92e1f9e38ce8?s=96&d=mm&r=g"
     },
     {
       "title": "从学校到公司，从上海到成都",
@@ -2666,20 +2750,6 @@
       "link": "https://www.jiangyu.org/hexo-edgeone-apaxy/",
       "author": "天一生水",
       "avatar": "https://www.jiangyu.org/images/icon.svg"
-    },
-    {
-      "title": "少儿 TED - 时间管理大师",
-      "created": "2025-06-27 11:49",
-      "link": "https://www.eallion.com/ted-master-of-time-management/",
-      "author": "大大的小蜗牛",
-      "avatar": "https://icon.horse/icon/www.eallion.com"
-    },
-    {
-      "title": "n8n 之同步博客到 Mastodon",
-      "created": "2025-06-14 12:04",
-      "link": "https://www.eallion.com/n8n-sync-blog-to-mastodon/",
-      "author": "大大的小蜗牛",
-      "avatar": "https://icon.horse/icon/www.eallion.com"
     },
     {
       "title": "《梵高手稿》读书笔记",
