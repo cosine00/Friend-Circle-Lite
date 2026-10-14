@@ -1,12 +1,19 @@
 {
   "statistical_data": {
     "friends_num": 63,
-    "active_num": 51,
-    "error_num": 12,
+    "active_num": 50,
+    "error_num": 13,
     "article_num": 438,
-    "last_updated_time": "2026-10-14 11:53:08"
+    "last_updated_time": "2026-10-14 19:22:04"
   },
   "article_data": [
+    {
+      "title": "战争召唤地狱之门",
+      "created": "2026-10-14 13:53",
+      "link": "https://acevs.com/5292/",
+      "author": "ACEVS",
+      "avatar": "https://weavatar.com/avatar/ffc1ac2ecde17b2eb1caff3e94c119fdaea4dc1a947a08a3092b388bf9b454d0"
+    },
     {
       "title": "你来啦！– 正式上线 多端覆盖",
       "created": "2026-10-14 10:06",
@@ -440,13 +447,6 @@
       "link": "https://blog.solazy.me/20261004/",
       "author": "So!azy",
       "avatar": "https://icon.horse/icon/blog.solazy.me"
-    },
-    {
-      "title": "去打篮球",
-      "created": "2026-10-04 16:09",
-      "link": "https://acevs.com/5272/",
-      "author": "ACEVS",
-      "avatar": "https://weavatar.com/avatar/ffc1ac2ecde17b2eb1caff3e94c119fdaea4dc1a947a08a3092b388bf9b454d0"
     },
     {
       "title": "Mac版Feedglot正式上架Mac App Store",
